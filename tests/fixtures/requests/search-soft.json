@@ -1,0 +1,8 @@
+{
+  "api_version": "1.0",
+  "operation": "search",
+  "query": "适合儿童绘本的柔和水彩",
+  "terms": ["儿童绘本", "柔和", "水彩"],
+  "category": null,
+  "limit": 3
+}

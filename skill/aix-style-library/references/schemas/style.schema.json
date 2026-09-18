@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aix-style-library.example/schemas/style.schema.json",
+  "title": "Aix style.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "id", "version", "status", "name", "description",
+    "category", "tags", "aliases", "thumbnail", "features", "avoid",
+    "suitable_for", "weak_for", "known_failures", "provenance", "quality",
+    "replacement_id"
+  ],
+  "properties": {
+    "schema_version": { "const": "1.0" },
+    "id": {
+      "type": "string",
+      "pattern": "^Aix(?:[0-9]{4}|[1-9][0-9]{4,7})$"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "status": { "enum": ["draft", "active", "deprecated"] },
+    "name": { "type": "string", "minLength": 1, "maxLength": 60 },
+    "description": { "type": "string", "minLength": 1, "maxLength": 240 },
+    "category": {
+      "enum": ["illustration", "painting", "photographic", "3d", "graphic"]
+    },
+    "tags": {
+      "type": "array", "minItems": 1, "maxItems": 12, "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1, "maxLength": 24 }
+    },
+    "aliases": {
+      "type": "array", "maxItems": 8, "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1, "maxLength": 60 }
+    },
+    "thumbnail": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "media_type", "alt"],
+      "properties": {
+        "path": { "const": "thumbnail.webp" },
+        "media_type": { "const": "image/webp" },
+        "alt": { "type": "string", "minLength": 1, "maxLength": 180 }
+      }
+    },
+    "features": {
+      "type": "array", "minItems": 2, "maxItems": 10,
+      "contains": {
+        "type": "object",
+        "properties": { "tier": { "const": "core" } },
+        "required": ["tier"]
+      },
+      "minContains": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "axis", "tier", "text"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^F[0-9]{2}$" },
+          "axis": {
+            "enum": ["medium", "line", "palette", "lighting", "texture", "composition"]
+          },
+          "tier": { "enum": ["core", "support", "accent"] },
+          "text": { "type": "string", "minLength": 1, "maxLength": 240 }
+        }
+      }
+    },
+    "avoid": {
+      "type": "array", "maxItems": 8,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "text"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^N[0-9]{2}$" },
+          "text": { "type": "string", "minLength": 1, "maxLength": 160 }
+        }
+      }
+    },
+    "suitable_for": {
+      "type": "array", "minItems": 1, "maxItems": 6, "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1, "maxLength": 80 }
+    },
+    "weak_for": {
+      "type": "array", "maxItems": 6, "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1, "maxLength": 80 }
+    },
+    "known_failures": {
+      "type": "array", "maxItems": 6, "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1, "maxLength": 200 }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source_type", "source_ref", "license_ref", "commercial_use", "attribution"],
+      "properties": {
+        "source_type": { "enum": ["original", "licensed", "public_domain", "unknown"] },
+        "source_ref": { "type": ["string", "null"] },
+        "license_ref": { "type": ["string", "null"] },
+        "commercial_use": { "enum": ["allowed", "restricted", "unknown"] },
+        "attribution": { "type": ["string", "null"] }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["review_status", "tested_tool", "tested_at", "evidence_ref"],
+      "properties": {
+        "review_status": { "enum": ["pending", "passed", "failed"] },
+        "tested_tool": { "type": ["string", "null"] },
+        "tested_at": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+        "evidence_ref": { "type": ["string", "null"] }
+      }
+    },
+    "replacement_id": {
+      "type": ["string", "null"],
+      "pattern": "^Aix(?:[0-9]{4}|[1-9][0-9]{4,7})$"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": { "status": { "const": "active" } },
+        "required": ["status"]
+      },
+      "then": {
+        "properties": {
+          "provenance": {
+            "properties": {
+              "source_ref": { "type": "string", "minLength": 1 },
+              "license_ref": { "type": "string", "minLength": 1 }
+            },
+            "required": ["source_ref", "license_ref"]
+          },
+          "quality": {
+            "properties": {
+              "review_status": { "const": "passed" },
+              "tested_tool": { "type": "string", "minLength": 1 },
+              "tested_at": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+              "evidence_ref": { "type": "string", "minLength": 1 }
+            },
+            "required": ["tested_tool", "tested_at", "evidence_ref"]
+          }
+        }
+      }
+    }
+  ]
+}

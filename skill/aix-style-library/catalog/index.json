@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "library_version": "0.1.0",
+  "source_digest": "a913bf89be82a2c35498f7c4f12c2904746e8e5dd6b1145cb95793c9b890225a",
+  "styles": [
+    {
+      "id": "Aix0001",
+      "version": "1.0.0",
+      "status": "active",
+      "name": "雾青胶片人像",
+      "description": "摄影式胶片表现，低饱和雾青底色配暖肤色局部对比，柔和侧逆光与细腻颗粒。",
+      "category": "photographic",
+      "tags": [
+        "胶片感",
+        "低饱和",
+        "雾青",
+        "柔光",
+        "人像"
+      ],
+      "aliases": [
+        "雾青胶片",
+        "misty cyan film"
+      ],
+      "thumbnail_path": "styles/Aix0001/thumbnail.webp",
+      "thumbnail_alt": "以低饱和雾青为底、暖色局部光与胶片颗粒表现的代表图。",
+      "content_hash": "2a50dc194219b23cd5463462b6c5acff1943518f859a68c1e9ead340d3701022"
+    },
+    {
+      "id": "Aix0002",
+      "version": "1.0.0",
+      "status": "active",
+      "name": "柔光水彩绘本",
+      "description": "手绘水彩纸面表现，低饱和奶油色系与松弛铅笔轮廓，晕染柔和、光照通透。",
+      "category": "illustration",
+      "tags": [
+        "水彩",
+        "绘本",
+        "柔和",
+        "低饱和",
+        "手绘"
+      ],
+      "aliases": [
+        "柔光水彩",
+        "soft watercolor picture book"
+      ],
+      "thumbnail_path": "styles/Aix0002/thumbnail.webp",
+      "thumbnail_alt": "以奶油色水彩晕染和松弛铅笔轮廓表现的代表图。",
+      "content_hash": "527ccdbcf0dc3d6b9d3a591cc0293b9d2169e1bfd3c9b10df27860c1bd5626ee"
+    },
+    {
+      "id": "Aix0003",
+      "version": "1.0.0",
+      "status": "active",
+      "name": "扁平几何海报",
+      "description": "扁平色块海报构成，高对比限定色板与几何分割线，网格对齐、强留白、无立体阴影。",
+      "category": "graphic",
+      "tags": [
+        "扁平",
+        "几何",
+        "海报",
+        "高对比",
+        "色块"
+      ],
+      "aliases": [
+        "扁平海报",
+        "flat geometric poster"
+      ],
+      "thumbnail_path": "styles/Aix0003/thumbnail.webp",
+      "thumbnail_alt": "以高对比色块、几何分割线与大面积留白表现的代表图。",
+      "content_hash": "b57e881c8a52352ea6e9e332c94530fcc11311f063c2b6b04f6eafecd14b5047"
+    }
+  ]
+}

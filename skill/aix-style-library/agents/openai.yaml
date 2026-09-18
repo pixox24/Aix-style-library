@@ -1,0 +1,7 @@
+interface:
+  display_name: "Aix 图片风格库"
+  short_description: "按 Aix 编号或视觉描述查询图片风格并生成可用提示词"
+  default_prompt: "使用 $aix-style-library 的 0001 风格，画一只坐在窗边的猫，竖版 9:16。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,67 @@
+{
+  "style_id": "Aix0003",
+  "style_version": "1.0.0",
+  "tested_tool": "Pillow 11.3.0 procedural preview (no image model)",
+  "tested_at": "2026-09-18",
+  "reviewer": "Aix preview pipeline (single reviewer)",
+  "review_mode": "self_blind",
+  "rights_record": "rights/Aix0003.md",
+  "samples": [
+    {
+      "case_id": "Aix0003-01",
+      "subject_category": "人物",
+      "prompt": "以扁平几何色块构成表现人物，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-01.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（人物，第 1 张），用于验证读取与校验链路。"
+    },
+    {
+      "case_id": "Aix0003-02",
+      "subject_category": "人物",
+      "prompt": "以扁平几何色块构成表现人物，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-02.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（人物，第 2 张），用于验证读取与校验链路。"
+    },
+    {
+      "case_id": "Aix0003-03",
+      "subject_category": "物体",
+      "prompt": "以扁平几何色块构成表现物体，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-03.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（物体，第 1 张），用于验证读取与校验链路。"
+    },
+    {
+      "case_id": "Aix0003-04",
+      "subject_category": "物体",
+      "prompt": "以扁平几何色块构成表现物体，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-04.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（物体，第 2 张），用于验证读取与校验链路。"
+    },
+    {
+      "case_id": "Aix0003-05",
+      "subject_category": "场景",
+      "prompt": "以扁平几何色块构成表现场景，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-05.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（场景，第 1 张），用于验证读取与校验链路。"
+    },
+    {
+      "case_id": "Aix0003-06",
+      "subject_category": "场景",
+      "prompt": "以扁平几何色块构成表现场景，保留主体识别与网格留白。",
+      "image_path": "results/0.1.0/images/Aix0003-06.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "程序化示意样例（场景，第 2 张），用于验证读取与校验链路。"
+    }
+  ],
+  "versatility_score": 4,
+  "limitations": "预览版证据：样图为程序化生成的原创示意资产，未使用任何真实图像模型，也未完成独立人工视觉评审。分数仅用于打通发布校验结构，不作为正式 v1.0 视觉验收结论。"
+}

@@ -1,0 +1,21 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "0001",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一台红色咖啡机的产品图，纯白背景，正面构图，准确保留红色机身。",
+    "aspect_ratio": "18:32",
+    "text_literals": ["春日限定"],
+    "must_preserve": ["红色机身", "纯白背景"]
+  },
+  "resolution": {
+    "exclude_features": [
+      {"id": "F02", "reason": "避免有色光改变用户明确要求的红色机身。"}
+    ],
+    "exclude_avoid": []
+  }
+}

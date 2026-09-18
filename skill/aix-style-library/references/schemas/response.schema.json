@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aix-style-library.example/schemas/response.schema.json",
+  "title": "Aix response envelope",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "api_version", "operation", "status", "code", "message", "data",
+    "warnings", "meta"
+  ],
+  "properties": {
+    "api_version": { "const": "1.0" },
+    "operation": {
+      "enum": ["get", "search", "prepare", "validate", "build-index", "unknown"]
+    },
+    "status": { "enum": ["ok", "error"] },
+    "code": {
+      "enum": [
+        "OK", "INVALID_REQUEST", "INVALID_STYLE_ID", "STYLE_NOT_FOUND",
+        "STYLE_NOT_ACTIVE", "STYLE_DEPRECATED", "STYLE_VERSION_UNAVAILABLE",
+        "STYLE_INVALID", "ASSET_MISSING", "PATH_OUTSIDE_LIBRARY",
+        "SCHEMA_UNSUPPORTED", "INDEX_MISSING", "INDEX_STALE",
+        "STYLE_NOT_APPLICABLE", "TARGET_UNSUPPORTED", "INTERNAL_ERROR"
+      ]
+    },
+    "message": { "type": "string", "minLength": 1 },
+    "data": { "type": ["object", "null"] },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["code", "message", "related_ids"],
+        "properties": {
+          "code": {
+            "enum": [
+              "STYLE_ADJUSTED", "NEGATIVE_ADJUSTED", "WEAK_FIT", "IMAGE_NOT_VIEWED",
+              "UNVERIFIED_FALLBACK", "GENERATION_UNAVAILABLE", "RATIO_APPROXIMATED",
+              "REPLACEMENT_SUGGESTED"
+            ]
+          },
+          "message": { "type": "string", "minLength": 1 },
+          "related_ids": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["library_version", "execution_mode", "elapsed_ms"],
+      "properties": {
+        "library_version": { "type": ["string", "null"] },
+        "execution_mode": { "enum": ["script", "manual_fallback"] },
+        "elapsed_ms": { "type": ["integer", "null"], "minimum": 0 }
+      }
+    }
+  }
+}

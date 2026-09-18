@@ -1,0 +1,4 @@
+# Development-only dependencies for validation and asset checks.
+# Runtime (get/search/prepare/build-index) uses only the Python standard library.
+jsonschema==4.26.0
+Pillow==11.3.0
