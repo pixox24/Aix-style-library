@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0027",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0027.md",
+  "samples": [
+    {
+      "case_id": "Aix0027-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：从天桥俯看行人的夸张视角，只看见巨大的人字拖\n必须保留：人字拖；桥面\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，色彩、透视、质感均符合要求，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-01.json"
+    },
+    {
+      "case_id": "Aix0027-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：街头少女的长腿被广角拉长，占满画面\n必须保留：街头少女；长腿\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容要求完全满足，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-02.json"
+    },
+    {
+      "case_id": "Aix0027-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只巨大的冰淇淋蛋筒立在街角\n必须保留：冰淇淋；街角\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-03.json"
+    },
+    {
+      "case_id": "Aix0027-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：被放大到夸张的复古相机特写\n必须保留：复古相机\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现糖果色撞色与夸张透视，硬边平涂质感佳，相机主体完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-04.json"
+    },
+    {
+      "case_id": "Aix0027-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：球场边的仰视瞬间，篮球架被拉得巨大\n必须保留：篮球架；球场\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "糖果色撞色与极端透视表现完美，硬边平涂质感佳，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-05.json"
+    },
+    {
+      "case_id": "Aix0027-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：海滨栈道的透视延伸到海平线\n必须保留：栈道；海平线\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0027-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "糖果色撞色、极端透视与硬边投影完美呈现，栈道与海平线完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0027-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

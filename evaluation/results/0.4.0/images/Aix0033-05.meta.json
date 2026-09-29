@@ -1,0 +1,24 @@
+{
+  "created": 1789891633,
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 1584,
+    "total_tokens": 1709,
+    "input_tokens_details": {
+      "text_tokens": 125,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：舞台边的音箱堆与光柱\n必须保留：音箱；光柱\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/b878facfc447ab8500baba7114d67736.png"
+    }
+  ]
+}

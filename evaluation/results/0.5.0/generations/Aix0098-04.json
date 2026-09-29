@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一副耳机悬在暗室里，线缆化成数字光尘\n必须保留：耳机；光尘\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+  "image_sha256": "1dfd53c135cc0b69cd42fcd22a98a90b1c57ed3255a4bdaba73f6d327cfa1422",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 46.4
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0098",
+    "style_name": "蓝紫数字消融",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0098/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：一个人坐在电脑前，肩部边缘化成蓝紫像素粒子\n必须保留：电脑前人物；像素粒子\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0098",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "f0815192971f70521f1119b970a15458d5ff26c9bb3996833464747928dbabe2"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

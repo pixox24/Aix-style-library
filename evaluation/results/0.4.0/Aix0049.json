@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0049",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0049.md",
+  "samples": [
+    {
+      "case_id": "Aix0049-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人站在悬崖边远眺，崖形如侧脸\n必须保留：人物剪影；悬崖\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现橙调负空间风格，双重影像巧妙，光影纹理俱佳，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-01.json"
+    },
+    {
+      "case_id": "Aix0049-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：登山者仰望岩壁，岩面隐现巨脸\n必须保留：登山者；岩壁\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，双重影像与纹理清晰，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-02.json"
+    },
+    {
+      "case_id": "Aix0049-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把立在墙边的伞，影子连成另一物\n必须保留：伞；影子\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，伞与猫影双重影像巧妙，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-03.json"
+    },
+    {
+      "case_id": "Aix0049-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：沙丘上的枯木，轮廓像只手\n必须保留：枯木；沙丘\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，负空间人脸与枯木结合巧妙，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-04.json"
+    },
+    {
+      "case_id": "Aix0049-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：沙漠落日里的双重轮廓山脊\n必须保留：沙漠；山脊\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现橙调负空间与颗粒质感，双重影像巧妙，沙漠山脊元素完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-05.json"
+    },
+    {
+      "case_id": "Aix0049-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：海岸礁石群围出鲸鱼形状的港湾\n必须保留：礁石；海湾\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0049-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，负空间鲸鱼造型巧妙，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0049-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

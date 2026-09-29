@@ -1,0 +1,24 @@
+{
+  "created": 1789887658,
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 1584,
+    "total_tokens": 1740,
+    "input_tokens_details": {
+      "text_tokens": 156,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人蜷在沙发上听收音机，暖光从右侧投来\n必须保留：独坐的人；收音机\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/5f1bb2659f4de61628ee7b1f3b6f7cec.png"
+    }
+  ]
+}

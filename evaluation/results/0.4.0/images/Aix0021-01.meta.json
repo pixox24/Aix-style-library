@@ -1,0 +1,24 @@
+{
+  "created": 1789886430,
+  "usage": {
+    "input_tokens": 191,
+    "output_tokens": 1584,
+    "total_tokens": 1775,
+    "input_tokens_details": {
+      "text_tokens": 191,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：雨夜中撑伞的人站在积水前，倒影里映出巨大的轮廓\n必须保留：撑伞人；积水倒影\n视觉风格：硬边平涂色块结合粗颗粒噪点，复古印刷质感；靛蓝与青灰冷调主色，橙黄少量暖色点缀；上下分割的倒影构图，水面上下形成现实与巨影的对照；纯平光，无立体光影，明暗靠色块与颗粒区分；水波与倒影被简化为纹理，做旧颗粒覆盖全画\n画幅比例：2:3\n避免出现：渐变柔光与写实渲染；鲜艳多色与干净无噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/a91ee4fb8325fe557f9f592d62949373.png"
+    }
+  ]
+}

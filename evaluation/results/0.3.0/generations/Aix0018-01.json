@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：戴鸟面具的祭司站在图腾柱前\n必须保留：面具人；图腾柱\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+  "image_sha256": "d6b0638b1bcaa8d9747d792be9fcc2c63b8e15e612d89f20c79006aa5fe88150",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：打哈欠的少年坐在窗台边\n必须保留：窗台少年；光\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+  "image_sha256": "ca56cd079990eafdfe529b803b0f8b847f12caf41ec3a882cab845cc24064c0a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

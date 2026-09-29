@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把放在高台上的空椅\n必须保留：空椅；高台\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+  "image_sha256": "603acabc89d3ef78b0d82a834c31097986b795c71b5423e865a7703b41219ee3",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

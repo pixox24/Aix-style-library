@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0015",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0015.md",
+  "samples": [
+    {
+      "case_id": "Aix0015-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：提灯的老人在风雪中前行\n必须保留：提灯老人；风雪\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-01.json"
+    },
+    {
+      "case_id": "Aix0015-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：吹号角的少年站在礁石上，远方雷雨将至\n必须保留：少年；号角\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-02.json"
+    },
+    {
+      "case_id": "Aix0015-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏孤灯与一本摊开的旧书\n必须保留：孤灯；旧书\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-03.json"
+    },
+    {
+      "case_id": "Aix0015-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把钥匙插在厚重木门上\n必须保留：钥匙；木门\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-04.json"
+    },
+    {
+      "case_id": "Aix0015-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：风暴海面上的灯塔射出一道光束\n必须保留：灯塔；海面\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，黑白高对比与颗粒质感强烈，元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-05.json"
+    },
+    {
+      "case_id": "Aix0015-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：山脊上的枯树，乌鸦盘旋\n必须保留：枯树；乌鸦\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+      "image_path": "results/0.3.0/images/Aix0015-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0015-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

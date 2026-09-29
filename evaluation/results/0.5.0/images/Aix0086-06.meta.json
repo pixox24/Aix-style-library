@@ -1,0 +1,24 @@
+{
+  "created": 1790534338,
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 1584,
+    "total_tokens": 1746,
+    "input_tokens_details": {
+      "text_tokens": 162,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：纯平色块组成的城市里，黑色高架像流体穿行\n必须保留：城市；黑色高架\n视觉风格：硬边矢量平涂，流体形状简化为连续图形；高饱和橙红与纯黑对撞，白色眼形作节奏点；黑色流体贯穿垂直画面，几何台阶提供尺度；无真实光影，以色块重叠建立层次；纯净平面，可保留少量印刷边缘\n画幅比例：2:3\n避免出现：写实烟雾和复杂材质；柔和低对比配色；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/c528edc9b8ddd858b0cb00dbcc4d5f23.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0055",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "开着窗的小房间，夜里的城市在窗外",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "小房间",
+      "窗外夜景"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

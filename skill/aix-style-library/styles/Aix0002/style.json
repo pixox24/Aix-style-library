@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "id": "Aix0002",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "status": "active",
   "name": "柔光水彩绘本",
   "description": "手绘水彩纸面表现，低饱和奶油色系与松弛铅笔轮廓，晕染柔和、光照通透。",
@@ -36,9 +36,9 @@
   },
   "quality": {
     "review_status": "passed",
-    "tested_tool": "Pillow 11.3.0 procedural preview (no image model)",
-    "tested_at": "2026-09-18",
-    "evidence_ref": "results/0.1.0/Aix0002.json"
+    "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+    "tested_at": "2026-09-19",
+    "evidence_ref": "results/0.2.0/Aix0002.json"
   },
   "replacement_id": null
 }

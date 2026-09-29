@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0022",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0022.md",
+  "samples": [
+    {
+      "case_id": "Aix0022-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：深夜书房，一个人趴在电脑桌前睡着\n必须保留：伏案的人；电脑桌\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-01.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "屏幕边缘及桌面笔记本存在乱码/伪文字瑕疵，其余风格与内容符合。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-01.json"
+    },
+    {
+      "case_id": "Aix0022-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：沙发上裹着毛毯看平板的人，旁边睡着一只猫\n必须保留：沙发人物；猫\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-02.json"
+    },
+    {
+      "case_id": "Aix0022-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：亮着冷光的电脑屏幕与一杯放凉的咖啡\n必须保留：屏幕；咖啡杯\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "屏幕及笔记本文字为乱码；画面偏写实照片质感，手绘厚涂笔触肌理不明显。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-03.json"
+    },
+    {
+      "case_id": "Aix0022-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：暖光台灯下的旧收音机与唱片\n必须保留：台灯；收音机\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，冷暖光影与手绘质感佳，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-04.json"
+    },
+    {
+      "case_id": "Aix0022-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜的客厅一角，地毯上散落着书与玩具\n必须保留：客厅一角；散落杂物\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-05.json"
+    },
+    {
+      "case_id": "Aix0022-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨微光里的厨房，窗外城市还没醒\n必须保留：厨房；清晨微光\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0022-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容高度契合，手绘厚涂质感好，光影对比克制，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0022-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

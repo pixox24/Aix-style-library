@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0045",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0045.md",
+  "samples": [
+    {
+      "case_id": "Aix0045-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人蜷在被窝里刷手机，脸被微光照亮\n必须保留：被窝人物；手机微光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，构图与光影符合要求，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-01.json"
+    },
+    {
+      "case_id": "Aix0045-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少年坐在床沿发呆，屏幕光落在脚边\n必须保留：床沿少年；屏幕光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，噪点与光影完美契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-02.json"
+    },
+    {
+      "case_id": "Aix0045-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：床头柜上的手机与半杯水\n必须保留：手机；水杯\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，噪点、留白与单一光源到位，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-03.json"
+    },
+    {
+      "case_id": "Aix0045-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑暗里亮着的一台老式闹钟\n必须保留：闹钟；黑暗\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-04.json"
+    },
+    {
+      "case_id": "Aix0045-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜房间一角，只有屏幕发光\n必须保留：房间一角；屏幕光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "左侧窗户存在外部光源，违反光源单一及屏幕为唯一亮源特征。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-05.json"
+    },
+    {
+      "case_id": "Aix0045-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：熄灯的客厅里电视待机灯微亮\n必须保留：客厅；待机灯\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0045-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0045-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

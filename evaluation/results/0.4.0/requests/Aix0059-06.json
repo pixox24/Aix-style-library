@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0059",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "古老石阶上散落的蝴蝶与锁链",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "石阶",
+      "蝴蝶"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

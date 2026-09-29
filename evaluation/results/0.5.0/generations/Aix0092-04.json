@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一枚白色圆球被巨手轻轻托在空中\n必须保留：圆球；托举\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+  "image_sha256": "efd3b16ec328fe2e81ec233209ba8ba4e919cc50f7286e8553be82d6bc624761",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 31.2
+  }
+}

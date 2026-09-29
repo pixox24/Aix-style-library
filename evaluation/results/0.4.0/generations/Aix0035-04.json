@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：泡在水中的滑板漂浮着\n必须保留：滑板；水面\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+  "image_sha256": "75a4827ff0a4b0d8c66469736726fb16009a821aa45951c88c49f87567411e65",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

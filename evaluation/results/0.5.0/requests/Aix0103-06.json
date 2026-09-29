@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0103",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "海边巨型雕像背部开窗，窗内是另一片夜海",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "海边雕像",
+      "夜海窗口"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

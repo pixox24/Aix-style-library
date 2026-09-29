@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0053",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0053.md",
+  "samples": [
+    {
+      "case_id": "Aix0053-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人蹲坐着托腮发呆\n必须保留：蹲坐的人；托腮\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，线稿与赛璐璐上色干净，蹲坐托腮动作准确，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-01.json"
+    },
+    {
+      "case_id": "Aix0053-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：靠在瓷砖墙边等待的少年\n必须保留：等待少年；瓷砖墙\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-02.json"
+    },
+    {
+      "case_id": "Aix0053-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：台面上的一支牙刷与玻璃杯\n必须保留：牙刷；玻璃杯\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-03.json"
+    },
+    {
+      "case_id": "Aix0053-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一篮刚洗好的衣物放在角落\n必须保留：衣篮；角落\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，浅绿赛璐璐平涂完美；衣篮与角落元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-04.json"
+    },
+    {
+      "case_id": "Aix0053-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：浅绿色调的洗手间一角\n必须保留：洗手间；浅绿\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，赛璐璐硬边平涂与浅绿主调完美呈现，洗手间元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-05.json"
+    },
+    {
+      "case_id": "Aix0053-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：阳台洗衣区，晾着滴水的衬衫\n必须保留：阳台；晾晒\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0053-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0053-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

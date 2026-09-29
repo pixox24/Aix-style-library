@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0073",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一根红色蜡烛被拉长成不可能的高柱",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "蜡烛",
+      "高柱"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

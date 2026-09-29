@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0099",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0099.md",
+  "samples": [
+    {
+      "case_id": "Aix0099-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑色高领人物站在灰色房间里，头部被白色立方体替代\n必须保留：高领人物；白立方体\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美呈现极简数字雕塑风格，元素完整无瑕疵，光影与质感高度契合要求。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-01.json"
+    },
+    {
+      "case_id": "Aix0099-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿风衣的匿名雕像侧身面对一扇窗\n必须保留：匿名雕像；窗\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，几何体头部、光影及窗户元素均无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-02.json"
+    },
+    {
+      "case_id": "Aix0099-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：白色立方体放在黑色天鹅绒底座上，投下几何影子\n必须保留：立方体；底座\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-03.json"
+    },
+    {
+      "case_id": "Aix0099-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只白色盒子打开后露出更小的黑色方块\n必须保留：白盒子；黑方块\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-04.json"
+    },
+    {
+      "case_id": "Aix0099-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：灰白展厅中央站着一排不同角度的立方体人像\n必须保留：展厅；立方体人像\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-05.json"
+    },
+    {
+      "case_id": "Aix0099-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑色走廊尽头只有一座被冷光照亮的白色几何雕塑\n必须保留：走廊；雕塑\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0099-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合风格与内容要求，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0099-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：床头的一束干花与闹钟\n必须保留：干花；闹钟\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+  "image_sha256": "7374d6a04d94c254a87f8cc0f3a1fb103bf6b72602295d6b50a6ba8b0f5c7708",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

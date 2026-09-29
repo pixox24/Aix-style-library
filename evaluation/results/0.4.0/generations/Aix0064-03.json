@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：楼梯转角的一盏路灯，与巨眼对视\n必须保留：路灯；巨眼\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "97f7efde09f6cbe885f1f3d7348ff01775d60c2d55096b259f03c0f7bc17c243",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

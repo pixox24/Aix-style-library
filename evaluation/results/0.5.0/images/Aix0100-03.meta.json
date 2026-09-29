@@ -1,0 +1,24 @@
+{
+  "created": 1790538482,
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 1584,
+    "total_tokens": 1740,
+    "input_tokens_details": {
+      "text_tokens": 156,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一盏台灯在雾蓝房间里投出柔软的双重影子\n必须保留：台灯；双影\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f9168ede4fc2595cfe7fcfcbe0e682a0.png"
+    }
+  ]
+}

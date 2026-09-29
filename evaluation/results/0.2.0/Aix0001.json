@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0001",
+  "style_version": "1.1.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0001.md",
+  "samples": [
+    {
+      "case_id": "Aix0001-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：清晨窗前，一位穿米色针织衫的年轻人侧身站在柔光里，侧脸望向窗外\n必须保留：窗前人物；柔和侧光\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容要求全部满足，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-01.json"
+    },
+    {
+      "case_id": "Aix0001-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：傍晚街头，一位背着相机的旅行者停下脚步回望，背景是虚化的城市灯光\n必须保留：旅行者；胶片相机\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-02.json"
+    },
+    {
+      "case_id": "Aix0001-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：木桌上放着一台旧胶片相机与两卷胶卷，侧逆光，浅景深\n必须保留：胶片相机；胶卷\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-03.json"
+    },
+    {
+      "case_id": "Aix0001-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：窗边木桌上的一杯热红茶，热气隐约，暖色局部光\n必须保留：热红茶；木桌\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "雾青底色与暖光对比准确，胶片质感佳，红茶与木桌完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-04.json"
+    },
+    {
+      "case_id": "Aix0001-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨后老城区的巷口，湿石板路反着微光，远处一盏路灯亮着\n必须保留：湿石板路；路灯\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美呈现雾青胶片质感与冷暖对比，湿石板路与路灯等元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-05.json"
+    },
+    {
+      "case_id": "Aix0001-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黄昏的天台，晾衣绳上的白衬衫被风扬起，远处是城市轮廓\n必须保留：晾衣绳；城市轮廓\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "image_path": "results/0.2.0/images/Aix0001-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "雾青胶片质感与冷暖对比出色，晾衣绳与城市轮廓完整，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0001-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

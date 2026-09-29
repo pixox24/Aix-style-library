@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0109",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "地下通道尽头是巨大的黑色弧门，几盏白灯像眼睛",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "地下通道",
+      "弧门"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

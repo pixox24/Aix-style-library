@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0005",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黄昏的麦田，远处一棵孤树，天空是厚笔触的晚霞",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "麦田",
+      "孤树"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

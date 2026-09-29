@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0096",
+    "style_name": "彩虹放射虫洞",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0096/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：宇航服身影被彩色光流向外抛出，姿态保持清楚\n必须保留：宇航服身影；彩色光流\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0096",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "686047536b1408f7cfe7755bbe61045eee09be9e13e8799a37a1a38031f18c2b"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

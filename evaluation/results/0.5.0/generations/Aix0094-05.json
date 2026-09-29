@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：空无一人的蓝紫天台，只留一盏路灯剪影\n必须保留：天台；路灯\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+  "image_sha256": "3e19085d1b86fe4903eed033ebd836bd6d055eefa727d3fe84ba1ab7dc8bc32c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 41.7
+  }
+}

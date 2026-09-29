@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0073",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "米色荒原尽头竖着一根融化的红色纪念碑",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "荒原",
+      "红色纪念碑"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：被水淹没的废弃泳池，墙面满是涂鸦\n必须保留：废弃泳池；涂鸦\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+  "image_sha256": "740c31bc7eb457a943e889a408bb569b6cbe936db4f746064bceae526196a745",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

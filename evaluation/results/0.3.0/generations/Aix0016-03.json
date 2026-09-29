@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把巨大的黑伞笼罩着一张小餐桌\n必须保留：黑伞；餐桌\n视觉风格：极端尺度对比：巨大形体占据画面大部，渺小角色处于包围或内凹的焦点；低饱和冷灰蓝与深黑为主，暗红与铁锈红小面积点缀；平光处理，无强方向光与锐利投影，层次靠明度色块区分；数字平涂结合颗粒噪点，边缘带轻微手绘毛糙感；雾状灰白背景与粗糙笔触肌理，梦境般的朦胧感\n画幅比例：2:3\n避免出现：明亮鲜艳配色；光滑矢量边缘与写实光影；乱码文字与伪文字印章",
+  "image_sha256": "30af469c060e67f43ad60be2f1ee5c9bffced85753b597d4b43ac87f5f2742a9",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0098",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "地铁车厢被蓝紫屏幕光切开，乘客边缘轻微消散",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "地铁车厢",
+      "屏幕光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

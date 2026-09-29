@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0084",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "侧身的人在青绿色窗前调试老式收音设备",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "侧身人物",
+      "旧设备"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

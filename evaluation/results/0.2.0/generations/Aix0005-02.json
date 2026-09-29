@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一位戴草帽的采茶妇人半身侧影，午后暖光\n必须保留：采茶妇人；草帽\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+  "image_sha256": "78fbc91915bc6657e1f92acbb0ed551e55c9101965f3e9d484a7cc4bacca4de6",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

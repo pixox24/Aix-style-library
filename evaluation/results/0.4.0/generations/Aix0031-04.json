@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：铁皮屋顶上的旧收音机与天线\n必须保留：收音机；天线\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "d852dfdca0614b4942bb784e3d1c756f3508bb46eb22c10d651ce272de133cc3",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

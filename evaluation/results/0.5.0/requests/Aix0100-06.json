@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0100",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雾蓝站台上，远处的身影被拉成一团模糊回声",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "站台",
+      "模糊身影"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0002",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一只橘猫趴在木窗台上打盹，窗外是长满绿植的小院子，午后柔光",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "橘猫",
+      "木窗台"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

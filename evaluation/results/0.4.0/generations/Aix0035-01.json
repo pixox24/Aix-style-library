@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个少年在水下楼梯间漂浮，上方光束洒下\n必须保留：少年；楼梯间\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+  "image_sha256": "01f8e1825b719c43c1ddaafaa4d0fb376f564dd91a00f829d20b72128c699af6",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

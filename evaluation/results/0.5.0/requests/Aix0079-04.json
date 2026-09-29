@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0079",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一只纸船漂在桥下，映着红黄绿的倒光",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "纸船",
+      "桥下水面"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

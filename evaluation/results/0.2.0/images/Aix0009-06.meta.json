@@ -1,0 +1,24 @@
+{
+  "created": 1789825714,
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 1584,
+    "total_tokens": 1730,
+    "input_tokens_details": {
+      "text_tokens": 146,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：森林中向下延伸的旋转楼梯，栏杆上缠满藤蔓\n必须保留：旋梯；森林\n视觉风格：黑白墨线插画，线条精细克制；黑白灰为主，全画仅一处低饱和点缀色；装饰性排线、弧线与重复线纹丰富暗部层次；大面积留白，主体偏置，画面疏朗有呼吸感\n画幅比例：2:3\n避免出现：高饱和多色与荧光色；3D光影与厚重色块堆叠",
+      "url": "https://gateway.change2pro.com/vendor/assets/a43bd6cfc5f04bbb328d6b01628ad735.png"
+    }
+  ]
+}

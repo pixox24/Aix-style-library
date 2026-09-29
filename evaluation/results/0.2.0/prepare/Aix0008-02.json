@@ -1,0 +1,43 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0008",
+    "style_name": "霓虹雨夜街拍",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0008/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：骑电动车的外卖骑手穿过霓虹路口，雨幕与车灯拉出光轨\n必须保留：外卖骑手；电动车\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0008",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "af3d7b18a0e1c926aeee5299ef3337e0517d335b1cb86d0293eb0bf0f3259dd1"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

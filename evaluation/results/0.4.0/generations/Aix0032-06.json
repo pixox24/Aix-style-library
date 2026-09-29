@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：球场上一颗巨球停在球员头顶\n必须保留：巨球；球场\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+  "image_sha256": "df340e9e56f5a2f2ec0fb027ee9e43757460f466806db9f3a98fbe9732d4bcb8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

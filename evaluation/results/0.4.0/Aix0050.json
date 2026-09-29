@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0050",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0050.md",
+  "samples": [
+    {
+      "case_id": "Aix0050-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：女孩在床上伸懒腰，晨光爬上被角\n必须保留：床上女孩；晨光\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-01.json"
+    },
+    {
+      "case_id": "Aix0050-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：打哈欠的少年坐在窗台边\n必须保留：窗台少年；光\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，配色光影构图均符合要求，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-02.json"
+    },
+    {
+      "case_id": "Aix0050-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：床头的一束干花与闹钟\n必须保留：干花；闹钟\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-03.json"
+    },
+    {
+      "case_id": "Aix0050-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：叠好的白衬衫与草帽放在椅上\n必须保留：白衬衫；草帽\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-04.json"
+    },
+    {
+      "case_id": "Aix0050-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨的卧室，窗帘被风微微吹起\n必须保留：卧室；窗帘\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-05.json"
+    },
+    {
+      "case_id": "Aix0050-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：阳台上的早餐桌，阳光正暖\n必须保留：早餐桌；阳光\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0050-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，配色光影构图均达标，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0050-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

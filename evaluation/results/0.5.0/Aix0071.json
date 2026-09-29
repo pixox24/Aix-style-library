@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0071",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0071.md",
+  "samples": [
+    {
+      "case_id": "Aix0071-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个背包客站在折返山路的最高处，脚下冷蓝雾气翻涌\n必须保留：背包客；折返山路\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，冷色调、厚涂质感、折返山路及背包客均完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-01.json"
+    },
+    {
+      "case_id": "Aix0071-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿长外套的人沿着悬空阶梯向上走，远处有枯树\n必须保留：行走者；悬空阶梯\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，冷蓝厚涂与折阶引导线突出；内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-02.json"
+    },
+    {
+      "case_id": "Aix0071-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把旧椅子停在折返石阶的转角\n必须保留：旧椅子；石阶\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，冷色调与粗糙颗粒感强烈，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-03.json"
+    },
+    {
+      "case_id": "Aix0071-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏冷蓝路灯照着弯折的台阶\n必须保留：路灯；台阶\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷蓝厚涂与折返台阶表现完美，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-04.json"
+    },
+    {
+      "case_id": "Aix0071-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：没有尽头的山崖阶梯通向蓝黑天空\n必须保留：山崖阶梯；蓝黑天空\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，色彩与光影契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-05.json"
+    },
+    {
+      "case_id": "Aix0071-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：枯树与折线高架桥组成的冷蓝城市边缘\n必须保留：枯树；高架桥\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0071-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0071-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

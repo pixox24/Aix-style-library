@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0110",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雾色天台上，一个空衣架和向上散开的烟雾形成静物",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "天台",
+      "衣架"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

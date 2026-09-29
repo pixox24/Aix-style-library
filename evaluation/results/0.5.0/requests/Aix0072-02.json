@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0072",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "戴帽子的旅人只露出轮廓，面部是一小片紫色星空",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "旅人轮廓",
+      "紫色星空"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

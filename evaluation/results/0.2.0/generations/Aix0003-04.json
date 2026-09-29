@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一台复古收音机被几何色块概括，天线是一条斜线\n必须保留：复古收音机\n视觉风格：扁平色块构成，无渐变或立体阴影；高对比限定色板，大面积纯色底；几何分割线与圆形、三角基本形；网格对齐与强留白\n画幅比例：2:3\n避免出现：照片写实材质与复杂渐变；繁复装饰花纹与手绘笔触",
+  "image_sha256": "145bbacc52d13858e62d0a0239c6bb02cc901cb60222277349997b00ffe6b93f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

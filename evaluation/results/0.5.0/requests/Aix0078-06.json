@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0078",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雨后石巷被粗黑墨线和红色门框切开",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "石巷",
+      "红门框"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

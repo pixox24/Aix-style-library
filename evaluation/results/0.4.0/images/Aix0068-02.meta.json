@@ -1,0 +1,24 @@
+{
+  "created": 1789982250,
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 1584,
+    "total_tokens": 1702,
+    "input_tokens_details": {
+      "text_tokens": 118,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个侧影被猩红光环穿过头部\n必须保留：侧影；光环\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/c2d9f89378cb5e8fbe87ef50d846f83a.png"
+    }
+  ]
+}

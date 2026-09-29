@@ -1,0 +1,24 @@
+{
+  "created": 1790540046,
+  "usage": {
+    "input_tokens": 163,
+    "output_tokens": 1584,
+    "total_tokens": 1747,
+    "input_tokens_details": {
+      "text_tokens": 163,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：城市广场被赤红风暴状线条包围，中心保持一人剪影\n必须保留：广场；一人剪影\n视觉风格：手绘表现主义线条结合粗糙平涂和粉笔质感；赤红橙底与黑色主体，黄绿色图案作冲突点；垂直人物居中，背景漩涡围绕头部旋转；平面高对比，不追求写实体积光；炭笔、粉笔和纸面摩擦的粗糙痕迹\n画幅比例：2:3\n避免出现：光滑3D渲染；低对比柔和配色；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/1a449629070cd6bc9a0d1f49a6c76282.png"
+    }
+  ]
+}

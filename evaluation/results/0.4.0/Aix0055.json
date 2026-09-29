@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0055",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0055.md",
+  "samples": [
+    {
+      "case_id": "Aix0055-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人坐在床边发呆，绿光从窗外扫进来\n必须保留：床边人物；绿光\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-01.json"
+    },
+    {
+      "case_id": "Aix0055-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少年抱着膝盖坐在地板上，风扇转个不停\n必须保留：少年；风扇\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-02.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风扇未表现出旋转动态，网罩结构轻微杂乱。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-02.json"
+    },
+    {
+      "case_id": "Aix0055-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：转动的落地风扇在绿光里投下影子\n必须保留：风扇；影子\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-03.json"
+    },
+    {
+      "case_id": "Aix0055-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌面上的汽水瓶与凌乱的电线\n必须保留：汽水瓶；电线\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-04.json"
+    },
+    {
+      "case_id": "Aix0055-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：夏夜出租屋的室内全景，灯光昏绿\n必须保留：出租屋；绿光\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "色彩光影符合，但赛璐璐平涂与清晰线稿特征偏弱，质感不够干净。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-05.json"
+    },
+    {
+      "case_id": "Aix0055-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：开着窗的小房间，夜里的城市在窗外\n必须保留：小房间；窗外夜景\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0055-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0055-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

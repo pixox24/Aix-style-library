@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0094",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0094.md",
+  "samples": [
+    {
+      "case_id": "Aix0094-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿长风衣的人站在淡蓝背景中，身体保持锐利侧影\n必须保留：长风衣人物；侧影\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合冷蓝剪影留白风格，侧影与长风衣元素完整，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-01.json"
+    },
+    {
+      "case_id": "Aix0094-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：扎长辫子的女性站在空白蓝紫墙前，手持一朵花\n必须保留：女性侧影；花\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-02.json"
+    },
+    {
+      "case_id": "Aix0094-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把黑色雨伞放在淡蓝色台面上\n必须保留：黑色雨伞；淡蓝台面\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-03.png",
+      "style_score": 3,
+      "content_score": 5,
+      "notes": "雨伞非极简剪影，含伞骨等细节且有明显光影，违背无多余细节和几乎无光影特征。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-03.json"
+    },
+    {
+      "case_id": "Aix0094-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只深色高领瓶器被冷蓝背景包围\n必须保留：瓶器；冷蓝背景\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合极简剪影与留白特征，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-04.json"
+    },
+    {
+      "case_id": "Aix0094-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：空无一人的蓝紫天台，只留一盏路灯剪影\n必须保留：天台；路灯\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格高度一致，蓝紫背景与深黑剪影对比鲜明，留白得当，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-05.json"
+    },
+    {
+      "case_id": "Aix0094-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：海边长堤被淡蓝天空和单一黑色栏杆切开\n必须保留：长堤；栏杆\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0094-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0094-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

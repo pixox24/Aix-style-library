@@ -1,0 +1,24 @@
+{
+  "created": 1790530113,
+  "usage": {
+    "input_tokens": 165,
+    "output_tokens": 1584,
+    "total_tokens": 1749,
+    "input_tokens_details": {
+      "text_tokens": 165,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：白桌上的黑色收音机被一圈紫光包住\n必须保留：收音机；紫光\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/adb8ad301eb92b5bae73fc3a94deeb57.png"
+    }
+  ]
+}

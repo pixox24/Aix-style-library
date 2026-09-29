@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0030",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个人坐在窗边看夕阳里的钟楼",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "窗边的人",
+      "钟楼"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

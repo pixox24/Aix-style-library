@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0061",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "仰头的男子上半身化作白鸟飞散",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "仰头男子",
+      "白鸟"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

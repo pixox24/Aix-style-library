@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0099",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "白色立方体放在黑色天鹅绒底座上，投下几何影子",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "立方体",
+      "底座"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

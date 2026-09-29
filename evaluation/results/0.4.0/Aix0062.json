@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0062",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0062.md",
+  "samples": [
+    {
+      "case_id": "Aix0062-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑衣侧影的头顶喷涌出成群的面具\n必须保留：黑衣侧影；面具群\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征鲜明，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-01.json"
+    },
+    {
+      "case_id": "Aix0062-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个舞者的长发化作翻涌的脸谱\n必须保留：舞者；脸谱\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，舞者与脸谱元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-02.json"
+    },
+    {
+      "case_id": "Aix0062-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一顶帽子里飞出层层叠叠的面具\n必须保留：帽子；面具\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-03.json"
+    },
+    {
+      "case_id": "Aix0062-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上一只裂开的陶罐涌出灰白碎片\n必须保留：陶罐；碎片\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-04.json"
+    },
+    {
+      "case_id": "Aix0062-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：剧场后台，衣架上的面具墙\n必须保留：剧场后台；面具墙\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-05.json"
+    },
+    {
+      "case_id": "Aix0062-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：广场中央的雕塑长出面孔像树冠\n必须保留：雕塑；面孔\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0062-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0062-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

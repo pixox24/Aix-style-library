@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0089",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个人被四种窄光照亮，网格之间保持深蓝背景",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "人物",
+      "窄光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0002",
+  "style_version": "1.1.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0002.md",
+  "samples": [
+    {
+      "case_id": "Aix0002-01",
+      "subject_category": "场景",
+      "prompt": "画面内容：一只橘猫趴在木窗台上打盹，窗外是长满绿植的小院子，午后柔光\n必须保留：橘猫；木窗台\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染与柔光特征完美，橘猫与木窗台保留完整，无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-01.json"
+    },
+    {
+      "case_id": "Aix0002-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个背着黄色小书包的小女孩蹲在池塘边，看荷叶上的一只青蛙\n必须保留：小女孩；池塘\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染自然，柔光通透，元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-02.json"
+    },
+    {
+      "case_id": "Aix0002-03",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴草帽的老爷爷推着自行车走过田埂，车筐里装满水果\n必须保留：老爷爷；自行车\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染与柔光特征完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-03.json"
+    },
+    {
+      "case_id": "Aix0002-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：木桌上的一罐蜂蜜、半块面包和一小束雏菊，清晨柔光\n必须保留：蜂蜜罐；面包\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染与柔光特征稳定，纸张质感好，所有指定元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-04.json"
+    },
+    {
+      "case_id": "Aix0002-05",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把小黄伞和一双小雨靴靠在门边，雨后天晴\n必须保留：小黄伞；雨靴\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染与纸张纹理自然，光影柔和，伞与雨靴元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-05.json"
+    },
+    {
+      "case_id": "Aix0002-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：春天的山坡开满野花，一条白色小径通向红屋顶的小房子\n必须保留：野花山坡；红屋顶房子\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "image_path": "results/0.2.0/images/Aix0002-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水彩晕染自然，色彩柔和，元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0002-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

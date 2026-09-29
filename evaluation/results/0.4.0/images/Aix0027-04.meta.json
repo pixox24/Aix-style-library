@@ -1,0 +1,24 @@
+{
+  "created": 1789889226,
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 1584,
+    "total_tokens": 1713,
+    "input_tokens_details": {
+      "text_tokens": 129,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：被放大到夸张的复古相机特写\n必须保留：复古相机\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/ed33c4ac2d8f6e49ac3d60f021bfc077.png"
+    }
+  ]
+}

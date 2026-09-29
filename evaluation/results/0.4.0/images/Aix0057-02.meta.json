@@ -1,0 +1,24 @@
+{
+  "created": 1789972394,
+  "usage": {
+    "input_tokens": 114,
+    "output_tokens": 1584,
+    "total_tokens": 1698,
+    "input_tokens_details": {
+      "text_tokens": 114,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：流泪的侧脸旁浮着半块机械面具\n必须保留：侧脸；面具\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/bf8d49f211535a0afc5daf41c06ceb56.png"
+    }
+  ]
+}

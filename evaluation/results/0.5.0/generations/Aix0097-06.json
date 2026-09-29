@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：虚拟现实展厅里，光轨围绕一座空头盔旋转\n必须保留：展厅；头盔\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+  "image_sha256": "16a7a83a5c84ac958f939ce7151dc5ab4f645719c1fd0c0740e8c24e1ff57bc5",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 48.5
+  }
+}

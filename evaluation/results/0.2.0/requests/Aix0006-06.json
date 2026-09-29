@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0006",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黏土露营地的夜晚：小帐篷、篝火和两棵小树",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "黏土帐篷",
+      "篝火"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

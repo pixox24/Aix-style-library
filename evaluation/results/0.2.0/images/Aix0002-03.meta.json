@@ -1,0 +1,24 @@
+{
+  "created": 1789823398,
+  "usage": {
+    "input_tokens": 143,
+    "output_tokens": 1584,
+    "total_tokens": 1727,
+    "input_tokens_details": {
+      "text_tokens": 143,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：戴草帽的老爷爷推着自行车走过田埂，车筐里装满水果\n必须保留：老爷爷；自行车\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "url": "https://gateway.change2pro.com/vendor/assets/1c5cbadcd85b27f2ed4190c0cdf4df70.png"
+    }
+  ]
+}

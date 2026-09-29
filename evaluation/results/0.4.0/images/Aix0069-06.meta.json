@@ -1,0 +1,24 @@
+{
+  "created": 1789978248,
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 1584,
+    "total_tokens": 1710,
+    "input_tokens_details": {
+      "text_tokens": 126,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：舞台白幕前的手影戏\n必须保留：白幕；手影戏\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/3d7cc1e8a408bf9b4150fe94e52178df.png"
+    }
+  ]
+}

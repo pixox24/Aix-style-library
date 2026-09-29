@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0005",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0005.md",
+  "samples": [
+    {
+      "case_id": "Aix0005-01",
+      "subject_category": "物体",
+      "prompt": "画面内容：窗台上一只陶罐插着野花，旁边放着两颗柠檬，午后侧光\n必须保留：陶罐野花；柠檬\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与光影质感极佳，所有指定元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-01.json"
+    },
+    {
+      "case_id": "Aix0005-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一位戴草帽的采茶妇人半身侧影，午后暖光\n必须保留：采茶妇人；草帽\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合厚涂油画风格，采茶妇人与草帽元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-02.json"
+    },
+    {
+      "case_id": "Aix0005-03",
+      "subject_category": "人物",
+      "prompt": "画面内容：灯下读信的男人，暖黄光晕，厚涂笔触\n必须保留：读信男人；灯\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与暖黄光晕表现完美，主体与灯完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-03.json"
+    },
+    {
+      "case_id": "Aix0005-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只铜壶与两个红苹果摆在旧木桌上\n必须保留：铜壶；苹果\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与旧画质感极佳，铜壶与苹果完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-04.json"
+    },
+    {
+      "case_id": "Aix0005-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黄昏的麦田，远处一棵孤树，天空是厚笔触的晚霞\n必须保留：麦田；孤树\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现厚涂油画质感与笔触，麦田、孤树及晚霞元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-05.json"
+    },
+    {
+      "case_id": "Aix0005-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨后的小巷，石墙上爬着藤蔓，一扇半开的木门\n必须保留：石墙；木门\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "image_path": "results/0.2.0/images/Aix0005-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂油画质感强烈，笔触与光影符合风格定义，石墙与木门等元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0005-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

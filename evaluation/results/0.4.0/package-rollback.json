@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-21",
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.6",
+  "sequence": [
+    "0.4.1",
+    "0.3.2",
+    "0.4.1"
+  ],
+  "checks": [
+    {
+      "library_version": "0.4.1",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved",
+      "expect": "resolved",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.4.1",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates",
+      "expect": "candidates",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.4.1",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared",
+      "expect": "prepared",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.3.2",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved",
+      "expect": "resolved",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.3.2",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates",
+      "expect": "candidates",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.3.2",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared",
+      "expect": "prepared",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.4.1",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved",
+      "expect": "resolved",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.4.1",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates",
+      "expect": "candidates",
+      "ok": true,
+      "stderr": null
+    },
+    {
+      "library_version": "0.4.1",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared",
+      "expect": "prepared",
+      "ok": true,
+      "stderr": null
+    }
+  ],
+  "new_archive_file_count": 154,
+  "archive_matches_source": true,
+  "archive_mismatches": [],
+  "skill_extra_files": [],
+  "old_archive_checksum_matches": true
+}

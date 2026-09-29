@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人蜷在被窝里刷手机，脸被微光照亮\n必须保留：被窝人物；手机微光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+  "image_sha256": "7924b87d4804351e9d2cc5666ab33904ea7d1c5cc666a965e70c131d0ac89c7b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

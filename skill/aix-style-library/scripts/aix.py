@@ -4,8 +4,8 @@
 Subcommands: get, search, prepare, validate, build-index.
 
 Runtime (get/search/prepare/build-index) depends only on the Python standard
-library. Full ``validate --scope release`` may additionally use jsonschema and
-Pillow when available; it degrades with an actionable message otherwise.
+library. ``validate --scope release`` requires jsonschema and Pillow;
+missing development dependencies fail explicitly without installing anything.
 """
 
 from __future__ import annotations
@@ -19,6 +19,7 @@ import re
 import sys
 import time
 import unicodedata
+from datetime import date
 
 API_VERSION = "1.0"
 SCHEMA_VERSION = "1.0"
@@ -56,6 +57,8 @@ EXIT_CODES = {
     "SCHEMA_UNSUPPORTED": 4,
     "INDEX_MISSING": 4,
     "INDEX_STALE": 4,
+    "DEPENDENCY_MISSING": 4,
+    "RELEASE_NOT_READY": 4,
     "STYLE_NOT_APPLICABLE": 5,
     "TARGET_UNSUPPORTED": 5,
     "INTERNAL_ERROR": 6,
@@ -82,6 +85,14 @@ RESOLUTION_KEYS = {"exclude_features", "exclude_avoid"}
 EXCLUDE_KEYS = {"id", "reason"}
 
 REQUEST_LIMIT_BYTES = 64 * 1024
+STYLE_LIMIT_BYTES = 12 * 1024
+THUMB_LIMIT_BYTES = 250 * 1024
+JSON_LIMIT_BYTES = 32 * 1024 * 1024
+INDEX_KEYS = {"schema_version", "library_version", "source_digest", "styles"}
+ENTRY_KEYS = {
+    "id", "version", "status", "name", "description", "category", "tags",
+    "aliases", "thumbnail_path", "thumbnail_alt", "content_hash",
+}
 
 
 class AixError(Exception):
@@ -122,21 +133,27 @@ def parse_json_bytes(raw, code, label):
     except UnicodeDecodeError:
         raise AixError(code, "%s 不是有效的 UTF-8。" % label)
     try:
-        return json.loads(text, object_pairs_hook=_no_dup_pairs, parse_constant=_reject_constant)
-    except ValueError as exc:
+        result = json.loads(text, object_pairs_hook=_no_dup_pairs, parse_constant=_reject_constant)
+        # Escaped lone surrogates are legal to Python's parser but cannot be
+        # written as UTF-8. Reject before they can break the response envelope.
+        json.dumps(result, ensure_ascii=False).encode("utf-8")
+        return result
+    except (ValueError, RecursionError) as exc:
         raise AixError(code, "%s 不是合法 JSON：%s" % (label, exc))
 
 
-def load_json_file(path, code="STYLE_INVALID", label=None):
+def load_json_file(path, code="STYLE_INVALID", label=None, limit=JSON_LIMIT_BYTES):
     path = os.fspath(path)
     label = label or os.path.basename(path)
     if not os.path.isfile(path):
         raise AixError(code, "文件不存在：%s" % label)
     try:
         with open(path, "rb") as handle:
-            raw = handle.read()
+            raw = handle.read(limit + 1)
     except OSError as exc:
         raise AixError(code, "无法读取 %s：%s" % (label, exc))
+    if len(raw) > limit:
+        raise AixError(code, "%s 超过 %d 字节上限。" % (label, limit))
     return parse_json_bytes(raw, code, label)
 
 
@@ -157,7 +174,10 @@ def _real(path):
 
 
 def _is_within(base, candidate):
-    return candidate == base or candidate.startswith(base + os.sep)
+    try:
+        return os.path.normcase(os.path.commonpath([base, candidate])) == os.path.normcase(base)
+    except ValueError:
+        return False
 
 
 def safe_child(root, *parts):
@@ -169,15 +189,16 @@ def safe_child(root, *parts):
 
 
 def library_version(root):
-    lib = os.path.join(_real(root), "library.json")
-    if not os.path.isfile(lib):
-        return None
-    try:
-        data = load_json_file(lib, code="SCHEMA_UNSUPPORTED", label="library.json")
-    except AixError:
-        return None
-    value = data.get("library_version")
-    return value if isinstance(value, str) else None
+    lib = safe_child(root, "library.json")
+    data = load_json_file(lib, code="SCHEMA_UNSUPPORTED", label="library.json", limit=8192)
+    _check_keys(data, {"library_version", "schema_version", "api_version"},
+                "library.json", "SCHEMA_UNSUPPORTED")
+    value = data["library_version"]
+    if not isinstance(value, str) or not VERSION_RE.fullmatch(value):
+        _fail("library_version 必须是三段非负整数。", "SCHEMA_UNSUPPORTED")
+    if data["schema_version"] != SCHEMA_VERSION or data["api_version"] != API_VERSION:
+        _fail("library.json 的 schema/api 版本不受支持。", "SCHEMA_UNSUPPORTED")
+    return value
 
 
 # --------------------------------------------------------------------------
@@ -204,7 +225,7 @@ def normalize_style_id(raw):
 
 
 def is_canonical_id(value):
-    return bool(CANON_RE.fullmatch(value)) and value != "Aix0000"
+    return isinstance(value, str) and bool(CANON_RE.fullmatch(value)) and value != "Aix0000"
 
 
 # --------------------------------------------------------------------------
@@ -237,12 +258,24 @@ def _check_str_list(value, lo_count, hi_count, lo_len, hi_len, label, code="STYL
     return value
 
 
-def _check_keys(obj, allowed, label, code):
+def _check_keys(obj, allowed, label, code, required=None):
     if not isinstance(obj, dict):
         _fail("%s 必须是对象。" % label, code)
     unknown = set(obj) - allowed
     if unknown:
         _fail("%s 含未知字段：%s。" % (label, ", ".join(sorted(unknown))), code)
+    missing = (allowed if required is None else required) - set(obj)
+    if missing:
+        _fail("%s 缺少字段：%s。" % (label, ", ".join(sorted(missing))), code)
+
+
+def _check_date(value, label, code="STYLE_INVALID"):
+    if not isinstance(value, str) or not DATE_RE.fullmatch(value):
+        _fail("%s 必须是 YYYY-MM-DD。" % label, code)
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        _fail("%s 不是有效日期。" % label, code)
 
 
 def validate_style_obj(obj, sid):
@@ -336,20 +369,21 @@ def validate_style_obj(obj, sid):
     if quality.get("review_status") not in REVIEW_STATUS:
         _fail("quality.review_status 非法。")
     tested_at = quality.get("tested_at")
-    if tested_at is not None and not (isinstance(tested_at, str) and DATE_RE.fullmatch(tested_at)):
-        _fail("quality.tested_at 必须是 YYYY-MM-DD 或 null。")
+    if tested_at is not None:
+        _check_date(tested_at, "quality.tested_at")
     for key in ("tested_tool", "evidence_ref"):
         value = quality.get(key)
         if value is not None and not isinstance(value, str):
             _fail("quality.%s 必须是字符串或 null。" % key)
 
     if obj.get("status") == "active":
-        if prov.get("source_ref") is None or prov.get("license_ref") is None:
-            _fail("active 风格必须提供 provenance.source_ref 与 license_ref。")
+        for key in ("source_ref", "license_ref"):
+            if not isinstance(prov[key], str) or not prov[key].strip():
+                _fail("active 风格必须提供非空 provenance.%s。" % key)
         if quality.get("review_status") != "passed":
             _fail("active 风格要求 quality.review_status=passed。")
         for key in ("tested_tool", "tested_at", "evidence_ref"):
-            if quality.get(key) is None:
+            if not isinstance(quality[key], str) or not quality[key].strip():
                 _fail("active 风格要求 quality.%s 非空。" % key)
 
     replacement = obj.get("replacement_id")
@@ -365,15 +399,18 @@ def read_style(root, sid):
     _, style_file, thumb_file = style_paths(root, sid)
     if not os.path.isfile(style_file):
         raise AixError("STYLE_NOT_FOUND", "风格 %s 不存在。请核对编号；不会自动改用其他风格。" % sid)
-    obj = load_json_file(style_file, code="STYLE_INVALID", label="styles/%s/style.json" % sid)
+    obj = load_json_file(style_file, code="STYLE_INVALID", label="styles/%s/style.json" % sid,
+                         limit=STYLE_LIMIT_BYTES)
     validate_style_obj(obj, sid)
     if not os.path.isfile(thumb_file):
         raise AixError("ASSET_MISSING", "风格 %s 的缩略图缺失或不存在。" % sid)
     try:
         with open(thumb_file, "rb") as handle:
-            thumb_bytes = handle.read()
+            thumb_bytes = handle.read(THUMB_LIMIT_BYTES + 1)
     except OSError as exc:
         raise AixError("ASSET_MISSING", "无法读取风格 %s 的缩略图：%s" % (sid, exc))
+    if not thumb_bytes or len(thumb_bytes) > THUMB_LIMIT_BYTES:
+        _fail("风格 %s 的缩略图为空或超过 250 KiB。" % sid, "ASSET_MISSING")
     return obj, thumb_bytes
 
 
@@ -381,8 +418,8 @@ def style_paths(root, sid):
     directory = safe_child(root, "styles", sid)
     return (
         directory,
-        os.path.join(directory, "style.json"),
-        os.path.join(directory, "thumbnail.webp"),
+        safe_child(root, "styles", sid, "style.json"),
+        safe_child(root, "styles", sid, "thumbnail.webp"),
     )
 
 
@@ -461,14 +498,7 @@ def validate_request_obj(obj, operation):
 
 
 def load_request(path):
-    path = os.fspath(path)
-    if not os.path.isfile(path):
-        raise AixError("INVALID_REQUEST", "请求文件不存在：%s。" % os.path.basename(path))
-    with open(path, "rb") as handle:
-        raw = handle.read()
-    if len(raw) > REQUEST_LIMIT_BYTES:
-        raise AixError("INVALID_REQUEST", "请求文件超过 64 KiB 上限。")
-    return parse_json_bytes(raw, "INVALID_REQUEST", "request")
+    return load_json_file(path, "INVALID_REQUEST", "request", limit=REQUEST_LIMIT_BYTES)
 
 
 def normalize_ratio(value):
@@ -540,11 +570,12 @@ def index_path(root):
 
 
 def style_directory_ids(root):
-    styles_dir = os.path.join(_real(root), "styles")
+    styles_dir = safe_child(root, "styles")
     if not os.path.isdir(styles_dir):
         return []
     ids = []
     for name in os.listdir(styles_dir):
+        safe_child(root, "styles", name)
         if not os.path.isdir(os.path.join(styles_dir, name)):
             continue
         if not is_canonical_id(name):
@@ -567,20 +598,25 @@ def collect_entries(root, active_only=False):
         obj, thumb_bytes = read_style(root, sid)
         if active_only and obj["status"] != "active":
             continue
-        entries.append({
-            "id": sid,
-            "version": obj["version"],
-            "status": obj["status"],
-            "name": obj["name"],
-            "description": obj["description"],
-            "category": obj["category"],
-            "tags": list(obj["tags"]),
-            "aliases": list(obj["aliases"]),
-            "thumbnail_path": "styles/%s/thumbnail.webp" % sid,
-            "thumbnail_alt": obj["thumbnail"]["alt"],
-            "content_hash": content_hash(obj, thumb_bytes),
-        })
+        entries.append(entry_for_style(obj, thumb_bytes))
     return entries
+
+
+def entry_for_style(obj, thumb_bytes):
+    sid = obj["id"]
+    return {
+        "id": sid,
+        "version": obj["version"],
+        "status": obj["status"],
+        "name": obj["name"],
+        "description": obj["description"],
+        "category": obj["category"],
+        "tags": list(obj["tags"]),
+        "aliases": list(obj["aliases"]),
+        "thumbnail_path": "styles/%s/thumbnail.webp" % sid,
+        "thumbnail_alt": obj["thumbnail"]["alt"],
+        "content_hash": content_hash(obj, thumb_bytes),
+    }
 
 
 def build_index_payload(root):
@@ -591,6 +627,48 @@ def build_index_payload(root):
         "source_digest": source_digest(entries),
         "styles": entries,
     }
+
+
+def read_index(root):
+    path = index_path(root)
+    if not os.path.isfile(path):
+        raise AixError("INDEX_MISSING", "搜索索引缺失，请由维护者运行 build-index。")
+    index = load_json_file(path, "INDEX_STALE", "catalog/index.json")
+    _check_keys(index, INDEX_KEYS, "catalog", "INDEX_STALE")
+    if index["schema_version"] != SCHEMA_VERSION:
+        _fail("索引 schema_version 不受支持。", "SCHEMA_UNSUPPORTED")
+    if index["library_version"] != library_version(root):
+        _fail("索引 library_version 与源不一致。", "INDEX_STALE")
+    entries = index["styles"]
+    if not isinstance(entries, list):
+        _fail("索引 styles 必须是数组。", "INDEX_STALE")
+    ids = []
+    for entry in entries:
+        _check_keys(entry, ENTRY_KEYS, "索引记录", "INDEX_STALE")
+        sid = entry["id"]
+        if not is_canonical_id(sid):
+            _fail("索引 ID 非法。", "INDEX_STALE")
+        ids.append(sid)
+        if not isinstance(entry["version"], str) or not VERSION_RE.fullmatch(entry["version"]):
+            _fail("索引版本非法。", "INDEX_STALE")
+        if entry["status"] not in STATUSES or entry["category"] not in CATEGORIES:
+            _fail("索引状态或分类非法。", "INDEX_STALE")
+        for key, high in (("name", 60), ("description", 240), ("thumbnail_alt", 180)):
+            _check_str(entry[key], 1, high, "索引 " + key, "INDEX_STALE")
+        _check_str_list(entry["tags"], 1, 12, 1, 24, "索引 tags", "INDEX_STALE")
+        _check_str_list(entry["aliases"], 0, 8, 1, 60, "索引 aliases", "INDEX_STALE")
+        if entry["thumbnail_path"] != "styles/%s/thumbnail.webp" % sid:
+            _fail("索引 thumbnail_path 非法。", "INDEX_STALE")
+        if not isinstance(entry["content_hash"], str) or not re.fullmatch(r"[0-9a-f]{64}", entry["content_hash"]):
+            _fail("索引 content_hash 非法。", "INDEX_STALE")
+    if ids != sorted(set(ids), key=lambda sid: int(sid[3:])):
+        _fail("索引 ID 重复或顺序非法。", "INDEX_STALE")
+    if index["source_digest"] != source_digest(entries):
+        _fail("索引记录与 source_digest 不一致。", "INDEX_STALE")
+    # Directory names are cheap to inspect; no full source/thumbnail scan here.
+    if ids != style_directory_ids(root):
+        _fail("索引 ID 集合与风格目录不一致。", "INDEX_STALE")
+    return index
 
 
 def write_index(root, payload):
@@ -656,12 +734,7 @@ def cmd_get(root, sid_raw, version):
 
 def cmd_search(root, request_path):
     request = validate_request_obj(load_request(request_path), "search")
-    idx_file = index_path(root)
-    if not os.path.isfile(idx_file):
-        raise AixError("INDEX_MISSING", "搜索索引缺失，请由维护者运行 build-index。")
-    index = load_json_file(idx_file, code="INDEX_MISSING", label="catalog/index.json")
-    if index.get("schema_version") != SCHEMA_VERSION:
-        raise AixError("SCHEMA_UNSUPPORTED", "索引 schema_version 不受支持。")
+    index = read_index(root)
 
     terms = []
     for term in request["terms"]:
@@ -687,10 +760,10 @@ def cmd_search(root, request_path):
         try:
             obj, thumb_bytes = read_style(root, sid)
         except AixError as exc:
+            if exc.code == "PATH_OUTSIDE_LIBRARY":
+                raise
             raise AixError("INDEX_STALE", "索引候选 %s 与源文件不一致：%s。" % (sid, exc.message))
-        actual = content_hash(obj, thumb_bytes)
-        if (obj["version"] != entry.get("version") or obj["status"] != entry.get("status")
-                or actual != entry.get("content_hash")):
+        if entry_for_style(obj, thumb_bytes) != entry:
             raise AixError("INDEX_STALE", "索引候选 %s 已陈旧，请维护者重建索引。" % sid)
         candidates.append({
             "id": sid,
@@ -822,8 +895,15 @@ def cmd_prepare(root, request_path):
 def cmd_validate(root, scope, evidence_root, baseline):
     entries = collect_entries(root)
     active = [entry for entry in entries if entry["status"] == "active"]
+    index = read_index(root)
+    if index != build_index_payload(root):
+        _fail("索引与完整源数据不一致，请重建索引。", "INDEX_STALE")
+    release_info = {}
+    warnings = []
     if scope == "release":
-        _validate_release(root, active, evidence_root, baseline)
+        release_info = _validate_release(root, active, evidence_root, baseline)
+        if release_info["release_profile"] == "preview":
+            warnings.append({"code": "PREVIEW_ONLY", "message": "仅通过预览包校验，未认证真实出图、正式素材或 9 分验收。", "related_ids": []})
     data = {
         "scope": scope,
         "checked_styles": len(entries),
@@ -833,91 +913,262 @@ def cmd_validate(root, scope, evidence_root, baseline):
         ),
         "active_styles": len(active),
         "source_digest": source_digest(entries),
+        **release_info,
     }
-    return data, []
+    return data, warnings
 
 
 def _resolve_within(base, relative, label):
+    base = _real(base)
+    if (not isinstance(relative, str) or not relative.strip() or os.path.isabs(relative)
+            or "\\" in relative or ":" in relative or any(p in ("", ".", "..") for p in relative.split("/"))):
+        _fail("%s 必须是规范相对路径。" % label)
     resolved = _real(os.path.join(base, relative))
     if not _is_within(base, resolved):
         _fail("%s 逃逸出评测根目录。" % label)
     return resolved
 
 
+def _release_dependencies():
+    try:
+        from jsonschema import Draft202012Validator
+        from PIL import Image
+    except ImportError:
+        _fail("完整发布校验需要开发依赖 jsonschema 与 Pillow；请在开发环境安装 requirements-dev.txt 后重试。",
+              "DEPENDENCY_MISSING")
+    return Draft202012Validator, Image
+
+
+def _schema_validate(root, filename, value, validator_class):
+    path = safe_child(root, "references", "schemas", filename)
+    schema = load_json_file(path, "SCHEMA_UNSUPPORTED", filename)
+    # Release validation is offline, including schemas supplied by the package.
+    def local_refs(node):
+        if isinstance(node, dict):
+            for key, item in node.items():
+                if key in ("$ref", "$dynamicRef") and (not isinstance(item, str) or not item.startswith("#")):
+                    _fail("Schema 仅允许文件内引用。", "SCHEMA_UNSUPPORTED")
+                local_refs(item)
+        elif isinstance(node, list):
+            for item in node:
+                local_refs(item)
+    local_refs(schema)
+    try:
+        validator_class.check_schema(schema)
+    except Exception:
+        _fail("无效的发布 Schema：%s。" % filename, "SCHEMA_UNSUPPORTED")
+    error = next(validator_class(schema).iter_errors(value), None)
+    if error is not None:
+        _fail("%s 校验失败（%s）：%s。" % (filename, "/".join(map(str, error.path)), error.message))
+
+
+def _check_image(path, image_module, thumbnail=False):
+    import warnings
+    try:
+        with warnings.catch_warnings():
+            warnings.simplefilter("error", image_module.DecompressionBombWarning)
+            with image_module.open(path) as image:
+                if getattr(image, "n_frames", 1) != 1:
+                    _fail("图片必须是静态图片：%s。" % os.path.basename(path))
+                if thumbnail:
+                    if image.format != "WEBP" or max(image.size) != 640 or min(image.size) < 320:
+                        _fail("缩略图必须是静态 WebP，长边 640px、短边至少 320px。")
+                    if os.path.getsize(path) > THUMB_LIMIT_BYTES:
+                        _fail("缩略图超过 250 KiB。")
+                image.verify()
+            with image_module.open(path) as image:
+                image.load()
+                rgb = image.convert("RGB")
+                # Hash decoded pixels, so re-encoding the same image cannot
+                # fabricate six independent visual samples.
+                digest = hashlib.sha256(str(rgb.size).encode("ascii") + rgb.tobytes()).hexdigest()
+    except AixError:
+        raise
+    except Exception:
+        _fail("图片无法安全解码：%s。" % os.path.basename(path), "ASSET_MISSING")
+    return digest
+
+
+def _nonempty_file(base, relative, label):
+    path = _resolve_within(base, relative, label)
+    if not os.path.isfile(path) or os.path.getsize(path) == 0:
+        _fail("%s 不存在或为空。" % label)
+    return path
+
+
+def _score(value, label):
+    if type(value) is not int or not 1 <= value <= 5:
+        _fail("%s 必须是 1～5 整数。" % label)
+    return value
+
+
 def _validate_release(root, active, evidence_root, baseline):
+    validator_class, image_module = _release_dependencies()
+    version = library_version(root)
+    profile = "preview" if int(version.split(".")[0]) == 0 else "formal"
     if not evidence_root:
         raise AixError("INVALID_REQUEST", "release 校验需要 --evidence-root。")
     evidence_root = _real(evidence_root)
     if not os.path.isdir(evidence_root):
         raise AixError("INVALID_REQUEST", "evidence-root 不存在或不是目录。")
-
+    if not active:
+        _fail("发布包至少需要一个 active 风格。", "RELEASE_NOT_READY")
+    entries = collect_entries(root)
+    if any(entry["status"] == "draft" for entry in entries):
+        _fail("发布包不能包含 draft；请先在 staging 目录组包。", "RELEASE_NOT_READY")
+    if profile == "formal" and (len(active) < 20 or len({e["category"] for e in active}) < 3):
+        _fail("正式版本需要至少 20 个 active 风格、覆盖至少 3 个分类。", "RELEASE_NOT_READY")
+    for entry in entries:
+        obj, _ = read_style(root, entry["id"])
+        _schema_validate(root, "style.schema.json", obj, validator_class)
+        _check_image(style_paths(root, entry["id"])[2], image_module, thumbnail=True)
+        if obj["replacement_id"] is not None and obj["replacement_id"] not in {e["id"] for e in active}:
+            _fail("replacement_id 必须指向包内 active 风格。")
+    _schema_validate(root, "catalog.schema.json", read_index(root), validator_class)
+    all_style_scores, all_content_scores = [], []
+    image_digests = set()
     for entry in active:
         sid = entry["id"]
         obj, _ = read_style(root, sid)
         prov = obj["provenance"]
-        if prov["commercial_use"] != "allowed":
-            _fail("release 要求 active 风格 %s 的 commercial_use=allowed。" % sid)
+        if prov["commercial_use"] != "allowed" or prov["source_type"] == "unknown":
+            _fail("release 要求 active 风格 %s 有已知来源且 commercial_use=allowed。" % sid)
+        # Offline source URLs are declarations; the locally reviewed rights
+        # record below is always required. Local references must resolve.
+        source_ref = prov["source_ref"]
+        if not source_ref.startswith(("https://", "http://")):
+            local_source = source_ref.removeprefix("evaluation/")
+            _nonempty_file(evidence_root, local_source, "source_ref")
+        license_ref = prov["license_ref"].split("#", 1)[0]
+        if not license_ref.startswith(("https://", "http://")):
+            _nonempty_file(root, license_ref, "license_ref")
         evidence_ref = obj["quality"]["evidence_ref"]
-        resolved = _resolve_within(evidence_root, evidence_ref, "风格 %s 的 evidence_ref" % sid)
-        if not os.path.isfile(resolved):
-            _fail("风格 %s 的评测记录不存在：%s。" % (sid, evidence_ref))
+        resolved = _nonempty_file(evidence_root, evidence_ref, "evidence_ref")
         record = load_json_file(resolved, code="STYLE_INVALID", label=evidence_ref)
         required = {
             "style_id", "style_version", "tested_tool", "tested_at", "reviewer",
             "review_mode", "rights_record", "samples", "versatility_score",
         }
-        missing = required - set(record)
-        if missing:
-            _fail("风格 %s 的评测记录缺少字段：%s。" % (sid, ", ".join(sorted(missing))))
+        _check_keys(record, required | {"limitations", "evidence_type"}, "评测记录", "STYLE_INVALID", required)
         if record["style_id"] != sid or record["style_version"] != obj["version"]:
             _fail("风格 %s 的评测记录与当前版本不一致。" % sid)
+        for key in ("tested_tool", "tested_at"):
+            if record[key] != obj["quality"][key]:
+                _fail("评测 %s 与风格 quality 不一致。" % key)
+        _check_date(record["tested_at"], "评测 tested_at")
+        for key in ("tested_tool", "reviewer"):
+            _check_str(record[key], 1, 500, "评测 " + key)
+            if not record[key].strip():
+                _fail("评测 %s 不能为空白。" % key)
+        if "limitations" in record and not isinstance(record["limitations"], str):
+            _fail("limitations 必须是字符串。")
+        if "evidence_type" in record and record["evidence_type"] not in ("procedural_preview", "image_model"):
+            _fail("evidence_type 必须是 procedural_preview 或 image_model。")
         if record["review_mode"] not in ("independent", "self_blind"):
-            _fail("风格 %s 的 review_mode 非法。" % sid)
-        if not (isinstance(record["versatility_score"], int) and 1 <= record["versatility_score"] <= 5):
-            _fail("风格 %s 的 versatility_score 必须是 1～5 整数。" % sid)
-        rights = _resolve_within(evidence_root, record["rights_record"], "风格 %s 的 rights_record" % sid)
-        if not os.path.isfile(rights):
-            _fail("风格 %s 的 rights_record 不存在。" % sid)
+            _fail("review_mode 非法。")
+        if record["review_mode"] == "self_blind" and not record.get("limitations", "").strip():
+            _fail("self_blind 必须记录评审限制。")
+        if profile == "formal" and record.get("evidence_type") != "image_model":
+            _fail("正式版本需要 evidence_type=image_model 的真实生成证据。", "RELEASE_NOT_READY")
+        versatility = _score(record["versatility_score"], "versatility_score")
+        _nonempty_file(evidence_root, record["rights_record"], "rights_record")
         if not isinstance(record["samples"], list) or len(record["samples"]) < 6:
             _fail("风格 %s 至少需要 6 个视觉样例。" % sid)
+        case_ids, image_paths = set(), set()
+        categories = {"人物": 0, "物体": 0, "场景": 0}
+        style_scores, content_scores = [], []
         for sample in record["samples"]:
             sample_keys = {
                 "case_id", "subject_category", "prompt", "image_path",
                 "style_score", "content_score", "notes",
             }
-            missing_sample = sample_keys - set(sample)
-            if missing_sample:
-                _fail("风格 %s 的样例缺少字段：%s。" % (sid, ", ".join(sorted(missing_sample))))
-            for key in ("style_score", "content_score"):
-                if not (isinstance(sample[key], int) and 1 <= sample[key] <= 5):
-                    _fail("风格 %s 的样例 %s 分数必须是 1～5 整数。" % (sid, sample["case_id"]))
-            image = _resolve_within(
-                evidence_root, sample["image_path"], "风格 %s 的样例图片路径" % sid
-            )
-            if not os.path.isfile(image):
-                _fail("风格 %s 的样例图片不存在：%s。" % (sid, sample["image_path"]))
-
-    payload = build_index_payload(root)
-    idx_file = index_path(root)
-    if not os.path.isfile(idx_file):
-        raise AixError("INDEX_MISSING", "release 校验要求已构建索引。")
-    on_disk = load_json_file(idx_file, code="INDEX_MISSING", label="catalog/index.json")
-    if on_disk.get("source_digest") != payload["source_digest"]:
-        raise AixError("INDEX_STALE", "索引与源文件摘要不一致，请重建索引。")
-    if on_disk.get("library_version") != payload["library_version"]:
-        raise AixError("INDEX_STALE", "索引 library_version 与 library.json 不一致。")
-
+            _check_keys(sample, sample_keys | {"generation_ref"}, "视觉样例", "STYLE_INVALID", sample_keys)
+            for key in ("case_id", "prompt", "notes"):
+                _check_str(sample[key], 1, 12000, "样例 " + key)
+                if not sample[key].strip():
+                    _fail("样例 %s 不能为空白。" % key)
+            if sample["case_id"] in case_ids:
+                _fail("视觉样例 case_id 重复。")
+            case_ids.add(sample["case_id"])
+            category = sample["subject_category"]
+            if not isinstance(category, str) or category not in categories:
+                _fail("subject_category 必须是人物、物体或场景。")
+            categories[category] += 1
+            style_scores.append(_score(sample["style_score"], "style_score"))
+            content_scores.append(_score(sample["content_score"], "content_score"))
+            image = _nonempty_file(evidence_root, sample["image_path"], "样例图片")
+            if image in image_paths:
+                _fail("视觉样例 image_path 重复。")
+            image_paths.add(image)
+            digest = _check_image(image, image_module)
+            if digest in image_digests:
+                _fail("视觉样例图片内容重复，不能作为独立测试结果。")
+            image_digests.add(digest)
+            if profile == "formal":
+                generation_path = _nonempty_file(evidence_root, sample.get("generation_ref"), "generation_ref")
+                generation = load_json_file(generation_path)
+                keys = {"status", "tool", "prompt", "image_sha256", "parameters"}
+                _check_keys(generation, keys, "生成记录", "STYLE_INVALID")
+                if (generation["status"] != "generated" or generation["tool"] != record["tested_tool"]
+                        or generation["prompt"] != sample["prompt"] or not isinstance(generation["parameters"], dict)):
+                    _fail("生成记录未完成或与样例不一致。", "RELEASE_NOT_READY")
+                with open(image, "rb") as handle:
+                    image_hash = hashlib.file_digest(handle, "sha256").hexdigest()
+                if generation["image_sha256"] != image_hash:
+                    _fail("生成记录与图片摘要不一致。", "RELEASE_NOT_READY")
+        if min(categories.values()) < 2:
+            _fail("每个风格人物、物体、场景样例分别至少 2 个。")
+        if min(sum(style_scores) / len(style_scores), sum(content_scores) / len(content_scores), versatility) < 4:
+            _fail("每风格的风格/内容均分及跨题材评分必须至少为 4。")
+        all_style_scores.extend(style_scores)
+        all_content_scores.extend(content_scores)
+    if sum(s >= 4 for s in all_style_scores) / len(all_style_scores) < .9:
+        _fail("全库风格一致性达标率不足 90%。")
+    if sum(s >= 4 for s in all_content_scores) / len(all_content_scores) < .95:
+        _fail("全库内容保留达标率不足 95%。")
+    if profile == "formal":
+        _validate_acceptance(root, evidence_root)
     if baseline:
         _compare_baseline(root, baseline)
+    return {"release_profile": profile, "visual_samples": len(all_style_scores),
+            "formal_evidence_checked": profile == "formal"}
+
+
+def _validate_acceptance(root, evidence_root):
+    # Human/agent judgments cannot be inferred from image metadata. Require
+    # explicit, version-bound attestations with intact underlying records.
+    path = _nonempty_file(evidence_root, "results/%s/acceptance.json" % library_version(root), "正式验收记录")
+    record = load_json_file(path)
+    _check_keys(record, {"library_version", "source_digest", "reviewer", "gates"}, "正式验收记录", "RELEASE_NOT_READY")
+    if record["library_version"] != library_version(root) or record["source_digest"] != build_index_payload(root)["source_digest"]:
+        _fail("正式验收记录与当前发布内容不一致。", "RELEASE_NOT_READY")
+    _check_str(record["reviewer"], 1, 200, "验收人", "RELEASE_NOT_READY")
+    if not record["reviewer"].strip():
+        _fail("验收人不能为空白。", "RELEASE_NOT_READY")
+    names = {"agent_behavior", "search", "host_tool", "portability", "rollback"}
+    _check_keys(record["gates"], names, "正式验收 gates", "RELEASE_NOT_READY")
+    for name, gate in record["gates"].items():
+        _check_keys(gate, {"status", "record_ref", "sha256"}, name, "RELEASE_NOT_READY")
+        if gate["status"] != "passed":
+            _fail("正式验收项 %s 尚未通过。" % name, "RELEASE_NOT_READY")
+        evidence = _nonempty_file(evidence_root, gate["record_ref"], name)
+        with open(evidence, "rb") as handle:
+            digest = hashlib.file_digest(handle, "sha256").hexdigest()
+        if digest != gate["sha256"]:
+            _fail("正式验收项 %s 的记录摘要不一致。" % name, "RELEASE_NOT_READY")
 
 
 def _compare_baseline(root, baseline):
-    baseline_index = os.path.join(_real(baseline), "catalog", "index.json")
-    if not os.path.isfile(baseline_index):
-        raise AixError("INVALID_REQUEST", "baseline 目录缺少 catalog/index.json。")
-    old = load_json_file(baseline_index, code="INVALID_REQUEST", label="baseline index")
+    old = read_index(baseline)
+    if old != build_index_payload(baseline):
+        _fail("baseline 索引与源数据不一致。", "INDEX_STALE")
     old_map = {entry["id"]: entry for entry in old.get("styles", [])}
-    for entry in collect_entries(root):
+    current = collect_entries(root)
+    if _version_less(library_version(root), library_version(baseline)):
+        _fail("发布库版本不允许回退；回滚应直接恢复旧包。")
+    if library_version(root) == library_version(baseline) and build_index_payload(root) != old:
+        _fail("同一库版本下内容不可覆盖。")
+    for entry in current:
         previous = old_map.get(entry["id"])
         if previous is None:
             continue
@@ -925,8 +1176,9 @@ def _compare_baseline(root, baseline):
             _fail("风格 %s 版本回退：%s -> %s。" % (entry["id"], previous["version"], entry["version"]))
         if previous["version"] == entry["version"] and previous["content_hash"] != entry["content_hash"]:
             _fail("风格 %s 在同版本下内容被覆盖。" % entry["id"])
-    for sid in old_map:
-        if sid not in {entry["id"] for entry in collect_entries(root)}:
+    current_ids = {entry["id"] for entry in current}
+    for sid, previous in old_map.items():
+        if previous["status"] != "draft" and sid not in current_ids:
             _fail("已发布风格 %s 在新包中消失。" % sid)
 
 
@@ -983,6 +1235,8 @@ def _parse_options(argv, allowed, required):
             index += 1
         if key not in allowed:
             raise AixError("INVALID_REQUEST", "未知参数：--%s。" % key)
+        if key in values:
+            raise AixError("INVALID_REQUEST", "重复参数：--%s。" % key)
         values[key] = value
         index += 1
     for key in required:
@@ -994,19 +1248,22 @@ def _parse_options(argv, allowed, required):
 def run(argv, root=None):
     root = root if root is not None else default_skill_root()
     start = time.perf_counter()
-    operation = argv[0] if argv else None
+    requested_operation = argv[0] if argv else None
+    operation = requested_operation if requested_operation in OPERATIONS else "unknown"
+    lib_version = None
 
     def finish(status, code, message, data, warnings):
         elapsed = int(round((time.perf_counter() - start) * 1000))
         return make_envelope(
-            operation or "unknown", status, code, message, data, warnings,
-            "script", elapsed, library_version(root),
+            operation, status, code, message, data, warnings,
+            "script", elapsed, lib_version,
         ), EXIT_CODES.get(code, 6)
 
     if not argv:
         return finish("error", "INVALID_REQUEST", "缺少子命令。", None, [])
 
     try:
+        lib_version = library_version(root)
         if operation == "get":
             options = _parse_options(argv[1:], {"id", "version"}, {"id"})
             data, warnings = cmd_get(root, options["id"], options.get("version"))
@@ -1027,16 +1284,23 @@ def run(argv, root=None):
         elif operation == "build-index":
             data, warnings = cmd_build_index(root)
         else:
-            return finish("error", "INVALID_REQUEST", "未知子命令：%s。" % operation, None, [])
+            return finish("error", "INVALID_REQUEST", "未知子命令：%s。" % requested_operation, None, [])
         return finish("ok", "OK", "命令成功。", data, warnings)
     except AixError as exc:
         return finish("error", exc.code, exc.message, None, exc.warnings)
+    except OSError as exc:
+        return finish("error", "STYLE_INVALID", "资源无法访问：%s。" % exc, None, [])
     except Exception as exc:  # noqa: BLE001 - convert unexpected failures
         sys.stderr.write("aix.py internal error: %r\n" % (exc,))
         return finish("error", "INTERNAL_ERROR", "发生未预期错误，已停止。", None, [])
 
 
 def main(argv=None):
+    # Windows redirected streams may default to a legacy code page. The CLI
+    # protocol is UTF-8 regardless of terminal locale or pipe destination.
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8", errors="backslashreplace", newline="\n")
     argv = list(sys.argv[1:] if argv is None else argv)
     envelope, exit_code = run(argv)
     sys.stdout.write(dump_json(envelope))

@@ -1,0 +1,24 @@
+{
+  "created": 1789977410,
+  "usage": {
+    "input_tokens": 116,
+    "output_tokens": 1584,
+    "total_tokens": 1700,
+    "input_tokens_details": {
+      "text_tokens": 116,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：青绿色调的阅览室，一本书被红布盖住\n必须保留：阅览室；红布\n视觉风格：复古海报式平涂结合强噪点；青绿背景配黑色主体与鲜红遮挡块；侧光厚影，高对比；中心半身像特写；粗糙颗粒如旧印刷品\n画幅比例：2:3\n避免出现：光滑渐变；甜系配色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/c1aba532629789952aaf4c6856416fd9.png"
+    }
+  ]
+}

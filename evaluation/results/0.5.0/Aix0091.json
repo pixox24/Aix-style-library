@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0091",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0091.md",
+  "samples": [
+    {
+      "case_id": "Aix0091-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑色剪影站在浅灰背景前，面部爆出红橙蓝三色光\n必须保留：黑色剪影；彩色光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，剪影与光束结合紧密，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-01.json"
+    },
+    {
+      "case_id": "Aix0091-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：闭眼演奏者的胸口升起一束彩色光谱\n必须保留：演奏者；光谱\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-02.json"
+    },
+    {
+      "case_id": "Aix0091-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只黑色收音机从旋钮处喷出彩色光柱\n必须保留：收音机；光柱\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-03.json"
+    },
+    {
+      "case_id": "Aix0091-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：白色面具中央裂开一条彩虹光线\n必须保留：白色面具；彩虹光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合风格与内容要求，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-04.json"
+    },
+    {
+      "case_id": "Aix0091-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：空旷灰色广场中央出现一道垂直彩光\n必须保留：广场；垂直彩光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-05.png",
+      "style_score": 3,
+      "content_score": 5,
+      "notes": "光束呈3D写实烟雾质感，偏离扁平矢量与锐利色块核心特征。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-05.json"
+    },
+    {
+      "case_id": "Aix0091-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑色剧场幕布后爆发一束多色光，轮廓保持简洁\n必须保留：剧场幕布；多色光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0091-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "无可见瑕疵，完美符合风格与内容要求。",
+      "generation_ref": "results/0.5.0/generations/Aix0091-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

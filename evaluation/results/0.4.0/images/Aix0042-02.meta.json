@@ -1,0 +1,24 @@
+{
+  "created": 1789895078,
+  "usage": {
+    "input_tokens": 145,
+    "output_tokens": 1584,
+    "total_tokens": 1729,
+    "input_tokens_details": {
+      "text_tokens": 145,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：少年趴在书桌前睡着了，台灯还亮着\n必须保留：伏睡少年；台灯\n视觉风格：赛璐璐平涂结合硬朗线稿，动画美术质感；蓝紫冷调室内与暖黄灯光对比；室内局部暖光，窗外冷月光辅衬；中心构图，环境细节围绕主体堆叠；轻微复古噪点，织物与纸页质感\n画幅比例：2:3\n避免出现：强霓虹；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/74e7b33536639980e82d68f45bd19aeb.png"
+    }
+  ]
+}

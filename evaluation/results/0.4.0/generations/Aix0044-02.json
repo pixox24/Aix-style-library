@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：摘下头盔的战士侧影，披风垂下\n必须保留：战士；头盔\n视觉风格：数字厚涂结合硬边轮廓与手绘排线；纯蓝底色，米白灰褐的盔甲色；大面积留白，主体置于一角；柔和渐变体积光；纸张纹理与笔触肌理\n画幅比例：2:3\n避免出现：多色杂糅；硬边矢量；乱码文字与伪文字",
+  "image_sha256": "7051e34fc5d896b354233ac1bdc57344e6f693e0b3b414b972962dd1120e4b71",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

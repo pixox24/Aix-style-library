@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：仰头的男子上半身化作白鸟飞散\n必须保留：仰头男子；白鸟\n视觉风格：数字笔触结合矢量流线，轻重对比；天蓝背景配深蓝衣物与纯白飞鸟；均匀柔和光，鸟群自带高光；中心向上发散的升腾构图；平滑净润，细节处留笔触\n画幅比例：2:3\n避免出现：暗黑压抑；粗颗粒；乱码文字与伪文字",
+  "image_sha256": "1a7e0b274443a309f86224c210d73d780e588005c9e80ebf9005a29b7725fd4d",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

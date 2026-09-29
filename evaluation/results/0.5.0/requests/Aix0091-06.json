@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0091",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑色剧场幕布后爆发一束多色光，轮廓保持简洁",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "剧场幕布",
+      "多色光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

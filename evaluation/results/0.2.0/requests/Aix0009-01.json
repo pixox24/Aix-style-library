@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0009",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "悬崖上的小灯塔，塔顶一扇窗亮着暖黄的灯，几只海鸟盘旋",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "灯塔",
+      "暖黄灯窗"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

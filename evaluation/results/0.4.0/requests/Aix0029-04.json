@@ -1,0 +1,21 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0029",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "立在街边的旧路牌，被透视拉斜",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "路牌"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

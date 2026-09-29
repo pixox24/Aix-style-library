@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0104",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0104.md",
+  "samples": [
+    {
+      "case_id": "Aix0104-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：扎长辫子的女性穿西装站在淡紫背景前，保持清晰侧影\n必须保留：女性侧影；长辫子\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-01.json"
+    },
+    {
+      "case_id": "Aix0104-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴圆帽的人侧身站立，嘴边只有一点暖红色\n必须保留：圆帽人物；暖色亮点\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完全符合风格与内容要求，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-02.json"
+    },
+    {
+      "case_id": "Aix0104-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑色高跟鞋置于淡紫色台面，影子极简\n必须保留：高跟鞋；淡紫台面\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-03.json"
+    },
+    {
+      "case_id": "Aix0104-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只黑色瓶子旁放着一朵单色小花\n必须保留：瓶子；小花\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-04.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格完美契合，但花插在瓶中而非旁放，存在轻微偏差。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-04.json"
+    },
+    {
+      "case_id": "Aix0104-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：淡紫天台上只有一根黑色栏杆与远处月亮\n必须保留：天台；栏杆\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-05.json"
+    },
+    {
+      "case_id": "Aix0104-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：空旷车站的墙面被一个优雅侧影切开\n必须保留：车站；侧影\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0104-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0104-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

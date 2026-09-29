@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0100",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0100.md",
+  "samples": [
+    {
+      "case_id": "Aix0100-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人站在雾蓝墙前，巨大影子比本人慢半步抬手\n必须保留：人物；巨大影子\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容要求完全满足，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-01.json"
+    },
+    {
+      "case_id": "Aix0100-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿睡衣的人坐在窗边，身后的影子仍然站着\n必须保留：坐着的人；站立影子\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-02.json"
+    },
+    {
+      "case_id": "Aix0100-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏台灯在雾蓝房间里投出柔软的双重影子\n必须保留：台灯；双影\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-03.json"
+    },
+    {
+      "case_id": "Aix0100-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把椅子靠墙放着，墙上出现更大的空椅影\n必须保留：椅子；椅影\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，蓝绿雾气与柔焦质感佳，椅与巨影比例准确，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-04.json"
+    },
+    {
+      "case_id": "Aix0100-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：蓝绿色空房间里，人物与影子隔着一面墙相望\n必须保留：空房间；影子\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，蓝绿雾气与模糊大影子符合设定，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-05.json"
+    },
+    {
+      "case_id": "Aix0100-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾蓝站台上，远处的身影被拉成一团模糊回声\n必须保留：站台；模糊身影\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0100-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0100-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

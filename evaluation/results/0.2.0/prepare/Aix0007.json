@@ -1,0 +1,43 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0007",
+    "style_name": "低多边形渲染",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0007/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：山谷、湖泊与松树的低多边形风景，天空中是渐变晚霞\n必须保留：山谷湖泊；松树\n视觉风格：低多边形 3D 渲染，形体由明显几何切面构成；纯净渐变天空与环境色，切面间以明度分层；平行光照明，干净的面与面明暗对比；极简环境，主体居中或三分位，视线开阔\n画幅比例：2:3\n避免出现：高精度写实纹理与照片质感；手绘笔触与厚重噪点",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0007",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "e605aa67e77b53757b6a23bbdf415fdda636d4e17b19dada30d1721b34303d1c"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

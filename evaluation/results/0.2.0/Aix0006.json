@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0006",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0006.md",
+  "samples": [
+    {
+      "case_id": "Aix0006-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个背着红色小背包的黏土小人偶站在绿色的小山坡上，远处有一栋小房子\n必须保留：黏土小人偶；小山坡\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现黏土定格质感与微缩布景，所有指定元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-01.json"
+    },
+    {
+      "case_id": "Aix0006-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个黏土做的蛋糕师戴着白色小帽子，端着一个草莓蛋糕\n必须保留：黏土蛋糕师；草莓蛋糕\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黏土质感与微缩布景表现完美，主体及蛋糕元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-02.json"
+    },
+    {
+      "case_id": "Aix0006-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黏土质感的早餐桌：煎蛋、橙汁杯和一只小鸡造型玩具\n必须保留：煎蛋；橙汁杯\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黏土质感与光影表现完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-03.json"
+    },
+    {
+      "case_id": "Aix0006-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只黏土小狗守着一台黏土收音机，圆润可爱\n必须保留：黏土小狗；收音机\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，黏土质感、色彩及主体均无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-04.json"
+    },
+    {
+      "case_id": "Aix0006-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：微缩黏土街角：一根路灯、一辆小汽车与一家亮着灯的店铺\n必须保留：黏土街角；路灯\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现黏土定格质感与微缩街角，元素齐全，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-05.json"
+    },
+    {
+      "case_id": "Aix0006-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黏土露营地的夜晚：小帐篷、篝火和两棵小树\n必须保留：黏土帐篷；篝火\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "image_path": "results/0.2.0/images/Aix0006-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "火焰材质偏发光半透明，违背哑光特征；树桩纹理略写实，缺捏制感。",
+      "generation_ref": "results/0.2.0/generations/Aix0006-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0075",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "旧信件被白色丝带缠住，蝴蝶从缝隙飞出",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "旧信件",
+      "丝带"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

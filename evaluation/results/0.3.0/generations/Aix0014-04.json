@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把椅子被几何块面切割重构\n必须保留：椅子；几何块面\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+  "image_sha256": "e1c41f2dd3e25ec9f48b8b2e0823f1ac369e6776c6073c748f034db2e0a61225",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

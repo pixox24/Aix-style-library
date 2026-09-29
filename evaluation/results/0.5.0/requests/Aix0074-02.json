@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0074",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "背影站在米色风里，思绪像树冠向上展开",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "背影",
+      "树冠"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

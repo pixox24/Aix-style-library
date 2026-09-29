@@ -1,0 +1,24 @@
+{
+  "created": 1789871715,
+  "usage": {
+    "input_tokens": 170,
+    "output_tokens": 1584,
+    "total_tokens": 1754,
+    "input_tokens_details": {
+      "text_tokens": 170,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：环形剧场中央一束光，观众剪影围绕\n必须保留：剧场；光束\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "url": "https://gateway.change2pro.com/vendor/assets/998a3d3d252b3dc16cc789dde1601168.png"
+    }
+  ]
+}

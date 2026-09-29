@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一位提着灯笼的人沿石阶而上，身后是朱红圆日\n必须保留：提灯人；石阶\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+  "image_sha256": "95d79eab00463b56b68953c12be0e65f64acb5aac1cbb3e36d2d9bc733581241",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

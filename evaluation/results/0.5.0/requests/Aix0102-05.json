@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0102",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "冷蓝便利店走廊像坏掉的录像一样水平断裂",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "便利店",
+      "录像故障"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

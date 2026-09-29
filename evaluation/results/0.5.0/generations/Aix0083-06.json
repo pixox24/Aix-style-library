@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：被海水淹没的街区里，巨大全息灯塔重新亮起\n必须保留：淹没街区；全息灯塔\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+  "image_sha256": "3c922bb4b3d8c3b234bd1d5fb5c09735f8f38beec620fcd4a7d33e6da0261cf4",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 64.5
+  }
+}

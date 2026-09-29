@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0012",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雪后的神社鸟居小径，石灯笼亮着微光",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "鸟居",
+      "小径"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

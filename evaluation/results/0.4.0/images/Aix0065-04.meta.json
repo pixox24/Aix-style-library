@@ -1,0 +1,24 @@
+{
+  "created": 1789976327,
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 1584,
+    "total_tokens": 1702,
+    "input_tokens_details": {
+      "text_tokens": 118,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一把放在高台上的空椅\n必须保留：空椅；高台\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/bf7ff957444ca559f8a72dbc20a64122.png"
+    }
+  ]
+}

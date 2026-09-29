@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0064",
+    "style_name": "紫蓝阶梯巨眼",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0064/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：一个小人站在巨大阶梯顶端，脚下巨眼睁开\n必须保留：小人；巨眼\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0064",
+      "style_version": "1.0.0",
+      "library_version": "0.3.2",
+      "content_hash": "51f7f2e948c5ceeeb9507e0792c592ddef68cf46b73d013668077dc1e9528dec"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.3.2",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0056",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0056.md",
+  "samples": [
+    {
+      "case_id": "Aix0056-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个身影手捧橙红花束站在冷蓝雾中\n必须保留：身影；花束\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-01.json"
+    },
+    {
+      "case_id": "Aix0056-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑帽遮面的旅人握着一朵红花\n必须保留：旅人；红花\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，冷暖对比强烈，颗粒柔焦到位，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-02.json"
+    },
+    {
+      "case_id": "Aix0056-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一束橙红花放在泛蓝的旧木桌上\n必须保留：花束；木桌\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-03.json"
+    },
+    {
+      "case_id": "Aix0056-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：缠着丝带的旧相机挂在斑驳墙上\n必须保留：相机；丝带\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，相机与丝带完整保留，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-04.json"
+    },
+    {
+      "case_id": "Aix0056-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾蓝色的清晨码头，一个人影伫立\n必须保留：码头；雾\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，码头与雾元素完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-05.json"
+    },
+    {
+      "case_id": "Aix0056-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：冷调房间里的一扇窗与花影\n必须保留：窗；花影\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0056-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，窗与花影等必须保留元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0056-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

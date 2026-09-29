@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0025",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "深海中的粉色珊瑚与蓝色光带",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "珊瑚",
+      "光带"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

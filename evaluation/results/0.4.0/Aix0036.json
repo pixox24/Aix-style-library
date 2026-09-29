@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0036",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0036.md",
+  "samples": [
+    {
+      "case_id": "Aix0036-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人形在深渊漩涡中心下坠，周身青蓝微光\n必须保留：下坠人形；漩涡\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，构图对称，人形与漩涡完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-01.json"
+    },
+    {
+      "case_id": "Aix0036-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：浮升的侧影从暗色深渊中升起，衣物翻卷\n必须保留：浮升侧影；暗流\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-02.json"
+    },
+    {
+      "case_id": "Aix0036-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只坠落的怀表在漩涡里翻转\n必须保留：怀表；漩涡\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征明显，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-03.json"
+    },
+    {
+      "case_id": "Aix0036-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：沉入深潭的孤灯，光晕被暗流拉长\n必须保留：孤灯；暗流\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，构图对称且笔触粗犷；孤灯与暗流完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-04.json"
+    },
+    {
+      "case_id": "Aix0036-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：海面下的巨大漩涡剖面\n必须保留：漩涡；深海\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，内容元素无缺失，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-05.json"
+    },
+    {
+      "case_id": "Aix0036-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：荒原上被卷入天空的巨大尘卷\n必须保留：尘卷；荒原\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0036-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，构图与色彩契合；尘卷与荒原元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0036-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

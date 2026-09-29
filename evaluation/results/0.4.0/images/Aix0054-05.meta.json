@@ -1,0 +1,24 @@
+{
+  "created": 1789970024,
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 1584,
+    "total_tokens": 1713,
+    "input_tokens_details": {
+      "text_tokens": 129,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：午夜书桌，屏幕光把墙面照出一小块亮\n必须保留：书桌；屏幕光\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/e0552bf4d64619881a3f62ff0fc2b16a.png"
+    }
+  ]
+}

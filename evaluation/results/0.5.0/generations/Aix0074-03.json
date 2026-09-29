@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只陶碗里长出细蓝枝脉与白色果实\n必须保留：陶碗；枝脉\n视觉风格：流畅线条插画结合平面填色，边缘圆润；米色底与深蓝主体，白色留空作为呼吸区域；中心轴向上发散，底部收束、顶部展开；均匀平光，不依赖戏剧性阴影；干净纸面质感，少量线条粗细变化\n画幅比例：2:3\n避免出现：金属写实材质；高饱和多色光效；乱码文字与伪文字",
+  "image_sha256": "e06c2ef9650fb21f4a822ada8f6545c8b9698762367a6588e9b30dd3bbfb254c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 47.2
+  }
+}

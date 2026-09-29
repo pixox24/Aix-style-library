@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0008",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雨夜中的过街天桥，霓虹倒影铺满湿滑的台阶",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "天桥",
+      "霓虹倒影"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

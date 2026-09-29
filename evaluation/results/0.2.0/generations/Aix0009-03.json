@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：撑着伞在雨中奔跑的小女孩，裙摆飞扬\n必须保留：小女孩；雨伞\n视觉风格：黑白墨线插画，线条精细克制；黑白灰为主，全画仅一处低饱和点缀色；装饰性排线、弧线与重复线纹丰富暗部层次；大面积留白，主体偏置，画面疏朗有呼吸感\n画幅比例：2:3\n避免出现：高饱和多色与荧光色；3D光影与厚重色块堆叠",
+  "image_sha256": "5d8d95c40c0ad24d1e0451f354f4873f2a0de1a29f2aac6514723cbd19ee685a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

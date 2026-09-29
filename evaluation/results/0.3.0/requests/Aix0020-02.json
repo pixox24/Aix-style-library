@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0020",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "吹笛人站在桥上，桥下黑影中伸出无数双手",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "吹笛人",
+      "桥"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0011",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0011.md",
+  "samples": [
+    {
+      "case_id": "Aix0011-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：雨夜街头，一位穿风衣的侦探压低帽檐独行\n必须保留：侦探；风衣\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-01.json"
+    },
+    {
+      "case_id": "Aix0011-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：歌剧女伶半身像，高领礼服与手套，目光侧向\n必须保留：歌剧女伶；高领礼服\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-02.json"
+    },
+    {
+      "case_id": "Aix0011-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台老式怀表与一副皮手套的静物构成\n必须保留：怀表；皮手套\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩与硬边光影准确，元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-03.json"
+    },
+    {
+      "case_id": "Aix0011-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一瓶威士忌与倒好的酒杯，硬光下的静物\n必须保留：威士忌瓶；酒杯\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-04.json"
+    },
+    {
+      "case_id": "Aix0011-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：夜晚的火车站月台，一人提着皮箱走向灯下\n必须保留：月台；提箱者\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩与硬边光影准确，元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-05.json"
+    },
+    {
+      "case_id": "Aix0011-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：老式轿车停在雨夜街角，路灯光斑落在地面\n必须保留：老式轿车；街角\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0011-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，硬边撞色与构图精准，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0011-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

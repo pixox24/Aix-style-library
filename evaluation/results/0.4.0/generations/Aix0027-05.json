@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：球场边的仰视瞬间，篮球架被拉得巨大\n必须保留：篮球架；球场\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+  "image_sha256": "dfa84e78e19f2e05fc06d69d87c8a58c4b0e902a5f5e32a8ef1f9b492192e31b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

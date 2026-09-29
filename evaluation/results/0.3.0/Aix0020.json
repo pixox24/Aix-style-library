@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0020",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0020.md",
+  "samples": [
+    {
+      "case_id": "Aix0020-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：渡船上的人望向灰雾水面，水下红光涌动\n必须保留：渡船人；水下红光\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-01.json"
+    },
+    {
+      "case_id": "Aix0020-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：吹笛人站在桥上，桥下黑影中伸出无数双手\n必须保留：吹笛人；桥\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-02.json"
+    },
+    {
+      "case_id": "Aix0020-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏浮在水面的河灯，水下倒影是另一番景象\n必须保留：河灯；水下倒影\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "构图色彩光影符合，但粗糙纸面质感与手绘抖动轮廓线偏弱，偏CG渲染。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-03.json"
+    },
+    {
+      "case_id": "Aix0020-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：沉在水面的铁锚，水下缠绕着手影\n必须保留：船锚；手影\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "上下分割构图与红黑对比完美，颗粒质感与光影特征准确，锚与手影完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-04.json"
+    },
+    {
+      "case_id": "Aix0020-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾中的跨海大桥，桥下深海红光成片\n必须保留：大桥；深海红光\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "构图、色彩、光影及粗糙纸面质感完美契合，元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-05.json"
+    },
+    {
+      "case_id": "Aix0020-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：午夜渡口的小船与水下城市轮廓\n必须保留：渡口小船；水下城市\n视觉风格：水平分割构图：画面上部与下部呈现对比鲜明的两个世界；上部低饱和灰白冷调，下部深黑底上高饱和珊瑚红与亮红；上部柔和漫射光，下部自发光式红光由下向上渗透；喷枪与粉彩式数字绘画，硬边剪影与柔和过渡并存；通体颗粒噪点，粗糙纸面质感\n画幅比例：2:3\n避免出现：明亮均一的色调；光滑无纹理的渲染与写实照片质感；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0020-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "上部色调偏深冷灰蓝非灰白，船身轮廓较实抖动感不足，整体构图与质感符合。",
+      "generation_ref": "results/0.3.0/generations/Aix0020-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790531286,
+  "usage": {
+    "input_tokens": 160,
+    "output_tokens": 1584,
+    "total_tokens": 1744,
+    "input_tokens_details": {
+      "text_tokens": 160,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：石阶尽头的暗红庭院，白色布带悬在枯树间\n必须保留：石阶；枯树\n视觉风格：细腻数字厚涂，布料与羽翅边缘柔和；深酒红背景配黑白主体，局部灰蓝提亮；中心下沉、上方发散的垂直升腾构图；柔和侧光塑造布料褶皱，背景保持暗；布料纤维、蝶翅细节与轻微胶片颗粒\n画幅比例：2:3\n避免出现：明亮糖果色；硬边几何平涂；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/1188df9fbb74558a0e73025f3b2dfc99.png"
+    }
+  ]
+}

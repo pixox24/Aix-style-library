@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0090",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑场中一位小人站在冷蓝几何台阶旁接受单束聚光",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "小人",
+      "几何台阶"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0063",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0063.md",
+  "samples": [
+    {
+      "case_id": "Aix0063-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个剪影人物的脸被红色矩形框住\n必须保留：剪影；红框\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容要求完全符合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-01.json"
+    },
+    {
+      "case_id": "Aix0063-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：低头的人影，一滴白色眼泪落下\n必须保留：人影；泪滴\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "三色极简与丝网颗粒感完美呈现，人影与白泪滴完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-02.json"
+    },
+    {
+      "case_id": "Aix0063-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：红色方块上的一只旧门锁\n必须保留：方块；门锁\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "丝网颗粒与三色极简特征完美，方块与门锁完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-03.json"
+    },
+    {
+      "case_id": "Aix0063-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一滴白墨落在黑色石面上\n必须保留：白墨；石面\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-04.json"
+    },
+    {
+      "case_id": "Aix0063-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑红相间的舞台幕布裂缝\n必须保留：幕布；裂缝\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "丝网颗粒与三色极简特征完美，幕布裂缝完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-05.json"
+    },
+    {
+      "case_id": "Aix0063-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：红门在黑墙上半开着，透出白光\n必须保留：红门；黑墙\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0063-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "三色极简与丝网颗粒质感完美，红门黑墙及白光元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0063-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

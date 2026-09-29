@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0003",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "城市天际线几何海报，一个大圆落日悬在建筑方块之上",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "天际线",
+      "落日大圆"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

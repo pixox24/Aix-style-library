@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把钥匙插在厚重木门上\n必须保留：钥匙；木门\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+  "image_sha256": "85f73fcb4f9f03c396a4ca4d4fa1d25ab70406c1a39d3f11c559a19d4a3242da",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

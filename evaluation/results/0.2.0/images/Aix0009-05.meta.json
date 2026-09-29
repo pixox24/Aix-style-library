@@ -1,0 +1,24 @@
+{
+  "created": 1789825618,
+  "usage": {
+    "input_tokens": 148,
+    "output_tokens": 1584,
+    "total_tokens": 1732,
+    "input_tokens_details": {
+      "text_tokens": 148,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：桌上的一台古董打字机，纸页上飞起几只纸鹤\n必须保留：打字机；纸鹤\n视觉风格：黑白墨线插画，线条精细克制；黑白灰为主，全画仅一处低饱和点缀色；装饰性排线、弧线与重复线纹丰富暗部层次；大面积留白，主体偏置，画面疏朗有呼吸感\n画幅比例：2:3\n避免出现：高饱和多色与荧光色；3D光影与厚重色块堆叠",
+      "url": "https://gateway.change2pro.com/vendor/assets/d0de952db43111d817c5ba77f00af460.png"
+    }
+  ]
+}

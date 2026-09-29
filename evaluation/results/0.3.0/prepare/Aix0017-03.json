@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0017",
+    "style_name": "黑白负空间",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0017/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：两侧树木剪影围合出一只鸟的负形\n必须保留：树木剪影；鸟形\n视觉风格：图底反转负空间构图：黑色块面围合的中心留白构成可识别的第二形状；纯黑白双色，无灰度过渡；黑色块面内以白色精细线稿刻画纹理（砖墙、栏杆、格栅）；高对比剪影结合精细线稿，木刻与蚀刻版画语言；干净锐利无噪点，印刷品般的完成度\n画幅比例：2:3\n避免出现：灰度渐变与彩色；照片写实与柔和笔触；乱码文字与伪文字标签",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0017",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "330d4f0f2565088895ebbfac70922110343b75dd0dd9091374e9ca986c53a45e"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

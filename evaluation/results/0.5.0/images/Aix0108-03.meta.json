@@ -1,0 +1,24 @@
+{
+  "created": 1790540741,
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 1584,
+    "total_tokens": 1742,
+    "input_tokens_details": {
+      "text_tokens": 158,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只黑色花瓶中升起青绿色烟雾，地面有倒影\n必须保留：花瓶；青烟\n视觉风格：三维或厚涂数字渲染，烟雾和人物体积平滑；中性灰背景、黑色主体与青绿色烟雾对比；居中坐姿或站姿，流体围绕核心向上盘旋；柔和室内光与青绿色自发光共同照亮地面；半透明烟雾、光泽地面和细腻反射\n画幅比例：2:3\n避免出现：粗颗粒木刻；鲜艳多色背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/bcd05ee877dabbc1d1cd4637b104104f.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0004",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "月光下一人独坐山亭抚琴，山影淡淡",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "抚琴人",
+      "山亭"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

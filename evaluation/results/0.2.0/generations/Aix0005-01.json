@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：窗台上一只陶罐插着野花，旁边放着两颗柠檬，午后侧光\n必须保留：陶罐野花；柠檬\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+  "image_sha256": "ffc99f61c04374c37e75591f548d0368048d0a88014aa745963aed4440eb4eb0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 40.7
+  }
+}

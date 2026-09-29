@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0096",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一枚指南针悬在黑色中心，彩虹碎片从周围射出",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "指南针",
+      "彩虹碎片"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

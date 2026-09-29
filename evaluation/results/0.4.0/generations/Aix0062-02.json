@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个舞者的长发化作翻涌的脸谱\n必须保留：舞者；脸谱\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+  "image_sha256": "8ef32bc7080952766d929de93bab90cd8d3884a4412c2805c97a4403e2f17cfc",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

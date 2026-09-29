@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0072",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "侧身的人站在黑白两面墙之间，脸部被紫色旋涡遮住",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "侧身人物",
+      "紫色旋涡"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

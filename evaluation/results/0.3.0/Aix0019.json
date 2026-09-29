@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0019",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0019.md",
+  "samples": [
+    {
+      "case_id": "Aix0019-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：手拉手围成环的五个人影，眼部亮着光点\n必须保留：环形人影；发光眼点\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-01.json"
+    },
+    {
+      "case_id": "Aix0019-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：仰望天空的剪影人，头顶放射状张开手掌\n必须保留：仰头剪影；手掌\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-02.json"
+    },
+    {
+      "case_id": "Aix0019-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑色剪影围合成的环形烛台\n必须保留：环形烛台\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合三色极简与环形放射构图，烛台剪影完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-03.json"
+    },
+    {
+      "case_id": "Aix0019-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：圆形排列的黑色纸牌，中心一点白光\n必须保留：纸牌；光点\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-04.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "中心放射光线违背无渐变及中心留白要求。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-04.json"
+    },
+    {
+      "case_id": "Aix0019-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：环形剧场中央一束光，观众剪影围绕\n必须保留：剧场；光束\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "三色极简与环形构图完美呈现，剧场与光束元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-05.json"
+    },
+    {
+      "case_id": "Aix0019-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑夜中环形排列的雕像群，眼点发光\n必须保留：雕像群；光点\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0019-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合三色极简、环形放射构图及雕像眼点发光要求，无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0019-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

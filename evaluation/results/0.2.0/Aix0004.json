@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0004",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0004.md",
+  "samples": [
+    {
+      "case_id": "Aix0004-01",
+      "subject_category": "场景",
+      "prompt": "画面内容：远山、湖面与一叶孤舟，天边一行归鸟\n必须保留：远山；孤舟\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-01.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "左上角存在伪文字/乱码，扣除风格分。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-01.json"
+    },
+    {
+      "case_id": "Aix0004-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一位执伞的少女走过雨中的石桥，衣袂与伞面用寥寥数笔\n必须保留：执伞少女；石桥\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水墨晕染自然，留白得当，执伞少女与石桥完整，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-02.json"
+    },
+    {
+      "case_id": "Aix0004-03",
+      "subject_category": "人物",
+      "prompt": "画面内容：月光下一人独坐山亭抚琴，山影淡淡\n必须保留：抚琴人；山亭\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "水墨晕染和留白良好，但宣纸纹理与干笔飞白特征偏弱。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-03.json"
+    },
+    {
+      "case_id": "Aix0004-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枝斜出的红梅插在青瓷瓶中，瓶中清水隐约\n必须保留：红梅；青瓷瓶\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-04.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "右侧瓶身存在伪文字和乱码印章瑕疵，其余水墨写意特征良好。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-04.json"
+    },
+    {
+      "case_id": "Aix0004-05",
+      "subject_category": "物体",
+      "prompt": "画面内容：案头一盏油灯、一卷展开的书和一方便砚\n必须保留：油灯；书卷\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-05.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "书卷上存在明显的伪文字/乱码；油灯等局部过于写实，水墨写意特征偏弱。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-05.json"
+    },
+    {
+      "case_id": "Aix0004-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨后的竹林雾气弥漫，竹叶低垂，水珠欲滴\n必须保留：竹林；雾气\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "image_path": "results/0.2.0/images/Aix0004-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水墨晕化自然，留白得当，竹林雾气及水珠细节均完美呈现，无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0004-06.json"
+    }
+  ],
+  "versatility_score": 4,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

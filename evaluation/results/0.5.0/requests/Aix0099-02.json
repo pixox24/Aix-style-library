@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0099",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿风衣的匿名雕像侧身面对一扇窗",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "匿名雕像",
+      "窗"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

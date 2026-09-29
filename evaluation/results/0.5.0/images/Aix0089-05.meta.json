@@ -1,0 +1,24 @@
+{
+  "created": 1790535334,
+  "usage": {
+    "input_tokens": 148,
+    "output_tokens": 1584,
+    "total_tokens": 1732,
+    "input_tokens_details": {
+      "text_tokens": 148,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：蓝黑色小型展厅由六块不同光影空间组成\n必须保留：展厅；六格空间\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/e6c8813bab9264d62510a66f1c20f257.png"
+    }
+  ]
+}

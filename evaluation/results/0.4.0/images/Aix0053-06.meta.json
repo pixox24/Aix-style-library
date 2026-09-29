@@ -1,0 +1,24 @@
+{
+  "created": 1789969103,
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 1584,
+    "total_tokens": 1709,
+    "input_tokens_details": {
+      "text_tokens": 125,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：阳台洗衣区，晾着滴水的衬衫\n必须保留：阳台；晾晒\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/0c47492df6e3193272eca16c0cbc8c67.png"
+    }
+  ]
+}

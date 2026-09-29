@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0017",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "拉小提琴的人与城市天际线融合的剪影构图",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "提琴手",
+      "天际线"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

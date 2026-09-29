@@ -1,0 +1,24 @@
+{
+  "created": 1789824715,
+  "usage": {
+    "input_tokens": 144,
+    "output_tokens": 1584,
+    "total_tokens": 1728,
+    "input_tokens_details": {
+      "text_tokens": 144,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：微缩黏土街角：一根路灯、一辆小汽车与一家亮着灯的店铺\n必须保留：黏土街角；路灯\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "url": "https://gateway.change2pro.com/vendor/assets/12ef48d6b6363e42b101f25bd738714b.png"
+    }
+  ]
+}

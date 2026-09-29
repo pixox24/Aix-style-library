@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：台面上的一支牙刷与玻璃杯\n必须保留：牙刷；玻璃杯\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+  "image_sha256": "9f24b137fa06f724806493edaac5c6666805bff0a782c682647179341ca35eaa",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

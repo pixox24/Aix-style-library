@@ -1,0 +1,24 @@
+{
+  "created": 1789981343,
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 1584,
+    "total_tokens": 1721,
+    "input_tokens_details": {
+      "text_tokens": 137,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：穿连帽衫的背影，后脑是一面显示屏\n必须保留：连帽衫背影；显示屏\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/6acdc788aea2b9bad4fbbf5ad45c93e0.png"
+    }
+  ]
+}

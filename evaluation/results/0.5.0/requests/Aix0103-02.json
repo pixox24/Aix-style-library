@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0103",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿长外套的人背对观众，身体窗口里是一片橙色海岸",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "长外套背影",
+      "橙色海岸"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

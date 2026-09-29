@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌面上的手机与半杯凉茶，屏幕还亮着\n必须保留：手机；茶杯\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+  "image_sha256": "ea510b4ef6047a8ffbde89aa6b55d1d10d17696c075441c595b51667e4a069bd",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

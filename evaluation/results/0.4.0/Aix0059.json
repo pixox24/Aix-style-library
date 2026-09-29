@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0059",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0059.md",
+  "samples": [
+    {
+      "case_id": "Aix0059-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：被锁链缠绕的人坐着，头顶飞散出成群黑蝶\n必须保留：锁链坐姿；黑蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，黑白版画质感强烈，升腾动势明显，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-01.json"
+    },
+    {
+      "case_id": "Aix0059-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个背影化作蝶群向上升空\n必须保留：背影；蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白版画质感与排线特征完美，背影化蝶升腾动势强烈，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-02.json"
+    },
+    {
+      "case_id": "Aix0059-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把旧钥匙被蝶群托起\n必须保留：钥匙；蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-03.json"
+    },
+    {
+      "case_id": "Aix0059-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：缠着锁链的鸟笼敞开着门\n必须保留：鸟笼；锁链\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-04.json"
+    },
+    {
+      "case_id": "Aix0059-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：哥特庭院里，蝶群掠过枯枝\n必须保留：庭院；枯枝\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-05.json"
+    },
+    {
+      "case_id": "Aix0059-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：古老石阶上散落的蝴蝶与锁链\n必须保留：石阶；蝴蝶\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0059-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，版画排线质感强，升腾动势明显，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0059-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

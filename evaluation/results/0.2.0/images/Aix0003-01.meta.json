@@ -1,0 +1,25 @@
+{
+  "created": 1789794070,
+  "usage": {
+    "total_tokens": 1574,
+    "input_tokens": 38,
+    "output_tokens": 1536,
+    "prompt_tokens": 38,
+    "completion_tokens": 1536,
+    "input_tokens_details": {
+      "text_tokens": 38,
+      "image_tokens": 0
+    },
+    "output_tokens_details": {
+      "image_tokens": 1536
+    },
+    "completion_tokens_details": {
+      "image_tokens": 1536
+    }
+  },
+  "data": [
+    {
+      "url": "https://gateway.change2pro.com/vendor/assets/6d6198ff21bb56d2c66960bd8ec0bc8d.png"
+    }
+  ]
+}

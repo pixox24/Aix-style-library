@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0007",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "山谷、湖泊与松树的低多边形风景，天空中是渐变晚霞",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "山谷湖泊",
+      "松树"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

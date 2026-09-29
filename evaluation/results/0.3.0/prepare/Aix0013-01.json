@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0013",
+    "style_name": "扁平都市街景",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0013/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：骑自行车穿过斑马线的年轻人，背包扬起\n必须保留：骑行者；自行车\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0013",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "1d4985e634549686473aaeb7526eb5cf88fe5f95fae9dcbf06a5a4d6ea029a3b"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一台旧电视的天线被像素条切成几段\n必须保留：旧电视；像素条\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+  "image_sha256": "ae7dc52cff8f467a3968fd32cfa0e82ebb68171d9e701e1125c31e6cc559cbda",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 83.0
+  }
+}

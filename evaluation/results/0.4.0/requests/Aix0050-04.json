@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0050",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "叠好的白衬衫与草帽放在椅上",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "白衬衫",
+      "草帽"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

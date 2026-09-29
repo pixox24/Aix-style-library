@@ -1,0 +1,24 @@
+{
+  "created": 1789889119,
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 1584,
+    "total_tokens": 1716,
+    "input_tokens_details": {
+      "text_tokens": 132,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：街头少女的长腿被广角拉长，占满画面\n必须保留：街头少女；长腿\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/e070cfa30c33134a1ead787b699ca92c.png"
+    }
+  ]
+}

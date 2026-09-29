@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0077",
+    "style_name": "赤拱无尽廊",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0077/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：层层拱桥穿过黑色峡谷，远处只有一粒灯光\n必须保留：拱桥；峡谷\n视觉风格：几何矢量平涂，结构边缘硬朗清晰；深红与纯黑主导，白色微光作为唯一亮点；连续拱门形成一点透视和无限纵深；暗部占大面积，局部灯光切出路径；纯净平面色块，不加入写实材质\n画幅比例：2:3\n避免出现：多彩装饰和柔和粉彩；复杂写实建筑细节；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0077",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "5b47a443e920fbf3fef67605c266382a74cbf420b62a6dcb150274b397ba34e4"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790539139,
+  "usage": {
+    "input_tokens": 148,
+    "output_tokens": 1584,
+    "total_tokens": 1732,
+    "input_tokens_details": {
+      "text_tokens": 148,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：冷蓝便利店走廊像坏掉的录像一样水平断裂\n必须保留：便利店；录像故障\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/73276a9bd0388e642836f2c888588d2a.png"
+    }
+  ]
+}

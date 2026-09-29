@@ -1,0 +1,24 @@
+{
+  "created": 1789965323,
+  "usage": {
+    "input_tokens": 134,
+    "output_tokens": 1584,
+    "total_tokens": 1718,
+    "input_tokens_details": {
+      "text_tokens": 134,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：街角的吸烟者，背后烟影像翅膀展开\n必须保留：吸烟者；烟影\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/8b5a4d4cb1375a1a85d1a461faf08917.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0074",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "打坐的人头顶生长出蓝色枝条，枝梢悬着小圆灯",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "打坐人物",
+      "蓝色枝条"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

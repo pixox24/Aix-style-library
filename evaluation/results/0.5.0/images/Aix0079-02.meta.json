@@ -1,0 +1,24 @@
+{
+  "created": 1790532210,
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 1584,
+    "total_tokens": 1741,
+    "input_tokens_details": {
+      "text_tokens": 157,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：撑伞剪影站在彩色光幕前，风把伞边吹歪\n必须保留：撑伞人；光幕\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/0a7fdda5b1336f6e7d63360bb7a49761.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：雾中的立方体建筑，窗里透出星光\n必须保留：雾；建筑\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+  "image_sha256": "a534c52b5e793ab134e6d1879272f5e4042be16fba942910cbb7a0cf21258b19",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

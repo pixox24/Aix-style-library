@@ -5,54 +5,662 @@
   "type": "object",
   "additionalProperties": false,
   "required": [
-    "api_version", "operation", "status", "code", "message", "data",
-    "warnings", "meta"
+    "api_version",
+    "operation",
+    "status",
+    "code",
+    "message",
+    "data",
+    "warnings",
+    "meta"
   ],
   "properties": {
-    "api_version": { "const": "1.0" },
-    "operation": {
-      "enum": ["get", "search", "prepare", "validate", "build-index", "unknown"]
+    "api_version": {
+      "const": "1.0"
     },
-    "status": { "enum": ["ok", "error"] },
-    "code": {
+    "operation": {
       "enum": [
-        "OK", "INVALID_REQUEST", "INVALID_STYLE_ID", "STYLE_NOT_FOUND",
-        "STYLE_NOT_ACTIVE", "STYLE_DEPRECATED", "STYLE_VERSION_UNAVAILABLE",
-        "STYLE_INVALID", "ASSET_MISSING", "PATH_OUTSIDE_LIBRARY",
-        "SCHEMA_UNSUPPORTED", "INDEX_MISSING", "INDEX_STALE",
-        "STYLE_NOT_APPLICABLE", "TARGET_UNSUPPORTED", "INTERNAL_ERROR"
+        "get",
+        "search",
+        "prepare",
+        "validate",
+        "build-index",
+        "unknown"
       ]
     },
-    "message": { "type": "string", "minLength": 1 },
-    "data": { "type": ["object", "null"] },
+    "status": {
+      "enum": [
+        "ok",
+        "error"
+      ]
+    },
+    "code": {
+      "enum": [
+        "OK",
+        "INVALID_REQUEST",
+        "INVALID_STYLE_ID",
+        "STYLE_NOT_FOUND",
+        "STYLE_NOT_ACTIVE",
+        "STYLE_DEPRECATED",
+        "STYLE_VERSION_UNAVAILABLE",
+        "STYLE_INVALID",
+        "ASSET_MISSING",
+        "PATH_OUTSIDE_LIBRARY",
+        "SCHEMA_UNSUPPORTED",
+        "INDEX_MISSING",
+        "INDEX_STALE",
+        "STYLE_NOT_APPLICABLE",
+        "TARGET_UNSUPPORTED",
+        "INTERNAL_ERROR",
+        "DEPENDENCY_MISSING",
+        "RELEASE_NOT_READY"
+      ]
+    },
+    "message": {
+      "type": "string",
+      "minLength": 1
+    },
+    "data": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
     "warnings": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["code", "message", "related_ids"],
+        "required": [
+          "code",
+          "message",
+          "related_ids"
+        ],
         "properties": {
           "code": {
             "enum": [
-              "STYLE_ADJUSTED", "NEGATIVE_ADJUSTED", "WEAK_FIT", "IMAGE_NOT_VIEWED",
-              "UNVERIFIED_FALLBACK", "GENERATION_UNAVAILABLE", "RATIO_APPROXIMATED",
-              "REPLACEMENT_SUGGESTED"
+              "STYLE_ADJUSTED",
+              "NEGATIVE_ADJUSTED",
+              "WEAK_FIT",
+              "IMAGE_NOT_VIEWED",
+              "UNVERIFIED_FALLBACK",
+              "GENERATION_UNAVAILABLE",
+              "RATIO_APPROXIMATED",
+              "REPLACEMENT_SUGGESTED",
+              "PREVIEW_ONLY"
             ]
           },
-          "message": { "type": "string", "minLength": 1 },
-          "related_ids": { "type": "array", "items": { "type": "string" } }
+          "message": {
+            "type": "string",
+            "minLength": 1
+          },
+          "related_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
         }
       }
     },
     "meta": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["library_version", "execution_mode", "elapsed_ms"],
+      "required": [
+        "library_version",
+        "execution_mode",
+        "elapsed_ms"
+      ],
       "properties": {
-        "library_version": { "type": ["string", "null"] },
-        "execution_mode": { "enum": ["script", "manual_fallback"] },
-        "elapsed_ms": { "type": ["integer", "null"], "minimum": 0 }
+        "library_version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "execution_mode": {
+          "enum": [
+            "script",
+            "manual_fallback"
+          ]
+        },
+        "elapsed_ms": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        }
       }
     }
-  }
+  },
+  "$defs": {
+    "get": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "stage",
+        "style",
+        "thumbnail_path",
+        "provenance"
+      ],
+      "properties": {
+        "stage": {
+          "const": "resolved"
+        },
+        "style": {
+          "type": "object",
+          "required": [
+            "id",
+            "version",
+            "features"
+          ]
+        },
+        "thumbnail_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "provenance": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "style_id",
+            "style_version",
+            "library_version",
+            "content_hash"
+          ],
+          "properties": {
+            "style_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "style_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "library_version": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "content_hash": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        }
+      }
+    },
+    "search": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "stage",
+        "query",
+        "candidates"
+      ],
+      "properties": {
+        "stage": {
+          "const": "candidates"
+        },
+        "query": {
+          "type": "string",
+          "minLength": 1
+        },
+        "candidates": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "version",
+              "name",
+              "description",
+              "thumbnail_path",
+              "thumbnail_alt",
+              "matched_terms",
+              "score",
+              "reason"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "version": {
+                "type": "string",
+                "minLength": 1
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "description": {
+                "type": "string",
+                "minLength": 1
+              },
+              "thumbnail_path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "thumbnail_alt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "matched_terms": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "score": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "prepare": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "stage",
+        "style_id",
+        "style_name",
+        "style_version",
+        "thumbnail_path",
+        "target",
+        "mode",
+        "strength",
+        "final_prompt",
+        "negative_prompt",
+        "requested_parameters",
+        "tool_parameters",
+        "applied_feature_ids",
+        "omitted_features",
+        "omitted_avoid",
+        "provenance"
+      ],
+      "properties": {
+        "stage": {
+          "const": "prepared"
+        },
+        "style_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "style_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "style_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "thumbnail_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target": {
+          "const": "generic-text-v1"
+        },
+        "mode": {
+          "enum": [
+            "prompt",
+            "generate"
+          ]
+        },
+        "strength": {
+          "enum": [
+            "light",
+            "balanced",
+            "strong"
+          ]
+        },
+        "final_prompt": {
+          "type": "string",
+          "minLength": 1
+        },
+        "negative_prompt": {
+          "type": "null"
+        },
+        "requested_parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "aspect_ratio"
+          ],
+          "properties": {
+            "aspect_ratio": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "tool_parameters": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [],
+          "properties": {}
+        },
+        "applied_feature_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "omitted_features": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "reason"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "omitted_avoid": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "reason"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "provenance": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "style_id",
+            "style_version",
+            "library_version",
+            "content_hash"
+          ],
+          "properties": {
+            "style_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "style_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "library_version": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "content_hash": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "pattern": "^[0-9a-f]{64}$"
+            }
+          }
+        }
+      }
+    },
+    "validate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "scope",
+        "checked_styles",
+        "checked_assets",
+        "active_styles",
+        "source_digest"
+      ],
+      "properties": {
+        "scope": {
+          "enum": [
+            "all",
+            "release"
+          ]
+        },
+        "checked_styles": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "checked_assets": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "active_styles": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "source_digest": {
+          "type": "string",
+          "minLength": 1
+        },
+        "release_profile": {
+          "enum": [
+            "preview",
+            "formal"
+          ]
+        },
+        "visual_samples": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "formal_evidence_checked": {
+          "type": "boolean"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "scope": {
+                "const": "release"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "release_profile",
+              "visual_samples",
+              "formal_evidence_checked"
+            ]
+          }
+        }
+      ]
+    },
+    "build-index": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "indexed_styles",
+        "source_digest",
+        "catalog_path"
+      ],
+      "properties": {
+        "indexed_styles": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "source_digest": {
+          "type": "string",
+          "minLength": 1
+        },
+        "catalog_path": {
+          "const": "catalog/index.json"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "error"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "type": "null"
+          },
+          "code": {
+            "not": {
+              "const": "OK"
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "code": {
+            "const": "OK"
+          },
+          "operation": {
+            "not": {
+              "const": "unknown"
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          },
+          "operation": {
+            "const": "get"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "$ref": "#/$defs/get"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          },
+          "operation": {
+            "const": "search"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "$ref": "#/$defs/search"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          },
+          "operation": {
+            "const": "prepare"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "$ref": "#/$defs/prepare"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          },
+          "operation": {
+            "const": "validate"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "$ref": "#/$defs/validate"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ok"
+          },
+          "operation": {
+            "const": "build-index"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "data": {
+            "$ref": "#/$defs/build-index"
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑胶唱机与旋转的唱片特写\n必须保留：唱机；唱片\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+  "image_sha256": "fe99879fff061a73ca6b471bb5a6ccd9a1cd7a0ddaebc14a7b6b7a702459e795",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

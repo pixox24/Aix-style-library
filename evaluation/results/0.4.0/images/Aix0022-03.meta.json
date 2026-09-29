@@ -1,0 +1,24 @@
+{
+  "created": 1789887382,
+  "usage": {
+    "input_tokens": 165,
+    "output_tokens": 1584,
+    "total_tokens": 1749,
+    "input_tokens_details": {
+      "text_tokens": 165,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：亮着冷光的电脑屏幕与一杯放凉的咖啡\n必须保留：屏幕；咖啡杯\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/cca07e5b160d09b8cf8180b54ef2eaf6.png"
+    }
+  ]
+}

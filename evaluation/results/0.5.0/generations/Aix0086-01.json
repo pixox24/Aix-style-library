@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：小人站在橙色台阶上，黑色流体从头顶绕过一圈白眼\n必须保留：小人；黑色流体\n视觉风格：硬边矢量平涂，流体形状简化为连续图形；高饱和橙红与纯黑对撞，白色眼形作节奏点；黑色流体贯穿垂直画面，几何台阶提供尺度；无真实光影，以色块重叠建立层次；纯净平面，可保留少量印刷边缘\n画幅比例：2:3\n避免出现：写实烟雾和复杂材质；柔和低对比配色；乱码文字与伪文字",
+  "image_sha256": "cca4f80c65c947ae423b9f7946221d2bf5e9f3bb746c0e4c61e0b48b041e5e85",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 40.4
+  }
+}

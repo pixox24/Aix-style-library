@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0093",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0093.md",
+  "samples": [
+    {
+      "case_id": "Aix0093-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧坐的人头顶升起蓝黄橙紫交织的思绪烟云\n必须保留：侧坐人物；彩色烟云\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-01.json"
+    },
+    {
+      "case_id": "Aix0093-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：小提琴手演奏时，音符化成一团向上流动的彩烟\n必须保留：小提琴手；彩烟\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，主体与彩烟完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-02.json"
+    },
+    {
+      "case_id": "Aix0093-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏台灯的灯罩里涌出彩色烟雾和纸片\n必须保留：台灯；彩烟\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-03.json"
+    },
+    {
+      "case_id": "Aix0093-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：打开的玻璃瓶里装着一团梦境色烟雾\n必须保留：玻璃瓶；梦境烟雾\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，彩烟层次细腻且色彩丰富，玻璃瓶与烟雾元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-04.json"
+    },
+    {
+      "case_id": "Aix0093-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜书房上空漂浮着一片彩烟构成的城市\n必须保留：书房；烟雾城市\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，彩烟城市与深夜书房元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-05.json"
+    },
+    {
+      "case_id": "Aix0093-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑色湖面上方，彩色烟流把天空和水面连在一起\n必须保留：黑色湖面；彩色烟流\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0093-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，画面内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0093-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

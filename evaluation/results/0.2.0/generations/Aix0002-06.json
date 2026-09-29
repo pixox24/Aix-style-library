@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：春天的山坡开满野花，一条白色小径通向红屋顶的小房子\n必须保留：野花山坡；红屋顶房子\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+  "image_sha256": "07b781443b3c073838a5cda145eed45b80286c6da46848344174600abfd65a86",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

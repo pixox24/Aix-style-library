@@ -1,0 +1,24 @@
+{
+  "created": 1790537539,
+  "usage": {
+    "input_tokens": 151,
+    "output_tokens": 1584,
+    "total_tokens": 1735,
+    "input_tokens_details": {
+      "text_tokens": 151,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一台旧游戏机的屏幕拉出蓝红数据光线\n必须保留：游戏机；数据光线\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/26c95581d4349e8081bdbcb7d2f734f3.png"
+    }
+  ]
+}

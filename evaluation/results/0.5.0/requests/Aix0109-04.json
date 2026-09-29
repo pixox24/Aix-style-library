@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0109",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一只旧电视屏幕变成圆形黑口，边缘有几只眼睛",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "旧电视",
+      "黑口屏幕"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

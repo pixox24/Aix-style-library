@@ -1,0 +1,24 @@
+{
+  "created": 1789893843,
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 1584,
+    "total_tokens": 1731,
+    "input_tokens_details": {
+      "text_tokens": 147,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：梳妆台上的耳机与口红在灰调里\n必须保留：耳机；口红\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/a56d2384febdec9d85fa01e37aa4d9f1.png"
+    }
+  ]
+}

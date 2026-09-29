@@ -1,0 +1,24 @@
+{
+  "created": 1789973846,
+  "usage": {
+    "input_tokens": 121,
+    "output_tokens": 1584,
+    "total_tokens": 1705,
+    "input_tokens_details": {
+      "text_tokens": 121,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人的头部由发光青色线条缠绕而成\n必须保留：线条头部；暗背景\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/a780db517eb28cd151402210287dc81a.png"
+    }
+  ]
+}

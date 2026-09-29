@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0107",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "白色圆灯被木刻线条环绕，像静止的太阳",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "圆灯",
+      "木刻线条"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

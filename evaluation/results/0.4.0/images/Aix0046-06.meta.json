@@ -1,0 +1,24 @@
+{
+  "created": 1789981228,
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 1584,
+    "total_tokens": 1709,
+    "input_tokens_details": {
+      "text_tokens": 125,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：紫蓝夜空下的海岸线\n必须保留：海岸线；夜空\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/63dccb23aefb5ec0c493900c9191d339.png"
+    }
+  ]
+}

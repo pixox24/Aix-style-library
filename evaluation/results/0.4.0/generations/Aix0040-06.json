@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：车站大厅的人流俯视图\n必须保留：车站大厅；人流\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+  "image_sha256": "a3f5f4a49c3a8880f311e51ee2c534d07cafbc967cab93095b38c2453fbb65c8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

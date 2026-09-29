@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：阳台洗衣区，晾着滴水的衬衫\n必须保留：阳台；晾晒\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+  "image_sha256": "1a3ec38566c1ef70d39b37c4c28438c0df07e1521a69c8f425ae11ec87697dd5",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

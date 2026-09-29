@@ -1,0 +1,24 @@
+{
+  "created": 1789980503,
+  "usage": {
+    "input_tokens": 120,
+    "output_tokens": 1584,
+    "total_tokens": 1704,
+    "input_tokens_details": {
+      "text_tokens": 120,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：风化的盾牌倚在石墙上\n必须保留：盾牌；石墙\n视觉风格：数字厚涂结合硬边轮廓与手绘排线；纯蓝底色，米白灰褐的盔甲色；大面积留白，主体置于一角；柔和渐变体积光；纸张纹理与笔触肌理\n画幅比例：2:3\n避免出现：多色杂糅；硬边矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/b337ce3cb587fc1341b7323d437e1adb.png"
+    }
+  ]
+}

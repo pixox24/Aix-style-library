@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：灰蓝室内的单人椅上方悬着一团柔软黑烟\n必须保留：室内；单人椅\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+  "image_sha256": "7ba1b0a650634b495b7aef06d283536a91b0904245d10e83037599e022a3fdbd",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 53.0
+  }
+}

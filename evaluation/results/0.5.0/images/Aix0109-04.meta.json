@@ -1,0 +1,24 @@
+{
+  "created": 1790541080,
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 1584,
+    "total_tokens": 1738,
+    "input_tokens_details": {
+      "text_tokens": 154,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只旧电视屏幕变成圆形黑口，边缘有几只眼睛\n必须保留：旧电视；黑口屏幕\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/13a4fc8df6e1006a0695fc0ed7c813f4.png"
+    }
+  ]
+}

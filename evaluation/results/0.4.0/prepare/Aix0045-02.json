@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0045",
+    "style_name": "暗夜屏幕微光",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0045/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：少年坐在床沿发呆，屏幕光落在脚边\n必须保留：床沿少年；屏幕光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0045",
+      "style_version": "1.0.0",
+      "library_version": "0.3.2",
+      "content_hash": "1cbd536ac593d428d9c10ecc515598b3f088bd7ddf49a0e021ae33c30f12f5a4"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.3.2",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

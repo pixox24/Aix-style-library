@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0089",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0089.md",
+  "samples": [
+    {
+      "case_id": "Aix0089-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：四格蓝黑光影中分别出现站立、奔跑、回头和静坐剪影\n必须保留：人物剪影；四格\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "四格剪影姿态准确，光影与纹理特征完美契合，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-01.json"
+    },
+    {
+      "case_id": "Aix0089-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人被四种窄光照亮，网格之间保持深蓝背景\n必须保留：人物；窄光\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美呈现四格分镜与冷调窄光，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-02.json"
+    },
+    {
+      "case_id": "Aix0089-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：网格里展示旧钥匙、玻璃球、布料和金属片的冷光\n必须保留：四种物体；冷光\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，四格物体与冷光要求完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-03.json"
+    },
+    {
+      "case_id": "Aix0089-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：三格光影实验展示门缝、窗格与圆形灯罩\n必须保留：门缝；灯罩\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "三格分格清晰，光影与冷色调完美契合，门缝、窗格与灯罩完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-04.json"
+    },
+    {
+      "case_id": "Aix0089-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：蓝黑色小型展厅由六块不同光影空间组成\n必须保留：展厅；六格空间\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "六格展厅空间完整，蓝黑冷调与光影纹理特征高度一致，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-05.json"
+    },
+    {
+      "case_id": "Aix0089-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：夜海、隧道和屋顶被统一排进冷蓝分镜网格\n必须保留：夜海；分镜网格\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0089-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "网格分镜、冷蓝单色调及光影特征完美呈现，夜海、隧道、屋顶元素完整，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0089-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

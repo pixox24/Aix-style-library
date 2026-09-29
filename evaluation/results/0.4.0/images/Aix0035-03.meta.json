@@ -1,0 +1,24 @@
+{
+  "created": 1789892184,
+  "usage": {
+    "input_tokens": 140,
+    "output_tokens": 1584,
+    "total_tokens": 1724,
+    "input_tokens_details": {
+      "text_tokens": 140,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：沉在水底的喷漆罐与气泡\n必须保留：喷漆罐；气泡\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/67120aad0b9d195c998ab2b802445503.png"
+    }
+  ]
+}

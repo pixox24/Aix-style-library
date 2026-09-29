@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：青绿色调的阅览室，一本书被红布盖住\n必须保留：阅览室；红布\n视觉风格：复古海报式平涂结合强噪点；青绿背景配黑色主体与鲜红遮挡块；侧光厚影，高对比；中心半身像特写；粗糙颗粒如旧印刷品\n画幅比例：2:3\n避免出现：光滑渐变；甜系配色；乱码文字与伪文字",
+  "image_sha256": "7752859b977f6a1c81df62f56adf82b705bc333b8befc52231f75ffccf6b0a12",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

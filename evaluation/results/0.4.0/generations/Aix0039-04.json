@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一面老镜子里映出房间的一角\n必须保留：老镜子；房间\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "efdf1bc1ad278b0f9468daa876e87ebd309bca4b000419530088f1ebded4f477",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

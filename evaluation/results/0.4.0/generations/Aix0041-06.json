@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：海边的木质栈桥在紫粉色天空下\n必须保留：栈桥；晚霞\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+  "image_sha256": "dd1824ad1041e30422589a6e6b96606b52591235d6e113782f5db3d3b9ded0b0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：层叠街区的黄昏全景\n必须保留：层叠街区；黄昏\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "25dcec42254a1c52d8266aa69132c9c0eb97c2fdf1eec64910c75df31df5b968",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

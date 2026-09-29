@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色湖面上方，彩色烟流把天空和水面连在一起\n必须保留：黑色湖面；彩色烟流\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+  "image_sha256": "ac7615fdc14d3f482095e6c0a6e48b04fc570f8fa680a82bf52f145608232383",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 63.2
+  }
+}

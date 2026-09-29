@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0070",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "侧脸人像的头顶悬着三个星空立方体",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "侧脸",
+      "立方体"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

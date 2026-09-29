@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人坐在电脑前，肩部边缘化成蓝紫像素粒子\n必须保留：电脑前人物；像素粒子\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+  "image_sha256": "fc4a4353d5b41202adb4da702daaa45892d1b62618a9a5a92a08dc6f2285d453",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 42.1
+  }
+}

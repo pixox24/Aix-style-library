@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人站在悬崖边远眺，崖形如侧脸\n必须保留：人物剪影；悬崖\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+  "image_sha256": "8c4ef49195dca9064ed2e8b82c98d849004eeefc6467c63f96eaab2e96cf62bc",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

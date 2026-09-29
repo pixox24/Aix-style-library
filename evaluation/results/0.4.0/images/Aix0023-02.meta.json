@@ -1,0 +1,24 @@
+{
+  "created": 1789887729,
+  "usage": {
+    "input_tokens": 150,
+    "output_tokens": 1584,
+    "total_tokens": 1734,
+    "input_tokens_details": {
+      "text_tokens": 150,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：窗边的少年侧脸，被夕照镀上一层暖黄\n必须保留：窗边少年；夕照\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/314ec7725a90c81f651b87ae5ab51004.png"
+    }
+  ]
+}

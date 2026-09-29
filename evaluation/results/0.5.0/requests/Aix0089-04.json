@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0089",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "三格光影实验展示门缝、窗格与圆形灯罩",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "门缝",
+      "灯罩"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

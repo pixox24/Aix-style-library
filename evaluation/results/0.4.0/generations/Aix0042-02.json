@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：少年趴在书桌前睡着了，台灯还亮着\n必须保留：伏睡少年；台灯\n视觉风格：赛璐璐平涂结合硬朗线稿，动画美术质感；蓝紫冷调室内与暖黄灯光对比；室内局部暖光，窗外冷月光辅衬；中心构图，环境细节围绕主体堆叠；轻微复古噪点，织物与纸页质感\n画幅比例：2:3\n避免出现：强霓虹；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "fe543e47b8039b71911d090b5c9239b2dc0071b2e8535c22105c28cb912c3d89",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

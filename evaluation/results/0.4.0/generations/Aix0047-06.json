@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：夜里的数据中心外墙，散热灯闪烁\n必须保留：数据中心；夜\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+  "image_sha256": "b28f8433f351f3282d9ba1048712863d29af307f68e2fecadcd99f1dc96995c6",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

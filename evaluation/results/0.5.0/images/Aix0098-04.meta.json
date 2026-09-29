@@ -1,0 +1,24 @@
+{
+  "created": 1790537871,
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 1584,
+    "total_tokens": 1741,
+    "input_tokens_details": {
+      "text_tokens": 157,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一副耳机悬在暗室里，线缆化成数字光尘\n必须保留：耳机；光尘\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/fb2d867b24fde1c9dd9ff71143d7f21e.png"
+    }
+  ]
+}

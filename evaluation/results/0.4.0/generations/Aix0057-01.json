@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一张脸被中线分割，左眼盖着机械匣\n必须保留：面孔；机械匣\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+  "image_sha256": "22fe9e9d21174b94a62dd16733acbf071031720674b815293e7bc28a7ce445ec",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789888665,
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 1584,
+    "total_tokens": 1731,
+    "input_tokens_details": {
+      "text_tokens": 147,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：戴头盔的车手半身像，被竖直红线一分为二\n必须保留：车手；头盔\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/25dd93e3ed51e3a42e1d2e8509beb62a.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深夜书房，一个人趴在电脑桌前睡着\n必须保留：伏案的人；电脑桌\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+  "image_sha256": "a7b67939df5533bcf43ae6a5ff17400c0815de4caa5cbc22e5150f1f233e0a4c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

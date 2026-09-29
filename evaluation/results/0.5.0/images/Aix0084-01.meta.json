@@ -1,0 +1,24 @@
+{
+  "created": 1790533512,
+  "usage": {
+    "input_tokens": 144,
+    "output_tokens": 1584,
+    "total_tokens": 1728,
+    "input_tokens_details": {
+      "text_tokens": 144,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身的人在青绿色窗前调试老式收音设备\n必须保留：侧身人物；旧设备\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/813c221d4260e42f998b1c0c98478e4f.png"
+    }
+  ]
+}

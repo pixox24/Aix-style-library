@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0056",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个身影手捧橙红花束站在冷蓝雾中",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "身影",
+      "花束"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

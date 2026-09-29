@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0110",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0110.md",
+  "samples": [
+    {
+      "case_id": "Aix0110-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：灰蓝背景中的人物抬手触碰颈侧，头部化为黑色烟雾\n必须保留：人物；黑烟头部\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-01.json"
+    },
+    {
+      "case_id": "Aix0110-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿高领毛衣的人侧身站着，烟雾从肩上向上蓬松展开\n必须保留：高领人物；蓬松烟雾\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-02.json"
+    },
+    {
+      "case_id": "Aix0110-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只黑色烟雾状花瓶放在灰蓝桌面上\n必须保留：花瓶；烟雾\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "左手手指比例过长，解剖结构略显不自然；其余风格特征及必须元素保留完整。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-03.json"
+    },
+    {
+      "case_id": "Aix0110-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧唱片机上方升起灰黑烟云，唱针仍停在唱片边缘\n必须保留：唱片机；烟云\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-04.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "唱针未明确停在唱片边缘，存在轻微偏差；风格特征完美呈现。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-04.json"
+    },
+    {
+      "case_id": "Aix0110-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：灰蓝室内的单人椅上方悬着一团柔软黑烟\n必须保留：室内；单人椅\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "手部手指结构略显僵硬，存在轻微解剖瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-05.json"
+    },
+    {
+      "case_id": "Aix0110-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾色天台上，一个空衣架和向上散开的烟雾形成静物\n必须保留：天台；衣架\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0110-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，厚涂笔触与低饱和色调表现优秀，天台与衣架元素完整保留，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0110-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

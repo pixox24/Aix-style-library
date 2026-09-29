@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一双手从背后捂住一人的眼睛\n必须保留：双手；遮眼\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+  "image_sha256": "403e2e43c562d5d424ff70a8b4cdbadcdd401c16cf00071bfd3481a1c6a2cf3b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

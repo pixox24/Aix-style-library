@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0079",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0079.md",
+  "samples": [
+    {
+      "case_id": "Aix0079-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：骑车人穿过桥面，头顶垂下红黄绿的光瀑\n必须保留：骑车人；桥面\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，十字结构稳定，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-01.json"
+    },
+    {
+      "case_id": "Aix0079-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：撑伞剪影站在彩色光幕前，风把伞边吹歪\n必须保留：撑伞人；光幕\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵，伞边吹歪细节到位。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-02.json"
+    },
+    {
+      "case_id": "Aix0079-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏旧路灯被垂直彩色光流包围\n必须保留：路灯；彩色光流\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-03.json"
+    },
+    {
+      "case_id": "Aix0079-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只纸船漂在桥下，映着红黄绿的倒光\n必须保留：纸船；桥下水面\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，十字结构与色彩对比强烈，纸船与水面倒影完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-04.json"
+    },
+    {
+      "case_id": "Aix0079-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：长桥横跨一面从天空落下的彩色瀑布\n必须保留：长桥；彩色瀑布\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-05.json"
+    },
+    {
+      "case_id": "Aix0079-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：城市天际线前出现巨大的垂直彩虹幕墙\n必须保留：天际线；彩虹幕墙\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0079-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "垂直厚涂与十字结构完美呈现，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0079-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

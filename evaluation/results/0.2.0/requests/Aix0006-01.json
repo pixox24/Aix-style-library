@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0006",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个背着红色小背包的黏土小人偶站在绿色的小山坡上，远处有一栋小房子",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "黏土小人偶",
+      "小山坡"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

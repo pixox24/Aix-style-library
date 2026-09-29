@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色礼堂上方落下一束星尘光，照亮空座位\n必须保留：礼堂；星尘光\n视觉风格：数字合成或三维粒子渲染，主体边缘由颗粒组成；纯黑背景与白蓝星尘，边缘带少量红色反光；垂直向上手势占据中心，光束呈放射状；强烈顶光或逆光，形成清晰体积光柱；沙粒、星点和雾化光晕叠加\n画幅比例：2:3\n避免出现：平面无光影插画；明亮复杂背景；乱码文字与伪文字",
+  "image_sha256": "d54cd8f8b69944e09a8b87373e9e06c4e17d9b8801b5acc73612a78813195143",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 43.5
+  }
+}

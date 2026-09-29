@@ -1,0 +1,24 @@
+{
+  "created": 1789980260,
+  "usage": {
+    "input_tokens": 136,
+    "output_tokens": 1584,
+    "total_tokens": 1720,
+    "input_tokens_details": {
+      "text_tokens": 136,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：挂着吊坠的耳机特写\n必须保留：耳机；吊坠\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/a11c5ab23d5e454438d83ec90498003b.png"
+    }
+  ]
+}

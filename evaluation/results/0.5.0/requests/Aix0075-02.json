@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0075",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿长袍的旅人伸手，黑蝶沿衣袖飞起",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "长袍旅人",
+      "黑蝶"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

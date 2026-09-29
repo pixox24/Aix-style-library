@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0039",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0039.md",
+  "samples": [
+    {
+      "case_id": "Aix0039-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴着冷帽的女孩对着镜子举起手机自拍\n必须保留：女孩；手机\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-01.json"
+    },
+    {
+      "case_id": "Aix0039-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：男孩在镜前整理衣领，镜中倒影微微错位\n必须保留：男孩；镜子\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，灰调噪点质感佳，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-02.json"
+    },
+    {
+      "case_id": "Aix0039-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：梳妆台上的耳机与口红在灰调里\n必须保留：耳机；口红\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，灰调、镜面构图及噪点质感表现良好，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-03.json"
+    },
+    {
+      "case_id": "Aix0039-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一面老镜子里映出房间的一角\n必须保留：老镜子；房间\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-04.json"
+    },
+    {
+      "case_id": "Aix0039-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨的洗漱间，镜中映出窗外微光\n必须保留：洗漱间；镜子\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定清晰，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-05.json"
+    },
+    {
+      "case_id": "Aix0039-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：地铁车窗里倒映的乘客剪影\n必须保留：车窗；剪影\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0039-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，灰调平涂与噪点质感佳；车窗与剪影元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0039-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0075",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "石阶尽头的暗红庭院，白色布带悬在枯树间",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "石阶",
+      "枯树"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

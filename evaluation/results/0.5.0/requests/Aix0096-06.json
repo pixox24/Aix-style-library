@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0096",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "隧道尽头打开彩色虫洞，地面碎片向中心飞去",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "隧道",
+      "虫洞"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

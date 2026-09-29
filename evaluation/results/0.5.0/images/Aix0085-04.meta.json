@@ -1,0 +1,24 @@
+{
+  "created": 1790533923,
+  "usage": {
+    "input_tokens": 159,
+    "output_tokens": 1584,
+    "total_tokens": 1743,
+    "input_tokens_details": {
+      "text_tokens": 159,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一面镜子里出现层层后退的同一把椅子\n必须保留：镜子；椅子\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/db8338cc873feee0fef4a379f4e6156b.png"
+    }
+  ]
+}

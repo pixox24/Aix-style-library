@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0085",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿风衣的人站在雾中，脸部由轻微错位的轮廓组成",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "风衣人物",
+      "错位轮廓"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

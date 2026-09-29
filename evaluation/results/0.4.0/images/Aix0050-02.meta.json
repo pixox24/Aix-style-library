@@ -1,0 +1,24 @@
+{
+  "created": 1789966597,
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 1584,
+    "total_tokens": 1710,
+    "input_tokens_details": {
+      "text_tokens": 126,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：打哈欠的少年坐在窗台边\n必须保留：窗台少年；光\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/395aade03aafed6f0959427914f222c3.png"
+    }
+  ]
+}

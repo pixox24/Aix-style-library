@@ -1,0 +1,24 @@
+{
+  "created": 1789892133,
+  "usage": {
+    "input_tokens": 142,
+    "output_tokens": 1584,
+    "total_tokens": 1726,
+    "input_tokens_details": {
+      "text_tokens": 142,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：潜水者穿过涂鸦墙的拱门\n必须保留：潜水者；涂鸦墙\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/fe5c6f20fbe9ffe27d60b3cff79751d9.png"
+    }
+  ]
+}

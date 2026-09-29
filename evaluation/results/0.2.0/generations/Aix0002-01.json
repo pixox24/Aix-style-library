@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只橘猫趴在木窗台上打盹，窗外是长满绿植的小院子，午后柔光\n必须保留：橘猫；木窗台\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+  "image_sha256": "4196e605eaff83f85bd903d0685d0499a0536f330bd74778049ea2b8a53813d5",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 43.6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0105",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿花纹上衣的人站在赤红漩涡前，头部化成黑色烟团",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "花纹上衣人物",
+      "黑烟团"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

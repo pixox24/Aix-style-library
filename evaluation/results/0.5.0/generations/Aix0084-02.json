@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：穿工装的人坐在复古终端前，窗外是安静城市\n必须保留：工装人物；复古终端\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+  "image_sha256": "69b25c1338a2b069526987d73284dca3d34c0c3dc09cf7215370735c4d148d86",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 49.2
+  }
+}

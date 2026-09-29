@@ -1,0 +1,24 @@
+{
+  "created": 1789824785,
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 1584,
+    "total_tokens": 1730,
+    "input_tokens_details": {
+      "text_tokens": 146,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黏土露营地的夜晚：小帐篷、篝火和两棵小树\n必须保留：黏土帐篷；篝火\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+      "url": "https://gateway.change2pro.com/vendor/assets/ef902ca3cef19a54773950fb3b94fff7.png"
+    }
+  ]
+}

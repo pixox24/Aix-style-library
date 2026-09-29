@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0032",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0032.md",
+  "samples": [
+    {
+      "case_id": "Aix0032-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：滑板者在巨大的蓝色坡道上腾空\n必须保留：滑板者；坡道\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-01.json"
+    },
+    {
+      "case_id": "Aix0032-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：跳伞者正落向一块巨蓝的几何水面\n必须保留：跳伞者；水面\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合双色极简与巨物透视特征，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-02.json"
+    },
+    {
+      "case_id": "Aix0032-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只巨大的蓝色咖啡杯压向小桌\n必须保留：咖啡杯；小桌\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现双色极简与巨物压迫感，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-03.json"
+    },
+    {
+      "case_id": "Aix0032-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：蓝色巨浪吞没一只小舟\n必须保留：巨浪；小舟\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合双色极简与巨物压迫感，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-04.json"
+    },
+    {
+      "case_id": "Aix0032-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：城市天际线被一块巨蓝的月亮压住\n必须保留：天际线；蓝月\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合双色极简、对角线巨物压迫感及平涂特征，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-05.json"
+    },
+    {
+      "case_id": "Aix0032-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：球场上一颗巨球停在球员头顶\n必须保留：巨球；球场\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0032-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "足球表面存在明显轮廓硬边线条，违背无轮廓硬边块面要求。",
+      "generation_ref": "results/0.4.0/generations/Aix0032-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

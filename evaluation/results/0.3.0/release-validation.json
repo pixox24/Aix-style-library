@@ -1,0 +1,29 @@
+{
+  "api_version": "1.0",
+  "operation": "validate",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "scope": "release",
+    "checked_styles": 20,
+    "checked_assets": 20,
+    "active_styles": 20,
+    "source_digest": "998d3997cef934528e3e323024afa25943c1e29feb4c3142b54b9bf34d03e7c0",
+    "release_profile": "preview",
+    "visual_samples": 120,
+    "formal_evidence_checked": false
+  },
+  "warnings": [
+    {
+      "code": "PREVIEW_ONLY",
+      "message": "仅通过预览包校验，未认证真实出图、正式素材或 9 分验收。",
+      "related_ids": []
+    }
+  ],
+  "meta": {
+    "library_version": "0.3.2",
+    "execution_mode": "script",
+    "elapsed_ms": 5940
+  }
+}

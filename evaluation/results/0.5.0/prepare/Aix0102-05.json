@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0102",
+    "style_name": "故障饮影",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0102/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：冷蓝便利店走廊像坏掉的录像一样水平断裂\n必须保留：便利店；录像故障\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0102",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "99b5bb663b992a89fbc8769f3f2993285d89f593e57c19a7864d561215512a1a"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

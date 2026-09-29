@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：骑车人穿过桥面，头顶垂下红黄绿的光瀑\n必须保留：骑车人；桥面\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+  "image_sha256": "28cde7dbdfb53e9f69dfd0842d53f3be65a3d90f2dcce6a1231ac92d5ef4c837",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 60.0
+  }
+}

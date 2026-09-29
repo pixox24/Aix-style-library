@@ -1,0 +1,112 @@
+[
+  {
+    "style_id": "Aix0002",
+    "image": "images/Aix0002-01.png",
+    "sha256": "4196e605eaff83f85bd903d0685d0499a0536f330bd74778049ea2b8a53813d5",
+    "bytes": 3263577,
+    "pixels": "1024x1536",
+    "seconds": 43.6,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "96c79c5655f422df49eabdbf3262e9902d56be2f2417c820aa7c8ba788972015"
+  },
+  {
+    "style_id": "Aix0004",
+    "image": "images/Aix0004-01.png",
+    "sha256": "c7f0ec61555e12691f5b4899c01e425c1d2a971e8f52838206b491e00772e2f7",
+    "bytes": 2374361,
+    "pixels": "1024x1536",
+    "seconds": 58.9,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "374917cb0d7abbc8dfe5d0ede6b477b574d02866d337657b945315b0d2a4c0ef"
+  },
+  {
+    "style_id": "Aix0001",
+    "image": "images/Aix0001-01.png",
+    "sha256": "9f7412e4f1db5934d9f0ba2f8b61f904aa8b8a72b21d45fae7c990a383f97305",
+    "bytes": 2630594,
+    "pixels": "1024x1536",
+    "seconds": 45.5,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "fd55a224f5c5ade9487b738349006e2c84ac685c9d570b4f1a6cc6f7f2460661"
+  },
+  {
+    "style_id": "Aix0003",
+    "image": "images/Aix0003-01.png",
+    "sha256": "301e5df8e6c62be0fcc79b2a2e73d577a8eced5356d16e444d113cae18a4926a",
+    "bytes": 1470365,
+    "pixels": "1024x1536",
+    "seconds": 35.0,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "4bb5d102ed971619aa26bec67cb39edaec49692ec189dafabfede0f66702e625"
+  },
+  {
+    "style_id": "Aix0005",
+    "image": "images/Aix0005-01.png",
+    "sha256": "ffc99f61c04374c37e75591f548d0368048d0a88014aa745963aed4440eb4eb0",
+    "bytes": 3628237,
+    "pixels": "1024x1536",
+    "seconds": 40.7,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "f813a3bf4d4d90befc7b66ee45763cc268ae9aaf259be338ca2a1c7cf2b25786"
+  },
+  {
+    "style_id": "Aix0006",
+    "image": "images/Aix0006-01.png",
+    "sha256": "10bbb4288d9491ffd763a16f068f967144bc3042a6220326143967c59a6b6263",
+    "bytes": 1935447,
+    "pixels": "1024x1536",
+    "seconds": 60.9,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "42f1a77224663676e980bd13de13af31366950642cb3fecc4cc61c4a9a5d0c82"
+  },
+  {
+    "style_id": "Aix0007",
+    "image": "images/Aix0007-01.png",
+    "sha256": "e57aa4df76b33bdad7154faba5a8b8e34f3a0d1e03d2b8e447cf06761f156d71",
+    "bytes": 2023786,
+    "pixels": "1024x1536",
+    "seconds": 34.8,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "0c7e923588970b2bf1b323acdc96a1fabaa2504904abe86221a087dc88b3a49d"
+  },
+  {
+    "style_id": "Aix0008",
+    "image": "images/Aix0008-01.png",
+    "sha256": "1d4b0b534721cbfca820b8171eb4128ca777187a81cecc5e2e277dc29f030263",
+    "bytes": 2549693,
+    "pixels": "1024x1536",
+    "seconds": 40.0,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "a3004f4906fa12c963f4a06de6e7f79557a30b6a63d49753344afa594e079fce"
+  },
+  {
+    "style_id": "Aix0009",
+    "image": "images/Aix0009-01.png",
+    "sha256": "40d61d297c6e4ea50c08bc03b88b6d101ad0734e13a6cddcdad2607a00b684c5",
+    "bytes": 1849720,
+    "pixels": "1024x1536",
+    "seconds": 31.7,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "542706affcf53de270971d4c0f94139a48e6d726299dd4ef52facd70bf9a7be3"
+  },
+  {
+    "style_id": "Aix0010",
+    "image": "images/Aix0010-01.png",
+    "sha256": "091be168c72ddb217b70a4f2f2455130e306b85ec1ca68c1331c921e3fcfa373",
+    "bytes": 3366522,
+    "pixels": "1024x1536",
+    "seconds": 44.5,
+    "model": "gpt-image-2",
+    "size_requested": "1024x1536",
+    "prompt_sha256": "807ae7ae3b34898af40ba6d0ecf5be037290b805bb2205809318f00030ebe878"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0074",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "米色沙地上，蓝色枝脉连接天空与地下根系",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "沙地",
+      "根系"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

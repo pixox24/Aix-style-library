@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0096",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "宇航服身影被彩色光流向外抛出，姿态保持清楚",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "宇航服身影",
+      "彩色光流"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789981289,
+  "usage": {
+    "input_tokens": 138,
+    "output_tokens": 1584,
+    "total_tokens": 1722,
+    "input_tokens_details": {
+      "text_tokens": 138,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人坐在长椅上，头是一块显示错误的屏幕\n必须保留：屏幕头人物；长椅\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/60a2721f786dfb549ba2418409fb74d2.png"
+    }
+  ]
+}

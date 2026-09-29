@@ -1,0 +1,24 @@
+{
+  "created": 1790531063,
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 1584,
+    "total_tokens": 1746,
+    "input_tokens_details": {
+      "text_tokens": 162,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人站在酒红雾气中，白色围巾向上化作黑蝶\n必须保留：人物；白色围巾\n视觉风格：细腻数字厚涂，布料与羽翅边缘柔和；深酒红背景配黑白主体，局部灰蓝提亮；中心下沉、上方发散的垂直升腾构图；柔和侧光塑造布料褶皱，背景保持暗；布料纤维、蝶翅细节与轻微胶片颗粒\n画幅比例：2:3\n避免出现：明亮糖果色；硬边几何平涂；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/462c320db684e82bad5dd2cc48c06442.png"
+    }
+  ]
+}

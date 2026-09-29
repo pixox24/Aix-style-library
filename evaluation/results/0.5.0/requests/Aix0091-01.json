@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0091",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑色剪影站在浅灰背景前，面部爆出红橙蓝三色光",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "黑色剪影",
+      "彩色光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

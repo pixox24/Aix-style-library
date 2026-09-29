@@ -1,0 +1,24 @@
+{
+  "created": 1790537359,
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 1584,
+    "total_tokens": 1742,
+    "input_tokens_details": {
+      "text_tokens": 158,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色宇宙中的小型观景台被彩虹放射光包围\n必须保留：观景台；放射光\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/010ef6cbeba980e120a0ae367cdf4dca.png"
+    }
+  ]
+}

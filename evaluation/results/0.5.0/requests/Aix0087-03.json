@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0087",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一把黑色钥匙插在布满眼睛的红墙上",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "钥匙",
+      "红墙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

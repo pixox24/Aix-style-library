@@ -1,0 +1,24 @@
+{
+  "created": 1789975386,
+  "usage": {
+    "input_tokens": 122,
+    "output_tokens": 1584,
+    "total_tokens": 1706,
+    "input_tokens_details": {
+      "text_tokens": 122,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个剪影人物的脸被红色矩形框住\n必须保留：剪影；红框\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/c6d4b0487e64e1e51d972ace579511c2.png"
+    }
+  ]
+}

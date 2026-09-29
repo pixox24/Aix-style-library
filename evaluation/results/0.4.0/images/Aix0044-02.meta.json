@@ -1,0 +1,24 @@
+{
+  "created": 1789980385,
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 1584,
+    "total_tokens": 1710,
+    "input_tokens_details": {
+      "text_tokens": 126,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：摘下头盔的战士侧影，披风垂下\n必须保留：战士；头盔\n视觉风格：数字厚涂结合硬边轮廓与手绘排线；纯蓝底色，米白灰褐的盔甲色；大面积留白，主体置于一角；柔和渐变体积光；纸张纹理与笔触肌理\n画幅比例：2:3\n避免出现：多色杂糅；硬边矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/cb708490dac5f1027699039f371bc159.png"
+    }
+  ]
+}

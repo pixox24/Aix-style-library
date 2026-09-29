@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：穿长袍的旅人伸手，黑蝶沿衣袖飞起\n必须保留：长袍旅人；黑蝶\n视觉风格：细腻数字厚涂，布料与羽翅边缘柔和；深酒红背景配黑白主体，局部灰蓝提亮；中心下沉、上方发散的垂直升腾构图；柔和侧光塑造布料褶皱，背景保持暗；布料纤维、蝶翅细节与轻微胶片颗粒\n画幅比例：2:3\n避免出现：明亮糖果色；硬边几何平涂；乱码文字与伪文字",
+  "image_sha256": "29493c2a8f321bf709856b6b0e1773298369af1f1b9f322f54616041c8b7d700",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 45.0
+  }
+}

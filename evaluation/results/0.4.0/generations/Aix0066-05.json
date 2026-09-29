@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深蓝夜空下，光点如雨环绕孤树\n必须保留：夜空；孤树\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+  "image_sha256": "107d3ec5f7a06d35eca9b601a9fc42cbd06a0a2f984068f16ed89b9f2f964fe2",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

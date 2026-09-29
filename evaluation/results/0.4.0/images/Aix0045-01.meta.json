@@ -1,0 +1,24 @@
+{
+  "created": 1789980662,
+  "usage": {
+    "input_tokens": 145,
+    "output_tokens": 1584,
+    "total_tokens": 1729,
+    "input_tokens_details": {
+      "text_tokens": 145,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人蜷在被窝里刷手机，脸被微光照亮\n必须保留：被窝人物；手机微光\n视觉风格：数字仿手绘平涂结合粗糙纸张噪点；深灰黑底色配低饱和灰蓝，屏幕暖白为唯一亮源；极暗环境的局部发光，光源单一；底部重心构图与大面积留白；粗糙纸张纹理与颗粒噪点\n画幅比例：2:3\n避免出现：明亮多光源；光滑数字；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/0af090dbaecbcb57689def79767454ab.png"
+    }
+  ]
+}

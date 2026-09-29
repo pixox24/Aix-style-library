@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：灰蓝海岸上，风把城市轮廓拆成连续线条\n必须保留：海岸；城市轮廓\n视觉风格：精细矢量线条与平滑色块结合，边缘流畅；中性灰与淡蓝分区，红黑微点作为焦点；人物位于双色交界，线流向一侧持续扩散；柔和均匀光，线条层叠制造轻微深度；干净数字表面，烟雾般半透明线层\n画幅比例：2:3\n避免出现：粗糙厚涂和重颗粒；高饱和多色背景；乱码文字与伪文字",
+  "image_sha256": "0b1a442bc25b121a6374acb6a8b8e463237461f71cda963233263a9c99decd5a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 58.2
+  }
+}

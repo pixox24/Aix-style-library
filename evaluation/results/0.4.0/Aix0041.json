@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0041",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0041.md",
+  "samples": [
+    {
+      "case_id": "Aix0041-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人坐在围栏上看远处的城市剪影\n必须保留：剪影人物；围栏\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-01.json"
+    },
+    {
+      "case_id": "Aix0041-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：两个背影并排走在渐变的暮色里\n必须保留：背影；暮色\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合粉紫渐变天色与矢量剪影风格，背影与暮色元素完整保留，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-02.json"
+    },
+    {
+      "case_id": "Aix0041-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：天台上的一盏路灯剪影\n必须保留：路灯；天台\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "渐变天色与矢量剪影特征完美，路灯与天台元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-03.json"
+    },
+    {
+      "case_id": "Aix0041-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：单车停在桥边，剪影拉长\n必须保留：单车；桥\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合粉紫渐变与矢量剪影风格，单车与桥元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-04.json"
+    },
+    {
+      "case_id": "Aix0041-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：暮色中的城市天际线剪影\n必须保留：天际线；暮色\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现粉紫渐变天色与清晰的城市天际线剪影，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-05.json"
+    },
+    {
+      "case_id": "Aix0041-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：海边的木质栈桥在紫粉色天空下\n必须保留：栈桥；晚霞\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0041-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合粉紫渐变与矢量剪影特征，栈桥与晚霞保留完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0041-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0012",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一位提着灯笼的人沿石阶而上，身后是朱红圆日",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "提灯人",
+      "石阶"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

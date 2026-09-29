@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0086",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "纯平色块组成的城市里，黑色高架像流体穿行",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "城市",
+      "黑色高架"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只巨大的冰淇淋蛋筒立在街角\n必须保留：冰淇淋；街角\n视觉风格：高饱和糖果色块（粉、绿、黄、蓝）的撞色；低角度极端透视，前景物体巨大化；硬边矢量平涂，造型简洁夸张；硬边投影模拟强烈日光；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；低饱和灰调；乱码文字与伪文字",
+  "image_sha256": "0b9eb7b2892bbba36b77bc7e4eb8b05d3ce581dfbc6cb27e1f5caf50fbc958df",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

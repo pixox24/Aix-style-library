@@ -1,0 +1,24 @@
+{
+  "created": 1789893409,
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 1584,
+    "total_tokens": 1715,
+    "input_tokens_details": {
+      "text_tokens": 131,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一辆自行车被光束吸入半空\n必须保留：自行车；光束\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/b01ec48575a701a25029fdb42f11b5dc.png"
+    }
+  ]
+}

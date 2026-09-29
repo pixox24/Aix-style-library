@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0082",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "孤独行者穿过裂纹荒原，远方有一枚橙红发光石",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "行者",
+      "发光石"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0092",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0092.md",
+  "samples": [
+    {
+      "case_id": "Aix0092-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：小小的修理员用白色工具触碰悬浮在身后的巨大蓝色手掌\n必须保留：修理员；蓝色手掌\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美符合要求，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-01.json"
+    },
+    {
+      "case_id": "Aix0092-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：舞者在深蓝空间中与一只半透明巨手隔空对指\n必须保留：舞者；巨手\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心视觉特征稳定，主体完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-02.json"
+    },
+    {
+      "case_id": "Aix0092-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：白色画笔被透明蓝手握住，在黑蓝面板上画线\n必须保留：画笔；透明蓝手\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，半透明蓝手与白画笔结构准确，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-03.json"
+    },
+    {
+      "case_id": "Aix0092-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枚白色圆球被巨手轻轻托在空中\n必须保留：圆球；托举\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-04.json"
+    },
+    {
+      "case_id": "Aix0092-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深蓝实验室里，巨手从墙后伸出调整一座小机器\n必须保留：实验室；小机器\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-05.json"
+    },
+    {
+      "case_id": "Aix0092-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：蓝色海面上，一只透明巨手托起一艘小船\n必须保留：海面；小船\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0092-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0092-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

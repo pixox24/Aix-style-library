@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0090",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "纯黑博物馆里只有一条冷蓝几何走廊",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "博物馆",
+      "几何走廊"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

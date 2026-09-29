@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0101",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "白色与深蓝两条走廊在发光门框处相遇",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "两条走廊",
+      "门框"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

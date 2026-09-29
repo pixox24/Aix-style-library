@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0004",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "案头一盏油灯、一卷展开的书和一方便砚",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "油灯",
+      "书卷"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

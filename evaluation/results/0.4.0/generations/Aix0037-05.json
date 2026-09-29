@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：荒原上空的星际之门全貌\n必须保留：荒原；星际之门\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "80ef6f54b936aae824e40357e0568170b236253a75fac495941bdb78614b5a85",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

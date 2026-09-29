@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深海中一束宇宙般的光穿过水面抵达小船\n必须保留：深海；小船\n视觉风格：数字合成或三维粒子渲染，主体边缘由颗粒组成；纯黑背景与白蓝星尘，边缘带少量红色反光；垂直向上手势占据中心，光束呈放射状；强烈顶光或逆光，形成清晰体积光柱；沙粒、星点和雾化光晕叠加\n画幅比例：2:3\n避免出现：平面无光影插画；明亮复杂背景；乱码文字与伪文字",
+  "image_sha256": "b7ba58cc8df77b6100b31e7a1b0493dadd9c1d1cf1c6006558bc9121e6771a9a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 33.5
+  }
+}

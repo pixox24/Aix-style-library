@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0003",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "骑自行车的邮差侧面剪影海报，车轮是同心圆，邮包是方形",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "骑行者",
+      "邮包"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0004",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一位执伞的少女走过雨中的石桥，衣袂与伞面用寥寥数笔",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "执伞少女",
+      "石桥"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一滴白墨落在黑色石面上\n必须保留：白墨；石面\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+  "image_sha256": "25d8497ec5777b7f2a981ae643dfe270dc7e15b3a35c9e949000eb81402522ff",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

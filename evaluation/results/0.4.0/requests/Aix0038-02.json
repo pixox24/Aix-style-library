@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0038",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "仰头凝视飞碟的孩子，脸被绿光照亮",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "孩子",
+      "飞碟"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

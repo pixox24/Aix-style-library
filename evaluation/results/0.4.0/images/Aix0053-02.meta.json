@@ -1,0 +1,24 @@
+{
+  "created": 1789968463,
+  "usage": {
+    "input_tokens": 120,
+    "output_tokens": 1584,
+    "total_tokens": 1704,
+    "input_tokens_details": {
+      "text_tokens": 120,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：靠在瓷砖墙边等待的少年\n必须保留：等待少年；瓷砖墙\n视觉风格：清晰线稿结合赛璐璐硬边上色；浅绿主调配自然肤色的干净平涂；侧面居中的日常视角；室内柔和光与硬边阴影；干净数字平涂，轻微质感\n画幅比例：2:3\n避免出现：浓艳滤镜；厚重肌理；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/f4f159dd90a4808bebc6dc842536e331.png"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Aix0068-01",
+    "old_description": "黑影人形胸口裂开，心脏位置红光迸发",
+    "new_description": "黑影人形，胸前红光如心脏般搏动",
+    "reason": "上游暴力内容防护拦截（upstream_text_reply，6 次尝试）",
+    "must_preserve_unchanged": [
+      "人形黑影",
+      "红光心脏"
+    ],
+    "old_prompt_sha256": "43d03011b51a4c2d8cd655fa1c03bbd74739915ac0a9506e33828e5e442d52f8",
+    "new_prompt_sha256": "a87ea482b822e7e5ab7632f75a36b6054c20d91584aa4ed3edcedcec2e15a8ba"
+  }
+]

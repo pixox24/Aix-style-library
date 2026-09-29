@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深夜的走廊尽头透进一束暖光\n必须保留：走廊；暖光\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "e953fa3f9314faf5e1e52aa65b02612c095d6a19dc813df30ea47524d25dc471",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789871194,
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 1584,
+    "total_tokens": 1768,
+    "input_tokens_details": {
+      "text_tokens": 184,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：披斗篷的守夜人，腰间挂着兽骨铃铛\n必须保留：守夜人；铃铛\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/b12da072494c9f5d78fcd56a708205c1.png"
+    }
+  ]
+}

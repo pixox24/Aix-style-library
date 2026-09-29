@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0006",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "微缩黏土街角：一根路灯、一辆小汽车与一家亮着灯的店铺",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "黏土街角",
+      "路灯"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

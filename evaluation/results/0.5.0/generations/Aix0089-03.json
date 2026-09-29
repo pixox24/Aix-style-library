@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：网格里展示旧钥匙、玻璃球、布料和金属片的冷光\n必须保留：四种物体；冷光\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+  "image_sha256": "06b1568b1fc221bf3eb710394c50b5f6a093d1379330650c92ea20948d068f38",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.8
+  }
+}

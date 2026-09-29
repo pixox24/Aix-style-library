@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0051",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0051.md",
+  "samples": [
+    {
+      "case_id": "Aix0051-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人趴在巨大的进度条上小憩\n必须保留：趴着的人；进度条\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-01.json"
+    },
+    {
+      "case_id": "Aix0051-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少年被巨大的对话框围住\n必须保留：少年；对话框\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-02.json"
+    },
+    {
+      "case_id": "Aix0051-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一杯巨大的咖啡杯压在键盘上\n必须保留：咖啡杯；键盘\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-03.json"
+    },
+    {
+      "case_id": "Aix0051-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只巨大的鼠标立在桌面\n必须保留：鼠标；桌面\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无瑕疵，主体完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-04.json"
+    },
+    {
+      "case_id": "Aix0051-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：按钮组成的巨大台阶\n必须保留：按钮台阶；界面\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-05.json"
+    },
+    {
+      "case_id": "Aix0051-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：被巨大缓冲图标笼罩的房间\n必须保留：缓冲图标；房间\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0051-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0051-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

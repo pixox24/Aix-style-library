@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0087",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0087.md",
+  "samples": [
+    {
+      "case_id": "Aix0087-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个背影站在布满眼睛的红色墙前，手里提着一盏小灯\n必须保留：背影；红色眼睛墙\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，红底蓝眼与黑色剪影对比强烈，颗粒质感佳，内容无缺失。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-01.json"
+    },
+    {
+      "case_id": "Aix0087-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴帽子的观察者被红色有机纹理围住，只有轮廓可见\n必须保留：观察者；有机纹理\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，主体与必须保留元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-02.json"
+    },
+    {
+      "case_id": "Aix0087-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把黑色钥匙插在布满眼睛的红墙上\n必须保留：钥匙；红墙\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-03.json"
+    },
+    {
+      "case_id": "Aix0087-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一面旧镜子被密集眼睛图案包裹\n必须保留：镜子；眼睛图案\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-04.json"
+    },
+    {
+      "case_id": "Aix0087-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：狭窄红色隧道的墙壁全部变成凝视的眼睛\n必须保留：隧道；眼睛墙\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，红底蓝眼与颗粒质感突出，隧道与眼睛墙完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-05.json"
+    },
+    {
+      "case_id": "Aix0087-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：剧场观众席化为红色纹理和无数蓝灰目光\n必须保留：剧场；观众席\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0087-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，剧场与观众席元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0087-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

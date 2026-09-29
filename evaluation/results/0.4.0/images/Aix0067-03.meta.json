@@ -1,0 +1,24 @@
+{
+  "created": 1789977123,
+  "usage": {
+    "input_tokens": 112,
+    "output_tokens": 3168,
+    "total_tokens": 3280,
+    "input_tokens_details": {
+      "text_tokens": 112,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 3168,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一封用红蜡封口的旧信\n必须保留：旧信；红蜡\n视觉风格：复古海报式平涂结合强噪点；青绿背景配黑色主体与鲜红遮挡块；侧光厚影，高对比；中心半身像特写；粗糙颗粒如旧印刷品\n画幅比例：2:3\n避免出现：光滑渐变；甜系配色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/01fcbf8e36ac829f83e03c6d0a474201.png"
+    }
+  ]
+}

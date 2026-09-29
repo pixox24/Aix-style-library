@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0069",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "托盘上一排小雕塑，每尊都有眼",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "托盘",
+      "雕塑"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

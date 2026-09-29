@@ -1,0 +1,24 @@
+{
+  "created": 1789894546,
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 1584,
+    "total_tokens": 1710,
+    "input_tokens_details": {
+      "text_tokens": 126,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：两个背影并排走在渐变的暮色里\n必须保留：背影；暮色\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/91823a0bf9f88cd2238d56d9c0b7a21e.png"
+    }
+  ]
+}

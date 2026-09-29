@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0054",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0054.md",
+  "samples": [
+    {
+      "case_id": "Aix0054-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一只手搭在桌边，手机屏幕显示深夜的提醒\n必须保留：手；手机\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无乱码及结构瑕疵，元素完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-01.json"
+    },
+    {
+      "case_id": "Aix0054-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：凌晨坐在地板上的人影伸手够向充电的手机\n必须保留：人影；手机\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，光影与构图准确，无结构或文字瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-02.json"
+    },
+    {
+      "case_id": "Aix0054-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌面上的手机与半杯凉茶，屏幕还亮着\n必须保留：手机；茶杯\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无乱码及结构错误，手机与茶杯均完整保留。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-03.json"
+    },
+    {
+      "case_id": "Aix0054-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：床头充电线缠绕的手机特写\n必须保留：充电线；手机\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-04.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "屏幕充电图标形状略显粗糙，边缘不够干净利落，存在轻微瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-04.json"
+    },
+    {
+      "case_id": "Aix0054-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：午夜书桌，屏幕光把墙面照出一小块亮\n必须保留：书桌；屏幕光\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-05.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "屏幕显示内容为无意义的白色色块，存在伪文字瑕疵，故扣分。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-05.json"
+    },
+    {
+      "case_id": "Aix0054-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜的沙发一角，扔着一条毛毯与手机\n必须保留：沙发；毛毯\n视觉风格：数字硬边平涂，线条干净利落；深蓝底色，手部被粉红色光染亮；单一屏幕光源的局部照明；手部与手机的特写对角构图；平滑色块，轻微数字噪点\n画幅比例：2:3\n避免出现：多光源复杂照明；明亮环境；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0054-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无乱码及结构错误，必须保留元素完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0054-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

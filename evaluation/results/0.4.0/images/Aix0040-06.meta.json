@@ -1,0 +1,24 @@
+{
+  "created": 1789894443,
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 1584,
+    "total_tokens": 1707,
+    "input_tokens_details": {
+      "text_tokens": 123,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：车站大厅的人流俯视图\n必须保留：车站大厅；人流\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/dca16b8615df7651a40f3cfcca625221.png"
+    }
+  ]
+}

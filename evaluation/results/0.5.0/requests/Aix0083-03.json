@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0083",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "旧电视机投射出高过房屋的蓝色人物影像",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "电视机",
+      "人物影像"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0002",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "戴草帽的老爷爷推着自行车走过田埂，车筐里装满水果",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "老爷爷",
+      "自行车"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

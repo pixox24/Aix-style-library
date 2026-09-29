@@ -1,0 +1,24 @@
+{
+  "created": 1790532865,
+  "usage": {
+    "input_tokens": 155,
+    "output_tokens": 1584,
+    "total_tokens": 1739,
+    "input_tokens_details": {
+      "text_tokens": 155,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：冷蓝巷道尽头，街灯把电线杆变成巨人影子\n必须保留：巷道；巨人影子\n视觉风格：清晰线稿结合动画式硬边赛璐璐色块；冷蓝灰环境与纯黑阴影，单点红色聚焦；上方巨形压境、下方小人物形成极端比例；侧向强光把普通物体投射成夸张阴影；平滑动画质感，背景保留轻微颗粒\n画幅比例：2:3\n避免出现：写实血腥恐怖；暖色明亮日常；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/4874f70fecf5b3a7f30e0d3aadade5b1.png"
+    }
+  ]
+}

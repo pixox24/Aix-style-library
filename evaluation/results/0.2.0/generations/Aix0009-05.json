@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌上的一台古董打字机，纸页上飞起几只纸鹤\n必须保留：打字机；纸鹤\n视觉风格：黑白墨线插画，线条精细克制；黑白灰为主，全画仅一处低饱和点缀色；装饰性排线、弧线与重复线纹丰富暗部层次；大面积留白，主体偏置，画面疏朗有呼吸感\n画幅比例：2:3\n避免出现：高饱和多色与荧光色；3D光影与厚重色块堆叠",
+  "image_sha256": "673fb28e9b69030398419cbd2ee692740c67b63c184610a4e17d4ebc8e4ed2d2",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

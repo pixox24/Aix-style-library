@@ -1,0 +1,24 @@
+{
+  "created": 1789965086,
+  "usage": {
+    "input_tokens": 136,
+    "output_tokens": 1584,
+    "total_tokens": 1720,
+    "input_tokens_details": {
+      "text_tokens": 136,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：空旷的机房走廊，只有屏幕亮着\n必须保留：机房走廊；屏幕\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/17cdd86e0a957a8213dfbc4efc3bc584.png"
+    }
+  ]
+}

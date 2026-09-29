@@ -1,0 +1,24 @@
+{
+  "created": 1789972464,
+  "usage": {
+    "input_tokens": 113,
+    "output_tokens": 1584,
+    "total_tokens": 1697,
+    "input_tokens_details": {
+      "text_tokens": 113,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：桌上一只拆开的机械怀表与齿轮\n必须保留：怀表；齿轮\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/9fdbc0f7c5090086c8a06cdd5c7577f6.png"
+    }
+  ]
+}

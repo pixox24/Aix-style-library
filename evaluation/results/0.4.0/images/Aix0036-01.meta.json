@@ -1,0 +1,24 @@
+{
+  "created": 1789892421,
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 1584,
+    "total_tokens": 1733,
+    "input_tokens_details": {
+      "text_tokens": 149,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人形在深渊漩涡中心下坠，周身青蓝微光\n必须保留：下坠人形；漩涡\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/1ba18e102eecd2dcf181b70b542a1f8b.png"
+    }
+  ]
+}

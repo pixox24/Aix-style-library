@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：巨手托着一盏生锈的街灯，水面映出暖光\n必须保留：街灯；水面\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+  "image_sha256": "7135e00bcbd7c0d3c1dcf6030424d59bf09afe91c0c8023c211c85b117ce07ec",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 40.1
+  }
+}

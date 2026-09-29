@@ -1,0 +1,24 @@
+{
+  "created": 1789824267,
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 1584,
+    "total_tokens": 1738,
+    "input_tokens_details": {
+      "text_tokens": 154,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一位戴草帽的采茶妇人半身侧影，午后暖光\n必须保留：采茶妇人；草帽\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "url": "https://gateway.change2pro.com/vendor/assets/36f70420fca9d7e463fccbbc1fe04be3.png"
+    }
+  ]
+}

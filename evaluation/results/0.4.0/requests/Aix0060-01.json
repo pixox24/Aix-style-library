@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0060",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个人的头部由发光青色线条缠绕而成",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "线条头部",
+      "暗背景"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

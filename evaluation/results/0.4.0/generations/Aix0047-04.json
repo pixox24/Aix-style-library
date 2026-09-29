@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌面上闪烁的路由器与网线\n必须保留：路由器；网线\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+  "image_sha256": "872d3d06f5fad6b3b98d5292648795f9c7b1668336e1802e8c8000706bd02a32",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

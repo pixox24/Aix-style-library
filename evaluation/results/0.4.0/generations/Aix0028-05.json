@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：雾中的长街，灯光把路面照成河\n必须保留：长街；雾光\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+  "image_sha256": "f0869b9057b4b1de08d1549e12490a93c0006589cdc7bb3803b64c53b3abd797",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

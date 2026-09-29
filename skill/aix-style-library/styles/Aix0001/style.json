@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0",
   "id": "Aix0001",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "status": "active",
   "name": "雾青胶片人像",
-  "description": "摄影式胶片表现，低饱和雾青底色配暖肤色局部对比，柔和侧逆光与细腻颗粒。",
+  "description": "摄影式胶片表现，低饱和雾青底色配暖色局部对比，柔和侧逆光与细腻颗粒。",
   "category": "photographic",
   "tags": ["胶片感", "低饱和", "雾青", "柔光", "人像"],
   "aliases": ["雾青胶片", "misty cyan film"],
@@ -14,8 +14,8 @@
     "alt": "以低饱和雾青为底、暖色局部光与胶片颗粒表现的代表图。"
   },
   "features": [
-    {"id": "F01", "axis": "medium", "tier": "core", "text": "摄影式胶片画面，真实皮肤质感与自然形体"},
-    {"id": "F02", "axis": "palette", "tier": "core", "text": "低饱和雾青底色与暖肤色局部对比"},
+    {"id": "F01", "axis": "medium", "tier": "core", "text": "摄影式胶片画面，真实材质与自然形体"},
+    {"id": "F02", "axis": "palette", "tier": "core", "text": "低饱和雾青底色与暖色局部对比"},
     {"id": "F03", "axis": "lighting", "tier": "support", "text": "柔和侧逆光与克制的暗部层次"},
     {"id": "F04", "axis": "texture", "tier": "support", "text": "细腻胶片颗粒与轻微光学柔化"},
     {"id": "F05", "axis": "composition", "tier": "accent", "text": "大面积负空间与浅景深"}
@@ -36,9 +36,9 @@
   },
   "quality": {
     "review_status": "passed",
-    "tested_tool": "Pillow 11.3.0 procedural preview (no image model)",
-    "tested_at": "2026-09-18",
-    "evidence_ref": "results/0.1.0/Aix0001.json"
+    "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+    "tested_at": "2026-09-19",
+    "evidence_ref": "results/0.2.0/Aix0001.json"
   },
   "replacement_id": null
 }

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0001",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "清晨窗前，一位穿米色针织衫的年轻人侧身站在柔光里，侧脸望向窗外",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "窗前人物",
+      "柔和侧光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

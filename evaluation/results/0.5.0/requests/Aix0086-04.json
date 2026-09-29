@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0086",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑色雨靴被橙色水流托起，水流里有白色圆点",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "雨靴",
+      "橙色水流"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

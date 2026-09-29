@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：红门在黑墙上半开着，透出白光\n必须保留：红门；黑墙\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+  "image_sha256": "ab83277f1af09059110b3fbd332db923b04bf62b04e602adf10c09adfc26275a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

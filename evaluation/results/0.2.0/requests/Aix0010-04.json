@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0010",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一把旧钥匙与一只怀表的海报构图，放射状背景线",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "旧钥匙",
+      "怀表"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

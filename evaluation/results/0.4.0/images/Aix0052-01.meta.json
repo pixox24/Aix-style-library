@@ -1,0 +1,24 @@
+{
+  "created": 1789967611,
+  "usage": {
+    "input_tokens": 114,
+    "output_tokens": 1584,
+    "total_tokens": 1698,
+    "input_tokens_details": {
+      "text_tokens": 114,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只手从被窝伸出探向桌上的手机\n必须保留：手；手机\n视觉风格：数字平涂结合硬边线稿；深蓝调底配粉色光照与黑灰设备；手机屏幕的局部光照亮手部；特写对角构图，桌面元素铺陈；轻微数字噪点\n画幅比例：2:3\n避免出现：多光源；喧嚣场景；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/0e7ce5ebd7ca528a585511f141f7a4c3.png"
+    }
+  ]
+}

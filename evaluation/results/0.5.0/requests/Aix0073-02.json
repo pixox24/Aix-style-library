@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0073",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿红衣的人站在滴落的高柱旁，远处只有一条海平线",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "红衣人物",
+      "高柱"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

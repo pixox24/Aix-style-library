@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：荒漠公路上的一道绿光直落地面\n必须保留：荒漠公路；绿光\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+  "image_sha256": "e52968097c418c9be9ce8ee3df1299a65fee81ee0c3bfe9ec2d33a66367cbad6",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

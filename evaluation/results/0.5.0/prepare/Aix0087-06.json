@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0087",
+    "style_name": "赤壁万眼",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0087/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：剧场观众席化为红色纹理和无数蓝灰目光\n必须保留：剧场；观众席\n视觉风格：纹理插画结合平面剪影，图案重复而边缘清楚；鲜红大面积底色配蓝灰眼睛与黑色锚点；满版图案包围中心下方主体，形成压迫性边界；平面光影，以颜色密度而非体积塑造氛围；有机纤维、颗粒和密集重复图案\n画幅比例：2:3\n避免出现：稀疏留白的轻柔画面；明亮商业摄影；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0087",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "126965e6d7d40a694ce66e9ff023a17c349c1efb67b136643350cf23ed9f3068"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789976678,
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 1584,
+    "total_tokens": 1702,
+    "input_tokens_details": {
+      "text_tokens": 118,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只手掌上悬浮着发光星团\n必须保留：手掌；星团\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/86087319ab525e6203055c3f1132ce34.png"
+    }
+  ]
+}

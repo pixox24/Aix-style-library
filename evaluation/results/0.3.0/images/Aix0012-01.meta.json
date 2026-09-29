@@ -1,0 +1,24 @@
+{
+  "created": 1789869134,
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 1584,
+    "total_tokens": 1781,
+    "input_tokens_details": {
+      "text_tokens": 197,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一位提着灯笼的人沿石阶而上，身后是朱红圆日\n必须保留：提灯人；石阶\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "url": "https://gateway.change2pro.com/vendor/assets/52299032412506f1379370c13c96a9c4.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789891774,
+  "usage": {
+    "input_tokens": 135,
+    "output_tokens": 1584,
+    "total_tokens": 1719,
+    "input_tokens_details": {
+      "text_tokens": 135,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人抱着电脑在纸山前睡着\n必须保留：抱电脑的人；纸山\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/399f9f7243f29660da1d0f9761bb9c06.png"
+    }
+  ]
+}

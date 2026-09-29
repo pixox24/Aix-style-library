@@ -1,0 +1,24 @@
+{
+  "created": 1789973140,
+  "usage": {
+    "input_tokens": 125,
+    "output_tokens": 1584,
+    "total_tokens": 1709,
+    "input_tokens_details": {
+      "text_tokens": 125,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一盏旧烛台被粉紫色光焰环绕\n必须保留：烛台；光焰\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/6512da834b05b50a08da32686b0d2413.png"
+    }
+  ]
+}

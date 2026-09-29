@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0033",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0033.md",
+  "samples": [
+    {
+      "case_id": "Aix0033-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：DJ 双手调台的特写，耳机挂在颈上\n必须保留：DJ；调音台\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，色彩与光影完美契合，主体及必须保留元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-01.json"
+    },
+    {
+      "case_id": "Aix0033-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：歌手握麦克风的手部特写\n必须保留：麦克风；手\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-02.json"
+    },
+    {
+      "case_id": "Aix0033-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑胶唱机与旋转的唱片特写\n必须保留：唱机；唱片\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-03.json"
+    },
+    {
+      "case_id": "Aix0033-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一组旋钮与推子的控制台细节\n必须保留：控制台；旋钮\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-04.json"
+    },
+    {
+      "case_id": "Aix0033-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：舞台边的音箱堆与光柱\n必须保留：音箱；光柱\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩光影与构图均符合要求，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-05.json"
+    },
+    {
+      "case_id": "Aix0033-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：地下俱乐部的紫色灯光走廊\n必须保留：俱乐部；紫光\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0033-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0033-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

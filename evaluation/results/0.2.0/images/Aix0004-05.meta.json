@@ -1,0 +1,24 @@
+{
+  "created": 1789824164,
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 1584,
+    "total_tokens": 1746,
+    "input_tokens_details": {
+      "text_tokens": 162,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：案头一盏油灯、一卷展开的书和一方便砚\n必须保留：油灯；书卷\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+      "url": "https://gateway.change2pro.com/vendor/assets/04a27cf94b9543603cd46cf21c218c3c.png"
+    }
+  ]
+}

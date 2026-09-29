@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0020",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "渡船上的人望向灰雾水面，水下红光涌动",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "渡船人",
+      "水下红光"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0083",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0083.md",
+  "samples": [
+    {
+      "case_id": "Aix0083-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：小小的观察者站在废墟前，蓝色全息鲸鱼悬在城市上空\n必须保留：观察者；全息鲸鱼\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝光效对撞强烈，全息巨像与废墟质感完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-01.json"
+    },
+    {
+      "case_id": "Aix0083-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：工程师在红蓝投影巨像脚下调试一台设备\n必须保留：工程师；投影巨像\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝光效对撞强烈，全息巨像质感完美，工程师与设备元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-02.json"
+    },
+    {
+      "case_id": "Aix0083-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧电视机投射出高过房屋的蓝色人物影像\n必须保留：电视机；人物影像\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝光影对撞强烈，全息巨像仰视压迫感足，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-03.json"
+    },
+    {
+      "case_id": "Aix0083-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：废弃车辆上方悬着红蓝全息地图\n必须保留：废弃车辆；全息地图\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝光影对撞强烈，全息质感与仰视压迫感完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-04.json"
+    },
+    {
+      "case_id": "Aix0083-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：红色废墟广场中央升起蓝色城市投影\n必须保留：废墟广场；城市投影\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对撞强烈，全息与废墟质感完美，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-05.json"
+    },
+    {
+      "case_id": "Aix0083-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：被海水淹没的街区里，巨大全息灯塔重新亮起\n必须保留：淹没街区；全息灯塔\n视觉风格：科幻概念渲染，半透明材质与环境细节并置；冷蓝投影光与红色环境光的强烈互补对撞；低角度仰视，巨像压过前景碎片；全息主体自发光并染亮周围空气；金属、混凝土和数字扫描质感并存\n画幅比例：2:3\n避免出现：田园柔光与复古手绘；平面无层次色块；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0083-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对撞强烈，全息质感与仰视巨像表现完美，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0083-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

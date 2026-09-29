@@ -1,0 +1,24 @@
+{
+  "created": 1789976103,
+  "usage": {
+    "input_tokens": 114,
+    "output_tokens": 1584,
+    "total_tokens": 1698,
+    "input_tokens_details": {
+      "text_tokens": 114,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：楼梯通向的漂浮门洞\n必须保留：楼梯；门洞\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/1a7573539bd14a489dcd07f2cf74d2ef.png"
+    }
+  ]
+}

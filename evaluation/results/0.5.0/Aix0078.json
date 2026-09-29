@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0078",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0078.md",
+  "samples": [
+    {
+      "case_id": "Aix0078-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿长袍的人站在米色纸面上，三块红白面具悬在头顶\n必须保留：长袍人物；三块面具\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-01.json"
+    },
+    {
+      "case_id": "Aix0078-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：舞者的黑色衣袖化为墨线，脸旁排列红白面具\n必须保留：舞者；墨线\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容要求完全满足，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-02.json"
+    },
+    {
+      "case_id": "Aix0078-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只白瓷碗上画着红色几何面具\n必须保留：白瓷碗；几何面具\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，内容准确，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-03.json"
+    },
+    {
+      "case_id": "Aix0078-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧木门上钉着三块红白木牌，周围是墨迹\n必须保留：木门；木牌\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-04.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "门环存在轻微体积渲染，违背平面光要求，其余风格与内容特征完整。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-04.json"
+    },
+    {
+      "case_id": "Aix0078-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：米色戏台上只有黑墨帷幕和红白面具墙\n必须保留：戏台；面具墙\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-05.json"
+    },
+    {
+      "case_id": "Aix0078-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨后石巷被粗黑墨线和红色门框切开\n必须保留：石巷；红门框\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0078-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "水墨笔刷、红黑白配色及飞溅墨点特征完美，石巷与红门框完整保留。",
+      "generation_ref": "results/0.5.0/generations/Aix0078-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790537080,
+  "usage": {
+    "input_tokens": 160,
+    "output_tokens": 1584,
+    "total_tokens": 1744,
+    "input_tokens_details": {
+      "text_tokens": 160,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色礼堂上方落下一束星尘光，照亮空座位\n必须保留：礼堂；星尘光\n视觉风格：数字合成或三维粒子渲染，主体边缘由颗粒组成；纯黑背景与白蓝星尘，边缘带少量红色反光；垂直向上手势占据中心，光束呈放射状；强烈顶光或逆光，形成清晰体积光柱；沙粒、星点和雾化光晕叠加\n画幅比例：2:3\n避免出现：平面无光影插画；明亮复杂背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/50d69d1941116d9cc7bfbcebc65bcb42.png"
+    }
+  ]
+}

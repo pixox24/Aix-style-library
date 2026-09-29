@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0106",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "蓝灰停车场的一面空墙和孤单路灯",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "停车场",
+      "空墙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：拳击手出拳的定格，肌肉紧绷\n必须保留：拳击手；拳套\n视觉风格：美漫式数字厚涂，硬边块面塑造体积与动势；深蓝底色配黑白高对比主体，黄白能量色点缀；戏剧性强光，高光集中在受光面；对角构图，强调速度与运动张力；干净利落的数字质感\n画幅比例：2:3\n避免出现：柔光细腻刻画；粉彩糖果色；乱码文字与伪文字",
+  "image_sha256": "2060f9f600858bc2db851e27dc5231656e4f24ce5543c29547d37b5e3e3292a2",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

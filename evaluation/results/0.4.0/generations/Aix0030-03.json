@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：窗台上的盆栽被夕阳剪影化\n必须保留：盆栽；晚霞\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+  "image_sha256": "7056cdbbf2805f3ed605f5759e90a0deb040cfdadece2def60d8a5f1df7ed18e",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

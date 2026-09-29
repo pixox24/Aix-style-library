@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0013",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0013.md",
+  "samples": [
+    {
+      "case_id": "Aix0013-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：骑自行车穿过斑马线的年轻人，背包扬起\n必须保留：骑行者；自行车\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，冷暖对比强烈，透视准确，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-01.json"
+    },
+    {
+      "case_id": "Aix0013-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：路口等灯的行人，一人举着雨伞望向路牌\n必须保留：行人；雨伞\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-02.json"
+    },
+    {
+      "case_id": "Aix0013-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：路口的交通信号灯与路牌近景\n必须保留：信号灯；路牌\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，无乱码及结构瑕疵，元素完整。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-03.json"
+    },
+    {
+      "case_id": "Aix0013-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：街边的自动贩卖机与红色消防栓\n必须保留：贩卖机；消防栓\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖配色与硬边光影准确，透视正确，元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-04.json"
+    },
+    {
+      "case_id": "Aix0013-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黄昏时分的都市十字路口，高楼与车流\n必须保留：十字路口；车流\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-05.json"
+    },
+    {
+      "case_id": "Aix0013-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：轻轨高架桥下的城市街道，电车驶过\n必须保留：高架桥；街道\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "image_path": "results/0.3.0/images/Aix0013-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "右侧路牌呈现无意义乱码色块，存在轻微瑕疵，其余风格与内容均符合要求。",
+      "generation_ref": "results/0.3.0/generations/Aix0013-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

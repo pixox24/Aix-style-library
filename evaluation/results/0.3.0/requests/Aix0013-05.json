@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0013",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黄昏时分的都市十字路口，高楼与车流",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "十字路口",
+      "车流"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

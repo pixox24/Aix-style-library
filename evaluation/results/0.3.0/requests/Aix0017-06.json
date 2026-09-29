@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0017",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "山峦与森林剪影构成鱼形的河谷",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "山峦剪影",
+      "鱼形河谷"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

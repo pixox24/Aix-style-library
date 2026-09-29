@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0087",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一面旧镜子被密集眼睛图案包裹",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "镜子",
+      "眼睛图案"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

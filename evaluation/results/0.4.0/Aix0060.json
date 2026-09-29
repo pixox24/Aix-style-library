@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0060",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0060.md",
+  "samples": [
+    {
+      "case_id": "Aix0060-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人的头部由发光青色线条缠绕而成\n必须保留：线条头部；暗背景\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现青色发光线条与暗背景对比，背景虚化人群及头部线条均无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-01.json"
+    },
+    {
+      "case_id": "Aix0060-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少女的背影，后脑飘散出发光的线团\n必须保留：少女背影；线团\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-02.json"
+    },
+    {
+      "case_id": "Aix0060-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上的一只台灯，灯丝化作乱线升腾\n必须保留：台灯；灯丝\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-03.json"
+    },
+    {
+      "case_id": "Aix0060-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一颗发光线球滚在深色的地面\n必须保留：线球；地面\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-04.json"
+    },
+    {
+      "case_id": "Aix0060-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：人群中独站的一人，头顶是发光线云\n必须保留：人群；线云\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-05.json"
+    },
+    {
+      "case_id": "Aix0060-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜广场的灯下，线状光流浮动\n必须保留：广场；光流\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0060-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0060-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

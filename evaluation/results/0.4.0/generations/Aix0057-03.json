@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌上一只拆开的机械怀表与齿轮\n必须保留：怀表；齿轮\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+  "image_sha256": "716211951e5e3902866e41b50d08502c88fa4f41da57b1f73015cf5b7cb6c582",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

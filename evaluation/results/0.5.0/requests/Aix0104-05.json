@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0104",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "淡紫天台上只有一根黑色栏杆与远处月亮",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "天台",
+      "栏杆"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

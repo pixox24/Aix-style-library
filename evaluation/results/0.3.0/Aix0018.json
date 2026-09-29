@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0018",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0018.md",
+  "samples": [
+    {
+      "case_id": "Aix0018-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴鸟面具的祭司站在图腾柱前\n必须保留：面具人；图腾柱\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-01.json"
+    },
+    {
+      "case_id": "Aix0018-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：披斗篷的守夜人，腰间挂着兽骨铃铛\n必须保留：守夜人；铃铛\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，撞色、底光、厚涂肌理到位；守夜人与铃铛元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-02.json"
+    },
+    {
+      "case_id": "Aix0018-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：刻满纹样的木箱与陶罐\n必须保留：木箱；陶罐\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩光影与质感极佳，主体完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-03.json"
+    },
+    {
+      "case_id": "Aix0018-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：挂满护符与羽毛的祭祀长杖\n必须保留：长杖；护符\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-04.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "护符含疑似乱码符号；挂饰分布未严格中心对称。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-04.json"
+    },
+    {
+      "case_id": "Aix0018-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：火光中的图腾祭坛，人群剪影围坐\n必须保留：祭坛；篝火\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，光影色彩质感均达标，元素齐全无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-05.json"
+    },
+    {
+      "case_id": "Aix0018-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：洞窟壁画厅堂，岩壁上绘满符文\n必须保留：洞窟；符文壁画\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+      "image_path": "results/0.3.0/images/Aix0018-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "岩石质感偏写实，干刷木刻味未完全覆盖；部分符文笔画略显杂乱似乱码。",
+      "generation_ref": "results/0.3.0/generations/Aix0018-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

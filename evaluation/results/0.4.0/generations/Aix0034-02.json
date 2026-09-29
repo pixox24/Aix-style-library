@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人抱着电脑在纸山前睡着\n必须保留：抱电脑的人；纸山\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+  "image_sha256": "78c3743c46dbfefeea3c984113abe6969f831fe3b3385feb88dbba8cc80aafcc",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：傍晚街头，一位背着相机的旅行者停下脚步回望，背景是虚化的城市灯光\n必须保留：旅行者；胶片相机\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+  "image_sha256": "0f6ff178de89fd242429ebfc68872c3cd3717c43959a9fc2f53d6fe9af05a042",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

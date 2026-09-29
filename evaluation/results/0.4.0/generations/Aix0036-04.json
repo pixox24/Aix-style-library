@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：沉入深潭的孤灯，光晕被暗流拉长\n必须保留：孤灯；暗流\n视觉风格：粗犷数字笔触结合大块面平涂，边缘不规则；暗黑背景配灰绿过渡与青蓝高亮；中心轴对称构图，上下呼应如漩涡升降；局部发光与色块明暗对比；颗粒肌理与笔触堆叠\n画幅比例：2:3\n避免出现：干净矢量；明亮轻快；乱码文字与伪文字",
+  "image_sha256": "ff5458f2c4075d81f534e044fe46d6825f30cb48599dd0e0ab5af827ef9b524e",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

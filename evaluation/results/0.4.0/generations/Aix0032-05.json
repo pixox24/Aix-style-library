@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：城市天际线被一块巨蓝的月亮压住\n必须保留：天际线；蓝月\n视觉风格：米白背景与深蓝剪影的双色极简；对角线与夸张比例，营造巨物压迫感；矢量平涂，无轮廓硬边块面；纯平光，地面浅蓝投影暗示光源；干净数字，无纹理\n画幅比例：2:3\n避免出现：多色渐变；写实材质；乱码文字与伪文字",
+  "image_sha256": "2f131d7d3f6a2dca0fd7483f521118f548a0888913cc5de01e7c3389b05c9d71",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0006",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个黏土做的蛋糕师戴着白色小帽子，端着一个草莓蛋糕",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "黏土蛋糕师",
+      "草莓蛋糕"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

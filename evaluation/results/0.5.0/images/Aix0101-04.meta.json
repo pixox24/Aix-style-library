@@ -1,0 +1,24 @@
+{
+  "created": 1790538799,
+  "usage": {
+    "input_tokens": 153,
+    "output_tokens": 1584,
+    "total_tokens": 1737,
+    "input_tokens_details": {
+      "text_tokens": 153,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：两只颜色相反的行李箱被长投影连接\n必须保留：行李箱；长投影\n视觉风格：平滑矢量或极简三维造型，人物概括为几何体；高饱和电蓝背景对比白色与深蓝主体；对称门框、背对背双主体和长投影构成稳定结构；门框柔光与脚下长投影提供空间感；光滑塑料或石膏般的干净表面\n画幅比例：2:3\n避免出现：复杂纹理和写实环境；多色霓虹装饰；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/fa4400c3c047c9d5066f56300d262a33.png"
+    }
+  ]
+}

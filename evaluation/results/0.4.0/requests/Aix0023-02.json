@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0023",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "窗边的少年侧脸，被夕照镀上一层暖黄",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "窗边少年",
+      "夕照"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

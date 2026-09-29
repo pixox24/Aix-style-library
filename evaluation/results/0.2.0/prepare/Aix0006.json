@@ -1,0 +1,43 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0006",
+    "style_name": "黏土定格",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0006/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：一个背着红色小背包的黏土小人偶站在绿色的小山坡上，远处有一栋小房子\n必须保留：黏土小人偶；小山坡\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0006",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "68d551f1ccc83869651a690175e7179977ced3f17ea533d0e4b919b1459164c2"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

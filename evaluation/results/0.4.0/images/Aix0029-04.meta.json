@@ -1,0 +1,24 @@
+{
+  "created": 1789889963,
+  "usage": {
+    "input_tokens": 135,
+    "output_tokens": 1584,
+    "total_tokens": 1719,
+    "input_tokens_details": {
+      "text_tokens": 135,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：立在街边的旧路牌，被透视拉斜\n必须保留：路牌\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/1b8bfca1efe2ec0eb925521d6d92ff95.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：风暴海面上的灯塔射出一道光束\n必须保留：灯塔；海面\n视觉风格：单色版画与丝网印刷质感，平涂色块通体覆盖粗颗粒噪点；纯黑白灰，无彩色，极高明暗对比；强对比戏剧光，明亮主体从深黑背景中跃出；纵深构图，垂直元素成排引导视线向深处延伸；做旧印刷颗粒与粗糙边缘，手工感明显\n画幅比例：2:3\n避免出现：彩色与光滑数字渐变；明快轻松的色调与氛围；乱码文字与伪文字标题",
+  "image_sha256": "b91bfa2a49046b5d3dd5be6e9885f63d94c8d0b216d086ab6fc66f6b7653ac50",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

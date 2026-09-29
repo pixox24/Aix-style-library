@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0064",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "迷路者站在回旋楼梯中央，仰头寻找出口",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "迷路者",
+      "回旋楼梯"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

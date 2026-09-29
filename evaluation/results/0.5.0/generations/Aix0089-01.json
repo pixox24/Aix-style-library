@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：四格蓝黑光影中分别出现站立、奔跑、回头和静坐剪影\n必须保留：人物剪影；四格\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+  "image_sha256": "f8392f7b244ba1d50b36e27314b4589a8d8c527a5039b24d64e6f2ce06b6c012",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 132.2
+  }
+}

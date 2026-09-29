@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0074",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "旧台灯的电线变成一棵向上生长的小树",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "台灯",
+      "电线树"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：床头柜上的台灯与药瓶\n必须保留：台灯；药瓶\n视觉风格：数字平涂结合硬边线稿；深蓝调底配粉色光照与黑灰设备；手机屏幕的局部光照亮手部；特写对角构图，桌面元素铺陈；轻微数字噪点\n画幅比例：2:3\n避免出现：多光源；喧嚣场景；乱码文字与伪文字",
+  "image_sha256": "68bee3436ed689bc90b055e6d1ea800ec6b794a7248047079d6142b8e1843f43",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

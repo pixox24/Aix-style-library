@@ -1,0 +1,24 @@
+{
+  "created": 1789825122,
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 1584,
+    "total_tokens": 1731,
+    "input_tokens_details": {
+      "text_tokens": 147,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：骑电动车的外卖骑手穿过霓虹路口，雨幕与车灯拉出光轨\n必须保留：外卖骑手；电动车\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "url": "https://gateway.change2pro.com/vendor/assets/f33c60ffb635a13c3fb2cc1363f7f38c.png"
+    }
+  ]
+}

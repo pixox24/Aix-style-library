@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：扎长辫子的女性穿西装站在淡紫背景前，保持清晰侧影\n必须保留：女性侧影；长辫子\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+  "image_sha256": "87fe96c94d81802ffe6bf6036255626631f7bd036573d0a291df0a15dceae259",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.9
+  }
+}

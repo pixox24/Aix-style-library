@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0004",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雨后的竹林雾气弥漫，竹叶低垂，水珠欲滴",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "竹林",
+      "雾气"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

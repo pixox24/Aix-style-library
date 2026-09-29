@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0078",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "穿长袍的人站在米色纸面上，三块红白面具悬在头顶",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "长袍人物",
+      "三块面具"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

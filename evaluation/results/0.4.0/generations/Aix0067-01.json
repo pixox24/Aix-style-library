@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人做噤声的手势，脸被红块遮住\n必须保留：噤声手势；红块\n视觉风格：复古海报式平涂结合强噪点；青绿背景配黑色主体与鲜红遮挡块；侧光厚影，高对比；中心半身像特写；粗糙颗粒如旧印刷品\n画幅比例：2:3\n避免出现：光滑渐变；甜系配色；乱码文字与伪文字",
+  "image_sha256": "aa769471d5231eba88d9a7ade1e9d742e300c85c54b754a2dc8ea5547ffdfbb9",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0028",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "撑伞的人站在紫色霓虹下，背影拉长",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "撑伞人",
+      "霓虹"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

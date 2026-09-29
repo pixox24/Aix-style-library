@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：仰望天空的剪影人，头顶放射状张开手掌\n必须保留：仰头剪影；手掌\n视觉风格：珊瑚粉底色配纯黑剪影与纯白高光点，三色极简；环形与放射构图，剪影沿圆形轨迹排列并向心聚集；扁平矢量平涂，无光影无渐变，形体高度简化；流畅简练的外轮廓，除关键发光点外无内部细节；干净无纹理的数字质感\n画幅比例：2:3\n避免出现：写实光影与噪点颗粒；复杂色彩与渐变；乱码文字与伪文字印章",
+  "image_sha256": "b6090025a3352c11c3138ce53b7addba84f6cfc9ab3afc9af179d5559adb583b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

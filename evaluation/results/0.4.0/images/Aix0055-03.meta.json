@@ -1,0 +1,24 @@
+{
+  "created": 1789970949,
+  "usage": {
+    "input_tokens": 138,
+    "output_tokens": 1584,
+    "total_tokens": 1722,
+    "input_tokens_details": {
+      "text_tokens": 138,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：转动的落地风扇在绿光里投下影子\n必须保留：风扇；影子\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/14d2cafea3d26a76aa8668fb78c77541.png"
+    }
+  ]
+}

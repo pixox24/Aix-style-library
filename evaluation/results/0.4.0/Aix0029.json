@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0029",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0029.md",
+  "samples": [
+    {
+      "case_id": "Aix0029-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：骑行者冲过鱼眼镜头，前轮在画面里巨大\n必须保留：骑行者；自行车\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "鱼眼透视、紫蓝逆光及写实材质表现完美，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-01.json"
+    },
+    {
+      "case_id": "Aix0029-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：滑板少年在坡道起跳的半空中\n必须保留：滑板少年；坡道\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现鱼眼透视与紫蓝逆光，材质写实，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-02.json"
+    },
+    {
+      "case_id": "Aix0029-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只滚动的金属轮毂，倒映着街道\n必须保留：轮毂；倒影\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-03.json"
+    },
+    {
+      "case_id": "Aix0029-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：立在街边的旧路牌，被透视拉斜\n必须保留：路牌\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-04.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "路牌上的箭头形状略显怪异，存在轻微生成瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-04.json"
+    },
+    {
+      "case_id": "Aix0029-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨空旷的立交桥，延伸到地平线\n必须保留：立交桥；清晨\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-05.json"
+    },
+    {
+      "case_id": "Aix0029-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨后广场上的倒影与雕塑\n必须保留：广场；雕塑\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0029-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "内容完整，但缺乏鱼眼极端透视与前景夸张放大特征。",
+      "generation_ref": "results/0.4.0/generations/Aix0029-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

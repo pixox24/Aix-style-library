@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：长桥横跨一面从天空落下的彩色瀑布\n必须保留：长桥；彩色瀑布\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+  "image_sha256": "fd000e6ad4188ab2f26b07296feb135e697efe05fb5655e93f5353d197159ed0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.3
+  }
+}

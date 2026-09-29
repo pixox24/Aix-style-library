@@ -1,0 +1,24 @@
+{
+  "created": 1789824520,
+  "usage": {
+    "input_tokens": 155,
+    "output_tokens": 1584,
+    "total_tokens": 1739,
+    "input_tokens_details": {
+      "text_tokens": 155,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：雨后的小巷，石墙上爬着藤蔓，一扇半开的木门\n必须保留：石墙；木门\n视觉风格：油画厚涂，颜料堆叠形成可见的立体笔触；沉稳低饱和配色，同一画面统一于一个主色调；明暗由笔触塑造，光源温暖柔和的室内光；亚麻画布纹理与旧画罩染的时光感\n画幅比例：2:3\n避免出现：光滑数字质感与3D渲染反光；硬边矢量色块与均匀平涂",
+      "url": "https://gateway.change2pro.com/vendor/assets/e981e74eedd506914b36f8652d5e118e.png"
+    }
+  ]
+}

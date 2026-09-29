@@ -1,0 +1,24 @@
+{
+  "created": 1789889561,
+  "usage": {
+    "input_tokens": 139,
+    "output_tokens": 1584,
+    "total_tokens": 1723,
+    "input_tokens_details": {
+      "text_tokens": 139,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：霓虹灯管盘成的路牌在夜里发绿光\n必须保留：霓虹路牌\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/1637e0d2e656a6e37397456fc3b334fb.png"
+    }
+  ]
+}

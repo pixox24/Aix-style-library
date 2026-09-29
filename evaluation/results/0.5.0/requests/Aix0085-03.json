@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0085",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "三面重叠的白色面具放在灰蓝桌面",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "白色面具",
+      "重叠"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

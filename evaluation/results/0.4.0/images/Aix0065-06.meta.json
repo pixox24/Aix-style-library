@@ -1,0 +1,24 @@
+{
+  "created": 1789976423,
+  "usage": {
+    "input_tokens": 120,
+    "output_tokens": 1584,
+    "total_tokens": 1704,
+    "input_tokens_details": {
+      "text_tokens": 120,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：云层下的方形广场，只有一座门\n必须保留：广场；云层\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/e63614acf67782ae28ce8bf2ab2cbf3b.png"
+    }
+  ]
+}

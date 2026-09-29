@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0025",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0025.md",
+  "samples": [
+    {
+      "case_id": "Aix0025-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：少女侧坐，发梢化作成群水母向上飘散\n必须保留：少女；水母群\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，硬边平涂与流体光泽质感佳，主体元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-01.json"
+    },
+    {
+      "case_id": "Aix0025-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：潜泳者被粉色水母环绕，身形舒展\n必须保留：潜泳者；粉色水母\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-02.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "水母和人物存在柔和渐变，未完全达到硬边矢量平涂和纯平光要求。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-02.json"
+    },
+    {
+      "case_id": "Aix0025-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只玻璃瓶中旋转的粉色流体与气泡\n必须保留：玻璃瓶；流体\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-03.json"
+    },
+    {
+      "case_id": "Aix0025-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：漂在水上的贝壳与缠绕的粉色水带\n必须保留：贝壳；水带\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-04.json"
+    },
+    {
+      "case_id": "Aix0025-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深海中的粉色珊瑚与蓝色光带\n必须保留：珊瑚；光带\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-05.json"
+    },
+    {
+      "case_id": "Aix0025-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：水面之下仰望波光，粉色水母群漂浮\n必须保留：水下仰视；水母群\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0025-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0025-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

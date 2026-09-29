@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一盏倒下的路灯立在雨水中，倒影里灯柱无限拉长\n必须保留：路灯；雨夜积水\n视觉风格：硬边平涂色块结合粗颗粒噪点，复古印刷质感；靛蓝与青灰冷调主色，橙黄少量暖色点缀；上下分割的倒影构图，水面上下形成现实与巨影的对照；纯平光，无立体光影，明暗靠色块与颗粒区分；水波与倒影被简化为纹理，做旧颗粒覆盖全画\n画幅比例：2:3\n避免出现：渐变柔光与写实渲染；鲜艳多色与干净无噪点；乱码文字与伪文字",
+  "image_sha256": "3cc8baaab5f25f6fa5866f830e750af9c330b423623961e4f9eb98f2df74e95b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

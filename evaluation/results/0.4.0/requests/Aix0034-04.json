@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0034",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "屏幕上密密麻麻的窗口与一副眼镜",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "屏幕",
+      "眼镜"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：雾蓝站台上，远处的身影被拉成一团模糊回声\n必须保留：站台；模糊身影\n视觉风格：柔和数字绘画结合喷枪或水彩般边缘；蓝绿单色调配灰白雾气，低饱和克制；小型实体人物与大面积模糊影子形成双重尺度；朦胧均匀光，影子没有锐利边缘；雾化渐层、柔焦和轻微纸面颗粒\n画幅比例：2:3\n避免出现：锐利硬边海报；高饱和霓虹；乱码文字与伪文字",
+  "image_sha256": "e858c04b171b102ddfd6e7fbe873fd444c3f08ab00cc2482b59ac9a67a64ff3a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 41.5
+  }
+}

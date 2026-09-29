@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：小提琴手演奏时，音符化成一团向上流动的彩烟\n必须保留：小提琴手；彩烟\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+  "image_sha256": "cccd6fe8c4caa74adae0ae176d550f31d78d36c436c2ace6aa2550667721ee70",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 60.1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0072",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0072.md",
+  "samples": [
+    {
+      "case_id": "Aix0072-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身的人站在黑白两面墙之间，脸部被紫色旋涡遮住\n必须保留：侧身人物；紫色旋涡\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-01.json"
+    },
+    {
+      "case_id": "Aix0072-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴帽子的旅人只露出轮廓，面部是一小片紫色星空\n必须保留：旅人轮廓；紫色星空\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-02.json"
+    },
+    {
+      "case_id": "Aix0072-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一面黑白分割的镜子，中央嵌着紫色圆盘\n必须保留：分割镜子；紫色圆盘\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "紫色圆盘内部有涂抹光影，不够平整，偏离矢量平涂特征。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-03.json"
+    },
+    {
+      "case_id": "Aix0072-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：白桌上的黑色收音机被一圈紫光包住\n必须保留：收音机；紫光\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无乱码或结构瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-04.json"
+    },
+    {
+      "case_id": "Aix0072-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：一条黑白两半的走廊尽头悬着紫色漩涡\n必须保留：走廊；紫色漩涡\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合风格与内容要求，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-05.json"
+    },
+    {
+      "case_id": "Aix0072-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：夜色观景台上，黑白地面被一块紫色门洞切开\n必须保留：观景台；紫色门洞\n视觉风格：锐利数字矢量平涂，几何边缘干净；黑白二色为骨架，单一紫色作为高饱和锚点；垂直分割与局部圆形漩涡形成正负形对照；无复杂光影，以黑白明度和紫色块面分层；黑色区域带细密星尘颗粒，其他区域保持平整\n画幅比例：2:3\n避免出现：丰富渐变与写实皮肤；多色装饰与拥挤背景；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0072-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，黑白紫配色与星尘细节精准；观景台与紫色门洞完整保留，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0072-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

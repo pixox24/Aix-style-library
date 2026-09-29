@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0012",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0012.md",
+  "samples": [
+    {
+      "case_id": "Aix0012-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一位提着灯笼的人沿石阶而上，身后是朱红圆日\n必须保留：提灯人；石阶\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-01.json"
+    },
+    {
+      "case_id": "Aix0012-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：茶室里独坐沏茶的女子，侧影安静\n必须保留：沏茶人；茶室\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无瑕疵；沏茶人与茶室元素完整保留。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-02.json"
+    },
+    {
+      "case_id": "Aix0012-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枝樱花插在素色陶瓶里，旁边点着一盏纸灯\n必须保留：樱花；陶瓶\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征吻合，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-03.json"
+    },
+    {
+      "case_id": "Aix0012-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：案上茶壶与两只茶杯，竹帘投下条状光影\n必须保留：茶壶；茶杯\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，元素无缺失，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-04.json"
+    },
+    {
+      "case_id": "Aix0012-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雪后的神社鸟居小径，石灯笼亮着微光\n必须保留：鸟居；小径\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-05.json"
+    },
+    {
+      "case_id": "Aix0012-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：竹林深处的石灯笼与覆满苔藓的小径\n必须保留：石灯笼；竹林\n视觉风格：平涂剪影为主，形体高度概括，边缘整体硬朗；米白底、朱红大圆、深灰黑剪影三色构成，辅以灰蓝暗绿微点缀；非对称极简构图，大面积留白与一个醒目的大体量圆形元素；侧光投下清晰的条状或几何光斑，明暗简化处理；中等颗粒噪点，模拟旧纸与印刷的温润质感\n画幅比例：2:3\n避免出现：照片写实材质与厚重肌理；繁复装饰花纹与浓艳多色；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0012-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，三色构成与光影质感契合；石灯笼与竹林等元素完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0012-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

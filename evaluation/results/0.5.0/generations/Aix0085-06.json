@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：雾蓝车站的玻璃墙映出多重等待身影\n必须保留：车站；玻璃倒影\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+  "image_sha256": "723ba866c559a4930bc2106085fcd627a8b31e3c1a6136e9e97c0b38e63329a8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 40.4
+  }
+}

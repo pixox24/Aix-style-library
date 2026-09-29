@@ -1,0 +1,24 @@
+{
+  "created": 1790539633,
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 1584,
+    "total_tokens": 1730,
+    "input_tokens_details": {
+      "text_tokens": 146,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只黑色瓶子旁放着一朵单色小花\n必须保留：瓶子；小花\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/555f127fd4444970b771aa314cea40d6.png"
+    }
+  ]
+}

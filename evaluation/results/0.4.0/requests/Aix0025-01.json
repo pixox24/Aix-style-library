@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0025",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "少女侧坐，发梢化作成群水母向上飘散",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "少女",
+      "水母群"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

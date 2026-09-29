@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0016",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "墙壁洞里的一只巨眼凝视着一盏小灯",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "巨眼",
+      "小灯"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

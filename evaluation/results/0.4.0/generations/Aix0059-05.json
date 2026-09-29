@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：哥特庭院里，蝶群掠过枯枝\n必须保留：庭院；枯枝\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+  "image_sha256": "2f3c545586d59e6269c05a7653c3cb8ffa1ac7861a5305e934ab54309dff25ca",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：干涸河床通向远处的橙红圆形天体\n必须保留：河床；圆形天体\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+  "image_sha256": "b77baee2b33a8736f9810bb57e20f915d0af3c9cc9e37fe9ca09e152967d6641",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 44.1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：扎长辫子的女性站在空白蓝紫墙前，手持一朵花\n必须保留：女性侧影；花\n视觉风格：极简矢量剪影，边缘锐利而无多余细节；极淡蓝紫背景与深黑主体形成低饱和对比；侧面全身置于一侧，大面积空白平衡轮廓；几乎无光影，依靠轮廓与背景明度；干净平滑的平面表面\n画幅比例：2:3\n避免出现：复杂背景和装饰；多人物拥挤构图；乱码文字与伪文字",
+  "image_sha256": "c5c238239df75b0c087e6cb44abb19049ee8984d5c783ab680aa33af770c5e61",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.1
+  }
+}

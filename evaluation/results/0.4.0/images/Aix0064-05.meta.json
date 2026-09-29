@@ -1,0 +1,24 @@
+{
+  "created": 1789976053,
+  "usage": {
+    "input_tokens": 116,
+    "output_tokens": 1584,
+    "total_tokens": 1700,
+    "input_tokens_details": {
+      "text_tokens": 116,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：无限上升的阶梯迷宫全景\n必须保留：阶梯迷宫；天空\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/571d70dc9bfb668ca7eceec552571c35.png"
+    }
+  ]
+}

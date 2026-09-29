@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0097",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "舞者在暗室中旋身，双臂拖出红白长曝光轨迹",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "舞者",
+      "光轨"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

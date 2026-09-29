@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0005",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雨后的小巷，石墙上爬着藤蔓，一扇半开的木门",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "石墙",
+      "木门"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

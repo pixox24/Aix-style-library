@@ -1,0 +1,24 @@
+{
+  "created": 1789972960,
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 1584,
+    "total_tokens": 1715,
+    "input_tokens_details": {
+      "text_tokens": 131,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑袍的身影静立，背后展开一圈发光的面孔\n必须保留：黑袍身影；光环面孔\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/3970695e64c11eb695ce2d6ac6403735.png"
+    }
+  ]
+}

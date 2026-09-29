@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0023",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "桌上的一盏煤油灯，光晕在灰蓝夜色里",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "煤油灯",
+      "夜色"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

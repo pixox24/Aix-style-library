@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个背着红色小背包的黏土小人偶站在绿色的小山坡上，远处有一栋小房子\n必须保留：黏土小人偶；小山坡\n视觉风格：3D 黏土定格质感，造型圆润、形体简化；低饱和马卡龙色系，材质哑光；影棚柔光箱照明，阴影柔和干净；表面轻微指痕与手工捏制痕迹\n画幅比例：2:3\n避免出现：写实皮肤与毛发细节；金属镜面与玻璃反光",
+  "image_sha256": "10bbb4288d9491ffd763a16f068f967144bc3042a6220326143967c59a6b6263",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 60.9
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0034",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "创作者被成堆的文件淹没，只露出头",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "创作者",
+      "文件堆"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

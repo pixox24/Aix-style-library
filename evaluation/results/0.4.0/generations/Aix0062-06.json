@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：广场中央的雕塑长出面孔像树冠\n必须保留：雕塑；面孔\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+  "image_sha256": "b527bc3816f931c7993a46dd6d6f7e46c3f4d3ed891beb6e154c1c8f0a2fc3c8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

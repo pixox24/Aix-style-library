@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：灰蓝背景中的人物抬手触碰颈侧，头部化为黑色烟雾\n必须保留：人物；黑烟头部\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+  "image_sha256": "52c8a86f48d9da6ef66cf93e57ab4f83b6cb55f274df5a2b5c5855ece687ede4",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 0.0
+  }
+}

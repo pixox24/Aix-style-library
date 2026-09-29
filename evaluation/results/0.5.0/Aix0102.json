@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0102",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0102.md",
+  "samples": [
+    {
+      "case_id": "Aix0102-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴耳机的人侧身喝一杯饮料，轮廓出现蓝红像素错位\n必须保留：戴耳机人物；饮料\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，剪影与故障错位效果极佳，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-01.json"
+    },
+    {
+      "case_id": "Aix0102-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：连帽衫人物站在淡蓝墙前，肩部被故障切片打断\n必须保留：连帽衫人物；故障切片\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-02.json"
+    },
+    {
+      "case_id": "Aix0102-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：玻璃杯在屏幕故障中出现水平错位的倒影\n必须保留：玻璃杯；错位倒影\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，玻璃杯及错位倒影完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-03.json"
+    },
+    {
+      "case_id": "Aix0102-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台旧电视的天线被像素条切成几段\n必须保留：旧电视；像素条\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-04.json"
+    },
+    {
+      "case_id": "Aix0102-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：冷蓝便利店走廊像坏掉的录像一样水平断裂\n必须保留：便利店；录像故障\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，便利店与录像故障元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-05.json"
+    },
+    {
+      "case_id": "Aix0102-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：地铁车窗外的城市被蓝白扫描线切开\n必须保留：地铁车窗；扫描线\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0102-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0102-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

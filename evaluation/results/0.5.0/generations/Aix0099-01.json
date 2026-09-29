@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色高领人物站在灰色房间里，头部被白色立方体替代\n必须保留：高领人物；白立方体\n视觉风格：极简三维或数字雕塑渲染，形体边界精确；灰白背景、黑色衣物与纯白几何体的低饱和对比；居中胸像，几何体替代头部成为唯一焦点；柔和侧光在立方体上形成明确几何阴影；光滑冰冷表面，背景轻微雾化\n画幅比例：2:3\n避免出现：高饱和颜色和复杂装饰；粗糙手绘纹理；乱码文字与伪文字",
+  "image_sha256": "96f9127ca77a2c90ac5cde653684b8eef918b6c830c0c4c73ce9d171de9ee3a1",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 82.5
+  }
+}

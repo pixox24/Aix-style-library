@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌上的一只台灯，灯丝化作乱线升腾\n必须保留：台灯；灯丝\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+  "image_sha256": "4e6b540446a84b1a2394693deab9c34c442086c1bcc1ee458348f3dc87a90381",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

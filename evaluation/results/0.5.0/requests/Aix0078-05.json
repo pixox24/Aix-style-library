@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0078",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "米色戏台上只有黑墨帷幕和红白面具墙",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "戏台",
+      "面具墙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

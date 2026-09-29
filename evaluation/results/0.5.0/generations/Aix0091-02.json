@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：闭眼演奏者的胸口升起一束彩色光谱\n必须保留：演奏者；光谱\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+  "image_sha256": "bd5811debe4ecb0d466b23ed86a931f7d5eaafc4e894f5ece2c49148672b542d",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 62.9
+  }
+}

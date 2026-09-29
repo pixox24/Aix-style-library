@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0103",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑色相框包住一片沙漠和一颗蓝色星球",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "相框",
+      "沙漠星球"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

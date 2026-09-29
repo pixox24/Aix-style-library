@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：白色面具中央裂开一条彩虹光线\n必须保留：白色面具；彩虹光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+  "image_sha256": "7e4969e5c8250904d1fc935211cacf0bc5cfc4a9592ee7773a27a390739600dc",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 77.4
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0098",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0098.md",
+  "samples": [
+    {
+      "case_id": "Aix0098-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人坐在电脑前，肩部边缘化成蓝紫像素粒子\n必须保留：电脑前人物；像素粒子\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-01.json"
+    },
+    {
+      "case_id": "Aix0098-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧脸人物伸手靠近白色屏幕，衣袖逐渐消融\n必须保留：侧脸人物；屏幕\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现蓝紫数字消融风格，元素完整，结构准确，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-02.json"
+    },
+    {
+      "case_id": "Aix0098-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧电脑显示器边缘溶解成蓝紫粒子\n必须保留：显示器；粒子\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-03.json"
+    },
+    {
+      "case_id": "Aix0098-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一副耳机悬在暗室里，线缆化成数字光尘\n必须保留：耳机；光尘\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-04.json"
+    },
+    {
+      "case_id": "Aix0098-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜办公室里只有一张椅子和发光屏幕，空气中漂着像素\n必须保留：办公室；发光屏幕\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-05.png",
+      "style_score": 3,
+      "content_score": 5,
+      "notes": "风格要求侧面人物缺失，导致核心特征不完整。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-05.json"
+    },
+    {
+      "case_id": "Aix0098-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：地铁车厢被蓝紫屏幕光切开，乘客边缘轻微消散\n必须保留：地铁车厢；屏幕光\n视觉风格：暗调数字绘画结合粒子和柔和轮廓光；黑色背景、蓝紫光晕与屏幕白光形成冷色焦点；侧面人物与屏幕形成横向关系，消融向后方扩散；屏幕光与轮廓光塑造主体，背景压暗；像素碎片、微粒和柔化光晕\n画幅比例：2:3\n避免出现：白天明亮场景；传统厚重油画笔触；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0098-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，蓝紫消融与屏幕光效果极佳，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0098-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

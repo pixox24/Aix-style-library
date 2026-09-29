@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0082",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "小女孩牵着风筝走向沙漠中的暖色光门",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "小女孩",
+      "光门"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

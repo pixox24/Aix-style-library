@@ -1,0 +1,24 @@
+{
+  "created": 1790531156,
+  "usage": {
+    "input_tokens": 161,
+    "output_tokens": 1584,
+    "total_tokens": 1745,
+    "input_tokens_details": {
+      "text_tokens": 161,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：旧信件被白色丝带缠住，蝴蝶从缝隙飞出\n必须保留：旧信件；丝带\n视觉风格：细腻数字厚涂，布料与羽翅边缘柔和；深酒红背景配黑白主体，局部灰蓝提亮；中心下沉、上方发散的垂直升腾构图；柔和侧光塑造布料褶皱，背景保持暗；布料纤维、蝶翅细节与轻微胶片颗粒\n画幅比例：2:3\n避免出现：明亮糖果色；硬边几何平涂；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/577b32c95b81e3e90b51c6db03d18046.png"
+    }
+  ]
+}

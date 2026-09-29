@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0092",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "小小的修理员用白色工具触碰悬浮在身后的巨大蓝色手掌",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "修理员",
+      "蓝色手掌"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

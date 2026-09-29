@@ -1,0 +1,24 @@
+{
+  "created": 1789888790,
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 1584,
+    "total_tokens": 1721,
+    "input_tokens_details": {
+      "text_tokens": 137,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只皮质手套搭在车把上\n必须保留：手套；车把\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/5180689894648543e94bd9884855d347.png"
+    }
+  ]
+}

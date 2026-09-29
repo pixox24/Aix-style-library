@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0105",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "坐在桌边的人被黄绿色线条围绕，思绪向上卷起",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "坐着的人",
+      "卷曲线条"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

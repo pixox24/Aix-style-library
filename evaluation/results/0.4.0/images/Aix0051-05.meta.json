@@ -1,0 +1,24 @@
+{
+  "created": 1789967438,
+  "usage": {
+    "input_tokens": 108,
+    "output_tokens": 1584,
+    "total_tokens": 1692,
+    "input_tokens_details": {
+      "text_tokens": 108,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：按钮组成的巨大台阶\n必须保留：按钮台阶；界面\n视觉风格：数字硬边平涂，线条清晰；深蓝底色配暗红与纯白对比；界面元素巨大化的超现实构图；平涂硬边阴影，简洁明确；干净数字质感\n画幅比例：2:3\n避免出现：写实光影；粗糙肌理；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/9663f04c2ba18f2fbdaa5cd3899da9be.png"
+    }
+  ]
+}

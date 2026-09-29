@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一副亮粉墨镜与饮料罐静摆\n必须保留：墨镜；饮料罐\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+  "image_sha256": "2ec90c276c3d973183940c6cc129d454a4e3bdf776ae70a8e241c8002be3a76f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：戴头盔的车手半身像，被竖直红线一分为二\n必须保留：车手；头盔\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+  "image_sha256": "32e70576594db580118f4658a69435b94f8934cb24fd59dbd67949b53dfb78c8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

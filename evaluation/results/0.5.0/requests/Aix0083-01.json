@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0083",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "小小的观察者站在废墟前，蓝色全息鲸鱼悬在城市上空",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "观察者",
+      "全息鲸鱼"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

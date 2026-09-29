@@ -1,0 +1,24 @@
+{
+  "created": 1789972261,
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 1584,
+    "total_tokens": 1707,
+    "input_tokens_details": {
+      "text_tokens": 123,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：冷调房间里的一扇窗与花影\n必须保留：窗；花影\n视觉风格：摄影质感结合数字合成，边缘柔和；冷蓝灰背景与橙红花朵的对比；背光剪影，花朵成为唯一亮色；居中构图，主体手持物遮住面部；强颗粒感与柔焦\n画幅比例：2:3\n避免出现：硬边矢量；高饱和多色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/f7251a6da330d90ac48d5d11d6b886b1.png"
+    }
+  ]
+}

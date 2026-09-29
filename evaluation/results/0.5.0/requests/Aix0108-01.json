@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0108",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "坐在椅子上的人头部化成黑洞，青绿色烟雾向上绕行",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "坐姿人物",
+      "青烟黑洞"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

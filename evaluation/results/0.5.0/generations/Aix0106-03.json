@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把折叠椅靠墙，硬光投出夸张的椅影\n必须保留：折叠椅；椅影\n视觉风格：写实摄影或写实数字绘画，人物材质自然；蓝灰天空、土黄服装与深灰阴影的低饱和关系；主体压在下方，上方留出大面积单色天空或墙面；单一硬光源投出清晰而略夸张的影子；真实布料、墙面颗粒和轻微胶片质感\n画幅比例：2:3\n避免出现：柔和梦幻光效；高饱和商业时尚；乱码文字与伪文字",
+  "image_sha256": "cdefe71baaa49fd6fa0d01a66305fdf1260fe5656614b6eebe6e164e0042f8c7",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 45.4
+  }
+}

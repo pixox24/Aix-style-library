@@ -1,0 +1,24 @@
+{
+  "created": 1789890032,
+  "usage": {
+    "input_tokens": 141,
+    "output_tokens": 1584,
+    "total_tokens": 1725,
+    "input_tokens_details": {
+      "text_tokens": 141,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：清晨空旷的立交桥，延伸到地平线\n必须保留：立交桥；清晨\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/1bc8193db7f379613eca5a5221a802c1.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑场中一位小人站在冷蓝几何台阶旁接受单束聚光\n必须保留：小人；几何台阶\n视觉风格：极简三维渲染或数字造型，几何边缘精准；纯黑背景与冷蓝灰主体，饱和色被严格压低；小型几何体置于大面积黑场，留白成为结构；单一上方或侧方聚光，阴影轮廓清晰；光滑陶瓷、金属或石材般的冷质感\n画幅比例：2:3\n避免出现：暖色复杂场景；粗糙手绘笔触；乱码文字与伪文字",
+  "image_sha256": "4442a18cfdeef3ffb813cbb1d3c66d9d66b2a2a3838d6fd56a53f18c95d01fb8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 46.7
+  }
+}

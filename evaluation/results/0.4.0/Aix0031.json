@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0031",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0031.md",
+  "samples": [
+    {
+      "case_id": "Aix0031-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：楼顶晾晒床单的居民\n必须保留：晾晒居民；床单\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比与硬边色块表现完美，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-01.json"
+    },
+    {
+      "case_id": "Aix0031-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：推着小车的街头小贩穿过巷口\n必须保留：小贩；推车\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比与硬边色块表现完美，主体元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-02.json"
+    },
+    {
+      "case_id": "Aix0031-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：巷口的一排彩色水桶与晾衣绳\n必须保留：水桶；晾衣绳\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比与硬边色块表现良好，水桶与晾衣绳完整保留，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-03.json"
+    },
+    {
+      "case_id": "Aix0031-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：铁皮屋顶上的旧收音机与天线\n必须保留：收音机；天线\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比与硬边色块表现优秀；收音机与天线完整保留，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-04.json"
+    },
+    {
+      "case_id": "Aix0031-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：层叠街区的黄昏全景\n必须保留：层叠街区；黄昏\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "内容完整。但画面细节过于写实繁复，缺乏要求的概括性硬边色块与平光特征。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-05.json"
+    },
+    {
+      "case_id": "Aix0031-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：阶梯巷弄里追逐的孩子群像\n必须保留：巷弄阶梯；孩子\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0031-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，色彩对比与硬边色块表现佳，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0031-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

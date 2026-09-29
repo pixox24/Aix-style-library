@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0088",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "灰蓝海岸上，风把城市轮廓拆成连续线条",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "海岸",
+      "城市轮廓"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

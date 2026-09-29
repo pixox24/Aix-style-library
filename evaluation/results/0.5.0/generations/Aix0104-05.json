@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：淡紫天台上只有一根黑色栏杆与远处月亮\n必须保留：天台；栏杆\n视觉风格：纯净矢量剪影，形体由完整轮廓概括；淡紫蓝背景配纯黑主体，仅一处暖色小点；侧面全身置于留白中，轮廓成为唯一视觉信息；无明显光影，依靠轮廓和留白传达气质；平滑无纹理的现代海报表面\n画幅比例：2:3\n避免出现：复杂背景与多人物；丰富体积光影；乱码文字与伪文字",
+  "image_sha256": "290d1aba1dc60ba2b05418676922a032e2da3c0dd60662deee4ab729e77de83b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 45.8
+  }
+}

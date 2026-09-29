@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只白手形状的瓷杯放在灰桌上\n必须保留：手形瓷杯；桌面\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+  "image_sha256": "725a3b0f8a567e038ddaa439aff1e1697f596acf3c203b3c6cb0354cb3e3b165",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

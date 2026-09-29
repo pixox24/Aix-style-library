@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：雨后石巷被粗黑墨线和红色门框切开\n必须保留：石巷；红门框\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+  "image_sha256": "d53a54886ef186630bf134cf1c6a497461ce39094a189f950e1f211047440c58",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 44.3
+  }
+}

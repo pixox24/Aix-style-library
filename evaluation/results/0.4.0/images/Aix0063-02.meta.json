@@ -1,0 +1,24 @@
+{
+  "created": 1789975472,
+  "usage": {
+    "input_tokens": 123,
+    "output_tokens": 1584,
+    "total_tokens": 1707,
+    "input_tokens_details": {
+      "text_tokens": 123,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：低头的人影，一滴白色眼泪落下\n必须保留：人影；泪滴\n视觉风格：丝网印刷式平涂，边缘带颗粒毛糙；纯黑、鲜红与白三色极简；高对比，红块如发光体；极简居中构图，色块几何切割；丝网颗粒与墨点\n画幅比例：2:3\n避免出现：多色渐变；写实细节；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/e0c16188e080276d1a29500039a637ef.png"
+    }
+  ]
+}

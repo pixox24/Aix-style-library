@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0064",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0064.md",
+  "samples": [
+    {
+      "case_id": "Aix0064-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个小人站在巨大阶梯顶端，脚下巨眼睁开\n必须保留：小人；巨眼\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，几何纵深与色彩符合要求，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-01.json"
+    },
+    {
+      "case_id": "Aix0064-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：迷路者站在回旋楼梯中央，仰头寻找出口\n必须保留：迷路者；回旋楼梯\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征明显，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-02.json"
+    },
+    {
+      "case_id": "Aix0064-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：楼梯转角的一盏路灯，与巨眼对视\n必须保留：路灯；巨眼\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，元素无缺失变形，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-03.json"
+    },
+    {
+      "case_id": "Aix0064-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：几何积木般的台阶与一只眼球雕塑\n必须保留：台阶；眼球雕塑\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，几何结构与光影干净利落，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-04.json"
+    },
+    {
+      "case_id": "Aix0064-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：无限上升的阶梯迷宫全景\n必须保留：阶梯迷宫；天空\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，色彩、几何结构与纵深眩晕感表现完美，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-05.json"
+    },
+    {
+      "case_id": "Aix0064-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：楼梯通向的漂浮门洞\n必须保留：楼梯；门洞\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0064-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，几何线条严谨，色彩与光影准确，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0064-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

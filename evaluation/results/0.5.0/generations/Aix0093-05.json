@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深夜书房上空漂浮着一片彩烟构成的城市\n必须保留：书房；烟雾城市\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+  "image_sha256": "eb08c10c9f9aa72017a9bcbe7a280e3eb08cc85fe1de983f0af1e85669d92fa5",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 47.9
+  }
+}

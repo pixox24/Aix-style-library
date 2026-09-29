@@ -1,0 +1,24 @@
+{
+  "created": 1790531843,
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 1584,
+    "total_tokens": 1742,
+    "input_tokens_details": {
+      "text_tokens": 158,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：穿长袍的人站在米色纸面上，三块红白面具悬在头顶\n必须保留：长袍人物；三块面具\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/4b429447074ce7d6e59dc87c4e41324a.png"
+    }
+  ]
+}

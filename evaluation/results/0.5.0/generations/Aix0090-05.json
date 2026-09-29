@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：纯黑博物馆里只有一条冷蓝几何走廊\n必须保留：博物馆；几何走廊\n视觉风格：极简三维渲染或数字造型，几何边缘精准；纯黑背景与冷蓝灰主体，饱和色被严格压低；小型几何体置于大面积黑场，留白成为结构；单一上方或侧方聚光，阴影轮廓清晰；光滑陶瓷、金属或石材般的冷质感\n画幅比例：2:3\n避免出现：暖色复杂场景；粗糙手绘笔触；乱码文字与伪文字",
+  "image_sha256": "9989cd38fce13a218979761859b0729da7047a514ded5bb341fcb7dd5d260c69",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.0
+  }
+}

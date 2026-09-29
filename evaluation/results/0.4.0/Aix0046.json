@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0046",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0046.md",
+  "samples": [
+    {
+      "case_id": "Aix0046-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：两个身影在巨大月亮前相拥\n必须保留：相拥剪影；月亮\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-01.json"
+    },
+    {
+      "case_id": "Aix0046-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人坐在月下的天台边缘\n必须保留：天台人物；月亮\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-02.json"
+    },
+    {
+      "case_id": "Aix0046-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一对挂在窗前的风铃，月光滑过\n必须保留：风铃；月光\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-03.json"
+    },
+    {
+      "case_id": "Aix0046-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上的两只咖啡杯映着月色\n必须保留：咖啡杯；月色\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，紫蓝与暖黄对比强烈，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-04.json"
+    },
+    {
+      "case_id": "Aix0046-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：月下的城市河岸，倒影成双\n必须保留：河岸；月影\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "风格特征吻合，但建筑窗户灯光有涂抹乱码瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-05.json"
+    },
+    {
+      "case_id": "Aix0046-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：紫蓝夜空下的海岸线\n必须保留：海岸线；夜空\n视觉风格：日系赛璐璐数字插画，硬边轮廓与平滑质感；紫蓝夜色与暖黄月光的经典对比；边缘轮廓光，背光剪影为主；竖幅中心构图，巨大圆形背景元素；干净平滑数字质感\n画幅比例：2:3\n避免出现：写实照片；杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0046-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0046-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

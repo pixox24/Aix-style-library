@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：地下俱乐部的紫色灯光走廊\n必须保留：俱乐部；紫光\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+  "image_sha256": "1fbc260664a7a45305ce8bf248b6e824783a3907a2b9cda459c17c7674382e0a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

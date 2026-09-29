@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：火光中的图腾祭坛，人群剪影围坐\n必须保留：祭坛；篝火\n视觉风格：橙红与土黄暖色同深海军蓝冷色强互补撞色；戏剧性底光与聚光，暖光自下方照亮主体下缘与地面光斑；中心对称主体，背景满构图密集排列的矩形纹样墙；干刷质感数字厚涂，边缘块面化，带木刻版画味；做旧纸张与粗糙肌理，颗粒覆盖全画\n画幅比例：2:3\n避免出现：干净光滑的矢量质感；写实写生光影与大面积留白；乱码文字与伪文字",
+  "image_sha256": "fb9c5c560cd2ca7418e03632d93f3e3fc45df7eaf18a46c1696353b2283f9c42",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

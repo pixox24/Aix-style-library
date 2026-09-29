@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0079",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "城市天际线前出现巨大的垂直彩虹幕墙",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "天际线",
+      "彩虹幕墙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

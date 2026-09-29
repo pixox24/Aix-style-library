@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0084",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0084.md",
+  "samples": [
+    {
+      "case_id": "Aix0084-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身的人在青绿色窗前调试老式收音设备\n必须保留：侧身人物；旧设备\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美契合，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-01.json"
+    },
+    {
+      "case_id": "Aix0084-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿工装的人坐在复古终端前，窗外是安静城市\n必须保留：工装人物；复古终端\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-02.json"
+    },
+    {
+      "case_id": "Aix0084-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台老式电视机映出青绿的未来街道\n必须保留：电视机；未来街道\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，画中画结构清晰，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-03.json"
+    },
+    {
+      "case_id": "Aix0084-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上的旋钮控制台与一盏黄色指示灯\n必须保留：控制台；指示灯\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-04.json"
+    },
+    {
+      "case_id": "Aix0084-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：旧公寓窗内望见青绿色高架城市\n必须保留：公寓窗；高架城市\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青绿主色调与画中画构图完美，旧设备与高架城市细节清晰，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-05.json"
+    },
+    {
+      "case_id": "Aix0084-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：复古控制室里，唯一的窗户通向无声未来城\n必须保留：控制室；未来城\n视觉风格：清晰线稿配平面数字上色，动画背景感；青绿与深青主导，少量黄白灯光作为点缀；窗框或设备框形成画中画，内外空间并置；窗外霓虹与屏幕光提供统一冷光；平滑色块和少量旧设备磨损线条\n画幅比例：2:3\n避免出现：过度赛博霓虹；写实摄影细节；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0084-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青绿主调与黄光点缀准确，画中画结构清晰，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0084-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0065",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0065.md",
+  "samples": [
+    {
+      "case_id": "Aix0065-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：无首的制服身影坐在巨型门框上\n必须保留：制服身影；门框\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无首制服与门框元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-01.json"
+    },
+    {
+      "case_id": "Aix0065-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：两个无面身影隔着一扇门对坐\n必须保留：无面身影；门\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，色彩与几何构图准确，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-02.json"
+    },
+    {
+      "case_id": "Aix0065-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一扇立在荒地上的门，门内空无一物\n必须保留：门；荒地\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "色彩、质感与构图完美契合风格，门与荒地元素完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-03.json"
+    },
+    {
+      "case_id": "Aix0065-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把放在高台上的空椅\n必须保留：空椅；高台\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完全吻合，色彩与构图精准，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-04.json"
+    },
+    {
+      "case_id": "Aix0065-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：几何建筑群中的长廊与拱门\n必须保留：长廊；拱门\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "色彩、平涂哑光质感及几何构图完美契合，长廊与拱门完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-05.json"
+    },
+    {
+      "case_id": "Aix0065-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：云层下的方形广场，只有一座门\n必须保留：广场；云层\n视觉风格：平涂结合简洁几何概括；灰绿天空配淡粉地面与深灰主体；柔和漫射光，哑光质感；几何框架构图，主体坐于结构之上；哑光无纹理，轻微颗粒\n画幅比例：2:3\n避免出现：浓艳色彩；复杂肌理；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0065-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，色彩与构图准确，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0065-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

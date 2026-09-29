@@ -1,0 +1,24 @@
+{
+  "created": 1789871030,
+  "usage": {
+    "input_tokens": 176,
+    "output_tokens": 1584,
+    "total_tokens": 1760,
+    "input_tokens_details": {
+      "text_tokens": 176,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：街道建筑剪影围出咖啡杯的负形\n必须保留：建筑剪影；咖啡杯形\n视觉风格：图底反转负空间构图：黑色块面围合的中心留白构成可识别的第二形状；纯黑白双色，无灰度过渡；黑色块面内以白色精细线稿刻画纹理（砖墙、栏杆、格栅）；高对比剪影结合精细线稿，木刻与蚀刻版画语言；干净锐利无噪点，印刷品般的完成度\n画幅比例：2:3\n避免出现：灰度渐变与彩色；照片写实与柔和笔触；乱码文字与伪文字标签",
+      "url": "https://gateway.change2pro.com/vendor/assets/610e746f293688b7a7223a6ec06f6cef.png"
+    }
+  ]
+}

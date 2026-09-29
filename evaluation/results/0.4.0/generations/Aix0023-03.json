@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一台老式收音机沐浴在暖光中，四周是冷蓝的暗\n必须保留：收音机；暖光\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "fcc011330050b61963d0dde545d120c88c0bafb93dbb8410d8f90dd4a6e3c2d0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

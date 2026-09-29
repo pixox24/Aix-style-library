@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0082",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0082.md",
+  "samples": [
+    {
+      "case_id": "Aix0082-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：孤独行者穿过裂纹荒原，远方有一枚橙红发光石\n必须保留：行者；发光石\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比强烈，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-01.json"
+    },
+    {
+      "case_id": "Aix0082-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：小女孩牵着风筝走向沙漠中的暖色光门\n必须保留：小女孩；光门\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-02.json"
+    },
+    {
+      "case_id": "Aix0082-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏旧提灯放在荒原裂缝中，散出橙光\n必须保留：提灯；裂缝\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-03.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "质感偏写实CG，粗犷笔触不足；提灯位于裂缝边缘而非内部，属轻微偏差。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-03.json"
+    },
+    {
+      "case_id": "Aix0082-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一块发光的红色收音机落在尘土里\n必须保留：收音机；尘土\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，厚涂质感与冷暖对比强烈；收音机与尘土元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-04.json"
+    },
+    {
+      "case_id": "Aix0082-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：蓝黑废墟中央升起一团橙色火光，四周无人\n必须保留：废墟；火光\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，废墟与火光完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-05.json"
+    },
+    {
+      "case_id": "Aix0082-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：干涸河床通向远处的橙红圆形天体\n必须保留：河床；圆形天体\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0082-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，冷暖对比强烈，笔触粗犷，河床与天体完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0082-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

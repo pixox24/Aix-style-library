@@ -1,0 +1,24 @@
+{
+  "created": 1789894499,
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 1584,
+    "total_tokens": 1712,
+    "input_tokens_details": {
+      "text_tokens": 128,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人坐在围栏上看远处的城市剪影\n必须保留：剪影人物；围栏\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/d86de70c856b5375b37d4462471df082.png"
+    }
+  ]
+}

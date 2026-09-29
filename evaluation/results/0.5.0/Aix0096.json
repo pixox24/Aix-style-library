@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0096",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0096.md",
+  "samples": [
+    {
+      "case_id": "Aix0096-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：小小的旅人站在彩虹放射中心，面前打开一扇圆形门\n必须保留：旅人；圆形门\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-01.json"
+    },
+    {
+      "case_id": "Aix0096-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：宇航服身影被彩色光流向外抛出，姿态保持清楚\n必须保留：宇航服身影；彩色光流\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-02.json"
+    },
+    {
+      "case_id": "Aix0096-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枚指南针悬在黑色中心，彩虹碎片从周围射出\n必须保留：指南针；彩虹碎片\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-03.json"
+    },
+    {
+      "case_id": "Aix0096-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一颗玻璃球内部出现向外爆发的彩色虫洞\n必须保留：玻璃球；虫洞\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格和内容均完美契合，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-04.json"
+    },
+    {
+      "case_id": "Aix0096-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑色宇宙中的小型观景台被彩虹放射光包围\n必须保留：观景台；放射光\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征明显，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-05.json"
+    },
+    {
+      "case_id": "Aix0096-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：隧道尽头打开彩色虫洞，地面碎片向中心飞去\n必须保留：隧道；虫洞\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0096-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0096-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0026",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "戴头盔的车手半身像，被竖直红线一分为二",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "车手",
+      "头盔"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0109",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "黑白剧场座位像牙齿一样围成封闭圆形",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "剧场",
+      "牙齿座位"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

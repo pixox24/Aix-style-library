@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：清晨微光里的厨房，窗外城市还没醒\n必须保留：厨房；清晨微光\n视觉风格：数字手绘厚涂，笔触柔和细腻，动画美术质感；暖木色基调搭配冷蓝屏幕光，冷暖对比克制；室内暖光与屏幕冷光交织的夜间照明；俯视或斜俯视角，生活杂物环绕的满构图；笔触肌理明显，细节处保留手绘感\n画幅比例：2:3\n避免出现：强对比霓虹；干净矢量平涂；乱码文字与伪文字",
+  "image_sha256": "8ff2fb1cae0060a19893783fa3bd841ad122e584b6ac8f9d01649d9c16c62c83",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

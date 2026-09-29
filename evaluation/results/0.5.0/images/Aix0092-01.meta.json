@@ -1,0 +1,24 @@
+{
+  "created": 1790536098,
+  "usage": {
+    "input_tokens": 158,
+    "output_tokens": 1584,
+    "total_tokens": 1742,
+    "input_tokens_details": {
+      "text_tokens": 158,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：小小的修理员用白色工具触碰悬浮在身后的巨大蓝色手掌\n必须保留：修理员；蓝色手掌\n视觉风格：平滑数字渲染，圆润曲线和半透明材质；深蓝单色体系配纯白工具或高光；巨大曲线形体与小型实体形成对角互动；柔和渐层高光，透明边缘与实体轮廓清楚；塑料或陶瓷般平滑表面，少量光泽\n画幅比例：2:3\n避免出现：粗糙版画和强颗粒；多色复杂霓虹；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/7146b8892b754fcc2fa1da1443d7ee10.png"
+    }
+  ]
+}

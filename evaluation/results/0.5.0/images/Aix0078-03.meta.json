@@ -1,0 +1,24 @@
+{
+  "created": 1790531936,
+  "usage": {
+    "input_tokens": 151,
+    "output_tokens": 1584,
+    "total_tokens": 1735,
+    "input_tokens_details": {
+      "text_tokens": 151,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只白瓷碗上画着红色几何面具\n必须保留：白瓷碗；几何面具\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/462cdcea21e980ccd5ada2ce2a513b74.png"
+    }
+  ]
+}

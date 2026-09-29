@@ -1,0 +1,24 @@
+{
+  "created": 1789890845,
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 1584,
+    "total_tokens": 1715,
+    "input_tokens_details": {
+      "text_tokens": 131,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：阶梯巷弄里追逐的孩子群像\n必须保留：巷弄阶梯；孩子\n视觉风格：数字手绘硬边色块，概括性平光；暖橙黄色调与浅蓝天空的冷暖对比；透视街景，密集建筑由近及远层层堆叠；概括性硬边光影，投影清晰；干净色块，轻微笔触\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/066a0f02012f4d37eb2920d53b47292d.png"
+    }
+  ]
+}

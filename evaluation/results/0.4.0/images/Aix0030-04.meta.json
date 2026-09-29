@@ -1,0 +1,24 @@
+{
+  "created": 1789890330,
+  "usage": {
+    "input_tokens": 129,
+    "output_tokens": 1584,
+    "total_tokens": 1713,
+    "input_tokens_details": {
+      "text_tokens": 129,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一台留声机在紫色房间里剪影成双\n必须保留：留声机\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/c82b38f4ff96bcca631c3a20ce75c9f1.png"
+    }
+  ]
+}

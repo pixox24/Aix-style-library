@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0097",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "虚拟现实展厅里，光轨围绕一座空头盔旋转",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "展厅",
+      "头盔"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0077",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个提灯人走过层层深红拱门，远处没有出口",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "提灯人",
+      "拱门"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

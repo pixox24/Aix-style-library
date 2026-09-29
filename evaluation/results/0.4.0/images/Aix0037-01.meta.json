@@ -1,0 +1,24 @@
+{
+  "created": 1789892837,
+  "usage": {
+    "input_tokens": 143,
+    "output_tokens": 1584,
+    "total_tokens": 1727,
+    "input_tokens_details": {
+      "text_tokens": 143,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人悬浮在星空裂缝前，失重张开双臂\n必须保留：悬浮人物；星空裂缝\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/771aee5d83cf7cb4b84d1a4d38255cc3.png"
+    }
+  ]
+}

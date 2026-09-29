@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0017",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "两侧树木剪影围合出一只鸟的负形",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "树木剪影",
+      "鸟形"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0086",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "橙红峡谷中一条黑色河流绕过几何台阶",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "峡谷",
+      "黑河"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

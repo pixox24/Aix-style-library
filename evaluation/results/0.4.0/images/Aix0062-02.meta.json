@@ -1,0 +1,24 @@
+{
+  "created": 1789975005,
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 1584,
+    "total_tokens": 1716,
+    "input_tokens_details": {
+      "text_tokens": 132,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个舞者的长发化作翻涌的脸谱\n必须保留：舞者；脸谱\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/8e06bcec0d2b7b2e1ee2d10566b3b72e.png"
+    }
+  ]
+}

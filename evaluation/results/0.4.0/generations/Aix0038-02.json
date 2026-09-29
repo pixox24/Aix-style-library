@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：仰头凝视飞碟的孩子，脸被绿光照亮\n必须保留：孩子；飞碟\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+  "image_sha256": "bf56c568bc2392d816f1fbe1878ab642b827a599ab23f7280f8d32a0a539df81",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

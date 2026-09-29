@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0057",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0057.md",
+  "samples": [
+    {
+      "case_id": "Aix0057-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一张脸被中线分割，左眼盖着机械匣\n必须保留：面孔；机械匣\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑分割与纸张纹理完美，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-01.json"
+    },
+    {
+      "case_id": "Aix0057-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：流泪的侧脸旁浮着半块机械面具\n必须保留：侧脸；面具\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑分割、纸张纹理及线稿风格完美呈现，侧脸与面具完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-02.json"
+    },
+    {
+      "case_id": "Aix0057-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上一只拆开的机械怀表与齿轮\n必须保留：怀表；齿轮\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑分割与纸张纹理表现完美，怀表与齿轮结构准确，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-03.json"
+    },
+    {
+      "case_id": "Aix0057-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：红线缠绕的旧收音机\n必须保留：收音机；红线\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑对半分割与纸张纹理表现完美，收音机与红线完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-04.json"
+    },
+    {
+      "case_id": "Aix0057-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：红黑对半的舞台幕布与一束光\n必须保留：幕布；光\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑分割、纸张纹理及光影特征完美，幕布与光束完整保留，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-05.json"
+    },
+    {
+      "case_id": "Aix0057-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜工作台上摊开的机械零件\n必须保留：工作台；零件\n视觉风格：数字漫画线稿结合纸张纹理；鲜红与深黑的对半分割；特写构图，画面中线分割人物；左右分立的戏剧性光影；粗糙纸张纹理与颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0057-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑分割、漫画线稿与纸张纹理完美呈现，工作台与零件完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0057-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

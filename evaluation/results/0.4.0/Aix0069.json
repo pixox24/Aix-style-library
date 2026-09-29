@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0069",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0069.md",
+  "samples": [
+    {
+      "case_id": "Aix0069-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑色剪影的脸被数只白手遮挡，手背有眼\n必须保留：黑剪影；白手与眼睛\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，黑剪影、白手与眼睛完整无瑕疵，无结构错误。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-01.json"
+    },
+    {
+      "case_id": "Aix0069-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一双手从背后捂住一人的眼睛\n必须保留：双手；遮眼\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-02.json"
+    },
+    {
+      "case_id": "Aix0069-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只白手形状的瓷杯放在灰桌上\n必须保留：手形瓷杯；桌面\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-03.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "画面出现真实人手，偏离无面手眼风格及单纯放置的要求。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-03.json"
+    },
+    {
+      "case_id": "Aix0069-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：托盘上一排小雕塑，每尊都有眼\n必须保留：托盘；雕塑\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-04.json"
+    },
+    {
+      "case_id": "Aix0069-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：灰白色房间里悬着一只巨大的手影\n必须保留：房间；手影\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，色彩与光影完美契合；房间与手影完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-05.json"
+    },
+    {
+      "case_id": "Aix0069-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：舞台白幕前的手影戏\n必须保留：白幕；手影戏\n视觉风格：平涂为主略带体积感，线条清晰；浅灰底色配黑色主体、白色双手与青色点缀；柔和光影，皮肤细腻；特写构图，手部动作引导视线；净润质感，轻微细节\n画幅比例：2:3\n避免出现：浓重噪点；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0069-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "渲染偏写实厚涂，平涂特征弱；青色衣服面积过大超出点缀范畴。",
+      "generation_ref": "results/0.4.0/generations/Aix0069-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

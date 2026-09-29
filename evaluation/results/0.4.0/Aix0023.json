@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0023",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0023.md",
+  "samples": [
+    {
+      "case_id": "Aix0023-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人蜷在沙发上听收音机，暖光从右侧投来\n必须保留：独坐的人；收音机\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，光影切割到位，颗粒质感佳，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-01.json"
+    },
+    {
+      "case_id": "Aix0023-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：窗边的少年侧脸，被夕照镀上一层暖黄\n必须保留：窗边少年；夕照\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，光影切割与颗粒噪点特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-02.json"
+    },
+    {
+      "case_id": "Aix0023-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台老式收音机沐浴在暖光中，四周是冷蓝的暗\n必须保留：收音机；暖光\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，对角构图明显，颗粒噪点质感好，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-03.json"
+    },
+    {
+      "case_id": "Aix0023-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌上的一盏煤油灯，光晕在灰蓝夜色里\n必须保留：煤油灯；夜色\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，硬边色块与颗粒噪点特征明显，煤油灯与夜色元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-04.json"
+    },
+    {
+      "case_id": "Aix0023-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜的走廊尽头透进一束暖光\n必须保留：走廊；暖光\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，对角构图与颗粒噪点质感完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-05.json"
+    },
+    {
+      "case_id": "Aix0023-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨的站台，长椅与光线构成安静的等待\n必须保留：站台；长椅\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0023-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "冷暖对比强烈，光影切割构图完美，颗粒质感佳，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0023-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

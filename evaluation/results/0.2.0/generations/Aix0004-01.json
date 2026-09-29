@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远山、湖面与一叶孤舟，天边一行归鸟\n必须保留：远山；孤舟\n视觉风格：宣纸水墨绘制，墨色随水渗化、边缘自然晕开；墨色浓淡层次为主，点缀极少量淡赭、花青等低饱和色；毛笔线条有提按顿挫，笔意松弛不僵硬；大面积留白，主体偏置于一侧，空间疏朗\n画幅比例：2:3\n避免出现：鲜艳荧光色与数字渐变；均匀厚涂与强调立体感的西式光影",
+  "image_sha256": "c7f0ec61555e12691f5b4899c01e425c1d2a971e8f52838206b491e00772e2f7",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 58.9
+  }
+}

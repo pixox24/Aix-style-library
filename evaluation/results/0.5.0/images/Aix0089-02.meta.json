@@ -1,0 +1,24 @@
+{
+  "created": 1790535201,
+  "usage": {
+    "input_tokens": 150,
+    "output_tokens": 1584,
+    "total_tokens": 1734,
+    "input_tokens_details": {
+      "text_tokens": 150,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个人被四种窄光照亮，网格之间保持深蓝背景\n必须保留：人物；窄光\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/5e21ce5a4d1eb1888c14b232769d0c4c.png"
+    }
+  ]
+}

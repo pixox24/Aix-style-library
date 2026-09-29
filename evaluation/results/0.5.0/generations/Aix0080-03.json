@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把旧钥匙被金色光柱照亮，通向上方的门\n必须保留：钥匙；光柱\n视觉风格：概念海报式数字绘画，形体概括而叙事清晰；深灰黑环境与金黄光柱形成极端明暗对比；对角光束把暗部引向上方出口或远景；单一体积光源，光中区域明显变亮；粗糙墙面和细微尘埃增强真实触感\n画幅比例：2:3\n避免出现：多光源霓虹；明亮商业广告感；乱码文字与伪文字",
+  "image_sha256": "652030221902923647997eebb933a632ebab04a0ef92c1c4850f8ed568e17d10",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 45.6
+  }
+}

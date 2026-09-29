@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0026",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0026.md",
+  "samples": [
+    {
+      "case_id": "Aix0026-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个骑手与倒地的摩托车在红线两侧相望\n必须保留：骑手；摩托车\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-01.json"
+    },
+    {
+      "case_id": "Aix0026-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴头盔的车手半身像，被竖直红线一分为二\n必须保留：车手；头盔\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-02.json"
+    },
+    {
+      "case_id": "Aix0026-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台复古摩托车的正侧剪影\n必须保留：复古摩托\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，色彩撞色与肌理到位，摩托车结构完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-03.json"
+    },
+    {
+      "case_id": "Aix0026-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只皮质手套搭在车把上\n必须保留：手套；车把\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，红绿撞色与粗糙海报质感极佳，主体完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-04.json"
+    },
+    {
+      "case_id": "Aix0026-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜车库的卷帘门与斜照的路灯\n必须保留：车库；路灯\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-05.json"
+    },
+    {
+      "case_id": "Aix0026-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：公路尽头的一面红色路牌在暮色中\n必须保留：公路；路牌\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0026-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，撞色、分割构图及粗糙肌理无瑕疵；公路与路牌完整保留。",
+      "generation_ref": "results/0.4.0/generations/Aix0026-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

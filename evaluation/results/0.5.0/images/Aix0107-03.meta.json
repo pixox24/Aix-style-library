@@ -1,0 +1,24 @@
+{
+  "created": 1790540486,
+  "usage": {
+    "input_tokens": 149,
+    "output_tokens": 1584,
+    "total_tokens": 1733,
+    "input_tokens_details": {
+      "text_tokens": 149,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一枚黑色指南针躺在波纹纸面中央\n必须保留：指南针；波纹纸面\n视觉风格：黑白钢笔或木刻线条，线条疏密塑造空间；纯黑白二色，不使用彩色点缀；中心透视和同心波纹把视线带向远方圆面；以线条密度模拟光暗，不做渐变光影；木纹、刻痕和不均匀墨线\n画幅比例：2:3\n避免出现：彩色渐变和写实材质；光滑无纹理数字图；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/9f886481929ce607c7d539dbdf605d45.png"
+    }
+  ]
+}

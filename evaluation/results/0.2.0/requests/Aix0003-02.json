@@ -1,0 +1,21 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0003",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "吹奏萨克斯的乐手剪影海报，由圆形与三角色块构成，高对比",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "萨克斯乐手"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

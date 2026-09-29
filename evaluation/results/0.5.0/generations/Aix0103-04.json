@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色相框包住一片沙漠和一颗蓝色星球\n必须保留：相框；沙漠星球\n视觉风格：平滑矢量插画与细腻渐层，边缘干净；深蓝星空与橙红沙地或室内形成互补对比；巨大轮廓包裹小窗口，内外尺度形成画中画；窗口内部暖光与外部冷色平衡；干净海报表面，星点细密但不过度写实\n画幅比例：2:3\n避免出现：复杂写实肖像细节；随机多色背景；乱码文字与伪文字",
+  "image_sha256": "15ca17fbb40e23b15c4018c7d1210c2a2384cbff252a5363e738137a13aed183",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 46.9
+  }
+}

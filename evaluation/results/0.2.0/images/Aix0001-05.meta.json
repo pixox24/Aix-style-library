@@ -1,0 +1,24 @@
+{
+  "created": 1789823188,
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 1584,
+    "total_tokens": 1731,
+    "input_tokens_details": {
+      "text_tokens": 147,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：雨后老城区的巷口，湿石板路反着微光，远处一盏路灯亮着\n必须保留：湿石板路；路灯\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+      "url": "https://gateway.change2pro.com/vendor/assets/2ff9ea3b2aab71a3544568d4f48eab2d.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：被锁链缠绕的人坐着，头顶飞散出成群黑蝶\n必须保留：锁链坐姿；黑蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+  "image_sha256": "cc372df0ee0aa1bf9a7dc821efe27d344cf1c4a6a0d06992e628cfb4c6129cd9",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

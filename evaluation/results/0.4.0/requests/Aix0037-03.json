@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0037",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一块漂浮的巨石穿过星空裂隙",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "巨石",
+      "裂隙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0103",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一扇旧窗里装着微型星空与一张小桌子",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "旧窗",
+      "微型星空"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

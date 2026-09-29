@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0007",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "低多边形雪山日出，云雾在山谷间分层",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "雪山",
+      "云雾"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

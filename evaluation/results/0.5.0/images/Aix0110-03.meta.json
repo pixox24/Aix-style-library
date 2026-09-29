@@ -1,0 +1,24 @@
+{
+  "created": 1790644928,
+  "usage": {
+    "input_tokens": 153,
+    "output_tokens": 1584,
+    "total_tokens": 1737,
+    "input_tokens_details": {
+      "text_tokens": 153,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一只黑色烟雾状花瓶放在灰蓝桌面上\n必须保留：花瓶；烟雾\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/0e95186e06dcc97571b211ccf149f33f.png"
+    }
+  ]
+}

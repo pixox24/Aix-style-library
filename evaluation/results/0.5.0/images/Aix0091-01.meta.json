@@ -1,0 +1,24 @@
+{
+  "created": 1790535733,
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 1584,
+    "total_tokens": 1738,
+    "input_tokens_details": {
+      "text_tokens": 154,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色剪影站在浅灰背景前，面部爆出红橙蓝三色光\n必须保留：黑色剪影；彩色光\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f7208dbfb2206520ca8dcb7c0c575f51.png"
+    }
+  ]
+}

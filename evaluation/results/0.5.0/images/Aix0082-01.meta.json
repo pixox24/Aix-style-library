@@ -1,0 +1,24 @@
+{
+  "created": 1790532957,
+  "usage": {
+    "input_tokens": 159,
+    "output_tokens": 1584,
+    "total_tokens": 1743,
+    "input_tokens_details": {
+      "text_tokens": 159,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：孤独行者穿过裂纹荒原，远方有一枚橙红发光石\n必须保留：行者；发光石\n视觉风格：粗犷数字厚涂，地面笔触与空气层次明显；蓝黑冷环境中嵌入橙红单一暖光；中心透视路径将孤独主体引向远方光源；内发光暖源切开冷暗环境，明暗界线明确；裂纹地面、尘雾和粗笔触强化荒凉质感\n画幅比例：2:3\n避免出现：明亮清新日光；平面可爱卡通；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/21ce4b85f01b4367371c748f8b9c27c9.png"
+    }
+  ]
+}

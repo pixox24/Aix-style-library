@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0003",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "海边灯塔几何海报，海面是横向宽条纹，灯塔由三角构成",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "灯塔",
+      "海面条纹"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

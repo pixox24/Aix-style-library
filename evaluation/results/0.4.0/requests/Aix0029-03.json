@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0029",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一只滚动的金属轮毂，倒映着街道",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "轮毂",
+      "倒影"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

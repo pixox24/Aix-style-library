@@ -1,0 +1,24 @@
+{
+  "created": 1790536508,
+  "usage": {
+    "input_tokens": 162,
+    "output_tokens": 1584,
+    "total_tokens": 1746,
+    "input_tokens_details": {
+      "text_tokens": 162,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：打开的玻璃瓶里装着一团梦境色烟雾\n必须保留：玻璃瓶；梦境烟雾\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/ce98d0731d3867110343c835e5589026.png"
+    }
+  ]
+}

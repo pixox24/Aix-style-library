@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色圆球悬在灰桌面上，周围盘旋透明青雾\n必须保留：黑球；透明青雾\n视觉风格：三维或厚涂数字渲染，烟雾和人物体积平滑；中性灰背景、黑色主体与青绿色烟雾对比；居中坐姿或站姿，流体围绕核心向上盘旋；柔和室内光与青绿色自发光共同照亮地面；半透明烟雾、光泽地面和细腻反射\n画幅比例：2:3\n避免出现：粗颗粒木刻；鲜艳多色背景；乱码文字与伪文字",
+  "image_sha256": "461c35b00f616e8a398e06d2c6a02ee6b754fdad2403d5f8da2fb42cfd4ebe52",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 37.0
+  }
+}

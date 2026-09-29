@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0074",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "安静庭院中央的一棵蓝线树，四周留白",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "庭院",
+      "蓝线树"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

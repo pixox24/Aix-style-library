@@ -1,0 +1,24 @@
+{
+  "created": 1789887778,
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 1584,
+    "total_tokens": 1741,
+    "input_tokens_details": {
+      "text_tokens": 157,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一台老式收音机沐浴在暖光中，四周是冷蓝的暗\n必须保留：收音机；暖光\n视觉风格：灰蓝冷调主色与暖黄光束的强冷暖对比；单侧暖光照明，明暗交界把画面切成两块；数字平涂结合颗粒噪点，硬边色块造型；侧面视角，以光线切割画面的对角构图；细腻颗粒噪点，轻微做旧\n画幅比例：2:3\n避免出现：多光源复杂照明；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/161830f919f1d71ff5ac368387618458.png"
+    }
+  ]
+}

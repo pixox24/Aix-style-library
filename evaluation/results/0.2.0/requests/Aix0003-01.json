@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0003",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一组手冲咖啡器具的几何化海报：咖啡壶、杯子和一株盆栽，暖色块与留白",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "咖啡器具",
+      "几何构图"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一块漂浮的巨石穿过星空裂隙\n必须保留：巨石；裂隙\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "bca8c99ff9add2b71d6554437586d5563a06db37044957238dd54b5b84adcc75",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

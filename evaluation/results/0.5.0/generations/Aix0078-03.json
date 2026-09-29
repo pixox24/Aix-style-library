@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只白瓷碗上画着红色几何面具\n必须保留：白瓷碗；几何面具\n视觉风格：粗粝水墨笔刷结合平整几何填色；米色纸底、深黑线条与红白色块三色关系；中心半身结构配横向重复符号，打破对称；平面光，不渲染写实体积；飞溅墨点、干笔擦痕和纸张纤维\n画幅比例：2:3\n避免出现：光滑3D材质；渐变霓虹与照片感；乱码文字与伪文字",
+  "image_sha256": "72c169b560a69ea58b4c0bbc208ac94372968a22d46932836e602e5551330156",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 41.9
+  }
+}

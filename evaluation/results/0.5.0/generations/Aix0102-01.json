@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：戴耳机的人侧身喝一杯饮料，轮廓出现蓝红像素错位\n必须保留：戴耳机人物；饮料\n视觉风格：数字剪影结合故障切片和通道错位；淡蓝白背景、黑色主体与少量蓝红故障边缘；侧面人物占据主体，故障沿轮廓水平切断；高对比均匀光，重点在轮廓断裂而非体积；像素块、扫描线和轻微电视噪声\n画幅比例：2:3\n避免出现：柔和自然主义；高细节写实环境；乱码文字与伪文字",
+  "image_sha256": "a1ba2d3f7477827f0c42416d8a62b80a0d85ebfff1865c4c70d099f867b05e20",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 43.2
+  }
+}

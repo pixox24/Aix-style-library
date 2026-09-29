@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0071",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个背包客站在折返山路的最高处，脚下冷蓝雾气翻涌",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "背包客",
+      "折返山路"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790536404,
+  "usage": {
+    "input_tokens": 165,
+    "output_tokens": 1584,
+    "total_tokens": 1749,
+    "input_tokens_details": {
+      "text_tokens": 165,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：小提琴手演奏时，音符化成一团向上流动的彩烟\n必须保留：小提琴手；彩烟\n视觉风格：细腻数字厚涂，烟雾层次柔和且有方向；深蓝黑底中混合蓝、黄、橙、紫的高饱和彩烟；主体位于下方，烟雾向上侧扩散占据主要空间；烟雾内部柔和发光，人物保持较暗；半透明体积烟雾与细腻笔触并存\n画幅比例：2:3\n避免出现：纯平无层次色块；空白无叙事背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/67dd8e29ae63ebde98b869307566cfef.png"
+    }
+  ]
+}

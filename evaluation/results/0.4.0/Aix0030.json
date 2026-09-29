@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0030",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0030.md",
+  "samples": [
+    {
+      "case_id": "Aix0030-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人坐在窗边看夕阳里的钟楼\n必须保留：窗边的人；钟楼\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-01.json"
+    },
+    {
+      "case_id": "Aix0030-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：女孩趴在窗台上，晚霞把剪影染红\n必须保留：女孩；窗台\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩对比强烈，构图与主体均无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-02.json"
+    },
+    {
+      "case_id": "Aix0030-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：窗台上的盆栽被夕阳剪影化\n必须保留：盆栽；晚霞\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现框式构图与紫橙渐变，盆栽剪影清晰，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-03.json"
+    },
+    {
+      "case_id": "Aix0030-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台留声机在紫色房间里剪影成双\n必须保留：留声机\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现框式构图与紫红渐变对比，留声机剪影清晰，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-04.json"
+    },
+    {
+      "case_id": "Aix0030-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：窗外城市天际线上的日落\n必须保留：天际线；日落\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现框式构图、紫红渐变与背光剪影，天际线和日落元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-05.json"
+    },
+    {
+      "case_id": "Aix0030-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：清晨的列车窗外，渐变的天空\n必须保留：列车窗；天空\n视觉风格：框式构图，以窗框为界分割内外空间；室内深紫暗调与窗外洋红橙色渐变的对比；背光剪影，强调轮廓而非细节；矢量平涂，几何感简洁；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0030-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，构图色彩准确，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0030-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

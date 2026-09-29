@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：剧场后台，衣架上的面具墙\n必须保留：剧场后台；面具墙\n视觉风格：平涂结合矢量线条，图形感硬朗；芥末黄底配炭黑主体与灰白喷涌物；扁平侧光，明暗简洁明朗；垂直向上构图，顶部长出密集元素；干净硬朗，轻微颗粒\n画幅比例：2:3\n避免出现：写实光影；柔和粉彩；乱码文字与伪文字",
+  "image_sha256": "9059e7d5e55bd55673219495e96a944594e28896da899be437d3b5923b840036",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

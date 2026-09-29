@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：戴着冷帽的女孩对着镜子举起手机自拍\n必须保留：女孩；手机\n视觉风格：赛璐璐平涂结合轻微噪点，纸张印刷质感；低饱和灰调底色，肤色红晕少量点缀；柔和硬边混合光影，面部微亮；镜面框中框构图，反射与实体并置；轻微噪点与印刷肌理\n画幅比例：2:3\n避免出现：高饱和霓虹；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "15ad387a3f34fb5299c68926107aaaf87223940ea4bdd25a5f7fc94cbf87a8ec",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

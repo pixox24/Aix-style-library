@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：夜晚的火车站月台，一人提着皮箱走向灯下\n必须保留：月台；提箱者\n视觉风格：硬边矢量平涂，明暗由色块直接切换，无渐变与柔和笔触；高饱和互补撞色：深砖红与芥末黄，主体深青近黑，受光面亮黄；高对比硬边侧光，光影以整块色块替换表达；无轮廓描边，形体由硬边色块的轮廓切分；竖幅构图，背景纯色垂直分割，主体横跨分割线\n画幅比例：2:3\n避免出现：柔和渐变与写实光影过渡；照片写实材质与复杂笔触；乱码文字与伪文字印章",
+  "image_sha256": "774e2c5e430865105ef3624a50d199215141e9dca97679861108003aca098983",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0097",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0097.md",
+  "samples": [
+    {
+      "case_id": "Aix0097-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴护目镜的骑行者被红蓝光轨包围，脸部保持不可辨\n必须保留：骑行者；护目镜\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝光轨与运动模糊特征显著，骑行者与护目镜完整，脸部不可辨，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-01.json"
+    },
+    {
+      "case_id": "Aix0097-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：舞者在暗室中旋身，双臂拖出红白长曝光轨迹\n必须保留：舞者；光轨\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，光轨与舞者结合自然，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-02.json"
+    },
+    {
+      "case_id": "Aix0097-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台旧游戏机的屏幕拉出蓝红数据光线\n必须保留：游戏机；数据光线\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，光轨效果强烈，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-03.json"
+    },
+    {
+      "case_id": "Aix0097-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：飞驰的列车灯在黑色隧道中形成连续光轨\n必须保留：列车灯；隧道\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "光轨与长曝光效果完美，列车灯与隧道元素完整，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-04.json"
+    },
+    {
+      "case_id": "Aix0097-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：夜间高架路上车流被拉成红蓝光带\n必须保留：高架路；车流光带\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "缺失风格核心特征中明确要求的人物半身位于中心。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-05.json"
+    },
+    {
+      "case_id": "Aix0097-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：虚拟现实展厅里，光轨围绕一座空头盔旋转\n必须保留：展厅；头盔\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0097-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "光轨与长曝光特征完美，展厅与头盔元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0097-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

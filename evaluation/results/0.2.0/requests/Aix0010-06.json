@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0010",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "复古汽车行驶在山谷公路上的丝网海报",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "复古汽车",
+      "山谷公路"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

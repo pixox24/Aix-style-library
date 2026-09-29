@@ -1,0 +1,24 @@
+{
+  "created": 1789973196,
+  "usage": {
+    "input_tokens": 120,
+    "output_tokens": 1584,
+    "total_tokens": 1704,
+    "input_tokens_details": {
+      "text_tokens": 120,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：漂浮的面具在紫光中缓缓旋转\n必须保留：面具；紫光\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/cbee24ba7ba120f5393e0ac632b43f95.png"
+    }
+  ]
+}

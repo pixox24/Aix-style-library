@@ -1,0 +1,2999 @@
+{
+  "note": "0.4.0 批次：50 个新风格（Aix0021–Aix0070）× 6 样例（人物/物体/场景各 2）；全部新生成。",
+  "samples": [
+    {
+      "style_id": "Aix0021",
+      "case": "01",
+      "category": "人物",
+      "description": "雨夜中撑伞的人站在积水前，倒影里映出巨大的轮廓",
+      "must_preserve": [
+        "撑伞人",
+        "积水倒影"
+      ]
+    },
+    {
+      "style_id": "Aix0021",
+      "case": "02",
+      "category": "人物",
+      "description": "夜归的少女蹲在水洼边，水面倒影高过身后的楼",
+      "must_preserve": [
+        "夜归少女",
+        "水洼"
+      ]
+    },
+    {
+      "style_id": "Aix0021",
+      "case": "03",
+      "category": "物体",
+      "description": "一盏倒下的路灯立在雨水中，倒影里灯柱无限拉长",
+      "must_preserve": [
+        "路灯",
+        "雨夜积水"
+      ]
+    },
+    {
+      "style_id": "Aix0021",
+      "case": "04",
+      "category": "物体",
+      "description": "一只遗落的红伞漂在水面，倒影中伞影巨大",
+      "must_preserve": [
+        "红伞",
+        "水面倒影"
+      ]
+    },
+    {
+      "style_id": "Aix0021",
+      "case": "05",
+      "category": "场景",
+      "description": "暴雨后的十字路口，水洼中浮着整个街区的巨大倒影",
+      "must_preserve": [
+        "十字路口",
+        "雨夜水洼"
+      ]
+    },
+    {
+      "style_id": "Aix0021",
+      "case": "06",
+      "category": "场景",
+      "description": "海边栈道的浅水中，天空与巨影上下对称",
+      "must_preserve": [
+        "浅水栈道",
+        "对称倒影"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "01",
+      "category": "人物",
+      "description": "深夜书房，一个人趴在电脑桌前睡着",
+      "must_preserve": [
+        "伏案的人",
+        "电脑桌"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "02",
+      "category": "人物",
+      "description": "沙发上裹着毛毯看平板的人，旁边睡着一只猫",
+      "must_preserve": [
+        "沙发人物",
+        "猫"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "03",
+      "category": "物体",
+      "description": "亮着冷光的电脑屏幕与一杯放凉的咖啡",
+      "must_preserve": [
+        "屏幕",
+        "咖啡杯"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "04",
+      "category": "物体",
+      "description": "暖光台灯下的旧收音机与唱片",
+      "must_preserve": [
+        "台灯",
+        "收音机"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜的客厅一角，地毯上散落着书与玩具",
+      "must_preserve": [
+        "客厅一角",
+        "散落杂物"
+      ]
+    },
+    {
+      "style_id": "Aix0022",
+      "case": "06",
+      "category": "场景",
+      "description": "清晨微光里的厨房，窗外城市还没醒",
+      "must_preserve": [
+        "厨房",
+        "清晨微光"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人蜷在沙发上听收音机，暖光从右侧投来",
+      "must_preserve": [
+        "独坐的人",
+        "收音机"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "02",
+      "category": "人物",
+      "description": "窗边的少年侧脸，被夕照镀上一层暖黄",
+      "must_preserve": [
+        "窗边少年",
+        "夕照"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "03",
+      "category": "物体",
+      "description": "一台老式收音机沐浴在暖光中，四周是冷蓝的暗",
+      "must_preserve": [
+        "收音机",
+        "暖光"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "04",
+      "category": "物体",
+      "description": "桌上的一盏煤油灯，光晕在灰蓝夜色里",
+      "must_preserve": [
+        "煤油灯",
+        "夜色"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜的走廊尽头透进一束暖光",
+      "must_preserve": [
+        "走廊",
+        "暖光"
+      ]
+    },
+    {
+      "style_id": "Aix0023",
+      "case": "06",
+      "category": "场景",
+      "description": "清晨的站台，长椅与光线构成安静的等待",
+      "must_preserve": [
+        "站台",
+        "长椅"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "01",
+      "category": "人物",
+      "description": "冲浪者踏浪回旋的瞬间，水花在身后炸开",
+      "must_preserve": [
+        "冲浪者",
+        "水花"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "02",
+      "category": "人物",
+      "description": "拳击手出拳的定格，肌肉紧绷",
+      "must_preserve": [
+        "拳击手",
+        "拳套"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "03",
+      "category": "物体",
+      "description": "一块冲浪板斜插在浪里，尾鳍清晰",
+      "must_preserve": [
+        "冲浪板",
+        "浪花"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "04",
+      "category": "物体",
+      "description": "飞驰的滑板与扬起的尘粒",
+      "must_preserve": [
+        "滑板",
+        "尘粒"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "05",
+      "category": "场景",
+      "description": "巨浪拍击礁石的动势美景",
+      "must_preserve": [
+        "巨浪",
+        "礁石"
+      ]
+    },
+    {
+      "style_id": "Aix0024",
+      "case": "06",
+      "category": "场景",
+      "description": "山脊上骑行下坡的速度全景",
+      "must_preserve": [
+        "骑行者",
+        "山脊"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "01",
+      "category": "人物",
+      "description": "少女侧坐，发梢化作成群水母向上飘散",
+      "must_preserve": [
+        "少女",
+        "水母群"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "02",
+      "category": "人物",
+      "description": "潜泳者被粉色水母环绕，身形舒展",
+      "must_preserve": [
+        "潜泳者",
+        "粉色水母"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "03",
+      "category": "物体",
+      "description": "一只玻璃瓶中旋转的粉色流体与气泡",
+      "must_preserve": [
+        "玻璃瓶",
+        "流体"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "04",
+      "category": "物体",
+      "description": "漂在水上的贝壳与缠绕的粉色水带",
+      "must_preserve": [
+        "贝壳",
+        "水带"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "05",
+      "category": "场景",
+      "description": "深海中的粉色珊瑚与蓝色光带",
+      "must_preserve": [
+        "珊瑚",
+        "光带"
+      ]
+    },
+    {
+      "style_id": "Aix0025",
+      "case": "06",
+      "category": "场景",
+      "description": "水面之下仰望波光，粉色水母群漂浮",
+      "must_preserve": [
+        "水下仰视",
+        "水母群"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "01",
+      "category": "人物",
+      "description": "一个骑手与倒地的摩托车在红线两侧相望",
+      "must_preserve": [
+        "骑手",
+        "摩托车"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "02",
+      "category": "人物",
+      "description": "戴头盔的车手半身像，被竖直红线一分为二",
+      "must_preserve": [
+        "车手",
+        "头盔"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "03",
+      "category": "物体",
+      "description": "一台复古摩托车的正侧剪影",
+      "must_preserve": [
+        "复古摩托"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "04",
+      "category": "物体",
+      "description": "一只皮质手套搭在车把上",
+      "must_preserve": [
+        "手套",
+        "车把"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜车库的卷帘门与斜照的路灯",
+      "must_preserve": [
+        "车库",
+        "路灯"
+      ]
+    },
+    {
+      "style_id": "Aix0026",
+      "case": "06",
+      "category": "场景",
+      "description": "公路尽头的一面红色路牌在暮色中",
+      "must_preserve": [
+        "公路",
+        "路牌"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "01",
+      "category": "人物",
+      "description": "从天桥俯看行人的夸张视角，只看见巨大的人字拖",
+      "must_preserve": [
+        "人字拖",
+        "桥面"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "02",
+      "category": "人物",
+      "description": "街头少女的长腿被广角拉长，占满画面",
+      "must_preserve": [
+        "街头少女",
+        "长腿"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "03",
+      "category": "物体",
+      "description": "一只巨大的冰淇淋蛋筒立在街角",
+      "must_preserve": [
+        "冰淇淋",
+        "街角"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "04",
+      "category": "物体",
+      "description": "被放大到夸张的复古相机特写",
+      "must_preserve": [
+        "复古相机"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "05",
+      "category": "场景",
+      "description": "球场边的仰视瞬间，篮球架被拉得巨大",
+      "must_preserve": [
+        "篮球架",
+        "球场"
+      ]
+    },
+    {
+      "style_id": "Aix0027",
+      "case": "06",
+      "category": "场景",
+      "description": "海滨栈道的透视延伸到海平线",
+      "must_preserve": [
+        "栈道",
+        "海平线"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人走在夜街上，荧光绿的光带伸向远方",
+      "must_preserve": [
+        "夜行者",
+        "光带"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "02",
+      "category": "人物",
+      "description": "撑伞的人站在紫色霓虹下，背影拉长",
+      "must_preserve": [
+        "撑伞人",
+        "霓虹"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "03",
+      "category": "物体",
+      "description": "一盏孤零零的绿色路灯与潮湿的路面",
+      "must_preserve": [
+        "路灯",
+        "湿路"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "04",
+      "category": "物体",
+      "description": "霓虹灯管盘成的路牌在夜里发绿光",
+      "must_preserve": [
+        "霓虹路牌"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "05",
+      "category": "场景",
+      "description": "雾中的长街，灯光把路面照成河",
+      "must_preserve": [
+        "长街",
+        "雾光"
+      ]
+    },
+    {
+      "style_id": "Aix0028",
+      "case": "06",
+      "category": "场景",
+      "description": "雨夜的桥洞下，绿光与紫光交错",
+      "must_preserve": [
+        "桥洞",
+        "灯光"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "01",
+      "category": "人物",
+      "description": "骑行者冲过鱼眼镜头，前轮在画面里巨大",
+      "must_preserve": [
+        "骑行者",
+        "自行车"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "02",
+      "category": "人物",
+      "description": "滑板少年在坡道起跳的半空中",
+      "must_preserve": [
+        "滑板少年",
+        "坡道"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "03",
+      "category": "物体",
+      "description": "一只滚动的金属轮毂，倒映着街道",
+      "must_preserve": [
+        "轮毂",
+        "倒影"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "04",
+      "category": "物体",
+      "description": "立在街边的旧路牌，被透视拉斜",
+      "must_preserve": [
+        "路牌"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "05",
+      "category": "场景",
+      "description": "清晨空旷的立交桥，延伸到地平线",
+      "must_preserve": [
+        "立交桥",
+        "清晨"
+      ]
+    },
+    {
+      "style_id": "Aix0029",
+      "case": "06",
+      "category": "场景",
+      "description": "雨后广场上的倒影与雕塑",
+      "must_preserve": [
+        "广场",
+        "雕塑"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人坐在窗边看夕阳里的钟楼",
+      "must_preserve": [
+        "窗边的人",
+        "钟楼"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "02",
+      "category": "人物",
+      "description": "女孩趴在窗台上，晚霞把剪影染红",
+      "must_preserve": [
+        "女孩",
+        "窗台"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "03",
+      "category": "物体",
+      "description": "窗台上的盆栽被夕阳剪影化",
+      "must_preserve": [
+        "盆栽",
+        "晚霞"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "04",
+      "category": "物体",
+      "description": "一台留声机在紫色房间里剪影成双",
+      "must_preserve": [
+        "留声机"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "05",
+      "category": "场景",
+      "description": "窗外城市天际线上的日落",
+      "must_preserve": [
+        "天际线",
+        "日落"
+      ]
+    },
+    {
+      "style_id": "Aix0030",
+      "case": "06",
+      "category": "场景",
+      "description": "清晨的列车窗外，渐变的天空",
+      "must_preserve": [
+        "列车窗",
+        "天空"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "01",
+      "category": "人物",
+      "description": "楼顶晾晒床单的居民",
+      "must_preserve": [
+        "晾晒居民",
+        "床单"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "02",
+      "category": "人物",
+      "description": "推着小车的街头小贩穿过巷口",
+      "must_preserve": [
+        "小贩",
+        "推车"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "03",
+      "category": "物体",
+      "description": "巷口的一排彩色水桶与晾衣绳",
+      "must_preserve": [
+        "水桶",
+        "晾衣绳"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "04",
+      "category": "物体",
+      "description": "铁皮屋顶上的旧收音机与天线",
+      "must_preserve": [
+        "收音机",
+        "天线"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "05",
+      "category": "场景",
+      "description": "层叠街区的黄昏全景",
+      "must_preserve": [
+        "层叠街区",
+        "黄昏"
+      ]
+    },
+    {
+      "style_id": "Aix0031",
+      "case": "06",
+      "category": "场景",
+      "description": "阶梯巷弄里追逐的孩子群像",
+      "must_preserve": [
+        "巷弄阶梯",
+        "孩子"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "01",
+      "category": "人物",
+      "description": "滑板者在巨大的蓝色坡道上腾空",
+      "must_preserve": [
+        "滑板者",
+        "坡道"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "02",
+      "category": "人物",
+      "description": "跳伞者正落向一块巨蓝的几何水面",
+      "must_preserve": [
+        "跳伞者",
+        "水面"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "03",
+      "category": "物体",
+      "description": "一只巨大的蓝色咖啡杯压向小桌",
+      "must_preserve": [
+        "咖啡杯",
+        "小桌"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "04",
+      "category": "物体",
+      "description": "蓝色巨浪吞没一只小舟",
+      "must_preserve": [
+        "巨浪",
+        "小舟"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "05",
+      "category": "场景",
+      "description": "城市天际线被一块巨蓝的月亮压住",
+      "must_preserve": [
+        "天际线",
+        "蓝月"
+      ]
+    },
+    {
+      "style_id": "Aix0032",
+      "case": "06",
+      "category": "场景",
+      "description": "球场上一颗巨球停在球员头顶",
+      "must_preserve": [
+        "巨球",
+        "球场"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "01",
+      "category": "人物",
+      "description": "DJ 双手调台的特写，耳机挂在颈上",
+      "must_preserve": [
+        "DJ",
+        "调音台"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "02",
+      "category": "人物",
+      "description": "歌手握麦克风的手部特写",
+      "must_preserve": [
+        "麦克风",
+        "手"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "03",
+      "category": "物体",
+      "description": "黑胶唱机与旋转的唱片特写",
+      "must_preserve": [
+        "唱机",
+        "唱片"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "04",
+      "category": "物体",
+      "description": "一组旋钮与推子的控制台细节",
+      "must_preserve": [
+        "控制台",
+        "旋钮"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "05",
+      "category": "场景",
+      "description": "舞台边的音箱堆与光柱",
+      "must_preserve": [
+        "音箱",
+        "光柱"
+      ]
+    },
+    {
+      "style_id": "Aix0033",
+      "case": "06",
+      "category": "场景",
+      "description": "地下俱乐部的紫色灯光走廊",
+      "must_preserve": [
+        "俱乐部",
+        "紫光"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "01",
+      "category": "人物",
+      "description": "创作者被成堆的文件淹没，只露出头",
+      "must_preserve": [
+        "创作者",
+        "文件堆"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "02",
+      "category": "人物",
+      "description": "一个人抱着电脑在纸山前睡着",
+      "must_preserve": [
+        "抱电脑的人",
+        "纸山"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "03",
+      "category": "物体",
+      "description": "一摞摇摇欲坠的文件与一杯冷茶",
+      "must_preserve": [
+        "文件",
+        "茶杯"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "04",
+      "category": "物体",
+      "description": "屏幕上密密麻麻的窗口与一副眼镜",
+      "must_preserve": [
+        "屏幕",
+        "眼镜"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜办公室里堆到天花板的纸堆",
+      "must_preserve": [
+        "办公室",
+        "纸堆"
+      ]
+    },
+    {
+      "style_id": "Aix0034",
+      "case": "06",
+      "category": "场景",
+      "description": "书桌被文具和便签彻底淹没",
+      "must_preserve": [
+        "书桌",
+        "便签"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "01",
+      "category": "人物",
+      "description": "一个少年在水下楼梯间漂浮，上方光束洒下",
+      "must_preserve": [
+        "少年",
+        "楼梯间"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "02",
+      "category": "人物",
+      "description": "潜水者穿过涂鸦墙的拱门",
+      "must_preserve": [
+        "潜水者",
+        "涂鸦墙"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "03",
+      "category": "物体",
+      "description": "沉在水底的喷漆罐与气泡",
+      "must_preserve": [
+        "喷漆罐",
+        "气泡"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "04",
+      "category": "物体",
+      "description": "泡在水中的滑板漂浮着",
+      "must_preserve": [
+        "滑板",
+        "水面"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "05",
+      "category": "场景",
+      "description": "被水淹没的废弃泳池，墙面满是涂鸦",
+      "must_preserve": [
+        "废弃泳池",
+        "涂鸦"
+      ]
+    },
+    {
+      "style_id": "Aix0035",
+      "case": "06",
+      "category": "场景",
+      "description": "水下隧道尽头的一束黄绿光",
+      "must_preserve": [
+        "隧道",
+        "光束"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人形在深渊漩涡中心下坠，周身青蓝微光",
+      "must_preserve": [
+        "下坠人形",
+        "漩涡"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "02",
+      "category": "人物",
+      "description": "浮升的侧影从暗色深渊中升起，衣物翻卷",
+      "must_preserve": [
+        "浮升侧影",
+        "暗流"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "03",
+      "category": "物体",
+      "description": "一只坠落的怀表在漩涡里翻转",
+      "must_preserve": [
+        "怀表",
+        "漩涡"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "04",
+      "category": "物体",
+      "description": "沉入深潭的孤灯，光晕被暗流拉长",
+      "must_preserve": [
+        "孤灯",
+        "暗流"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "05",
+      "category": "场景",
+      "description": "海面下的巨大漩涡剖面",
+      "must_preserve": [
+        "漩涡",
+        "深海"
+      ]
+    },
+    {
+      "style_id": "Aix0036",
+      "case": "06",
+      "category": "场景",
+      "description": "荒原上被卷入天空的巨大尘卷",
+      "must_preserve": [
+        "尘卷",
+        "荒原"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人悬浮在星空裂缝前，失重张开双臂",
+      "must_preserve": [
+        "悬浮人物",
+        "星空裂缝"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "02",
+      "category": "人物",
+      "description": "少年背着行囊仰望空中的三角门户",
+      "must_preserve": [
+        "少年",
+        "三角门户"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "03",
+      "category": "物体",
+      "description": "一块漂浮的巨石穿过星空裂隙",
+      "must_preserve": [
+        "巨石",
+        "裂隙"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "04",
+      "category": "物体",
+      "description": "指南针悬浮在半空，指针朝着门户",
+      "must_preserve": [
+        "指南针"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "05",
+      "category": "场景",
+      "description": "荒原上空的星际之门全貌",
+      "must_preserve": [
+        "荒原",
+        "星际之门"
+      ]
+    },
+    {
+      "style_id": "Aix0037",
+      "case": "06",
+      "category": "场景",
+      "description": "云海之上，门户开启的瞬间",
+      "must_preserve": [
+        "云海",
+        "门户"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人被绿色光束轻轻抬起，脚尖离地",
+      "must_preserve": [
+        "被牵引的人",
+        "光束"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "02",
+      "category": "人物",
+      "description": "仰头凝视飞碟的孩子，脸被绿光照亮",
+      "must_preserve": [
+        "孩子",
+        "飞碟"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "03",
+      "category": "物体",
+      "description": "一辆自行车被光束吸入半空",
+      "must_preserve": [
+        "自行车",
+        "光束"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "04",
+      "category": "物体",
+      "description": "草地上被照亮的旧望远镜",
+      "must_preserve": [
+        "望远镜",
+        "绿光"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜树林上空的飞碟与光柱",
+      "must_preserve": [
+        "树林",
+        "飞碟光柱"
+      ]
+    },
+    {
+      "style_id": "Aix0038",
+      "case": "06",
+      "category": "场景",
+      "description": "荒漠公路上的一道绿光直落地面",
+      "must_preserve": [
+        "荒漠公路",
+        "绿光"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "01",
+      "category": "人物",
+      "description": "戴着冷帽的女孩对着镜子举起手机自拍",
+      "must_preserve": [
+        "女孩",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "02",
+      "category": "人物",
+      "description": "男孩在镜前整理衣领，镜中倒影微微错位",
+      "must_preserve": [
+        "男孩",
+        "镜子"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "03",
+      "category": "物体",
+      "description": "梳妆台上的耳机与口红在灰调里",
+      "must_preserve": [
+        "耳机",
+        "口红"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "04",
+      "category": "物体",
+      "description": "一面老镜子里映出房间的一角",
+      "must_preserve": [
+        "老镜子",
+        "房间"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "05",
+      "category": "场景",
+      "description": "清晨的洗漱间，镜中映出窗外微光",
+      "must_preserve": [
+        "洗漱间",
+        "镜子"
+      ]
+    },
+    {
+      "style_id": "Aix0039",
+      "case": "06",
+      "category": "场景",
+      "description": "地铁车窗里倒映的乘客剪影",
+      "must_preserve": [
+        "车窗",
+        "剪影"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "01",
+      "category": "人物",
+      "description": "长椅上独坐的人被站立的人群环形包围",
+      "must_preserve": [
+        "独坐者",
+        "人群"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "02",
+      "category": "人物",
+      "description": "广场中央吹笛的艺人，周围人群流淌",
+      "must_preserve": [
+        "街头艺人",
+        "广场"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "03",
+      "category": "物体",
+      "description": "人群脚边的一只流浪猫与纸袋",
+      "must_preserve": [
+        "猫",
+        "纸袋"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "04",
+      "category": "物体",
+      "description": "售货亭顶的一排彩色帽子",
+      "must_preserve": [
+        "售货亭",
+        "帽子"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "05",
+      "category": "场景",
+      "description": "黄昏市集的俯视全景",
+      "must_preserve": [
+        "市集",
+        "俯视"
+      ]
+    },
+    {
+      "style_id": "Aix0040",
+      "case": "06",
+      "category": "场景",
+      "description": "车站大厅的人流俯视图",
+      "must_preserve": [
+        "车站大厅",
+        "人流"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人坐在围栏上看远处的城市剪影",
+      "must_preserve": [
+        "剪影人物",
+        "围栏"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "02",
+      "category": "人物",
+      "description": "两个背影并排走在渐变的暮色里",
+      "must_preserve": [
+        "背影",
+        "暮色"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "03",
+      "category": "物体",
+      "description": "天台上的一盏路灯剪影",
+      "must_preserve": [
+        "路灯",
+        "天台"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "04",
+      "category": "物体",
+      "description": "单车停在桥边，剪影拉长",
+      "must_preserve": [
+        "单车",
+        "桥"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "05",
+      "category": "场景",
+      "description": "暮色中的城市天际线剪影",
+      "must_preserve": [
+        "天际线",
+        "暮色"
+      ]
+    },
+    {
+      "style_id": "Aix0041",
+      "case": "06",
+      "category": "场景",
+      "description": "海边的木质栈桥在紫粉色天空下",
+      "must_preserve": [
+        "栈桥",
+        "晚霞"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "01",
+      "category": "人物",
+      "description": "女孩斜躺在沙发上翻书，脚边窝着黑猫",
+      "must_preserve": [
+        "看书女孩",
+        "黑猫"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "02",
+      "category": "人物",
+      "description": "少年趴在书桌前睡着了，台灯还亮着",
+      "must_preserve": [
+        "伏睡少年",
+        "台灯"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "03",
+      "category": "物体",
+      "description": "摊开的书与冒热气的马克杯",
+      "must_preserve": [
+        "书",
+        "马克杯"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "04",
+      "category": "物体",
+      "description": "窗台上的一排旧磁带与随身听",
+      "must_preserve": [
+        "磁带",
+        "随身听"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "05",
+      "category": "场景",
+      "description": "堆满书的房间一角，台灯暖光",
+      "must_preserve": [
+        "书房一角",
+        "台灯"
+      ]
+    },
+    {
+      "style_id": "Aix0042",
+      "case": "06",
+      "category": "场景",
+      "description": "深夜的唱片店橱窗，灯还亮着",
+      "must_preserve": [
+        "唱片店",
+        "橱窗"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "01",
+      "category": "人物",
+      "description": "戴墨镜的女孩仰头喝饮料的特写",
+      "must_preserve": [
+        "女孩",
+        "饮料"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "02",
+      "category": "人物",
+      "description": "滑板少年抱板仰视的酷感半身像",
+      "must_preserve": [
+        "滑板少年",
+        "滑板"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "03",
+      "category": "物体",
+      "description": "一副亮粉墨镜与饮料罐静摆",
+      "must_preserve": [
+        "墨镜",
+        "饮料罐"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "04",
+      "category": "物体",
+      "description": "挂着吊坠的耳机特写",
+      "must_preserve": [
+        "耳机",
+        "吊坠"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "05",
+      "category": "场景",
+      "description": "霓虹墙前的街拍背景板",
+      "must_preserve": [
+        "霓虹墙",
+        "街拍"
+      ]
+    },
+    {
+      "style_id": "Aix0043",
+      "case": "06",
+      "category": "场景",
+      "description": "轮滑场边的涂鸦墙与栏杆",
+      "must_preserve": [
+        "涂鸦墙",
+        "轮滑场"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "01",
+      "category": "人物",
+      "description": "残破盔甲的骑士背影，望向远方",
+      "must_preserve": [
+        "骑士",
+        "残甲"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "02",
+      "category": "人物",
+      "description": "摘下头盔的战士侧影，披风垂下",
+      "must_preserve": [
+        "战士",
+        "头盔"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "03",
+      "category": "物体",
+      "description": "一柄插在雪地里的长剑",
+      "must_preserve": [
+        "长剑",
+        "雪地"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "04",
+      "category": "物体",
+      "description": "风化的盾牌倚在石墙上",
+      "must_preserve": [
+        "盾牌",
+        "石墙"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "05",
+      "category": "场景",
+      "description": "荒原尽头的孤堡剪影",
+      "must_preserve": [
+        "荒原",
+        "孤堡"
+      ]
+    },
+    {
+      "style_id": "Aix0044",
+      "case": "06",
+      "category": "场景",
+      "description": "雾中的战场遗迹与断旗",
+      "must_preserve": [
+        "雾",
+        "断旗"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人蜷在被窝里刷手机，脸被微光照亮",
+      "must_preserve": [
+        "被窝人物",
+        "手机微光"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "02",
+      "category": "人物",
+      "description": "少年坐在床沿发呆，屏幕光落在脚边",
+      "must_preserve": [
+        "床沿少年",
+        "屏幕光"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "03",
+      "category": "物体",
+      "description": "床头柜上的手机与半杯水",
+      "must_preserve": [
+        "手机",
+        "水杯"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "04",
+      "category": "物体",
+      "description": "黑暗里亮着的一台老式闹钟",
+      "must_preserve": [
+        "闹钟",
+        "黑暗"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜房间一角，只有屏幕发光",
+      "must_preserve": [
+        "房间一角",
+        "屏幕光"
+      ]
+    },
+    {
+      "style_id": "Aix0045",
+      "case": "06",
+      "category": "场景",
+      "description": "熄灯的客厅里电视待机灯微亮",
+      "must_preserve": [
+        "客厅",
+        "待机灯"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "01",
+      "category": "人物",
+      "description": "两个身影在巨大月亮前相拥",
+      "must_preserve": [
+        "相拥剪影",
+        "月亮"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "02",
+      "category": "人物",
+      "description": "一个人坐在月下的天台边缘",
+      "must_preserve": [
+        "天台人物",
+        "月亮"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "03",
+      "category": "物体",
+      "description": "一对挂在窗前的风铃，月光滑过",
+      "must_preserve": [
+        "风铃",
+        "月光"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "04",
+      "category": "物体",
+      "description": "桌上的两只咖啡杯映着月色",
+      "must_preserve": [
+        "咖啡杯",
+        "月色"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "05",
+      "category": "场景",
+      "description": "月下的城市河岸，倒影成双",
+      "must_preserve": [
+        "河岸",
+        "月影"
+      ]
+    },
+    {
+      "style_id": "Aix0046",
+      "case": "06",
+      "category": "场景",
+      "description": "紫蓝夜空下的海岸线",
+      "must_preserve": [
+        "海岸线",
+        "夜空"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人坐在长椅上，头是一块显示错误的屏幕",
+      "must_preserve": [
+        "屏幕头人物",
+        "长椅"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "02",
+      "category": "人物",
+      "description": "穿连帽衫的背影，后脑是一面显示屏",
+      "must_preserve": [
+        "连帽衫背影",
+        "显示屏"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "03",
+      "category": "物体",
+      "description": "一台掉线的旧显示器蹲在墙角",
+      "must_preserve": [
+        "旧显示器",
+        "墙角"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "04",
+      "category": "物体",
+      "description": "桌面上闪烁的路由器与网线",
+      "must_preserve": [
+        "路由器",
+        "网线"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "05",
+      "category": "场景",
+      "description": "空旷的机房走廊，只有屏幕亮着",
+      "must_preserve": [
+        "机房走廊",
+        "屏幕"
+      ]
+    },
+    {
+      "style_id": "Aix0047",
+      "case": "06",
+      "category": "场景",
+      "description": "夜里的数据中心外墙，散热灯闪烁",
+      "must_preserve": [
+        "数据中心",
+        "夜"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人仰头吐出烟雾，烟团化成巨影",
+      "must_preserve": [
+        "仰头者",
+        "烟雾"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "02",
+      "category": "人物",
+      "description": "街角的吸烟者，背后烟影像翅膀展开",
+      "must_preserve": [
+        "吸烟者",
+        "烟影"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "03",
+      "category": "物体",
+      "description": "一根快燃尽的香烟落在深蓝的桌面",
+      "must_preserve": [
+        "香烟",
+        "桌面"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "04",
+      "category": "物体",
+      "description": "一盏被烟雾缠绕的旧路灯",
+      "must_preserve": [
+        "路灯",
+        "烟雾"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "05",
+      "category": "场景",
+      "description": "夜巷里的雾气被红光染透",
+      "must_preserve": [
+        "夜巷",
+        "红雾"
+      ]
+    },
+    {
+      "style_id": "Aix0048",
+      "case": "06",
+      "category": "场景",
+      "description": "舞台上的烟机喷出红色雾团",
+      "must_preserve": [
+        "舞台",
+        "红雾"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人站在悬崖边远眺，崖形如侧脸",
+      "must_preserve": [
+        "人物剪影",
+        "悬崖"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "02",
+      "category": "人物",
+      "description": "登山者仰望岩壁，岩面隐现巨脸",
+      "must_preserve": [
+        "登山者",
+        "岩壁"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "03",
+      "category": "物体",
+      "description": "一把立在墙边的伞，影子连成另一物",
+      "must_preserve": [
+        "伞",
+        "影子"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "04",
+      "category": "物体",
+      "description": "沙丘上的枯木，轮廓像只手",
+      "must_preserve": [
+        "枯木",
+        "沙丘"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "05",
+      "category": "场景",
+      "description": "沙漠落日里的双重轮廓山脊",
+      "must_preserve": [
+        "沙漠",
+        "山脊"
+      ]
+    },
+    {
+      "style_id": "Aix0049",
+      "case": "06",
+      "category": "场景",
+      "description": "海岸礁石群围出鲸鱼形状的港湾",
+      "must_preserve": [
+        "礁石",
+        "海湾"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "01",
+      "category": "人物",
+      "description": "女孩在床上伸懒腰，晨光爬上被角",
+      "must_preserve": [
+        "床上女孩",
+        "晨光"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "02",
+      "category": "人物",
+      "description": "打哈欠的少年坐在窗台边",
+      "must_preserve": [
+        "窗台少年",
+        "光"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "03",
+      "category": "物体",
+      "description": "床头的一束干花与闹钟",
+      "must_preserve": [
+        "干花",
+        "闹钟"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "04",
+      "category": "物体",
+      "description": "叠好的白衬衫与草帽放在椅上",
+      "must_preserve": [
+        "白衬衫",
+        "草帽"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "05",
+      "category": "场景",
+      "description": "清晨的卧室，窗帘被风微微吹起",
+      "must_preserve": [
+        "卧室",
+        "窗帘"
+      ]
+    },
+    {
+      "style_id": "Aix0050",
+      "case": "06",
+      "category": "场景",
+      "description": "阳台上的早餐桌，阳光正暖",
+      "must_preserve": [
+        "早餐桌",
+        "阳光"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人趴在巨大的进度条上小憩",
+      "must_preserve": [
+        "趴着的人",
+        "进度条"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "02",
+      "category": "人物",
+      "description": "少年被巨大的对话框围住",
+      "must_preserve": [
+        "少年",
+        "对话框"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "03",
+      "category": "物体",
+      "description": "一杯巨大的咖啡杯压在键盘上",
+      "must_preserve": [
+        "咖啡杯",
+        "键盘"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "04",
+      "category": "物体",
+      "description": "一只巨大的鼠标立在桌面",
+      "must_preserve": [
+        "鼠标",
+        "桌面"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "05",
+      "category": "场景",
+      "description": "按钮组成的巨大台阶",
+      "must_preserve": [
+        "按钮台阶",
+        "界面"
+      ]
+    },
+    {
+      "style_id": "Aix0051",
+      "case": "06",
+      "category": "场景",
+      "description": "被巨大缓冲图标笼罩的房间",
+      "must_preserve": [
+        "缓冲图标",
+        "房间"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "01",
+      "category": "人物",
+      "description": "一只手从被窝伸出探向桌上的手机",
+      "must_preserve": [
+        "手",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "02",
+      "category": "人物",
+      "description": "夜半坐起的人影在床边看手机",
+      "must_preserve": [
+        "夜半人影",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "03",
+      "category": "物体",
+      "description": "桌面上的手机与虎尾兰盆栽",
+      "must_preserve": [
+        "手机",
+        "盆栽"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "04",
+      "category": "物体",
+      "description": "一副眼镜压在一本翻开的书页上",
+      "must_preserve": [
+        "眼镜",
+        "书"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "05",
+      "category": "场景",
+      "description": "深夜书桌的一角，只有屏幕亮着",
+      "must_preserve": [
+        "书桌一角",
+        "屏幕光"
+      ]
+    },
+    {
+      "style_id": "Aix0052",
+      "case": "06",
+      "category": "场景",
+      "description": "床头柜上的台灯与药瓶",
+      "must_preserve": [
+        "台灯",
+        "药瓶"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人蹲坐着托腮发呆",
+      "must_preserve": [
+        "蹲坐的人",
+        "托腮"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "02",
+      "category": "人物",
+      "description": "靠在瓷砖墙边等待的少年",
+      "must_preserve": [
+        "等待少年",
+        "瓷砖墙"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "03",
+      "category": "物体",
+      "description": "台面上的一支牙刷与玻璃杯",
+      "must_preserve": [
+        "牙刷",
+        "玻璃杯"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "04",
+      "category": "物体",
+      "description": "一篮刚洗好的衣物放在角落",
+      "must_preserve": [
+        "衣篮",
+        "角落"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "05",
+      "category": "场景",
+      "description": "浅绿色调的洗手间一角",
+      "must_preserve": [
+        "洗手间",
+        "浅绿"
+      ]
+    },
+    {
+      "style_id": "Aix0053",
+      "case": "06",
+      "category": "场景",
+      "description": "阳台洗衣区，晾着滴水的衬衫",
+      "must_preserve": [
+        "阳台",
+        "晾晒"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "01",
+      "category": "人物",
+      "description": "一只手搭在桌边，手机屏幕显示深夜的提醒",
+      "must_preserve": [
+        "手",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "02",
+      "category": "人物",
+      "description": "凌晨坐在地板上的人影伸手够向充电的手机",
+      "must_preserve": [
+        "人影",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "03",
+      "category": "物体",
+      "description": "桌面上的手机与半杯凉茶，屏幕还亮着",
+      "must_preserve": [
+        "手机",
+        "茶杯"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "04",
+      "category": "物体",
+      "description": "床头充电线缠绕的手机特写",
+      "must_preserve": [
+        "充电线",
+        "手机"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "05",
+      "category": "场景",
+      "description": "午夜书桌，屏幕光把墙面照出一小块亮",
+      "must_preserve": [
+        "书桌",
+        "屏幕光"
+      ]
+    },
+    {
+      "style_id": "Aix0054",
+      "case": "06",
+      "category": "场景",
+      "description": "深夜的沙发一角，扔着一条毛毯与手机",
+      "must_preserve": [
+        "沙发",
+        "毛毯"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人坐在床边发呆，绿光从窗外扫进来",
+      "must_preserve": [
+        "床边人物",
+        "绿光"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "02",
+      "category": "人物",
+      "description": "少年抱着膝盖坐在地板上，风扇转个不停",
+      "must_preserve": [
+        "少年",
+        "风扇"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "03",
+      "category": "物体",
+      "description": "转动的落地风扇在绿光里投下影子",
+      "must_preserve": [
+        "风扇",
+        "影子"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "04",
+      "category": "物体",
+      "description": "桌面上的汽水瓶与凌乱的电线",
+      "must_preserve": [
+        "汽水瓶",
+        "电线"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "05",
+      "category": "场景",
+      "description": "夏夜出租屋的室内全景，灯光昏绿",
+      "must_preserve": [
+        "出租屋",
+        "绿光"
+      ]
+    },
+    {
+      "style_id": "Aix0055",
+      "case": "06",
+      "category": "场景",
+      "description": "开着窗的小房间，夜里的城市在窗外",
+      "must_preserve": [
+        "小房间",
+        "窗外夜景"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "01",
+      "category": "人物",
+      "description": "一个身影手捧橙红花束站在冷蓝雾中",
+      "must_preserve": [
+        "身影",
+        "花束"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "02",
+      "category": "人物",
+      "description": "黑帽遮面的旅人握着一朵红花",
+      "must_preserve": [
+        "旅人",
+        "红花"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "03",
+      "category": "物体",
+      "description": "一束橙红花放在泛蓝的旧木桌上",
+      "must_preserve": [
+        "花束",
+        "木桌"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "04",
+      "category": "物体",
+      "description": "缠着丝带的旧相机挂在斑驳墙上",
+      "must_preserve": [
+        "相机",
+        "丝带"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "05",
+      "category": "场景",
+      "description": "雾蓝色的清晨码头，一个人影伫立",
+      "must_preserve": [
+        "码头",
+        "雾"
+      ]
+    },
+    {
+      "style_id": "Aix0056",
+      "case": "06",
+      "category": "场景",
+      "description": "冷调房间里的一扇窗与花影",
+      "must_preserve": [
+        "窗",
+        "花影"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "01",
+      "category": "人物",
+      "description": "一张脸被中线分割，左眼盖着机械匣",
+      "must_preserve": [
+        "面孔",
+        "机械匣"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "02",
+      "category": "人物",
+      "description": "流泪的侧脸旁浮着半块机械面具",
+      "must_preserve": [
+        "侧脸",
+        "面具"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "03",
+      "category": "物体",
+      "description": "桌上一只拆开的机械怀表与齿轮",
+      "must_preserve": [
+        "怀表",
+        "齿轮"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "04",
+      "category": "物体",
+      "description": "红线缠绕的旧收音机",
+      "must_preserve": [
+        "收音机",
+        "红线"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "05",
+      "category": "场景",
+      "description": "红黑对半的舞台幕布与一束光",
+      "must_preserve": [
+        "幕布",
+        "光"
+      ]
+    },
+    {
+      "style_id": "Aix0057",
+      "case": "06",
+      "category": "场景",
+      "description": "深夜工作台上摊开的机械零件",
+      "must_preserve": [
+        "工作台",
+        "零件"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "01",
+      "category": "人物",
+      "description": "黑袍的身影静立，背后展开一圈发光的面孔",
+      "must_preserve": [
+        "黑袍身影",
+        "光环面孔"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "02",
+      "category": "人物",
+      "description": "少女闭眼漂浮，周身环绕粉色灵光",
+      "must_preserve": [
+        "少女",
+        "灵光"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "03",
+      "category": "物体",
+      "description": "一盏旧烛台被粉紫色光焰环绕",
+      "must_preserve": [
+        "烛台",
+        "光焰"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "04",
+      "category": "物体",
+      "description": "漂浮的面具在紫光中缓缓旋转",
+      "must_preserve": [
+        "面具",
+        "紫光"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "05",
+      "category": "场景",
+      "description": "地下祭坛的环形光阵",
+      "must_preserve": [
+        "祭坛",
+        "光阵"
+      ]
+    },
+    {
+      "style_id": "Aix0058",
+      "case": "06",
+      "category": "场景",
+      "description": "深蓝夜湖中心升起的辉光",
+      "must_preserve": [
+        "夜湖",
+        "辉光"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "01",
+      "category": "人物",
+      "description": "被锁链缠绕的人坐着，头顶飞散出成群黑蝶",
+      "must_preserve": [
+        "锁链坐姿",
+        "黑蝶群"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "02",
+      "category": "人物",
+      "description": "一个背影化作蝶群向上升空",
+      "must_preserve": [
+        "背影",
+        "蝶群"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "03",
+      "category": "物体",
+      "description": "一把旧钥匙被蝶群托起",
+      "must_preserve": [
+        "钥匙",
+        "蝶群"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "04",
+      "category": "物体",
+      "description": "缠着锁链的鸟笼敞开着门",
+      "must_preserve": [
+        "鸟笼",
+        "锁链"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "05",
+      "category": "场景",
+      "description": "哥特庭院里，蝶群掠过枯枝",
+      "must_preserve": [
+        "庭院",
+        "枯枝"
+      ]
+    },
+    {
+      "style_id": "Aix0059",
+      "case": "06",
+      "category": "场景",
+      "description": "古老石阶上散落的蝴蝶与锁链",
+      "must_preserve": [
+        "石阶",
+        "蝴蝶"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人的头部由发光青色线条缠绕而成",
+      "must_preserve": [
+        "线条头部",
+        "暗背景"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "02",
+      "category": "人物",
+      "description": "少女的背影，后脑飘散出发光的线团",
+      "must_preserve": [
+        "少女背影",
+        "线团"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "03",
+      "category": "物体",
+      "description": "桌上的一只台灯，灯丝化作乱线升腾",
+      "must_preserve": [
+        "台灯",
+        "灯丝"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "04",
+      "category": "物体",
+      "description": "一颗发光线球滚在深色的地面",
+      "must_preserve": [
+        "线球",
+        "地面"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "05",
+      "category": "场景",
+      "description": "人群中独站的一人，头顶是发光线云",
+      "must_preserve": [
+        "人群",
+        "线云"
+      ]
+    },
+    {
+      "style_id": "Aix0060",
+      "case": "06",
+      "category": "场景",
+      "description": "深夜广场的灯下，线状光流浮动",
+      "must_preserve": [
+        "广场",
+        "光流"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "01",
+      "category": "人物",
+      "description": "仰头的男子上半身化作白鸟飞散",
+      "must_preserve": [
+        "仰头男子",
+        "白鸟"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "02",
+      "category": "人物",
+      "description": "演奏者闭眼演奏，音符化作鸟群",
+      "must_preserve": [
+        "演奏者",
+        "鸟群"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "03",
+      "category": "物体",
+      "description": "一只敞开的鸟笼，白鸟正飞出",
+      "must_preserve": [
+        "鸟笼",
+        "白鸟"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "04",
+      "category": "物体",
+      "description": "一卷散开的乐谱被风托起",
+      "must_preserve": [
+        "乐谱",
+        "风"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "05",
+      "category": "场景",
+      "description": "天空之下，鸟群组成的路径通向云端",
+      "must_preserve": [
+        "天空",
+        "鸟群"
+      ]
+    },
+    {
+      "style_id": "Aix0061",
+      "case": "06",
+      "category": "场景",
+      "description": "清晨海面上升起的一列白鸟",
+      "must_preserve": [
+        "海面",
+        "白鸟"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "01",
+      "category": "人物",
+      "description": "黑衣侧影的头顶喷涌出成群的面具",
+      "must_preserve": [
+        "黑衣侧影",
+        "面具群"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "02",
+      "category": "人物",
+      "description": "一个舞者的长发化作翻涌的脸谱",
+      "must_preserve": [
+        "舞者",
+        "脸谱"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "03",
+      "category": "物体",
+      "description": "一顶帽子里飞出层层叠叠的面具",
+      "must_preserve": [
+        "帽子",
+        "面具"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "04",
+      "category": "物体",
+      "description": "桌上一只裂开的陶罐涌出灰白碎片",
+      "must_preserve": [
+        "陶罐",
+        "碎片"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "05",
+      "category": "场景",
+      "description": "剧场后台，衣架上的面具墙",
+      "must_preserve": [
+        "剧场后台",
+        "面具墙"
+      ]
+    },
+    {
+      "style_id": "Aix0062",
+      "case": "06",
+      "category": "场景",
+      "description": "广场中央的雕塑长出面孔像树冠",
+      "must_preserve": [
+        "雕塑",
+        "面孔"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "01",
+      "category": "人物",
+      "description": "一个剪影人物的脸被红色矩形框住",
+      "must_preserve": [
+        "剪影",
+        "红框"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "02",
+      "category": "人物",
+      "description": "低头的人影，一滴白色眼泪落下",
+      "must_preserve": [
+        "人影",
+        "泪滴"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "03",
+      "category": "物体",
+      "description": "红色方块上的一只旧门锁",
+      "must_preserve": [
+        "方块",
+        "门锁"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "04",
+      "category": "物体",
+      "description": "一滴白墨落在黑色石面上",
+      "must_preserve": [
+        "白墨",
+        "石面"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "05",
+      "category": "场景",
+      "description": "黑红相间的舞台幕布裂缝",
+      "must_preserve": [
+        "幕布",
+        "裂缝"
+      ]
+    },
+    {
+      "style_id": "Aix0063",
+      "case": "06",
+      "category": "场景",
+      "description": "红门在黑墙上半开着，透出白光",
+      "must_preserve": [
+        "红门",
+        "黑墙"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "01",
+      "category": "人物",
+      "description": "一个小人站在巨大阶梯顶端，脚下巨眼睁开",
+      "must_preserve": [
+        "小人",
+        "巨眼"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "02",
+      "category": "人物",
+      "description": "迷路者站在回旋楼梯中央，仰头寻找出口",
+      "must_preserve": [
+        "迷路者",
+        "回旋楼梯"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "03",
+      "category": "物体",
+      "description": "楼梯转角的一盏路灯，与巨眼对视",
+      "must_preserve": [
+        "路灯",
+        "巨眼"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "04",
+      "category": "物体",
+      "description": "几何积木般的台阶与一只眼球雕塑",
+      "must_preserve": [
+        "台阶",
+        "眼球雕塑"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "05",
+      "category": "场景",
+      "description": "无限上升的阶梯迷宫全景",
+      "must_preserve": [
+        "阶梯迷宫",
+        "天空"
+      ]
+    },
+    {
+      "style_id": "Aix0064",
+      "case": "06",
+      "category": "场景",
+      "description": "楼梯通向的漂浮门洞",
+      "must_preserve": [
+        "楼梯",
+        "门洞"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "01",
+      "category": "人物",
+      "description": "无首的制服身影坐在巨型门框上",
+      "must_preserve": [
+        "制服身影",
+        "门框"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "02",
+      "category": "人物",
+      "description": "两个无面身影隔着一扇门对坐",
+      "must_preserve": [
+        "无面身影",
+        "门"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "03",
+      "category": "物体",
+      "description": "一扇立在荒地上的门，门内空无一物",
+      "must_preserve": [
+        "门",
+        "荒地"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "04",
+      "category": "物体",
+      "description": "一把放在高台上的空椅",
+      "must_preserve": [
+        "空椅",
+        "高台"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "05",
+      "category": "场景",
+      "description": "几何建筑群中的长廊与拱门",
+      "must_preserve": [
+        "长廊",
+        "拱门"
+      ]
+    },
+    {
+      "style_id": "Aix0065",
+      "case": "06",
+      "category": "场景",
+      "description": "云层下的方形广场，只有一座门",
+      "must_preserve": [
+        "广场",
+        "云层"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "01",
+      "category": "人物",
+      "description": "双手托住一团星云似的头部，指间光点流动",
+      "must_preserve": [
+        "双手",
+        "星云头部"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "02",
+      "category": "人物",
+      "description": "一个人低头看掌心，掌中是微缩星系",
+      "must_preserve": [
+        "人物",
+        "微型星系"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "03",
+      "category": "物体",
+      "description": "一只手掌上悬浮着发光星团",
+      "must_preserve": [
+        "手掌",
+        "星团"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "04",
+      "category": "物体",
+      "description": "停摆的怀表里装着星云",
+      "must_preserve": [
+        "怀表",
+        "星云"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "05",
+      "category": "场景",
+      "description": "深蓝夜空下，光点如雨环绕孤树",
+      "must_preserve": [
+        "夜空",
+        "孤树"
+      ]
+    },
+    {
+      "style_id": "Aix0066",
+      "case": "06",
+      "category": "场景",
+      "description": "山丘上悬浮的光环与星尘",
+      "must_preserve": [
+        "山丘",
+        "光环"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "01",
+      "category": "人物",
+      "description": "一个人做噤声的手势，脸被红块遮住",
+      "must_preserve": [
+        "噤声手势",
+        "红块"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "02",
+      "category": "人物",
+      "description": "戴兜帽的人低头，红色矩形横在眼前",
+      "must_preserve": [
+        "兜帽人",
+        "红矩形"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "03",
+      "category": "物体",
+      "description": "一封用红蜡封口的旧信",
+      "must_preserve": [
+        "旧信",
+        "红蜡"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "04",
+      "category": "物体",
+      "description": "话筒立在青绿的暗房里",
+      "must_preserve": [
+        "话筒",
+        "暗房"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "05",
+      "category": "场景",
+      "description": "剧场红帷幕拉开一条缝",
+      "must_preserve": [
+        "红帷幕",
+        "缝隙"
+      ]
+    },
+    {
+      "style_id": "Aix0067",
+      "case": "06",
+      "category": "场景",
+      "description": "青绿色调的阅览室，一本书被红布盖住",
+      "must_preserve": [
+        "阅览室",
+        "红布"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "01",
+      "category": "人物",
+      "description": "黑影人形，胸前红光如心脏般搏动",
+      "must_preserve": [
+        "人形黑影",
+        "红光心脏"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "02",
+      "category": "人物",
+      "description": "一个侧影被猩红光环穿过头部",
+      "must_preserve": [
+        "侧影",
+        "光环"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "03",
+      "category": "物体",
+      "description": "一枚碎裂的怀表悬浮，齿轮飞散",
+      "must_preserve": [
+        "怀表",
+        "齿轮"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "04",
+      "category": "物体",
+      "description": "一枝黑红相间的枯花在冒烟",
+      "must_preserve": [
+        "枯花",
+        "烟雾"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "05",
+      "category": "场景",
+      "description": "荒原中心的一团红色爆发与黑烟",
+      "must_preserve": [
+        "荒原",
+        "爆发"
+      ]
+    },
+    {
+      "style_id": "Aix0068",
+      "case": "06",
+      "category": "场景",
+      "description": "深色水面下的红色光核",
+      "must_preserve": [
+        "水面",
+        "光核"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "01",
+      "category": "人物",
+      "description": "黑色剪影的脸被数只白手遮挡，手背有眼",
+      "must_preserve": [
+        "黑剪影",
+        "白手与眼睛"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "02",
+      "category": "人物",
+      "description": "一双手从背后捂住一人的眼睛",
+      "must_preserve": [
+        "双手",
+        "遮眼"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "03",
+      "category": "物体",
+      "description": "一只白手形状的瓷杯放在灰桌上",
+      "must_preserve": [
+        "手形瓷杯",
+        "桌面"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "04",
+      "category": "物体",
+      "description": "托盘上一排小雕塑，每尊都有眼",
+      "must_preserve": [
+        "托盘",
+        "雕塑"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "05",
+      "category": "场景",
+      "description": "灰白色房间里悬着一只巨大的手影",
+      "must_preserve": [
+        "房间",
+        "手影"
+      ]
+    },
+    {
+      "style_id": "Aix0069",
+      "case": "06",
+      "category": "场景",
+      "description": "舞台白幕前的手影戏",
+      "must_preserve": [
+        "白幕",
+        "手影戏"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "01",
+      "category": "人物",
+      "description": "侧脸人像的头顶悬着三个星空立方体",
+      "must_preserve": [
+        "侧脸",
+        "立方体"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "02",
+      "category": "人物",
+      "description": "闭眼的少年身边浮着发光的几何块",
+      "must_preserve": [
+        "少年",
+        "几何块"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "03",
+      "category": "物体",
+      "description": "桌面上的一个立方体，面上映着星云",
+      "must_preserve": [
+        "立方体",
+        "星云"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "04",
+      "category": "物体",
+      "description": "枯枝旁悬浮的一块方糖形星光",
+      "must_preserve": [
+        "枯枝",
+        "星光"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "05",
+      "category": "场景",
+      "description": "灰白荒地上的几何石碑群",
+      "must_preserve": [
+        "荒地",
+        "石碑"
+      ]
+    },
+    {
+      "style_id": "Aix0070",
+      "case": "06",
+      "category": "场景",
+      "description": "雾中的立方体建筑，窗里透出星光",
+      "must_preserve": [
+        "雾",
+        "建筑"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0073",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "浅蓝海面与红色滴落悬崖构成极简边界",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "海面",
+      "滴落悬崖"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789966308,
+  "usage": {
+    "input_tokens": 136,
+    "output_tokens": 1584,
+    "total_tokens": 1720,
+    "input_tokens_details": {
+      "text_tokens": 136,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：沙丘上的枯木，轮廓像只手\n必须保留：枯木；沙丘\n视觉风格：橙黄渐变底色配纯黑剪影与米白受光面；负空间双重影像，轮廓兼作另一形象；强烈侧光与清晰投影；无轮廓硬边块面，矢量概括；颗粒噪点与纸张纹理点缀\n画幅比例：2:3\n避免出现：多色堆叠；写实细节；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/73b4c3a1197a6280d0c7fef4da7b098d.png"
+    }
+  ]
+}

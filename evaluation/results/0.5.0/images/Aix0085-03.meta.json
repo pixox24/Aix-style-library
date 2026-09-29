@@ -1,0 +1,24 @@
+{
+  "created": 1790533881,
+  "usage": {
+    "input_tokens": 160,
+    "output_tokens": 1584,
+    "total_tokens": 1744,
+    "input_tokens_details": {
+      "text_tokens": 160,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：三面重叠的白色面具放在灰蓝桌面\n必须保留：白色面具；重叠\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/4b896bf6dd15ca99b159d64aca99aa7a.png"
+    }
+  ]
+}

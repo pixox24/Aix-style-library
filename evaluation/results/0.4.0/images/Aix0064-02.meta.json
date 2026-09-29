@@ -1,0 +1,24 @@
+{
+  "created": 1789975854,
+  "usage": {
+    "input_tokens": 124,
+    "output_tokens": 1584,
+    "total_tokens": 1708,
+    "input_tokens_details": {
+      "text_tokens": 124,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：迷路者站在回旋楼梯中央，仰头寻找出口\n必须保留：迷路者；回旋楼梯\n视觉风格：数字绘画结合严谨几何线条；蓝紫阶梯配淡黄天空与亮蓝眼睛；强几何投影，模拟日光；重复几何结构制造纵深与眩晕；干净利落，干净渐层\n画幅比例：2:3\n避免出现：有机曲线；暗黑压抑；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/6ebfda7cff7db6b8d5277041788a79ea.png"
+    }
+  ]
+}

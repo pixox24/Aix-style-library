@@ -1,0 +1,20 @@
+{
+  "api_version": "1.0",
+  "operation": "validate",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "scope": "all",
+    "checked_styles": 70,
+    "checked_assets": 70,
+    "active_styles": 70,
+    "source_digest": "88164829ebd58257cf1c50031907940dadc4eafa769ad2fbc3fb481df0c3f382"
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 54
+  }
+}

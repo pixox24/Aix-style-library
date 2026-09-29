@@ -1,0 +1,24 @@
+{
+  "created": 1789869696,
+  "usage": {
+    "input_tokens": 200,
+    "output_tokens": 1584,
+    "total_tokens": 1784,
+    "input_tokens_details": {
+      "text_tokens": 200,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：街边的自动贩卖机与红色消防栓\n必须保留：贩卖机；消防栓\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+      "url": "https://gateway.change2pro.com/vendor/assets/aaa4c2b3d9289cffc828ba64dabbabeb.png"
+    }
+  ]
+}

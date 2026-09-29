@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个人坐在床边发呆，绿光从窗外扫进来\n必须保留：床边人物；绿光\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+  "image_sha256": "0ae4d9a60b5c88763bd4e4cd643be5c6568fdb6d0cd4eff3abd306df86a39e0f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

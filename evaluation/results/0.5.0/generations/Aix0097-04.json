@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：飞驰的列车灯在黑色隧道中形成连续光轨\n必须保留：列车灯；隧道\n视觉风格：数字合成与长曝光光轨结合，边缘带运动模糊；黑暗背景中红蓝白光轨形成高对比节奏；人物半身位于中心，光轨沿水平或对角穿行；光轨成为主要光源，主体被局部轮廓光勾勒；柔化拖影、颗粒和数字噪声\n画幅比例：2:3\n避免出现：静态无光影平涂；明亮白底生活照；乱码文字与伪文字",
+  "image_sha256": "a0caf7d5fcfd7f70f02925e899ad1409131f6c56887d00b1efc90ef93d65636d",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.2
+  }
+}

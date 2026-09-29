@@ -1,0 +1,24 @@
+{
+  "created": 1789895005,
+  "usage": {
+    "input_tokens": 147,
+    "output_tokens": 1584,
+    "total_tokens": 1731,
+    "input_tokens_details": {
+      "text_tokens": 147,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：女孩斜躺在沙发上翻书，脚边窝着黑猫\n必须保留：看书女孩；黑猫\n视觉风格：赛璐璐平涂结合硬朗线稿，动画美术质感；蓝紫冷调室内与暖黄灯光对比；室内局部暖光，窗外冷月光辅衬；中心构图，环境细节围绕主体堆叠；轻微复古噪点，织物与纸页质感\n画幅比例：2:3\n避免出现：强霓虹；写实厚涂；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/e100b888c063ddb054256755cd91438b.png"
+    }
+  ]
+}

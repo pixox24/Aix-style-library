@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只旧电视屏幕变成圆形黑口，边缘有几只眼睛\n必须保留：旧电视；黑口屏幕\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+  "image_sha256": "a3651a3abfa4c8c381f79a10be433984f10c7a1311845be26aa6604463d78a92",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 82.3
+  }
+}

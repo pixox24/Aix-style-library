@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：穿花纹上衣的人站在赤红漩涡前，头部化成黑色烟团\n必须保留：花纹上衣人物；黑烟团\n视觉风格：手绘表现主义线条结合粗糙平涂和粉笔质感；赤红橙底与黑色主体，黄绿色图案作冲突点；垂直人物居中，背景漩涡围绕头部旋转；平面高对比，不追求写实体积光；炭笔、粉笔和纸面摩擦的粗糙痕迹\n画幅比例：2:3\n避免出现：光滑3D渲染；低对比柔和配色；乱码文字与伪文字",
+  "image_sha256": "2063d956e0e338c2452203356a1fe38cf93222412dee1d50f9f1dfde07da0eba",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 49.9
+  }
+}

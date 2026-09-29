@@ -12,7 +12,7 @@
 
 ## 3. 缩略图与评测图片
 
-`styles/*/thumbnail.webp` 与 `evaluation/` 内的图片，其授权以每个风格 `provenance.source_ref` 和 `license_ref` 指向的记录为准。当前预览版（library_version 0.1.0）内的缩略图均为本项目程序化生成的原创示意图，`source_type=original`，`commercial_use=allowed`，允许商用，无需署名。
+`styles/*/thumbnail.webp` 与 `evaluation/` 内的图片，其授权以每个风格 `provenance.source_ref` 和 `license_ref` 指向的记录为准。当前预览版内的缩略图与样例图片均为真实图像模型（`gpt-image-2`，经 change2pro OpenAI 兼容 Images API）生成、由本项目维护者选定，无第三方素材，`source_type=original`，`commercial_use=allowed`，允许商用，无需署名。
 
 ## 4. 不构成承诺的部分
 

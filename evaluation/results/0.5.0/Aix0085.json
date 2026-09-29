@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0085",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0085.md",
+  "samples": [
+    {
+      "case_id": "Aix0085-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧脸人物的轮廓叠出三层温和表情，背景冷灰\n必须保留：侧脸人物；叠层轮廓\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-01.json"
+    },
+    {
+      "case_id": "Aix0085-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：穿风衣的人站在雾中，脸部由轻微错位的轮廓组成\n必须保留：风衣人物；错位轮廓\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-02.json"
+    },
+    {
+      "case_id": "Aix0085-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：三面重叠的白色面具放在灰蓝桌面\n必须保留：白色面具；重叠\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面符合冷灰叠面风格，三面面具重叠放置于灰蓝桌面，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-03.json"
+    },
+    {
+      "case_id": "Aix0085-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一面镜子里出现层层后退的同一把椅子\n必须保留：镜子；椅子\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美契合冷灰叠面风格，镜子与层层后退的椅子元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-04.json"
+    },
+    {
+      "case_id": "Aix0085-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：冷灰展厅里，几组透明肖像轮廓并列悬浮\n必须保留：展厅；透明轮廓\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷灰叠面与透明轮廓表现完美，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-05.json"
+    },
+    {
+      "case_id": "Aix0085-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾蓝车站的玻璃墙映出多重等待身影\n必须保留：车站；玻璃倒影\n视觉风格：细腻数字线稿与平滑渐层，形体边缘连续；灰蓝、苍白与中性灰组成低饱和冷色体系；垂直肖像集中于上半部，重复轮廓形成层叠焦点；柔和漫射光，避免强烈硬阴影；皮肤与织物的细腻数字质感，轻微雾化\n画幅比例：2:3\n避免出现：高饱和商业色；粗糙版画颗粒；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0085-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0085-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

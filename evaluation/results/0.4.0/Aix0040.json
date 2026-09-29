@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0040",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0040.md",
+  "samples": [
+    {
+      "case_id": "Aix0040-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：长椅上独坐的人被站立的人群环形包围\n必须保留：独坐者；人群\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-01.json"
+    },
+    {
+      "case_id": "Aix0040-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：广场中央吹笛的艺人，周围人群流淌\n必须保留：街头艺人；广场\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-02.json"
+    },
+    {
+      "case_id": "Aix0040-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：人群脚边的一只流浪猫与纸袋\n必须保留：猫；纸袋\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，厚涂笔触与红绿配色准确；猫与纸袋完整保留，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-03.json"
+    },
+    {
+      "case_id": "Aix0040-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：售货亭顶的一排彩色帽子\n必须保留：售货亭；帽子\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-04.json"
+    },
+    {
+      "case_id": "Aix0040-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黄昏市集的俯视全景\n必须保留：市集；俯视\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，厚涂笔触与红绿配色完美，俯视市集构图无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-05.json"
+    },
+    {
+      "case_id": "Aix0040-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：车站大厅的人流俯视图\n必须保留：车站大厅；人流\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0040-06.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "顶部信息牌和时钟存在乱码文字瑕疵，其余风格与内容特征符合。",
+      "generation_ref": "results/0.4.0/generations/Aix0040-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

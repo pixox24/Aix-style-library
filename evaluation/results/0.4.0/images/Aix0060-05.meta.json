@@ -1,0 +1,24 @@
+{
+  "created": 1789974132,
+  "usage": {
+    "input_tokens": 118,
+    "output_tokens": 1584,
+    "total_tokens": 1702,
+    "input_tokens_details": {
+      "text_tokens": 118,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：人群中独站的一人，头顶是发光线云\n必须保留：人群；线云\n视觉风格：发光线条与暗调背景的对比；深黑绿底配亮青色发光线条；线团自发光，背景人群虚暗；居中构图，背景虚化的人群；光晕与细颗粒\n画幅比例：2:3\n避免出现：明亮平涂；硬边色块；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/d26aa43ed0f31d2b0eac686fa92bd4cb.png"
+    }
+  ]
+}

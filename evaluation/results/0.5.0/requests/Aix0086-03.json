@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0086",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "橙色桌面上的黑色胶片卷成流体形状",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "桌面",
+      "胶片流体"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

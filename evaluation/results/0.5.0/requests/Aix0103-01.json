@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0103",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "巨大背影的头发化作星空，背部小窗里坐着读书的人",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "巨大背影",
+      "内部读书人"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

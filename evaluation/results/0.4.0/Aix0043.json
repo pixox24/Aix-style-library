@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0043",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0043.md",
+  "samples": [
+    {
+      "case_id": "Aix0043-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴墨镜的女孩仰头喝饮料的特写\n必须保留：女孩；饮料\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-01.json"
+    },
+    {
+      "case_id": "Aix0043-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：滑板少年抱板仰视的酷感半身像\n必须保留：滑板少年；滑板\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，色彩撞色与硬边光影到位，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-02.json"
+    },
+    {
+      "case_id": "Aix0043-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一副亮粉墨镜与饮料罐静摆\n必须保留：墨镜；饮料罐\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，内容元素齐全，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-03.json"
+    },
+    {
+      "case_id": "Aix0043-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：挂着吊坠的耳机特写\n必须保留：耳机；吊坠\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-04.json"
+    },
+    {
+      "case_id": "Aix0043-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：霓虹墙前的街拍背景板\n必须保留：霓虹墙；街拍\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-05.json"
+    },
+    {
+      "case_id": "Aix0043-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：轮滑场边的涂鸦墙与栏杆\n必须保留：涂鸦墙；轮滑场\n视觉风格：粗黑轮廓线结合赛璐璐硬边上色，美漫与日漫融合；粉紫主调配亮黄亮蓝的高饱和撞色；低角度仰视特写，主体占据画面；硬边光影与皮肤光泽感；干净数字带轻微网点印刷感\n画幅比例：2:3\n避免出现：低饱和灰调；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0043-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，色彩与线条表现优秀，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0043-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

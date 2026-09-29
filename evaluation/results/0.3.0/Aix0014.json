@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0014",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0014.md",
+  "samples": [
+    {
+      "case_id": "Aix0014-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个撑伞的人悬浮在几何阶梯上方\n必须保留：悬浮人物；阶梯\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，黑白几何与速写笔触结合完美，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-01.json"
+    },
+    {
+      "case_id": "Aix0014-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：孤独的背影站在圆形网格地面上\n必须保留：背影；网格地面\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，黑白灰对比强烈，笔触与几何网格质感反差明显，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-02.json"
+    },
+    {
+      "case_id": "Aix0014-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只悬浮的闹钟，周围散落几何碎片\n必须保留：闹钟；几何碎片\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，速写笔触与几何块面结合良好，无可见瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-03.json"
+    },
+    {
+      "case_id": "Aix0014-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把椅子被几何块面切割重构\n必须保留：椅子；几何块面\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定清晰，无可见瑕疵，完美融合手绘排线与几何块面。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-04.json"
+    },
+    {
+      "case_id": "Aix0014-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：失重的房间，家具漂浮错位\n必须保留：房间；漂浮家具\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，黑白几何与手绘笔触结合完美，漂浮家具与房间元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-05.json"
+    },
+    {
+      "case_id": "Aix0014-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：空旷广场上的球体阵列，尽头矗立一道门\n必须保留：球体阵列；门\n视觉风格：混合媒介：手绘排线与速写笔触塑造的形象，与扁平几何块面并置；纯粹黑白灰，无彩色，高对比明度分层；垂直分层构图，混沌块体与规整网格形成秩序与失序对比；硬朗块面光影，以明暗两面色块切分体积，投影清晰；笔触粗粝与表面平滑形成质感反差\n画幅比例：2:3\n避免出现：彩色与柔和渐变；写实照片质感与细腻刻画；乱码文字与伪文字印章",
+      "image_path": "results/0.3.0/images/Aix0014-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，黑白高对比与笔触反差强烈，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.3.0/generations/Aix0014-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

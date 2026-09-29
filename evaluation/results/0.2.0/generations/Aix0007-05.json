@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：低多边形小台灯与两本书放在桌上，暖色切面\n必须保留：台灯；书\n视觉风格：低多边形 3D 渲染，形体由明显几何切面构成；纯净渐变天空与环境色，切面间以明度分层；平行光照明，干净的面与面明暗对比；极简环境，主体居中或三分位，视线开阔\n画幅比例：2:3\n避免出现：高精度写实纹理与照片质感；手绘笔触与厚重噪点",
+  "image_sha256": "e54128097275960138b1b5cd39c1f46d12c8ce1f9250fe5e4760d4ca23ee3d30",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

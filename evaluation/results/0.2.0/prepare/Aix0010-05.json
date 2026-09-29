@@ -1,0 +1,43 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0010",
+    "style_name": "复古丝网印刷",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0010/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：跨海大桥与朝阳的丝网海报，桥缆是弧形长线\n必须保留：跨海大桥；朝阳\n视觉风格：丝网印刷专色平涂，边缘带轻微手工感；2–3 种限定专色，纸白底色参与整体构图；半调网点颗粒与轻微套印错位；粗壮图形化的轮廓线\n画幅比例：2:3\n避免出现：写实渐变光影与照片质感；光滑数字渲染质感",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0010",
+      "style_version": "1.0.0",
+      "library_version": "0.2.0",
+      "content_hash": "00bf9eac9fd0311972727d9f28876302d74f2a42176547779f58d29e062521d5"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.2.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0034",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0034.md",
+  "samples": [
+    {
+      "case_id": "Aix0034-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：创作者被成堆的文件淹没，只露出头\n必须保留：创作者；文件堆\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对比强烈，冷光自下而上，厚涂笔触明显，构图与内容完美契合，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-01.json"
+    },
+    {
+      "case_id": "Aix0034-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人抱着电脑在纸山前睡着\n必须保留：抱电脑的人；纸山\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，红蓝对比强烈，冷光与包围构图准确，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-02.json"
+    },
+    {
+      "case_id": "Aix0034-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一摞摇摇欲坠的文件与一杯冷茶\n必须保留：文件；茶杯\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对比、底部冷光及包围构图完美呈现，笔触质感佳，元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-03.json"
+    },
+    {
+      "case_id": "Aix0034-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：屏幕上密密麻麻的窗口与一副眼镜\n必须保留：屏幕；眼镜\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对比、冷光及包围构图等核心特征稳定，屏幕与眼镜完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-04.json"
+    },
+    {
+      "case_id": "Aix0034-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜办公室里堆到天花板的纸堆\n必须保留：办公室；纸堆\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝对比强烈，冷光自下而上，中心包围构图及厚涂质感均完美呈现，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-05.json"
+    },
+    {
+      "case_id": "Aix0034-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：书桌被文具和便签彻底淹没\n必须保留：书桌；便签\n视觉风格：鲜红背景与深蓝主体的强对比，米白提亮；屏幕冷光自下而上照亮主体的局部光效；中心包围构图，杂物从四周压向中心；厚涂质感的数字绘画，笔触可见；略带粗糙的笔触肌理\n画幅比例：2:3\n避免出现：柔光治愈；干净矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0034-06.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "便签存在乱码文字，笔记本线圈等局部结构错误，故扣分。",
+      "generation_ref": "results/0.4.0/generations/Aix0034-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

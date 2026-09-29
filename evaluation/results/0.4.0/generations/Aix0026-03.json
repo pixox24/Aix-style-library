@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一台复古摩托车的正侧剪影\n必须保留：复古摩托\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+  "image_sha256": "a24408faea706b604babf20e0444c66d11368ca07ad64e0d110f53493ba57200",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

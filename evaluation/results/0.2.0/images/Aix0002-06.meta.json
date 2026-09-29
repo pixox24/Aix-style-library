@@ -1,0 +1,24 @@
+{
+  "created": 1789823557,
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 1584,
+    "total_tokens": 1730,
+    "input_tokens_details": {
+      "text_tokens": 146,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：春天的山坡开满野花，一条白色小径通向红屋顶的小房子\n必须保留：野花山坡；红屋顶房子\n视觉风格：手绘水彩纸面，湿画法与自然晕染边缘；低饱和奶油色系与柔和互补点缀；松弛铅笔轮廓线，粗细不均；通透均匀的柔光，无强烈阴影\n画幅比例：2:3\n避免出现：高对比硬边矢量描边；大面积深黑阴影与厚重厚涂",
+      "url": "https://gateway.change2pro.com/vendor/assets/b635dab4979c2793e252134e77055f86.png"
+    }
+  ]
+}

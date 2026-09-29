@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一把旧钥匙被蝶群托起\n必须保留：钥匙；蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+  "image_sha256": "2dbafb8c1a3e164d09ecba71f6c3147865296889a1399ed45c88ce0ee6724e9e",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

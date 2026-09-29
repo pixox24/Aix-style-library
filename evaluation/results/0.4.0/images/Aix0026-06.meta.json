@@ -1,0 +1,24 @@
+{
+  "created": 1789888936,
+  "usage": {
+    "input_tokens": 140,
+    "output_tokens": 1584,
+    "total_tokens": 1724,
+    "input_tokens_details": {
+      "text_tokens": 140,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：公路尽头的一面红色路牌在暮色中\n必须保留：公路；路牌\n视觉风格：墨绿与鲜红强撞色，黑白色主体高对比；做旧平涂结合粗糙噪点，海报印刷质感；垂直分割构图，上下主体隔色条呼应；高对比剪影式明暗，无柔和过渡；墙面与纸张的粗糙肌理\n画幅比例：2:3\n避免出现：光滑数字渐变；甜美配色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/a3b4b96f6d0c6ab5c2a3511cf574a48a.png"
+    }
+  ]
+}

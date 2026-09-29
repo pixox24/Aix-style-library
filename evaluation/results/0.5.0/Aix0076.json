@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0076",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0076.md",
+  "samples": [
+    {
+      "case_id": "Aix0076-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：小船上的人仰望托住旧屋的巨大手掌\n必须保留：小船人物；巨手\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-01.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "手指比例失调，形态肿似脚趾且指甲过大，手部解剖结构存在轻微瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-01.json"
+    },
+    {
+      "case_id": "Aix0076-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：渔夫站在浅水边，橙光巨手托起一盏房屋形灯笼\n必须保留：渔夫；房屋灯笼\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-02.json"
+    },
+    {
+      "case_id": "Aix0076-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一座歪斜小屋被巨手从水面托起\n必须保留：小屋；巨手\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-03.json"
+    },
+    {
+      "case_id": "Aix0076-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：巨手托着一盏生锈的街灯，水面映出暖光\n必须保留：街灯；水面\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，巨手托街灯与水面反光均完整呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-04.json"
+    },
+    {
+      "case_id": "Aix0076-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：灰绿湖面中央浮着被巨手托起的码头\n必须保留：湖面；码头\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-05.json"
+    },
+    {
+      "case_id": "Aix0076-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：暴风云下，巨手把一座旧桥轻轻托离河谷\n必须保留：旧桥；河谷\n视觉风格：粗细结合的数字厚涂，概念艺术笔触明显；灰绿冷调环境与橙黄暖光形成单一焦点；巨物居中、微小人物置于下方的尺度对照；中心暖光照亮主体，四周沉入阴郁暗部；水面反光、旧屋墙面与粗糙笔触并存\n画幅比例：2:3\n避免出现：平面无深度色块；可爱明亮童话；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0076-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，冷暖对比与巨物尺度感完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0076-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0048",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0048.md",
+  "samples": [
+    {
+      "case_id": "Aix0048-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人仰头吐出烟雾，烟团化成巨影\n必须保留：仰头者；烟雾\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-01.json"
+    },
+    {
+      "case_id": "Aix0048-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：街角的吸烟者，背后烟影像翅膀展开\n必须保留：吸烟者；烟影\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-02.json"
+    },
+    {
+      "case_id": "Aix0048-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一根快燃尽的香烟落在深蓝的桌面\n必须保留：香烟；桌面\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，蓝红对比强烈，颗粒笔触到位；香烟与桌面完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-03.json"
+    },
+    {
+      "case_id": "Aix0048-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏被烟雾缠绕的旧路灯\n必须保留：路灯；烟雾\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-04.json"
+    },
+    {
+      "case_id": "Aix0048-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：夜巷里的雾气被红光染透\n必须保留：夜巷；红雾\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-05.json"
+    },
+    {
+      "case_id": "Aix0048-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：舞台上的烟机喷出红色雾团\n必须保留：舞台；红雾\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0048-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0048-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

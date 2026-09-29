@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0098",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一个人坐在电脑前，肩部边缘化成蓝紫像素粒子",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "电脑前人物",
+      "像素粒子"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

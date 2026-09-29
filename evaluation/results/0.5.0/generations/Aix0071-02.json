@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：穿长外套的人沿着悬空阶梯向上走，远处有枯树\n必须保留：行走者；悬空阶梯\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+  "image_sha256": "949b3caf2b9eade72b96061a03ea2ec4c0363a3bf0557b50d967bf4c1cdd6b7c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 58.7
+  }
+}

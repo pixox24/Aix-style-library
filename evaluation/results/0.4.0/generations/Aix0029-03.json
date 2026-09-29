@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只滚动的金属轮毂，倒映着街道\n必须保留：轮毂；倒影\n视觉风格：3D 渲染质感，写实材质与景深；鱼眼式极端透视，前景物体夸张放大；紫蓝渐变色调，晨昏青色调；逆光半剪影，边缘光勾勒轮廓；金属与路面的写实细节\n画幅比例：2:3\n避免出现：平涂卡通；高饱和霓虹；乱码文字与伪文字",
+  "image_sha256": "450bc2981f85ded809a81e95efcc17ff6d213012248791f1830ca72f2461c63e",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

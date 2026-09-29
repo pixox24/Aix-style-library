@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0109",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-28",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0109.md",
+  "samples": [
+    {
+      "case_id": "Aix0109-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：蜷坐的人被巨大黑色嘴形包围，白色眼睛从弧线间望来\n必须保留：蜷坐人物；巨口\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-01.json"
+    },
+    {
+      "case_id": "Aix0109-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：戴帽子的身影站在圆形黑洞前，周围只有几只白眼\n必须保留：戴帽身影；黑洞\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-02.json"
+    },
+    {
+      "case_id": "Aix0109-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一把白色钥匙漂在黑色牙齿形拱门中\n必须保留：钥匙；牙齿拱门\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美契合暗黑高对比风格，牙齿拱门与白色钥匙清晰完整，无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-03.json"
+    },
+    {
+      "case_id": "Aix0109-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只旧电视屏幕变成圆形黑口，边缘有几只眼睛\n必须保留：旧电视；黑口屏幕\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-04.json"
+    },
+    {
+      "case_id": "Aix0109-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：黑白剧场座位像牙齿一样围成封闭圆形\n必须保留：剧场；牙齿座位\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-05.json"
+    },
+    {
+      "case_id": "Aix0109-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：地下通道尽头是巨大的黑色弧门，几盏白灯像眼睛\n必须保留：地下通道；弧门\n视觉风格：现代暗黑插画线条，平涂与清晰轮廓结合；黑灰背景、白色牙齿与眼睛形成高对比；巨大圆弧包围中心人物，形成封闭心理空间；平面高对比，亮部集中在眼睛和边缘；干净线条配少量暗部颗粒\n画幅比例：2:3\n避免出现：写实血腥和身体损伤；明亮可爱配色；乱码文字与伪文字",
+      "image_path": "results/0.5.0/images/Aix0109-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.5.0/generations/Aix0109-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 660 张全量视觉验收结论。"
+}

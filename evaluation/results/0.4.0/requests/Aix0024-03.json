@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0024",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一块冲浪板斜插在浪里，尾鳍清晰",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "冲浪板",
+      "浪花"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0037",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0037.md",
+  "samples": [
+    {
+      "case_id": "Aix0037-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人悬浮在星空裂缝前，失重张开双臂\n必须保留：悬浮人物；星空裂缝\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美符合，仰视透视、色彩及人物悬浮姿态均无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-01.json"
+    },
+    {
+      "case_id": "Aix0037-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少年背着行囊仰望空中的三角门户\n必须保留：少年；三角门户\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩、透视与线稿排线肌理准确；内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-02.json"
+    },
+    {
+      "case_id": "Aix0037-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一块漂浮的巨石穿过星空裂隙\n必须保留：巨石；裂隙\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-03.json"
+    },
+    {
+      "case_id": "Aix0037-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：指南针悬浮在半空，指针朝着门户\n必须保留：指南针\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，指南针悬浮且指针指向门户，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-04.json"
+    },
+    {
+      "case_id": "Aix0037-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：荒原上空的星际之门全貌\n必须保留：荒原；星际之门\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-05.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "美漫线稿与排线阴影特征偏弱，整体偏写实厚涂，其余特征及元素保留良好。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-05.json"
+    },
+    {
+      "case_id": "Aix0037-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：云海之上，门户开启的瞬间\n必须保留：云海；门户\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0037-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，仰视门户与云海元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0037-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

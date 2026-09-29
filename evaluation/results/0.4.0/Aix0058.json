@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0058",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0058.md",
+  "samples": [
+    {
+      "case_id": "Aix0058-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑袍的身影静立，背后展开一圈发光的面孔\n必须保留：黑袍身影；光环面孔\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，构图对称，光影柔和；内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-01.json"
+    },
+    {
+      "case_id": "Aix0058-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：少女闭眼漂浮，周身环绕粉色灵光\n必须保留：少女；灵光\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-02.json"
+    },
+    {
+      "case_id": "Aix0058-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏旧烛台被粉紫色光焰环绕\n必须保留：烛台；光焰\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-03.json"
+    },
+    {
+      "case_id": "Aix0058-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：漂浮的面具在紫光中缓缓旋转\n必须保留：面具；紫光\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-04.json"
+    },
+    {
+      "case_id": "Aix0058-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：地下祭坛的环形光阵\n必须保留：祭坛；光阵\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现粉紫自发光与垂直对称光环布局，祭坛与光阵完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-05.json"
+    },
+    {
+      "case_id": "Aix0058-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：深蓝夜湖中心升起的辉光\n必须保留：夜湖；辉光\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0058-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，夜湖与辉光元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0058-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

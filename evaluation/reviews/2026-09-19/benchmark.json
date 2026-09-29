@@ -1,0 +1,15 @@
+{
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.6",
+  "styles": 1000,
+  "runs": 30,
+  "search_candidates": 3,
+  "get": {
+    "p50": 51.12,
+    "p95": 53.42
+  },
+  "search": {
+    "p50": 67.3,
+    "p95": 68.71
+  }
+}

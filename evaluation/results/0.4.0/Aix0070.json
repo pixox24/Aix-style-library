@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0070",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0070.md",
+  "samples": [
+    {
+      "case_id": "Aix0070-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧脸人像的头顶悬着三个星空立方体\n必须保留：侧脸；立方体\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，侧脸与三个星空立方体完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-01.json"
+    },
+    {
+      "case_id": "Aix0070-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：闭眼的少年身边浮着发光的几何块\n必须保留：少年；几何块\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，主体与元素均无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-02.json"
+    },
+    {
+      "case_id": "Aix0070-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：桌面上的一个立方体，面上映着星云\n必须保留：立方体；星云\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-03.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格特征完美。内容缺失“桌面”要求，立方体悬浮而非在桌面上。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-03.json"
+    },
+    {
+      "case_id": "Aix0070-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：枯枝旁悬浮的一块方糖形星光\n必须保留：枯枝；星光\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，枯枝与星光元素完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-04.json"
+    },
+    {
+      "case_id": "Aix0070-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：灰白荒地上的几何石碑群\n必须保留：荒地；石碑\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，内容元素准确，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-05.json"
+    },
+    {
+      "case_id": "Aix0070-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾中的立方体建筑，窗里透出星光\n必须保留：雾；建筑\n视觉风格：数字绘画，笔触细腻；灰白背景配星空黑立方体与冷白人脸；柔和侧光，质感冷峻；垂直堆叠构图，几何体悬浮；细腻肌理，轻微颗粒\n画幅比例：2:3\n避免出现：高饱和色；粗犷笔触；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0070-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合灰紫星空立方风格，雾、建筑、星光等元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0070-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

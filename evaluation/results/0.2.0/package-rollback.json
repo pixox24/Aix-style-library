@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-19",
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "python": "3.14.6",
+  "sequence": [
+    "0.2.0",
+    "0.1.0",
+    "0.2.0"
+  ],
+  "checks": [
+    {
+      "library_version": "0.2.0",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved"
+    },
+    {
+      "library_version": "0.2.0",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates"
+    },
+    {
+      "library_version": "0.2.0",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared"
+    },
+    {
+      "library_version": "0.1.0",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved"
+    },
+    {
+      "library_version": "0.1.0",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates"
+    },
+    {
+      "library_version": "0.1.0",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared"
+    },
+    {
+      "library_version": "0.2.0",
+      "operation": "get",
+      "code": "OK",
+      "stage": "resolved"
+    },
+    {
+      "library_version": "0.2.0",
+      "operation": "search",
+      "code": "OK",
+      "stage": "candidates"
+    },
+    {
+      "library_version": "0.2.0",
+      "operation": "prepare",
+      "code": "OK",
+      "stage": "prepared"
+    }
+  ],
+  "new_archive_file_count": 34,
+  "archive_matches_source": true,
+  "old_archive_checksum_matches": true
+}

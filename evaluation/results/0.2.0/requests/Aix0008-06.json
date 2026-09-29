@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0008",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "霓虹小巷尽头的电话亭，细雨斜织，粉色灯牌",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "电话亭",
+      "粉色灯牌"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

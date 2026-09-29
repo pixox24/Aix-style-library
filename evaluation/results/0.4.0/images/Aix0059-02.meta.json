@@ -1,0 +1,24 @@
+{
+  "created": 1789973455,
+  "usage": {
+    "input_tokens": 108,
+    "output_tokens": 1584,
+    "total_tokens": 1692,
+    "input_tokens_details": {
+      "text_tokens": 108,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个背影化作蝶群向上升空\n必须保留：背影；蝶群\n视觉风格：黑白墨水排线结合版画质感；全黑白灰高对比；垂直构图，主体上下升腾动势；高对比明暗，黑密白疏；繁复排线与颗粒\n画幅比例：2:3\n避免出现：彩色元素；光滑数字；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/611cfb373157c5a753f4964edb390a63.png"
+    }
+  ]
+}

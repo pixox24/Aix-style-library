@@ -1,0 +1,24 @@
+{
+  "created": 1789891499,
+  "usage": {
+    "input_tokens": 126,
+    "output_tokens": 1584,
+    "total_tokens": 1710,
+    "input_tokens_details": {
+      "text_tokens": 126,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑胶唱机与旋转的唱片特写\n必须保留：唱机；唱片\n视觉风格：深靛紫与亮紫主调，白与亮橙点缀；舞台聚光灯效果，高对比硬边光斑；对角线的设备特写，局部放大；扁平化数字插画，线条圆润粗犷；干净数字质感\n画幅比例：2:3\n避免出现：日光平光；写实摄影；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/cfdc2f7d6f8e167ccf7569566531dd70.png"
+    }
+  ]
+}

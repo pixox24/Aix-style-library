@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0095",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "玻璃瓶中悬浮一只微型发光手掌",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "玻璃瓶",
+      "发光手掌"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0066",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0066.md",
+  "samples": [
+    {
+      "case_id": "Aix0066-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：双手托住一团星云似的头部，指间光点流动\n必须保留：双手；星云头部\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-01.json"
+    },
+    {
+      "case_id": "Aix0066-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人低头看掌心，掌中是微缩星系\n必须保留：人物；微型星系\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，构图与光影极佳，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-02.json"
+    },
+    {
+      "case_id": "Aix0066-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一只手掌上悬浮着发光星团\n必须保留：手掌；星团\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-03.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格特征完美。内容要求一只手掌，画面出现双手及头部，存在轻微偏差。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-03.json"
+    },
+    {
+      "case_id": "Aix0066-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：停摆的怀表里装着星云\n必须保留：怀表；星云\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-04.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "怀表表面刻度呈现乱码符号，存在伪文字瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-04.json"
+    },
+    {
+      "case_id": "Aix0066-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深蓝夜空下，光点如雨环绕孤树\n必须保留：夜空；孤树\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-05.json"
+    },
+    {
+      "case_id": "Aix0066-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：山丘上悬浮的光环与星尘\n必须保留：山丘；光环\n视觉风格：数字绘画结合发光特效；深靛蓝底配荧光蓝与苍白高光；自发光效果，光点层次丰富；环绕式构图，双手围绕中心头部；流动梦幻的质感\n画幅比例：2:3\n避免出现：硬边平涂；明亮日光；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0066-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美契合，无明显瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0066-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：夜路上的小学生面对路灯投出的巨大动物阴影\n必须保留：小学生；巨大阴影\n视觉风格：清晰线稿结合动画式硬边赛璐璐色块；冷蓝灰环境与纯黑阴影，单点红色聚焦；上方巨形压境、下方小人物形成极端比例；侧向强光把普通物体投射成夸张阴影；平滑动画质感，背景保留轻微颗粒\n画幅比例：2:3\n避免出现：写实血腥恐怖；暖色明亮日常；乱码文字与伪文字",
+  "image_sha256": "c0f8223ce0c2709c3f30cff0addedff469e99875d9c9a1676189623bf998f0d6",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 46.4
+  }
+}

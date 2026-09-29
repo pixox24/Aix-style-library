@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0021",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "海边栈道的浅水中，天空与巨影上下对称",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "浅水栈道",
+      "对称倒影"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

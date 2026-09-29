@@ -1,0 +1,24 @@
+{
+  "created": 1789888462,
+  "usage": {
+    "input_tokens": 144,
+    "output_tokens": 1584,
+    "total_tokens": 1728,
+    "input_tokens_details": {
+      "text_tokens": 144,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：漂在水上的贝壳与缠绕的粉色水带\n必须保留：贝壳；水带\n视觉风格：硬边矢量平涂，造型圆润流畅；青蓝主体配粉色流体，深蓝与米色作背景；框式或侧向特写，主体与流体缠绕共生；纯平光，层次全靠色块明度区分；干净数字质感，流体具液态光泽\n画幅比例：2:3\n避免出现：写实光影；粗糙颗粒；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/6302f481cd74df2e5c1996b8ef528afa.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1789892375,
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 1584,
+    "total_tokens": 1721,
+    "input_tokens_details": {
+      "text_tokens": 137,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：水下隧道尽头的一束黄绿光\n必须保留：隧道；光束\n视觉风格：翠绿与墨绿主调，顶部黄绿色光束；水下体积光束（丁达尔效应），柔化边缘；数字湿画法质感，笔触柔和；垂直纵深构图，楼梯引导视线；水波与墙面涂鸦的混合肌理\n画幅比例：2:3\n避免出现：干燥硬边；高饱和霓虹；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/51b2602471e85a1b3acb46ee9681e058.png"
+    }
+  ]
+}

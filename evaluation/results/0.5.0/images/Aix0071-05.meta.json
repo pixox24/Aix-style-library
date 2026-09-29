@@ -1,0 +1,24 @@
+{
+  "created": 1790529842,
+  "usage": {
+    "input_tokens": 153,
+    "output_tokens": 1584,
+    "total_tokens": 1737,
+    "input_tokens_details": {
+      "text_tokens": 153,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：没有尽头的山崖阶梯通向蓝黑天空\n必须保留：山崖阶梯；蓝黑天空\n视觉风格：粗颗粒数字厚涂，边缘保留不规则笔触；深蓝灰与紫蓝冷色为主，局部冷光提亮；折返几何路径形成强烈的纵向引导线；低照度漫射光，亮部集中在路径边缘；岩石般粗糙颗粒与轻微星尘斑点\n画幅比例：2:3\n避免出现：光滑商业插画；明亮糖果色与复杂暖光；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/29aaaeece9348d63f3ccdf3869c03ac0.png"
+    }
+  ]
+}

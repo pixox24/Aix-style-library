@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0088",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "地铁站的两面墙被流线切成灰与蓝两个世界",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "地铁站",
+      "双色墙"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

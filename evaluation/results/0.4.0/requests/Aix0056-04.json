@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0056",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "缠着丝带的旧相机挂在斑驳墙上",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "相机",
+      "丝带"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

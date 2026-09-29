@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0079",
+    "style_name": "彩瀑桥上",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0079/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：骑车人穿过桥面，头顶垂下红黄绿的光瀑\n必须保留：骑车人；桥面\n视觉风格：垂直厚涂笔触，色带边缘保留手绘流动感；红黄绿高饱和色流与深色前景形成强对比；水平桥面切过垂直光幕，形成十字结构；背景色流自发光，前景保持剪影化；粗细交替的刷痕和轻微颗粒\n画幅比例：2:3\n避免出现：灰暗无焦点的背景；精细写实摄影；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0079",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "a5ce3525f080d7a2cae494afd1993640cfb3b392fde3a0528341de57243c3a59"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

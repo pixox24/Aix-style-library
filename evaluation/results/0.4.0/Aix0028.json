@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0028",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0028.md",
+  "samples": [
+    {
+      "case_id": "Aix0028-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人走在夜街上，荧光绿的光带伸向远方\n必须保留：夜行者；光带\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-01.json"
+    },
+    {
+      "case_id": "Aix0028-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：撑伞的人站在紫色霓虹下，背影拉长\n必须保留：撑伞人；霓虹\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，主体与要求完整保留，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-02.json"
+    },
+    {
+      "case_id": "Aix0028-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一盏孤零零的绿色路灯与潮湿的路面\n必须保留：路灯；湿路\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，透视与光影极佳，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-03.json"
+    },
+    {
+      "case_id": "Aix0028-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：霓虹灯管盘成的路牌在夜里发绿光\n必须保留：霓虹路牌\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，霓虹路牌完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-04.json"
+    },
+    {
+      "case_id": "Aix0028-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雾中的长街，灯光把路面照成河\n必须保留：长街；雾光\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，透视、光影及质感均无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-05.json"
+    },
+    {
+      "case_id": "Aix0028-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨夜的桥洞下，绿光与紫光交错\n必须保留：桥洞；灯光\n视觉风格：黑底配荧光绿与紫罗兰霓虹光；路灯投射的长光束与雾气晕染；一点透视的纵深街道，视线被引向远方；数字绘画，光效柔化与硬边剪影结合；地面湿滑反光与雾气质感\n画幅比例：2:3\n避免出现：日光暖调；写实街拍；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0028-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美呈现荧光绿与紫罗兰霓虹光、桥洞、湿滑反光及雾气，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0028-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

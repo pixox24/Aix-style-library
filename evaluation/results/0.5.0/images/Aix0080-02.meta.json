@@ -1,0 +1,24 @@
+{
+  "created": 1790532468,
+  "usage": {
+    "input_tokens": 154,
+    "output_tokens": 1584,
+    "total_tokens": 1738,
+    "input_tokens_details": {
+      "text_tokens": 154,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：小孩伸手接住从高窗落下的光，远处出现飞鸟轮廓\n必须保留：小孩；飞鸟\n视觉风格：概念海报式数字绘画，形体概括而叙事清晰；深灰黑环境与金黄光柱形成极端明暗对比；对角光束把暗部引向上方出口或远景；单一体积光源，光中区域明显变亮；粗糙墙面和细微尘埃增强真实触感\n画幅比例：2:3\n避免出现：多光源霓虹；明亮商业广告感；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/76dc768444f9e6bb21eaa290970299cf.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790645079,
+  "usage": {
+    "input_tokens": 156,
+    "output_tokens": 1584,
+    "total_tokens": 1740,
+    "input_tokens_details": {
+      "text_tokens": 156,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：雾色天台上，一个空衣架和向上散开的烟雾形成静物\n必须保留：天台；衣架\n视觉风格：暗调数字厚涂，笔触明显且保留手绘方向；灰蓝黑白低饱和体系，局部肤色极克制；居中半身肖像，手势与烟雾构成上下联系；柔和但有戏剧性的侧上方光线；蓬松烟雾、衣物褶皱和厚涂刷痕\n画幅比例：2:3\n避免出现：光滑商业3D；鲜艳明亮背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/624ebe2319dfad11a0eb50c64936bbba.png"
+    }
+  ]
+}

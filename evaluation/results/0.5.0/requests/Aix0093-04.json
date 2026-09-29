@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0093",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "打开的玻璃瓶里装着一团梦境色烟雾",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "玻璃瓶",
+      "梦境烟雾"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

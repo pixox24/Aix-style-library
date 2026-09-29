@@ -1,0 +1,24 @@
+{
+  "created": 1790535381,
+  "usage": {
+    "input_tokens": 153,
+    "output_tokens": 1584,
+    "total_tokens": 1737,
+    "input_tokens_details": {
+      "text_tokens": 153,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：夜海、隧道和屋顶被统一排进冷蓝分镜网格\n必须保留：夜海；分镜网格\n视觉风格：概念设计式平面分格，剪影与纹理实验并置；深蓝、纯黑和冷白构成单色冷调体系；网格分格，每格独立却共享光影语言；逆光、窄光和局部发光形成多种对照；雾、颗粒和抽象表面纹理轻量叠加\n画幅比例：2:3\n避免出现：暖色糖果配色；写实连续风景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f9970c7b5e733c4a6d76ffb3307c46c5.png"
+    }
+  ]
+}

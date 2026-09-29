@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：长椅上独坐的人被站立的人群环形包围\n必须保留：独坐者；人群\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+  "image_sha256": "56bdca5784461c771a12a284987bb8cf08c84c540a287157ab26d14b4c2fffb8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

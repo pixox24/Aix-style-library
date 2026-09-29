@@ -1,0 +1,24 @@
+{
+  "created": 1789894873,
+  "usage": {
+    "input_tokens": 128,
+    "output_tokens": 1584,
+    "total_tokens": 1712,
+    "input_tokens_details": {
+      "text_tokens": 128,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：海边的木质栈桥在紫粉色天空下\n必须保留：栈桥；晚霞\n视觉风格：鲑鱼粉至深紫的垂直渐变天色；剪影人物与城市设施，留白与渐变的电影感版式；矢量平涂剪影，几何概括；逆光剪影，轮廓清晰；干净无纹理\n画幅比例：2:3\n避免出现：写实细节；粗糙噪点；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/d47dff7b50d07c48a75e041bf7bd17f1.png"
+    }
+  ]
+}

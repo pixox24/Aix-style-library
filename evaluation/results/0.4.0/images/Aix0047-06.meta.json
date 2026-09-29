@@ -1,0 +1,24 @@
+{
+  "created": 1789965164,
+  "usage": {
+    "input_tokens": 130,
+    "output_tokens": 1584,
+    "total_tokens": 1714,
+    "input_tokens_details": {
+      "text_tokens": 130,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：夜里的数据中心外墙，散热灯闪烁\n必须保留：数据中心；夜\n视觉风格：3D 渲染质感，写实光照与材质；深青灰冷调，屏幕散发冷白光；中心对称构图，主体渺小居中；顶部光与屏幕自发光形成冷暖层次；混凝土与金属的写实质感\n画幅比例：2:3\n避免出现：卡通平涂；高饱和色彩；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/7f13d9cc91df1388de57b74cff6c3189.png"
+    }
+  ]
+}

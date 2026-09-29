@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0019",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "手拉手围成环的五个人影，眼部亮着光点",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "环形人影",
+      "发光眼点"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

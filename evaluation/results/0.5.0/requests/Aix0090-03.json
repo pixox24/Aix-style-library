@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0090",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "三枚冷蓝立方体在黑桌面上排列成不稳定结构",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "立方体",
+      "黑桌面"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

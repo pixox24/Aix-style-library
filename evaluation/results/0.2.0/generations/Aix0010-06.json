@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：复古汽车行驶在山谷公路上的丝网海报\n必须保留：复古汽车；山谷公路\n视觉风格：丝网印刷专色平涂，边缘带轻微手工感；2–3 种限定专色，纸白底色参与整体构图；半调网点颗粒与轻微套印错位；粗壮图形化的轮廓线\n画幅比例：2:3\n避免出现：写实渐变光影与照片质感；光滑数字渲染质感",
+  "image_sha256": "99476aa37200d33a196bba4c0c427fc754fab662c67aaa69bf522dbfe5def2b8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

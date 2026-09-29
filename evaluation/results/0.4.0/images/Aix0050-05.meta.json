@@ -1,0 +1,24 @@
+{
+  "created": 1789966944,
+  "usage": {
+    "input_tokens": 132,
+    "output_tokens": 1584,
+    "total_tokens": 1716,
+    "input_tokens_details": {
+      "text_tokens": 132,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：清晨的卧室，窗帘被风微微吹起\n必须保留：卧室；窗帘\n视觉风格：日系数字平涂结合柔和厚涂过渡；淡粉、浅蓝与白色的柔调配色；柔和漫射的清晨光；俯视斜角构图，主体舒展；干净微噪点，织物褶皱细腻\n画幅比例：2:3\n避免出现：浓重阴影；高饱和撞色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/09dd252eeea8e9d5840323c3ea81665d.png"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0068",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0068.md",
+  "samples": [
+    {
+      "case_id": "Aix0068-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：黑影人形，胸前红光如心脏般搏动\n必须保留：人形黑影；红光心脏\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，水墨喷溅与高对比强烈，人形与红光心脏完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-01.json"
+    },
+    {
+      "case_id": "Aix0068-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个侧影被猩红光环穿过头部\n必须保留：侧影；光环\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，侧影与光环完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-02.json"
+    },
+    {
+      "case_id": "Aix0068-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枚碎裂的怀表悬浮，齿轮飞散\n必须保留：怀表；齿轮\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-03.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格特征完美，但怀表表盘罗马数字存在乱码和变形瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-03.json"
+    },
+    {
+      "case_id": "Aix0068-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一枝黑红相间的枯花在冒烟\n必须保留：枯花；烟雾\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-04.json"
+    },
+    {
+      "case_id": "Aix0068-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：荒原中心的一团红色爆发与黑烟\n必须保留：荒原；爆发\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-05.json"
+    },
+    {
+      "case_id": "Aix0068-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：深色水面下的红色光核\n必须保留：水面；光核\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0068-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，水面与光核保留完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0068-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

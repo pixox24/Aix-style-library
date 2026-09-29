@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：深夜的唱片店橱窗，灯还亮着\n必须保留：唱片店；橱窗\n视觉风格：赛璐璐平涂结合硬朗线稿，动画美术质感；蓝紫冷调室内与暖黄灯光对比；室内局部暖光，窗外冷月光辅衬；中心构图，环境细节围绕主体堆叠；轻微复古噪点，织物与纸页质感\n画幅比例：2:3\n避免出现：强霓虹；写实厚涂；乱码文字与伪文字",
+  "image_sha256": "c28838382e6aa34b61f9a2e1c23360815b7020aae70ee4257b1502d3129d3fb8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

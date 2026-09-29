@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：蜿蜒黑白山谷由线条层层刻出，尽头留一块白光\n必须保留：山谷；白光\n视觉风格：黑白钢笔或木刻线条，线条疏密塑造空间；纯黑白二色，不使用彩色点缀；中心透视和同心波纹把视线带向远方圆面；以线条密度模拟光暗，不做渐变光影；木纹、刻痕和不均匀墨线\n画幅比例：2:3\n避免出现：彩色渐变和写实材质；光滑无纹理数字图；乱码文字与伪文字",
+  "image_sha256": "79a97de0c45176cfa33de048a656c2c96accc6627555a9c4028c8c51559ed774",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.0
+  }
+}

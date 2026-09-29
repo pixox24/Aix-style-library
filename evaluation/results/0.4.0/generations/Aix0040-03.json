@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：人群脚边的一只流浪猫与纸袋\n必须保留：猫；纸袋\n视觉风格：数字手绘厚涂，笔触明显而松弛；森林绿底配砖红棕褐的点状人群；俯视群像构图，中心孤立一个主体；均匀漫射光，无明显投影；颗粒噪点与笔触肌理\n画幅比例：2:3\n避免出现：硬边矢量；强光影；乱码文字与伪文字",
+  "image_sha256": "bf62c4b3eafa7c372bf473d8dfe90df0fe89051633ed78f645248f2967d37181",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

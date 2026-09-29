@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0038",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-20",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0038.md",
+  "samples": [
+    {
+      "case_id": "Aix0038-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：一个人被绿色光束轻轻抬起，脚尖离地\n必须保留：被牵引的人；光束\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-01.json"
+    },
+    {
+      "case_id": "Aix0038-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：仰头凝视飞碟的孩子，脸被绿光照亮\n必须保留：孩子；飞碟\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无瑕疵，元素完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-02.json"
+    },
+    {
+      "case_id": "Aix0038-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一辆自行车被光束吸入半空\n必须保留：自行车；光束\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-03.json"
+    },
+    {
+      "case_id": "Aix0038-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：草地上被照亮的旧望远镜\n必须保留：望远镜；绿光\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容完整无瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-04.json"
+    },
+    {
+      "case_id": "Aix0038-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：深夜树林上空的飞碟与光柱\n必须保留：树林；飞碟光柱\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-05.json"
+    },
+    {
+      "case_id": "Aix0038-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：荒漠公路上的一道绿光直落地面\n必须保留：荒漠公路；绿光\n视觉风格：数字手绘线稿结合颗粒噪点，复古漫画质感；深蓝夜空与荧光绿光束的强对比；对角构图，光束斜贯画面；单一光源主导，被照物亮部清晰；颗粒噪点与纸张肌理\n画幅比例：2:3\n避免出现：写实光影；干净无噪点；乱码文字与伪文字",
+      "image_path": "results/0.4.0/images/Aix0038-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无可见瑕疵，必须元素完整。",
+      "generation_ref": "results/0.4.0/generations/Aix0038-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 420 张全量视觉验收结论。"
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0017",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "街道建筑剪影围出咖啡杯的负形",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "建筑剪影",
+      "咖啡杯形"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：窗边木桌上的一杯热红茶，热气隐约，暖色局部光\n必须保留：热红茶；木桌\n视觉风格：摄影式胶片画面，真实材质与自然形体；低饱和雾青底色与暖色局部对比；柔和侧逆光与克制的暗部层次；细腻胶片颗粒与轻微光学柔化\n画幅比例：2:3\n避免出现：过度荧光饱和与塑料磨皮质感；硬边数字描边与高对比色块",
+  "image_sha256": "aa806dedacba916f94365a28c405b3e550ff5cf11e098aac4107d1f663f6f016",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

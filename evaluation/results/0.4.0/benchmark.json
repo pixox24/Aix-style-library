@@ -1,0 +1,18 @@
+styles=70  python=3.14.6  platform=macOS-26.5.2-arm64-arm-64bit-Mach-O  cpu_count=10
+get                          p50=  51.8 ms  p95=  60.9 ms
+search                       p50=  58.1 ms  p95=  58.6 ms
+{
+  "styles": 70,
+  "python": "3.14.6",
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "cpu_count": 10,
+  "runs": 30,
+  "get": {
+    "p50": 51.8,
+    "p95": 60.95
+  },
+  "search": {
+    "p50": 58.05,
+    "p95": 58.57
+  }
+}

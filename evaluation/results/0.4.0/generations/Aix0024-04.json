@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：飞驰的滑板与扬起的尘粒\n必须保留：滑板；尘粒\n视觉风格：美漫式数字厚涂，硬边块面塑造体积与动势；深蓝底色配黑白高对比主体，黄白能量色点缀；戏剧性强光，高光集中在受光面；对角构图，强调速度与运动张力；干净利落的数字质感\n画幅比例：2:3\n避免出现：柔光细腻刻画；粉彩糖果色；乱码文字与伪文字",
+  "image_sha256": "941745d9d2b44c96c5e927ffb6113ea869bee7d92029f6ef84e10a0c8b70ae7b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

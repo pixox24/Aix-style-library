@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一封用红蜡封口的旧信\n必须保留：旧信；红蜡\n视觉风格：复古海报式平涂结合强噪点；青绿背景配黑色主体与鲜红遮挡块；侧光厚影，高对比；中心半身像特写；粗糙颗粒如旧印刷品\n画幅比例：2:3\n避免出现：光滑渐变；甜系配色；乱码文字与伪文字",
+  "image_sha256": "65a840b7a18c025ce79a5b23a74f7ee6ce36a4992154d3761bcdc7072f89ccab",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0105",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "城市广场被赤红风暴状线条包围，中心保持一人剪影",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "广场",
+      "一人剪影"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

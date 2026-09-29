@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0101",
+    "style_name": "电蓝双影门",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0101/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：两只颜色相反的行李箱被长投影连接\n必须保留：行李箱；长投影\n视觉风格：平滑矢量或极简三维造型，人物概括为几何体；高饱和电蓝背景对比白色与深蓝主体；对称门框、背对背双主体和长投影构成稳定结构；门框柔光与脚下长投影提供空间感；光滑塑料或石膏般的干净表面\n画幅比例：2:3\n避免出现：复杂纹理和写实环境；多色霓虹装饰；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0101",
+      "style_version": "1.0.0",
+      "library_version": "0.4.1",
+      "content_hash": "0eca9f498517c178c854ce23588302aaab3ae5b9e0a434dc69f3225ea9cfedf9"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.4.1",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

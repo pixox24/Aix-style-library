@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：桌面上的汽水瓶与凌乱的电线\n必须保留：汽水瓶；电线\n视觉风格：赛璐璐平涂结合清晰线稿；深蓝夜景配荧光绿侧光与紫色点缀；强侧光营造压抑而迷离的室内氛围；全景视角，杂乱房间细节环绕；平滑色块，干净数字质感\n画幅比例：2:3\n避免出现：暖色日光；整洁极简；乱码文字与伪文字",
+  "image_sha256": "aefe420b67db58880ded12f246493362b2d25eea306a9825a6d5260e693bc838",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

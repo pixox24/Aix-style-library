@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一盏旧烛台被粉紫色光焰环绕\n必须保留：烛台；光焰\n视觉风格：数字厚涂质感，柔和平滑过渡；深蓝底配粉紫自发光；中心发光，四周沉入暗部；垂直对称构图，光环式环绕布局；梦幻平滑质感，微颗粒\n画幅比例：2:3\n避免出现：明亮写实；硬边矢量；乱码文字与伪文字",
+  "image_sha256": "3019f2199d0ed4c943cb89b8f31d3b584f522955594e1da7933e6f59538ec7d4",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：云海之上，门户开启的瞬间\n必须保留：云海；门户\n视觉风格：美漫式清晰线稿，局部排线阴影；天蓝与深邃星空蓝为主，大地土黄作底；仰视透视，巨大的几何门户悬于上空；自然日光与门户的微光对比；干净数字与排线肌理交织\n画幅比例：2:3\n避免出现：写实照片；暗黑压抑；乱码文字与伪文字",
+  "image_sha256": "b1cf2937d8a91fe90f8bb1171458fd701aafe7e8707cf7b598f7f6807333c330",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

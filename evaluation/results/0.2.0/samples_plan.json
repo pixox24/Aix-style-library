@@ -1,0 +1,779 @@
+{
+  "samples": [
+    {
+      "style_id": "Aix0001",
+      "case": "01",
+      "category": "人物",
+      "reuse": true,
+      "description": "清晨窗前，一位穿米色针织衫的年轻人侧身站在柔光里，侧脸望向窗外",
+      "must_preserve": [
+        "窗前人物",
+        "柔和侧光"
+      ],
+      "prompt_file": "prompts/Aix0001-01.txt",
+      "image_file": "images/Aix0001-01.png"
+    },
+    {
+      "style_id": "Aix0001",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "傍晚街头，一位背着相机的旅行者停下脚步回望，背景是虚化的城市灯光",
+      "must_preserve": [
+        "旅行者",
+        "胶片相机"
+      ],
+      "prompt_file": "prompts/Aix0001-02.txt",
+      "image_file": "images/Aix0001-02.png"
+    },
+    {
+      "style_id": "Aix0001",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "木桌上放着一台旧胶片相机与两卷胶卷，侧逆光，浅景深",
+      "must_preserve": [
+        "胶片相机",
+        "胶卷"
+      ],
+      "prompt_file": "prompts/Aix0001-03.txt",
+      "image_file": "images/Aix0001-03.png"
+    },
+    {
+      "style_id": "Aix0001",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "窗边木桌上的一杯热红茶，热气隐约，暖色局部光",
+      "must_preserve": [
+        "热红茶",
+        "木桌"
+      ],
+      "prompt_file": "prompts/Aix0001-04.txt",
+      "image_file": "images/Aix0001-04.png"
+    },
+    {
+      "style_id": "Aix0001",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "雨后老城区的巷口，湿石板路反着微光，远处一盏路灯亮着",
+      "must_preserve": [
+        "湿石板路",
+        "路灯"
+      ],
+      "prompt_file": "prompts/Aix0001-05.txt",
+      "image_file": "images/Aix0001-05.png"
+    },
+    {
+      "style_id": "Aix0001",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "黄昏的天台，晾衣绳上的白衬衫被风扬起，远处是城市轮廓",
+      "must_preserve": [
+        "晾衣绳",
+        "城市轮廓"
+      ],
+      "prompt_file": "prompts/Aix0001-06.txt",
+      "image_file": "images/Aix0001-06.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "01",
+      "category": "场景",
+      "reuse": true,
+      "description": "一只橘猫趴在木窗台上打盹，窗外是长满绿植的小院子，午后柔光",
+      "must_preserve": [
+        "橘猫",
+        "木窗台"
+      ],
+      "prompt_file": "prompts/Aix0002-01.txt",
+      "image_file": "images/Aix0002-01.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一个背着黄色小书包的小女孩蹲在池塘边，看荷叶上的一只青蛙",
+      "must_preserve": [
+        "小女孩",
+        "池塘"
+      ],
+      "prompt_file": "prompts/Aix0002-02.txt",
+      "image_file": "images/Aix0002-02.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "戴草帽的老爷爷推着自行车走过田埂，车筐里装满水果",
+      "must_preserve": [
+        "老爷爷",
+        "自行车"
+      ],
+      "prompt_file": "prompts/Aix0002-03.txt",
+      "image_file": "images/Aix0002-03.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "木桌上的一罐蜂蜜、半块面包和一小束雏菊，清晨柔光",
+      "must_preserve": [
+        "蜂蜜罐",
+        "面包"
+      ],
+      "prompt_file": "prompts/Aix0002-04.txt",
+      "image_file": "images/Aix0002-04.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "05",
+      "category": "物体",
+      "reuse": false,
+      "description": "一把小黄伞和一双小雨靴靠在门边，雨后天晴",
+      "must_preserve": [
+        "小黄伞",
+        "雨靴"
+      ],
+      "prompt_file": "prompts/Aix0002-05.txt",
+      "image_file": "images/Aix0002-05.png"
+    },
+    {
+      "style_id": "Aix0002",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "春天的山坡开满野花，一条白色小径通向红屋顶的小房子",
+      "must_preserve": [
+        "野花山坡",
+        "红屋顶房子"
+      ],
+      "prompt_file": "prompts/Aix0002-06.txt",
+      "image_file": "images/Aix0002-06.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "01",
+      "category": "物体",
+      "reuse": true,
+      "description": "一组手冲咖啡器具的几何化海报：咖啡壶、杯子和一株盆栽，暖色块与留白",
+      "must_preserve": [
+        "咖啡器具",
+        "几何构图"
+      ],
+      "prompt_file": "prompts/Aix0003-01.txt",
+      "image_file": "images/Aix0003-01.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "吹奏萨克斯的乐手剪影海报，由圆形与三角色块构成，高对比",
+      "must_preserve": [
+        "萨克斯乐手"
+      ],
+      "prompt_file": "prompts/Aix0003-02.txt",
+      "image_file": "images/Aix0003-02.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "骑自行车的邮差侧面剪影海报，车轮是同心圆，邮包是方形",
+      "must_preserve": [
+        "骑行者",
+        "邮包"
+      ],
+      "prompt_file": "prompts/Aix0003-03.txt",
+      "image_file": "images/Aix0003-03.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一台复古收音机被几何色块概括，天线是一条斜线",
+      "must_preserve": [
+        "复古收音机"
+      ],
+      "prompt_file": "prompts/Aix0003-04.txt",
+      "image_file": "images/Aix0003-04.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "城市天际线几何海报，一个大圆落日悬在建筑方块之上",
+      "must_preserve": [
+        "天际线",
+        "落日大圆"
+      ],
+      "prompt_file": "prompts/Aix0003-05.txt",
+      "image_file": "images/Aix0003-05.png"
+    },
+    {
+      "style_id": "Aix0003",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "海边灯塔几何海报，海面是横向宽条纹，灯塔由三角构成",
+      "must_preserve": [
+        "灯塔",
+        "海面条纹"
+      ],
+      "prompt_file": "prompts/Aix0003-06.txt",
+      "image_file": "images/Aix0003-06.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "01",
+      "category": "场景",
+      "reuse": true,
+      "description": "远山、湖面与一叶孤舟，天边一行归鸟",
+      "must_preserve": [
+        "远山",
+        "孤舟"
+      ],
+      "prompt_file": "prompts/Aix0004-01.txt",
+      "image_file": "images/Aix0004-01.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一位执伞的少女走过雨中的石桥，衣袂与伞面用寥寥数笔",
+      "must_preserve": [
+        "执伞少女",
+        "石桥"
+      ],
+      "prompt_file": "prompts/Aix0004-02.txt",
+      "image_file": "images/Aix0004-02.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "月光下一人独坐山亭抚琴，山影淡淡",
+      "must_preserve": [
+        "抚琴人",
+        "山亭"
+      ],
+      "prompt_file": "prompts/Aix0004-03.txt",
+      "image_file": "images/Aix0004-03.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一枝斜出的红梅插在青瓷瓶中，瓶中清水隐约",
+      "must_preserve": [
+        "红梅",
+        "青瓷瓶"
+      ],
+      "prompt_file": "prompts/Aix0004-04.txt",
+      "image_file": "images/Aix0004-04.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "05",
+      "category": "物体",
+      "reuse": false,
+      "description": "案头一盏油灯、一卷展开的书和一方便砚",
+      "must_preserve": [
+        "油灯",
+        "书卷"
+      ],
+      "prompt_file": "prompts/Aix0004-05.txt",
+      "image_file": "images/Aix0004-05.png"
+    },
+    {
+      "style_id": "Aix0004",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "雨后的竹林雾气弥漫，竹叶低垂，水珠欲滴",
+      "must_preserve": [
+        "竹林",
+        "雾气"
+      ],
+      "prompt_file": "prompts/Aix0004-06.txt",
+      "image_file": "images/Aix0004-06.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "01",
+      "category": "物体",
+      "reuse": true,
+      "description": "窗台上一只陶罐插着野花，旁边放着两颗柠檬，午后侧光",
+      "must_preserve": [
+        "陶罐野花",
+        "柠檬"
+      ],
+      "prompt_file": "prompts/Aix0005-01.txt",
+      "image_file": "images/Aix0005-01.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一位戴草帽的采茶妇人半身侧影，午后暖光",
+      "must_preserve": [
+        "采茶妇人",
+        "草帽"
+      ],
+      "prompt_file": "prompts/Aix0005-02.txt",
+      "image_file": "images/Aix0005-02.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "灯下读信的男人，暖黄光晕，厚涂笔触",
+      "must_preserve": [
+        "读信男人",
+        "灯"
+      ],
+      "prompt_file": "prompts/Aix0005-03.txt",
+      "image_file": "images/Aix0005-03.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一只铜壶与两个红苹果摆在旧木桌上",
+      "must_preserve": [
+        "铜壶",
+        "苹果"
+      ],
+      "prompt_file": "prompts/Aix0005-04.txt",
+      "image_file": "images/Aix0005-04.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "黄昏的麦田，远处一棵孤树，天空是厚笔触的晚霞",
+      "must_preserve": [
+        "麦田",
+        "孤树"
+      ],
+      "prompt_file": "prompts/Aix0005-05.txt",
+      "image_file": "images/Aix0005-05.png"
+    },
+    {
+      "style_id": "Aix0005",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "雨后的小巷，石墙上爬着藤蔓，一扇半开的木门",
+      "must_preserve": [
+        "石墙",
+        "木门"
+      ],
+      "prompt_file": "prompts/Aix0005-06.txt",
+      "image_file": "images/Aix0005-06.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "01",
+      "category": "人物",
+      "reuse": true,
+      "description": "一个背着红色小背包的黏土小人偶站在绿色的小山坡上，远处有一栋小房子",
+      "must_preserve": [
+        "黏土小人偶",
+        "小山坡"
+      ],
+      "prompt_file": "prompts/Aix0006-01.txt",
+      "image_file": "images/Aix0006-01.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一个黏土做的蛋糕师戴着白色小帽子，端着一个草莓蛋糕",
+      "must_preserve": [
+        "黏土蛋糕师",
+        "草莓蛋糕"
+      ],
+      "prompt_file": "prompts/Aix0006-02.txt",
+      "image_file": "images/Aix0006-02.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黏土质感的早餐桌：煎蛋、橙汁杯和一只小鸡造型玩具",
+      "must_preserve": [
+        "煎蛋",
+        "橙汁杯"
+      ],
+      "prompt_file": "prompts/Aix0006-03.txt",
+      "image_file": "images/Aix0006-03.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一只黏土小狗守着一台黏土收音机，圆润可爱",
+      "must_preserve": [
+        "黏土小狗",
+        "收音机"
+      ],
+      "prompt_file": "prompts/Aix0006-04.txt",
+      "image_file": "images/Aix0006-04.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "微缩黏土街角：一根路灯、一辆小汽车与一家亮着灯的店铺",
+      "must_preserve": [
+        "黏土街角",
+        "路灯"
+      ],
+      "prompt_file": "prompts/Aix0006-05.txt",
+      "image_file": "images/Aix0006-05.png"
+    },
+    {
+      "style_id": "Aix0006",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "黏土露营地的夜晚：小帐篷、篝火和两棵小树",
+      "must_preserve": [
+        "黏土帐篷",
+        "篝火"
+      ],
+      "prompt_file": "prompts/Aix0006-06.txt",
+      "image_file": "images/Aix0006-06.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "01",
+      "category": "场景",
+      "reuse": true,
+      "description": "山谷、湖泊与松树的低多边形风景，天空中是渐变晚霞",
+      "must_preserve": [
+        "山谷湖泊",
+        "松树"
+      ],
+      "prompt_file": "prompts/Aix0007-01.txt",
+      "image_file": "images/Aix0007-01.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "低多边形登山者站在岩石上眺望远方，背包由切面构成",
+      "must_preserve": [
+        "登山者",
+        "岩石"
+      ],
+      "prompt_file": "prompts/Aix0007-02.txt",
+      "image_file": "images/Aix0007-02.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "低多边形渔夫坐在湖面小船上抛竿，水面是蓝色切面",
+      "must_preserve": [
+        "渔夫",
+        "小船"
+      ],
+      "prompt_file": "prompts/Aix0007-03.txt",
+      "image_file": "images/Aix0007-03.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一只低多边形热气球，彩条由几何切面构成",
+      "must_preserve": [
+        "热气球"
+      ],
+      "prompt_file": "prompts/Aix0007-04.txt",
+      "image_file": "images/Aix0007-04.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "05",
+      "category": "物体",
+      "reuse": false,
+      "description": "低多边形小台灯与两本书放在桌上，暖色切面",
+      "must_preserve": [
+        "台灯",
+        "书"
+      ],
+      "prompt_file": "prompts/Aix0007-05.txt",
+      "image_file": "images/Aix0007-05.png"
+    },
+    {
+      "style_id": "Aix0007",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "低多边形雪山日出，云雾在山谷间分层",
+      "must_preserve": [
+        "雪山",
+        "云雾"
+      ],
+      "prompt_file": "prompts/Aix0007-06.txt",
+      "image_file": "images/Aix0007-06.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "01",
+      "category": "人物",
+      "reuse": true,
+      "description": "雨夜街头，一位撑着透明雨伞的行人走过霓虹招牌下，路面湿润反光",
+      "must_preserve": [
+        "撑伞行人",
+        "霓虹招牌"
+      ],
+      "prompt_file": "prompts/Aix0008-01.txt",
+      "image_file": "images/Aix0008-01.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "骑电动车的外卖骑手穿过霓虹路口，雨幕与车灯拉出光轨",
+      "must_preserve": [
+        "外卖骑手",
+        "电动车"
+      ],
+      "prompt_file": "prompts/Aix0008-02.txt",
+      "image_file": "images/Aix0008-02.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "雨夜中的日式拉面摊，暖黄灯箱与升腾的蒸汽",
+      "must_preserve": [
+        "拉面摊",
+        "蒸汽"
+      ],
+      "prompt_file": "prompts/Aix0008-03.txt",
+      "image_file": "images/Aix0008-03.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一台红色自动贩卖机立在霓虹小巷里，机身湿漉漉反光",
+      "must_preserve": [
+        "贩卖机",
+        "霓虹小巷"
+      ],
+      "prompt_file": "prompts/Aix0008-04.txt",
+      "image_file": "images/Aix0008-04.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "雨夜中的过街天桥，霓虹倒影铺满湿滑的台阶",
+      "must_preserve": [
+        "天桥",
+        "霓虹倒影"
+      ],
+      "prompt_file": "prompts/Aix0008-05.txt",
+      "image_file": "images/Aix0008-05.png"
+    },
+    {
+      "style_id": "Aix0008",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "霓虹小巷尽头的电话亭，细雨斜织，粉色灯牌",
+      "must_preserve": [
+        "电话亭",
+        "粉色灯牌"
+      ],
+      "prompt_file": "prompts/Aix0008-06.txt",
+      "image_file": "images/Aix0008-06.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "01",
+      "category": "场景",
+      "reuse": true,
+      "description": "悬崖上的小灯塔，塔顶一扇窗亮着暖黄的灯，几只海鸟盘旋",
+      "must_preserve": [
+        "灯塔",
+        "暖黄灯窗"
+      ],
+      "prompt_file": "prompts/Aix0009-01.txt",
+      "image_file": "images/Aix0009-01.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一位提着鸟笼散步的绅士，大衣与礼帽用密集排线表现",
+      "must_preserve": [
+        "绅士",
+        "鸟笼"
+      ],
+      "prompt_file": "prompts/Aix0009-02.txt",
+      "image_file": "images/Aix0009-02.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "撑着伞在雨中奔跑的小女孩，裙摆飞扬",
+      "must_preserve": [
+        "小女孩",
+        "雨伞"
+      ],
+      "prompt_file": "prompts/Aix0009-03.txt",
+      "image_file": "images/Aix0009-03.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一个玻璃柜里装着几颗小星球与一弯月牙",
+      "must_preserve": [
+        "玻璃柜",
+        "星球"
+      ],
+      "prompt_file": "prompts/Aix0009-04.txt",
+      "image_file": "images/Aix0009-04.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "05",
+      "category": "物体",
+      "reuse": false,
+      "description": "桌上的一台古董打字机，纸页上飞起几只纸鹤",
+      "must_preserve": [
+        "打字机",
+        "纸鹤"
+      ],
+      "prompt_file": "prompts/Aix0009-05.txt",
+      "image_file": "images/Aix0009-05.png"
+    },
+    {
+      "style_id": "Aix0009",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "森林中向下延伸的旋转楼梯，栏杆上缠满藤蔓",
+      "must_preserve": [
+        "旋梯",
+        "森林"
+      ],
+      "prompt_file": "prompts/Aix0009-06.txt",
+      "image_file": "images/Aix0009-06.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "01",
+      "category": "物体",
+      "reuse": true,
+      "description": "一台复古双反相机的丝网印海报构图，背景是起伏的山脉和太阳",
+      "must_preserve": [
+        "复古相机",
+        "山脉与太阳"
+      ],
+      "prompt_file": "prompts/Aix0010-01.txt",
+      "image_file": "images/Aix0010-01.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "一位戴飞行帽与护目镜的飞行员头像海报",
+      "must_preserve": [
+        "飞行员"
+      ],
+      "prompt_file": "prompts/Aix0010-02.txt",
+      "image_file": "images/Aix0010-02.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "03",
+      "category": "人物",
+      "reuse": false,
+      "description": "拿着一束花的女人侧面剪影，两色平涂",
+      "must_preserve": [
+        "拿花女人"
+      ],
+      "prompt_file": "prompts/Aix0010-03.txt",
+      "image_file": "images/Aix0010-03.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "一把旧钥匙与一只怀表的海报构图，放射状背景线",
+      "must_preserve": [
+        "旧钥匙",
+        "怀表"
+      ],
+      "prompt_file": "prompts/Aix0010-04.txt",
+      "image_file": "images/Aix0010-04.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "跨海大桥与朝阳的丝网海报，桥缆是弧形长线",
+      "must_preserve": [
+        "跨海大桥",
+        "朝阳"
+      ],
+      "prompt_file": "prompts/Aix0010-05.txt",
+      "image_file": "images/Aix0010-05.png"
+    },
+    {
+      "style_id": "Aix0010",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "复古汽车行驶在山谷公路上的丝网海报",
+      "must_preserve": [
+        "复古汽车",
+        "山谷公路"
+      ],
+      "prompt_file": "prompts/Aix0010-06.txt",
+      "image_file": "images/Aix0010-06.png"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0001",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "雨后老城区的巷口，湿石板路反着微光，远处一盏路灯亮着",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "湿石板路",
+      "路灯"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

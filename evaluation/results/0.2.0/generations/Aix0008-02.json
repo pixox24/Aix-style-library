@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：骑电动车的外卖骑手穿过霓虹路口，雨幕与车灯拉出光轨\n必须保留：外卖骑手；电动车\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+  "image_sha256": "cc41c449ee465444b237cc1b69abb8fc13625a1c8abd9789c36d0044f04a77a1",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

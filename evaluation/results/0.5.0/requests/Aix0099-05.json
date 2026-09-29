@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0099",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "灰白展厅中央站着一排不同角度的立方体人像",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "展厅",
+      "立方体人像"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

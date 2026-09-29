@@ -1,0 +1,24 @@
+{
+  "created": 1789965446,
+  "usage": {
+    "input_tokens": 131,
+    "output_tokens": 1584,
+    "total_tokens": 1715,
+    "input_tokens_details": {
+      "text_tokens": 131,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一根快燃尽的香烟落在深蓝的桌面\n必须保留：香烟；桌面\n视觉风格：美漫式粗犷线稿，笔触带颗粒感；宝蓝底与猩红烟雾的高对比双色；戏剧性光影，烟团自带晕光；对角构图，烟雾向上蔓延；颗粒平涂与笔触肌理\n画幅比例：2:3\n避免出现：柔和粉彩；写实照片；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/5cfd0905de596b27613567a578841e54.png"
+    }
+  ]
+}

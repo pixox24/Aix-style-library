@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0108",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "一只黑色花瓶中升起青绿色烟雾，地面有倒影",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "花瓶",
+      "青烟"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

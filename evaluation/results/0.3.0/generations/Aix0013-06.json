@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：轻轨高架桥下的城市街道，电车驶过\n必须保留：高架桥；街道\n视觉风格：数字扁平矢量风格，物体被概括为几何切面，边缘利落；冷蓝主调（天蓝／宝蓝／深靛）配暖橙红强调色，冷暖互补；硬边方向性光影，阴影无渐变、边缘锐利；低角度仰视透视，街道线条向上汇聚，建筑高耸；细节以几何符号概括：窗格、招牌、路牌均简化为色块\n画幅比例：2:3\n避免出现：柔和渐变与写实渲染；复杂脏乱纹理与笔触堆叠；乱码文字与伪文字招牌",
+  "image_sha256": "6c2f9b209a8fe633f11e3b37b54f8609b26227bd9c1206ebfbe4f20f7380863b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

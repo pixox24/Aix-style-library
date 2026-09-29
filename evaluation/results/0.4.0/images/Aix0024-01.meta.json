@@ -1,0 +1,24 @@
+{
+  "created": 1789887970,
+  "usage": {
+    "input_tokens": 144,
+    "output_tokens": 1584,
+    "total_tokens": 1728,
+    "input_tokens_details": {
+      "text_tokens": 144,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：冲浪者踏浪回旋的瞬间，水花在身后炸开\n必须保留：冲浪者；水花\n视觉风格：美漫式数字厚涂，硬边块面塑造体积与动势；深蓝底色配黑白高对比主体，黄白能量色点缀；戏剧性强光，高光集中在受光面；对角构图，强调速度与运动张力；干净利落的数字质感\n画幅比例：2:3\n避免出现：柔光细腻刻画；粉彩糖果色；乱码文字与伪文字",
+      "url": "https://gateway.change2pro.com/vendor/assets/c5fd6d5be70ece71d3039c698c34714f.png"
+    }
+  ]
+}

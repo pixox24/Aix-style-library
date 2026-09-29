@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：荒原中心的一团红色爆发与黑烟\n必须保留：荒原；爆发\n视觉风格：水墨与喷溅质感结合，边缘破碎；墨黑、猩红与乳白三色高对比；胸口与光环自发光；中心垂直爆发的动势；液体流动与破碎颗粒\n画幅比例：2:3\n避免出现：柔和粉彩；写实细节；乱码文字与伪文字",
+  "image_sha256": "ffb06bc871be193fc6bfad5a617529aad7c0ed34dd09c03fb6da2e1454dbf680",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

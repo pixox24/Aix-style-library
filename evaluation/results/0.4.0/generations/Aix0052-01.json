@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一只手从被窝伸出探向桌上的手机\n必须保留：手；手机\n视觉风格：数字平涂结合硬边线稿；深蓝调底配粉色光照与黑灰设备；手机屏幕的局部光照亮手部；特写对角构图，桌面元素铺陈；轻微数字噪点\n画幅比例：2:3\n避免出现：多光源；喧嚣场景；乱码文字与伪文字",
+  "image_sha256": "6c0c892771a39671eb000f346df584faa7368837364209e899dd36d9eb3ea090",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": null
+  }
+}

@@ -78,6 +78,8 @@ prepare：
 | `PATH_OUTSIDE_LIBRARY` | 4 | 停止并报告资源问题 |
 | `SCHEMA_UNSUPPORTED` | 4 | 告知需要匹配版本，不自改数据 |
 | `INDEX_MISSING` / `INDEX_STALE` | 4 | 告知维护者重建；编号调用仍可独立使用 |
+| `DEPENDENCY_MISSING` | 4 | 发布校验缺少开发依赖；由维护者安装，不自动安装 |
+| `RELEASE_NOT_READY` | 4 | 正式发布门槛或证据不完整，保留失败原因，不降为预览以绕过检查 |
 | `STYLE_NOT_APPLICABLE` | 5 | 说明核心冲突，请用户改需求或另选风格 |
 | `TARGET_UNSUPPORTED` | 5 | 回到已支持目标或解释限制，不伪造映射 |
 | `INTERNAL_ERROR` | 6 | 一次简明报告，不无限重试 |
@@ -96,8 +98,11 @@ prepare：
 | `GENERATION_UNAVAILABLE` | 用户要求出图但无可用工具 |
 | `RATIO_APPROXIMATED` | 工具只能近似尺寸，实际比例不同 |
 | `REPLACEMENT_SUGGESTED` | 弃用风格给出已登记替代，仍需用户确认 |
+| `PREVIEW_ONLY` | 仅通过预览发布校验，未认证真实出图或正式质量 |
 
 警告不能掩盖应返回 error 的情况。
+
+维护命令的完整检查、预览/正式版本区分和证据格式见 `release.md`。`validate --scope all` 会核对完整索引，修改数据后先由维护者运行 `build-index`。坏库元数据返回 `SCHEMA_UNSUPPORTED`，meta.library_version 为 null；未知子命令在响应中使用 operation=unknown。
 
 ## 降级
 

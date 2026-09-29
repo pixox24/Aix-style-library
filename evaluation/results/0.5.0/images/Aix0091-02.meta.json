@@ -1,0 +1,24 @@
+{
+  "created": 1790535778,
+  "usage": {
+    "input_tokens": 146,
+    "output_tokens": 1584,
+    "total_tokens": 1730,
+    "input_tokens_details": {
+      "text_tokens": 146,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：闭眼演奏者的胸口升起一束彩色光谱\n必须保留：演奏者；光谱\n视觉风格：扁平矢量剪影与锐利光束色块结合；深黑主体对比红橙蓝白高饱和光谱；居中对称肖像，光束从核心垂直穿出；核心区域过曝发光，外部保持纯暗；光束边缘干净，内部可带少量颗粒\n画幅比例：2:3\n避免出现：复杂背景和丰富道具；柔和低对比光；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/6904886e9f7d2c2ac057c4dab3ed2378.png"
+    }
+  ]
+}

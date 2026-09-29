@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一枚指南针悬在黑色中心，彩虹碎片从周围射出\n必须保留：指南针；彩虹碎片\n视觉风格：狂野数字厚涂，碎片和笔触沿放射方向运动；黑色空间中红绿蓝紫高饱和彩光集中爆发；中心透视和放射结构把所有动势拉向原点；中心白光最亮，彩色光晕向外递减；粗细混合笔触、粒子碎片和光雾\n画幅比例：2:3\n避免出现：静态单色平涂；均匀无焦点的渐变；乱码文字与伪文字",
+  "image_sha256": "d1149bf7c7f0d8a29c6ada4704f2c11ff341f9b86d52ffe3484f362e814096d0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 42.8
+  }
+}

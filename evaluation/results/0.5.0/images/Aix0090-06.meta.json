@@ -1,0 +1,24 @@
+{
+  "created": 1790535688,
+  "usage": {
+    "input_tokens": 157,
+    "output_tokens": 1584,
+    "total_tokens": 1741,
+    "input_tokens_details": {
+      "text_tokens": 157,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色水面上漂浮着一座冷蓝色极简桥体\n必须保留：黑色水面；桥体\n视觉风格：极简三维渲染或数字造型，几何边缘精准；纯黑背景与冷蓝灰主体，饱和色被严格压低；小型几何体置于大面积黑场，留白成为结构；单一上方或侧方聚光，阴影轮廓清晰；光滑陶瓷、金属或石材般的冷质感\n画幅比例：2:3\n避免出现：暖色复杂场景；粗糙手绘笔触；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/130cc75d63d2780a4d5b0afc8611a3bf.png"
+    }
+  ]
+}

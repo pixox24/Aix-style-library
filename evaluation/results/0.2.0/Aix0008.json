@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0008",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-19",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0008.md",
+  "samples": [
+    {
+      "case_id": "Aix0008-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：雨夜街头，一位撑着透明雨伞的行人走过霓虹招牌下，路面湿润反光\n必须保留：撑伞行人；霓虹招牌\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，色彩对比与反光质感极佳，无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-01.json"
+    },
+    {
+      "case_id": "Aix0008-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：骑电动车的外卖骑手穿过霓虹路口，雨幕与车灯拉出光轨\n必须保留：外卖骑手；电动车\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，元素完整，文字清晰无乱码，无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-02.json"
+    },
+    {
+      "case_id": "Aix0008-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：雨夜中的日式拉面摊，暖黄灯箱与升腾的蒸汽\n必须保留：拉面摊；蒸汽\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-03.json"
+    },
+    {
+      "case_id": "Aix0008-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：一台红色自动贩卖机立在霓虹小巷里，机身湿漉漉反光\n必须保留：贩卖机；霓虹小巷\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-04.json"
+    },
+    {
+      "case_id": "Aix0008-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：雨夜中的过街天桥，霓虹倒影铺满湿滑的台阶\n必须保留：天桥；霓虹倒影\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容完整无瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-05.json"
+    },
+    {
+      "case_id": "Aix0008-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：霓虹小巷尽头的电话亭，细雨斜织，粉色灯牌\n必须保留：电话亭；粉色灯牌\n视觉风格：摄影式夜晚街拍，真实城市质感；青蓝夜色与品红暖霓虹强对比，湿地面镜面反光；霓虹招牌与橱窗的局部高光，暗部深沉有层次；夜景颗粒与轻微镜头光晕\n画幅比例：2:3\n避免出现：日光场景与明亮蓝天；塑料感HDR与过度磨皮",
+      "image_path": "results/0.2.0/images/Aix0008-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容元素完整，无可见瑕疵。",
+      "generation_ref": "results/0.2.0/generations/Aix0008-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的 120 张全量视觉验收结论。"
+}

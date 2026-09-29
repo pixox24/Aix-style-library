@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0108",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "无人的室内走廊里，青烟从地面升向一个黑色圆洞",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "走廊",
+      "黑色圆洞"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

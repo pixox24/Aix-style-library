@@ -1,0 +1,24 @@
+{
+  "created": 1789825460,
+  "usage": {
+    "input_tokens": 143,
+    "output_tokens": 1584,
+    "total_tokens": 1727,
+    "input_tokens_details": {
+      "text_tokens": 143,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：撑着伞在雨中奔跑的小女孩，裙摆飞扬\n必须保留：小女孩；雨伞\n视觉风格：黑白墨线插画，线条精细克制；黑白灰为主，全画仅一处低饱和点缀色；装饰性排线、弧线与重复线纹丰富暗部层次；大面积留白，主体偏置，画面疏朗有呼吸感\n画幅比例：2:3\n避免出现：高饱和多色与荧光色；3D光影与厚重色块堆叠",
+      "url": "https://gateway.change2pro.com/vendor/assets/7131fca308dda9f98d65c7db42439710.png"
+    }
+  ]
+}
