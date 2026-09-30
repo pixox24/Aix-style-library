@@ -1,0 +1,24 @@
+{
+  "created": 1790660617,
+  "usage": {
+    "input_tokens": 200,
+    "output_tokens": 1584,
+    "total_tokens": 1784,
+    "input_tokens_details": {
+      "text_tokens": 200,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在无名街巷中，一个人物以清晰轮廓面对黑白伞影与排线雨幕，保持黑白高对比，表现孤独侦行与未知案件。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f0e5377721194d61e0cf5488f8070018.png"
+    }
+  ]
+}

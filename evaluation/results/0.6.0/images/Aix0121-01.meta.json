@@ -1,0 +1,24 @@
+{
+  "created": 1790654949,
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 1584,
+    "total_tokens": 1782,
+    "input_tokens_details": {
+      "text_tokens": 198,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在空旷小剧场中，一个人物以清晰轮廓面对巨大三角光束，保持黑黄二色，表现微小个体与庇护之光。\n必须保留：黑黄二色；巨大三角光形\n视觉风格：硬边矢量平涂，轮廓简洁，避免写实毛发和复杂背景。；深黑与亮黄形成近乎二色的极端对比。；小尺度主体位于光束底部，三角形形成从上向下的压迫与庇护。；单一大面积光形，无体积光细节和多光源。；纯净色面，可加入极轻的印刷颗粒保持平面感。\n画幅比例：2:3\n避免出现：丰富渐变光效；写实舞台设备；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/053edf68887aa29ce9847b1be57d6047.png"
+    }
+  ]
+}

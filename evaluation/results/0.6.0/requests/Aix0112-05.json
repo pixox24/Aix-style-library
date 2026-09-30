@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0112",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "远景以多首烟雾头部作为主结构，采用深蓝烟雾的构图秩序，把社会面具与内心恶魔转译成环境叙事。",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "深蓝烟雾",
+      "白黑冷调"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

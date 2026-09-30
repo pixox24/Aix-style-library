@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0139",
+    "style_name": "抗光长影",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0139/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：手电筒被举手与放射长影重新组织成异常视觉核心，背景保持简洁并表达个体抗拒光明。\n必须保留：黄黑主调；放射长影\n视觉风格：硬边剪影与几何放射线条，整体保持海报式平面。；亮黄背景、纯黑主体和少量紫色形成有限高对比。；手势位于光源前方，长影向四周放射并构成中心压力。；背光均匀而直接，影子采用图形化边缘而非真实投影。；平滑色面配极轻印刷颗粒。\n画幅比例：2:3\n避免出现：写实太阳光晕；复杂背景物件；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0139",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "675c3352133ed9f1dd728e6d79394de1d1f13691d0df16d2c098a6cbb5e2aa66"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

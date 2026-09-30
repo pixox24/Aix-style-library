@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0152",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "在青绿色公路边中，一个人物以清晰轮廓面对车辆、红日与电线，保持青绿红紫，表现旅行愿望与停滞时刻。",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "青绿红紫",
+      "横线与圆日"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

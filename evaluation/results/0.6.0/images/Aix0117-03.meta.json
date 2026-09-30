@@ -1,0 +1,24 @@
+{
+  "created": 1790654022,
+  "usage": {
+    "input_tokens": 191,
+    "output_tokens": 1584,
+    "total_tokens": 1775,
+    "input_tokens_details": {
+      "text_tokens": 191,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：电池被蓝黄能量柱重新组织成异常视觉核心，背景保持简洁并表达沉稳外壳与灵感爆发。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/7a479c183afdc5e1fd79e1ced323b7e6.png"
+    }
+  ]
+}

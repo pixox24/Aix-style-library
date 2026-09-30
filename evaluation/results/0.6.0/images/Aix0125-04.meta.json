@@ -1,0 +1,24 @@
+{
+  "created": 1790656057,
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 1584,
+    "total_tokens": 1780,
+    "input_tokens_details": {
+      "text_tokens": 196,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：蓝色雨靴作为孤立日常物件置于安静水族馆的构图中，使用透明水箱与气泡制造隐喻。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/ecabbe6c2758c6bc178260f15b09fb92.png"
+    }
+  ]
+}

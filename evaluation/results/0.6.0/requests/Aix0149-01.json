@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0149",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "在高楼雨街中，一个人物以清晰轮廓面对巨大雨伞与青橙城市，保持青绿锈橙，表现开放天空与垂直压迫。",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "青绿锈橙",
+      "伞的对角线"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

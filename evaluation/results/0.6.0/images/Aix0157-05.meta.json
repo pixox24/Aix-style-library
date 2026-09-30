@@ -1,0 +1,24 @@
+{
+  "created": 1790664436,
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 1584,
+    "total_tokens": 1780,
+    "input_tokens_details": {
+      "text_tokens": 196,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以一点透视夜路作为主结构，采用深蓝冷调的构图秩序，把孤独驾驶与远方希望转译成环境叙事。\n必须保留：深蓝冷调；单一消失点\n视觉风格：氛围数字绘画与简化道路几何结合，远景保持清晰方向。；深蓝和蓝黑占主导，白蓝车灯作为少量远方焦点。；道路边线收束到单一消失点，形成持续向前的纵深。；低照度冷光，远灯微亮但不制造赛博霓虹。；细腻颗粒、湿润路面暗反光和轻微雾气。\n画幅比例：2:3\n避免出现：多色城市霓虹；交通文字标牌；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/605ddadb8e32dd6753fcfd70eee8c975.png"
+    }
+  ]
+}

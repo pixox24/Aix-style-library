@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0140",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0140.md",
+  "samples": [
+    {
+      "case_id": "Aix0140-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深蓝走廊中，一个人物以清晰轮廓面对门缝与条纹光，保持深蓝橙光，表现童年外表与门后秘密。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-01.json"
+    },
+    {
+      "case_id": "Aix0140-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与门缝与条纹光形成强烈的方向或尺度关系，留出负空间，延续框中框。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-02.json"
+    },
+    {
+      "case_id": "Aix0140-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧门锁被门缝与条纹光重新组织成异常视觉核心，背景保持简洁并表达童年外表与门后秘密。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，内容要求全部保留，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-03.json"
+    },
+    {
+      "case_id": "Aix0140-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：折叠百叶作为孤立日常物件置于深蓝走廊的构图中，使用门缝与条纹光制造隐喻。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，冷暖对比与条纹光切割到位，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-04.json"
+    },
+    {
+      "case_id": "Aix0140-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以门缝与条纹光作为主结构，采用深蓝橙光的构图秩序，把童年外表与门后秘密转译成环境叙事。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，冷暖对比与条纹光表现极佳，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-05.json"
+    },
+    {
+      "case_id": "Aix0140-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深蓝走廊场景保留门缝与条纹光与框中框的视觉张力，避免文字和多余装饰。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0140-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现深蓝橙光与框中框，条纹光等距切割，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0140-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

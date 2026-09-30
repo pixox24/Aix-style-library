@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以水面切过头部作为主结构，采用蓝白水波的构图秩序，把陆地身体与水下意识转译成环境叙事。\n必须保留：蓝白水波；水平切线\n视觉风格：水彩感数字绘画，流线柔软，人物与水面边界清楚。；蓝色和白色为主，加入极少灰青建立水下深度。；水平水面切过人物头部，波纹向四周扩散形成静态节奏。；柔和顶光穿过水面，不使用强烈水下电影光。；半透明水纹、细颗粒和纸面晕染。\n画幅比例：2:3\n避免出现：浑浊恐怖水底；装饰性可读文字；乱码文字与伪文字",
+  "image_sha256": "441fc380ef5b2d7f821f8c4f05062ab3cec9a3e74ef5c2acbdfa56dd492135ff",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.8
+  }
+}

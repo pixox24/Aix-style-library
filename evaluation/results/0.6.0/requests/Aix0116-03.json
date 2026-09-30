@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0116",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "蓝色台灯被向上烟雾头发重新组织成异常视觉核心，背景保持简洁并表达实体面孔与抽象思绪。",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "淡蓝留白",
+      "柔和上升流体"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

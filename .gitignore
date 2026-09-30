@@ -5,3 +5,17 @@ __pycache__/
 *.tmp
 index.*.tmp
 .DS_Store
+
+# Internal reference originals are not redistribution assets; retain metadata.
+evaluation/sources/**/*.png
+evaluation/sources/**/*.jpg
+evaluation/sources/**/*.jpeg
+evaluation/sources/**/*.webp
+evaluation/sources/**/*.gif
+evaluation/sources/**/*.tif
+evaluation/sources/**/*.tiff
+evaluation/sources/**/*.avif
+.venv/
+
+# Separate private repository; not part of this project's checkout.
+/web/

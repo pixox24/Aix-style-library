@@ -1,0 +1,22 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "style_id": "Aix0159",
+  "style_version": null,
+  "mode": "generate",
+  "target": "generic-text-v1",
+  "strength": "balanced",
+  "intent": {
+    "description": "在空旷站台中，一个人物以清晰轮廓面对深绿门框与两人，保持深绿留白，表现相遇瞬间与都市距离。",
+    "aspect_ratio": "2:3",
+    "text_literals": [],
+    "must_preserve": [
+      "深绿留白",
+      "矩形框中框"
+    ]
+  },
+  "resolution": {
+    "exclude_features": [],
+    "exclude_avoid": []
+  }
+}

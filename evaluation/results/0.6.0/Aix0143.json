@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0143",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0143.md",
+  "samples": [
+    {
+      "case_id": "Aix0143-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深蓝小剧场中，一个人物以清晰轮廓面对圆形青色聚光，保持深蓝青光，表现舞台中心与孤独。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合所有核心特征与必须保留元素，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-01.json"
+    },
+    {
+      "case_id": "Aix0143-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与圆形青色聚光形成强烈的方向或尺度关系，留出负空间，延续圆形切割。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合风格要求，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-02.json"
+    },
+    {
+      "case_id": "Aix0143-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：一支清晰可辨的立式麦克风位于圆形青色聚光中心，被聚光组织成唯一的视觉核心，背景保持简洁并表达舞台中心与孤独。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，主体完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-03.json"
+    },
+    {
+      "case_id": "Aix0143-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：空椅子作为孤立日常物件置于深蓝小剧场的构图中，使用圆形青色聚光制造隐喻。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容高度契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-04.json"
+    },
+    {
+      "case_id": "Aix0143-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以圆形青色聚光作为主结构，采用深蓝青光的构图秩序，把舞台中心与孤独转译成环境叙事。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美契合风格特征，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-05.json"
+    },
+    {
+      "case_id": "Aix0143-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深蓝小剧场场景保留圆形青色聚光与圆形切割的视觉张力，避免文字和多余装饰。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0143-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0143-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

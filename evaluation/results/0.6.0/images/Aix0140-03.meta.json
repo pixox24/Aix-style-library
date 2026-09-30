@@ -1,0 +1,24 @@
+{
+  "created": 1790659591,
+  "usage": {
+    "input_tokens": 184,
+    "output_tokens": 1584,
+    "total_tokens": 1768,
+    "input_tokens_details": {
+      "text_tokens": 184,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：旧门锁被门缝与条纹光重新组织成异常视觉核心，背景保持简洁并表达童年外表与门后秘密。\n必须保留：深蓝橙光；框中框\n视觉风格：清晰矢量平涂，条纹光保持等距节奏，轮廓干净。；深蓝冷底与橙色暖光形成单一冷暖互补。；门框形成框中框，条纹光横向切过人物，制造遮蔽层。；条纹光是唯一主光源，亮暗切割平整而不写实。；平滑色面和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：复杂室内陈设；多色霓虹；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/1647ffb01163fb03e8256dda80dd7311.png"
+    }
+  ]
+}

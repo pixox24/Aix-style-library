@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0141",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0141.md",
+  "samples": [
+    {
+      "case_id": "Aix0141-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在无边紫色大厅中，一个人物以清晰轮廓面对巨眼背景与微小人影，保持紫黑白，表现个体与全景监视。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-01.json"
+    },
+    {
+      "case_id": "Aix0141-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与巨眼背景与微小人影形成强烈的方向或尺度关系，留出负空间，延续巨物与微小比例。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，紫黑白配色与巨物微小比例准确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-02.json"
+    },
+    {
+      "case_id": "Aix0141-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：紫色镜片被巨眼背景与微小人影重新组织成异常视觉核心，背景保持简洁并表达个体与全景监视。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-03.json"
+    },
+    {
+      "case_id": "Aix0141-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：圆形天窗作为孤立日常物件置于无边紫色大厅的构图中，使用巨眼背景与微小人影制造隐喻。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，比例夸张，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-04.json"
+    },
+    {
+      "case_id": "Aix0141-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以巨眼背景与微小人影作为主结构，采用紫黑白的构图秩序，把个体与全景监视转译成环境叙事。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合紫黑白配色与巨物微小比例，线稿色块结合良好，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-05.json"
+    },
+    {
+      "case_id": "Aix0141-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个无边紫色大厅场景保留巨眼背景与微小人影与巨物与微小比例的视觉张力，避免文字和多余装饰。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0141-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，比例张力足，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0141-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

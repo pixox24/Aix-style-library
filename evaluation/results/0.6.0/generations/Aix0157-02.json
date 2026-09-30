@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与一点透视夜路形成强烈的方向或尺度关系，留出负空间，延续单一消失点。\n必须保留：深蓝冷调；单一消失点\n视觉风格：氛围数字绘画与简化道路几何结合，远景保持清晰方向。；深蓝和蓝黑占主导，白蓝车灯作为少量远方焦点。；道路边线收束到单一消失点，形成持续向前的纵深。；低照度冷光，远灯微亮但不制造赛博霓虹。；细腻颗粒、湿润路面暗反光和轻微雾气。\n画幅比例：2:3\n避免出现：多色城市霓虹；交通文字标牌；乱码文字与伪文字",
+  "image_sha256": "2d82e2bd5ebcf24645ddd295df12c1773f32344c9fabf82b91357f57663a86e7",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.0
+  }
+}

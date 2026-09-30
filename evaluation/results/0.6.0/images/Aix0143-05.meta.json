@@ -1,0 +1,24 @@
+{
+  "created": 1790660505,
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 1584,
+    "total_tokens": 1777,
+    "input_tokens_details": {
+      "text_tokens": 193,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以圆形青色聚光作为主结构，采用深蓝青光的构图秩序，把舞台中心与孤独转译成环境叙事。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/47afc7227addae057d5968db1694b650.png"
+    }
+  ]
+}

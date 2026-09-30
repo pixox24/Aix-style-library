@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：在无名街巷中，一个人物以清晰轮廓面对黑白伞影与排线雨幕，保持黑白高对比，表现孤独侦行与未知案件。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+  "image_sha256": "28f607268c77f43792484c54aadf1640c9e49867012bdd108efa02d1ad1c4a4c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 41.7
+  }
+}

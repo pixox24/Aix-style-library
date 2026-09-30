@@ -1,0 +1,24 @@
+{
+  "created": 1790656793,
+  "usage": {
+    "input_tokens": 199,
+    "output_tokens": 1584,
+    "total_tokens": 1783,
+    "input_tokens_details": {
+      "text_tokens": 199,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以楼梯与重复面孔作为主结构，采用蓝黑白的构图秩序，把孤立个体与群体凝视转译成环境叙事。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/a1d6398f4c550e0ce620dca9482f65a6.png"
+    }
+  ]
+}

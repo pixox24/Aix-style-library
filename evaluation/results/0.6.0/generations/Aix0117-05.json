@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以蓝黄能量柱作为主结构，采用深蓝剪影的构图秩序，把沉稳外壳与灵感爆发转译成环境叙事。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+  "image_sha256": "36260bed65d5b77dbed0fd8d7ecb32346c5bc1c8fe9ef4246ba54851e898bf29",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 31.3
+  }
+}

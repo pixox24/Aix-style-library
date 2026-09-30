@@ -1,0 +1,24 @@
+{
+  "created": 1790661631,
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 1584,
+    "total_tokens": 1773,
+    "input_tokens_details": {
+      "text_tokens": 189,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：旧徽章作为孤立日常物件置于无灯屋顶的构图中，使用风衣剪影与抽象徽记制造隐喻。\n必须保留：黑白灰；帽檐侧光\n视觉风格：粗线条漫画渲染与概括明暗结合，避免复制具体超级英雄标志。；黑白灰为主，徽记可用少量冷白或灰蓝作焦点。；低角度人物占据画面中心，背景留黑制造未知空间。；单一侧光勾出帽檐和肩线，不加入炫目的城市光效。；墨线、块面阴影和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：现成品牌标志；写实肌肉细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/7b3a290d669c7e62dbb7ff9ac351a61b.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0124",
+    "style_name": "巨面切柱",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0124/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：一个橙色荒原场景保留巨面与垂直黑柱与黑柱切割的视觉张力，避免文字和多余装饰。\n必须保留：蓝紫巨物；黑柱切割\n视觉风格：硬边矢量色块结合漫画式线条，建筑柱保持纯黑剪影。；蓝紫冷色面孔对橙米暖天空，黑柱作为强骨架。；垂直切割与顶部微小人物构成巨物/小人的极端尺度关系。；平面光配局部柔和渐变，避免写实皮肤和建筑反光。；低密度印刷噪点与干净色面并存。\n画幅比例：2:3\n避免出现：真实五官特写；均匀小物件铺满画面；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0124",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "3b90b77008251788bed8ebee0cdf2c9db050cad9e69bdab5f0082076e965dfe0"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

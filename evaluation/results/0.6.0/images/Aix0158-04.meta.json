@@ -1,0 +1,24 @@
+{
+  "created": 1790664852,
+  "usage": {
+    "input_tokens": 187,
+    "output_tokens": 1584,
+    "total_tokens": 1771,
+    "input_tokens_details": {
+      "text_tokens": 187,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：木椅作为孤立日常物件置于深青晚间房间的构图中，使用红烟与静坐人物制造隐喻。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f9ab6e3e6bfbf91d16fe6b78f82318a5.png"
+    }
+  ]
+}

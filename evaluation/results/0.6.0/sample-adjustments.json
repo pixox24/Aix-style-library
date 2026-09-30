@@ -1,0 +1,20 @@
+[
+  {
+    "style_id": "Aix0134",
+    "case": "04",
+    "reason": "Reviewer flagged a missing/unclear core object element; the object description was clarified (plan-level fix, not a moderation rewrite) and the sample was regenerated.",
+    "old_description": "白色浮标作为孤立日常物件置于安静室内水池的构图中，使用水面切过头部制造隐喻。",
+    "new_description": "白色浮标半没入安静室内水池，水平水线清晰切过浮标上缘，波纹向四周扩散形成静态节奏。",
+    "old_prompt_sha256": "dc4f5678c1b8d4a3120e8ead0b4feb9ef9d10816b5367b4e94b00f3e2e36858f",
+    "new_prompt_sha256": "1e63151b71b4766feb03b7e6887b2cd08d5644f7c46d765e23d4c3dba66c3dc8"
+  },
+  {
+    "style_id": "Aix0143",
+    "case": "03",
+    "reason": "Reviewer flagged a missing/unclear core object element; the object description was clarified (plan-level fix, not a moderation rewrite) and the sample was regenerated.",
+    "old_description": "麦克风被圆形青色聚光重新组织成异常视觉核心，背景保持简洁并表达舞台中心与孤独。",
+    "new_description": "一支清晰可辨的立式麦克风位于圆形青色聚光中心，被聚光组织成唯一的视觉核心，背景保持简洁并表达舞台中心与孤独。",
+    "old_prompt_sha256": "439613e37402f1452cea595133a4cc13f33c4a3aaed2df83e46a65cf1a5e3e4c",
+    "new_prompt_sha256": "256457d1a08d363b53ea84982e202a2553cf7c47a5c60d8f9f5f1831646f079b"
+  }
+]

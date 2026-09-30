@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0128",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0128.md",
+  "samples": [
+    {
+      "case_id": "Aix0128-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在无出口楼梯间中，一个人物以清晰轮廓面对楼梯与重复面孔，保持蓝黑白，表现孤立个体与群体凝视。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-01.json"
+    },
+    {
+      "case_id": "Aix0128-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与楼梯与重复面孔形成强烈的方向或尺度关系，留出负空间，延续重复面孔节奏。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现三色关系与重复面孔包围节奏，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-02.json"
+    },
+    {
+      "case_id": "Aix0128-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧相框被楼梯与重复面孔重新组织成异常视觉核心，背景保持简洁并表达孤立个体与群体凝视。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，三色关系与包围节奏准确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-03.json"
+    },
+    {
+      "case_id": "Aix0128-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：楼梯扶手作为孤立日常物件置于无出口楼梯间的构图中，使用楼梯与重复面孔制造隐喻。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，三色关系与包围式节奏完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-04.json"
+    },
+    {
+      "case_id": "Aix0128-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以楼梯与重复面孔作为主结构，采用蓝黑白的构图秩序，把孤立个体与群体凝视转译成环境叙事。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现蓝黑白三色与重复面孔包围节奏，颗粒质感佳，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-05.json"
+    },
+    {
+      "case_id": "Aix0128-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个无出口楼梯间场景保留楼梯与重复面孔与重复面孔节奏的视觉张力，避免文字和多余装饰。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0128-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "三色关系明确，重复面孔节奏与纵深感完美，质感达标，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0128-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790657302,
+  "usage": {
+    "input_tokens": 220,
+    "output_tokens": 1584,
+    "total_tokens": 1804,
+    "input_tokens_details": {
+      "text_tokens": 220,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在蓝色工业走廊中，一个人物以清晰轮廓面对屏幕头部与火焰，保持蓝红黄高饱和，表现冷机器与热烈燃烧。\n必须保留：蓝红黄高饱和；方屏与火焰\n视觉风格：波普式硬边数字插画，屏幕和火焰用概括几何形而非写实材质。；冷蓝背景对红衣与白黄火焰，形成三组高饱和焦点。；方形屏幕的稳定几何与火焰向上动势形成冷暖结构冲突。；屏幕自发亮但不使用复杂反射，火焰以色块表达热度。；干净色面加轻微印刷颗粒，避免金属塑料质感。\n画幅比例：2:3\n避免出现：真实电子产品广告；烟雾遮满主体；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/be530148e8437699b142e603dd19385e.png"
+    }
+  ]
+}

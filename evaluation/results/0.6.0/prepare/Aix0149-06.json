@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0149",
+    "style_name": "青橙伞影",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0149/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：一个高楼雨街场景保留巨大雨伞与青橙城市与伞的对角线的视觉张力，避免文字和多余装饰。\n必须保留：青绿锈橙；伞的对角线\n视觉风格：墨线漫画与蚀刻排线结合，伞沿和建筑保持硬朗轮廓。；青绿冷色与锈橙暖色形成强互补，阴影偏深青或深褐。；伞的对角线与建筑垂直线冲突，人物位于两者交界。；冷天空漫射光配暖建筑局部光，不使用摄影级高光。；密集排线、旧纸颗粒和雨尘喷溅。\n画幅比例：2:3\n避免出现：清晰品牌文字；柔焦浪漫摄影；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0149",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "f757ecb9de520cfb027ce851271fc4c49327c172c9140b094b4b4421a5cefe41"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

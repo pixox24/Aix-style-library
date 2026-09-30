@@ -1,0 +1,24 @@
+{
+  "created": 1790662734,
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 1584,
+    "total_tokens": 1778,
+    "input_tokens_details": {
+      "text_tokens": 194,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以房屋与红灯倒影作为主结构，采用青绿与一点红的构图秩序，把静水与孤独旅人转译成环境叙事。\n必须保留：青绿与一点红；水平对称\n视觉风格：细腻数字绘画与概括建筑结合，水面反射柔和但不摄影化。；青绿色环境配少量红色灯笼作为唯一暖色焦点。；水平水线建立上下对称，人物位于岸边作为尺度锚点。；低照度夜光与灯笼暖光并置，整体保持安静。；水面细波、柔颗粒和轻微旧画布质感。\n画幅比例：2:3\n避免出现：可读招牌文字；喧闹街景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/e1a1935faa0fe443862db521a7d1b49a.png"
+    }
+  ]
+}

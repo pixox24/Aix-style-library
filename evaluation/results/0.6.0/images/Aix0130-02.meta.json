@@ -1,0 +1,24 @@
+{
+  "created": 1790657124,
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 1584,
+    "total_tokens": 1782,
+    "input_tokens_details": {
+      "text_tokens": 198,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与头顶天空裂缝形成强烈的方向或尺度关系，留出负空间，延续细长裂缝。\n必须保留：米色留白；细长裂缝\n视觉风格：极简矢量线条与平面填色，裂缝边缘锐利而人物姿态稳定。；米色背景、深蓝黑人物和少量冷蓝裂光形成克制配色。；中心垂直轴从静坐身体延伸到天空裂口，留白承担呼吸。；几乎无光影，仅以裂缝的明暗和线条表达冲击。；平滑纸面与少量细颗粒，不加入写实云层。\n画幅比例：2:3\n避免出现：复杂风景细节；强烈爆炸特效；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/149a3af10ee5eb69cbe2a0e87948a7f7.png"
+    }
+  ]
+}

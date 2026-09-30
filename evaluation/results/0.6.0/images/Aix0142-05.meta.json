@@ -1,0 +1,24 @@
+{
+  "created": 1790660252,
+  "usage": {
+    "input_tokens": 188,
+    "output_tokens": 1584,
+    "total_tokens": 1772,
+    "input_tokens_details": {
+      "text_tokens": 188,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以发光门与双人剪影作为主结构，采用蓝紫暗部的构图秩序，把相逢与即将告别转译成环境叙事。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/fd27fdfbb716f8ea828ba8133a999b26.png"
+    }
+  ]
+}

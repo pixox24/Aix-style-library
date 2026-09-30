@@ -1,0 +1,24 @@
+{
+  "created": 1790665127,
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 1584,
+    "total_tokens": 1777,
+    "input_tokens_details": {
+      "text_tokens": 193,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：手提包作为孤立日常物件置于空旷站台的构图中，使用深绿门框与两人制造隐喻。\n必须保留：深绿留白；矩形框中框\n视觉风格：复古矢量平涂，人物形体简化，门框结构清楚而不复制现成标识。；深绿大面积底色配有限暖色人物和米白边框。；门框形成稳定矩形，双人物在同一框内形成微妙距离。；均匀站台平光，强调图形关系而非写实灯光。；轻微套印颗粒、旧纸纹理和简洁海报边缘。\n画幅比例：2:3\n避免出现：真实城市标牌文字；拥挤人群；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/58cf9ab2d13e247d377c14b6023c8108.png"
+    }
+  ]
+}

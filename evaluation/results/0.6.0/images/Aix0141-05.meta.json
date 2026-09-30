@@ -1,0 +1,24 @@
+{
+  "created": 1790659941,
+  "usage": {
+    "input_tokens": 193,
+    "output_tokens": 1584,
+    "total_tokens": 1777,
+    "input_tokens_details": {
+      "text_tokens": 193,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以巨眼背景与微小人影作为主结构，采用紫黑白的构图秩序，把个体与全景监视转译成环境叙事。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/db421675116065477c7f1da6bbd3fb58.png"
+    }
+  ]
+}

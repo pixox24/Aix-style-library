@@ -1,0 +1,24 @@
+{
+  "created": 1790660186,
+  "usage": {
+    "input_tokens": 181,
+    "output_tokens": 1584,
+    "total_tokens": 1765,
+    "input_tokens_details": {
+      "text_tokens": 181,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：盆栽作为孤立日常物件置于夜间庭院入口的构图中，使用发光门与双人剪影制造隐喻。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/3c8a8ec165f5cf98214cf3250ee2e32e.png"
+    }
+  ]
+}

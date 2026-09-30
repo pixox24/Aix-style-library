@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以巨大雨伞与青橙城市作为主结构，采用青绿锈橙的构图秩序，把开放天空与垂直压迫转译成环境叙事。\n必须保留：青绿锈橙；伞的对角线\n视觉风格：墨线漫画与蚀刻排线结合，伞沿和建筑保持硬朗轮廓。；青绿冷色与锈橙暖色形成强互补，阴影偏深青或深褐。；伞的对角线与建筑垂直线冲突，人物位于两者交界。；冷天空漫射光配暖建筑局部光，不使用摄影级高光。；密集排线、旧纸颗粒和雨尘喷溅。\n画幅比例：2:3\n避免出现：清晰品牌文字；柔焦浪漫摄影；乱码文字与伪文字",
+  "image_sha256": "0d1618b35b442ede84a115bd9df43b8b5d7c0e389432fc8ea5417200f8f30f5a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 48.7
+  }
+}

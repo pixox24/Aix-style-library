@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0111",
+    "style_name": "碎面星爆",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0111/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：远景以头部展开的几何群与悬浮球体作为主结构，采用米白侧脸的构图秩序，把外在平静与内在能量转译成环境叙事。\n必须保留：米白侧脸；红蓝焦点\n视觉风格：墨线与不透明平涂结合，实体轮廓柔和而展开边缘锐利不规则。；米白与深黑构成骨架，鲜红和亮蓝作为少量高饱和锚点。；紧凑侧面特写向左上对角线展开，黑色负空间承接几何群。；平静均匀的面部光与内部高对比色块并置。；纸张颗粒、干刷边缘和少量泼洒状流体纹理。\n画幅比例：2:3\n避免出现：写实身体细节与惊悚效果；柔和糖果色背景；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0111",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "3dc222506f8e1d29b92c32c108d21dc138fde4c53921e070eeb33e45b175e46d"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

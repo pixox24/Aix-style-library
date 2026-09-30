@@ -1,0 +1,24 @@
+{
+  "created": 1790662222,
+  "usage": {
+    "input_tokens": 211,
+    "output_tokens": 1584,
+    "total_tokens": 1795,
+    "input_tokens_details": {
+      "text_tokens": 211,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以巨大雨伞与青橙城市作为主结构，采用青绿锈橙的构图秩序，把开放天空与垂直压迫转译成环境叙事。\n必须保留：青绿锈橙；伞的对角线\n视觉风格：墨线漫画与蚀刻排线结合，伞沿和建筑保持硬朗轮廓。；青绿冷色与锈橙暖色形成强互补，阴影偏深青或深褐。；伞的对角线与建筑垂直线冲突，人物位于两者交界。；冷天空漫射光配暖建筑局部光，不使用摄影级高光。；密集排线、旧纸颗粒和雨尘喷溅。\n画幅比例：2:3\n避免出现：清晰品牌文字；柔焦浪漫摄影；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/c406b6390cc2a3bd499cf9ed4ee16038.png"
+    }
+  ]
+}

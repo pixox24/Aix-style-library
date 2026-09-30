@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：旧帽子作为孤立日常物件置于空旷灰色车站的构图中，使用烟雾黑球离首制造隐喻。\n必须保留：全灰度；垂直升腾\n视觉风格：柔和数字绘画，形体边缘轻微融化但人物姿态仍清楚。；黑白灰单色阶，依靠明度而非色相变化建立层次。；下方实体与上方脱离形体形成连续的垂直升腾路径。；低对比漫射光，亮部只用于托住烟雾边缘。；细腻雾化、柔颗粒和少量铅灰画布纹理。\n画幅比例：2:3\n避免出现：鲜艳彩色焦点；硬边信息图风；乱码文字与伪文字",
+  "image_sha256": "86ccf6204c7d4c128e151ad689fe3b9b2f410bb30ee1ae2d4bf70bf8b0dcde17",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 58.3
+  }
+}

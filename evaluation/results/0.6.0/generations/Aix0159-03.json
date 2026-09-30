@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：地铁门被深绿门框与两人重新组织成异常视觉核心，背景保持简洁并表达相遇瞬间与都市距离。\n必须保留：深绿留白；矩形框中框\n视觉风格：复古矢量平涂，人物形体简化，门框结构清楚而不复制现成标识。；深绿大面积底色配有限暖色人物和米白边框。；门框形成稳定矩形，双人物在同一框内形成微妙距离。；均匀站台平光，强调图形关系而非写实灯光。；轻微套印颗粒、旧纸纹理和简洁海报边缘。\n画幅比例：2:3\n避免出现：真实城市标牌文字；拥挤人群；乱码文字与伪文字",
+  "image_sha256": "4c3e090b684c092d6a75b8b0d50d919338474f836f60278a5601f1fdbea7b02f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 35.7
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790654720,
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 1584,
+    "total_tokens": 1778,
+    "input_tokens_details": {
+      "text_tokens": 194,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与烟雾黑球离首形成强烈的方向或尺度关系，留出负空间，延续垂直升腾。\n必须保留：全灰度；垂直升腾\n视觉风格：柔和数字绘画，形体边缘轻微融化但人物姿态仍清楚。；黑白灰单色阶，依靠明度而非色相变化建立层次。；下方实体与上方脱离形体形成连续的垂直升腾路径。；低对比漫射光，亮部只用于托住烟雾边缘。；细腻雾化、柔颗粒和少量铅灰画布纹理。\n画幅比例：2:3\n避免出现：鲜艳彩色焦点；硬边信息图风；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/b7ea4c240bbaf957c02b6083ba47ae7e.png"
+    }
+  ]
+}

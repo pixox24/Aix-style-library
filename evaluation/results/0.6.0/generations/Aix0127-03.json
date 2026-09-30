@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：墨水瓶被墨滴通向彩色漩涡重新组织成异常视觉核心，背景保持简洁并表达沉重混乱与精神转化。\n必须保留：黑色上升路径；红黄蓝终点\n视觉风格：平面数字插画，墨形硬边与彩涡圆形层次形成媒介对照。；蓝绿冷底配红黄蓝小范围彩色终点，黑色贯穿两者。；从下向上收束的垂直路径，把暗部引到顶部旋涡。；平面光，彩色终点承担焦点而不做真实发光。；墨滴边缘略粗糙，色块保持干净并带轻微颗粒。\n画幅比例：2:3\n避免出现：无限彩虹渐变；写实烟雾摄影；乱码文字与伪文字",
+  "image_sha256": "9c48f16ef1e79ef3e3d2488e21585363ea6ce7d8137ebc1581696bb4f12ef1ef",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.8
+  }
+}

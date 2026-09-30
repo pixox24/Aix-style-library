@@ -1,0 +1,24 @@
+{
+  "created": 1790652947,
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 1584,
+    "total_tokens": 1798,
+    "input_tokens_details": {
+      "text_tokens": 214,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以多首烟雾头部作为主结构，采用深蓝烟雾的构图秩序，把社会面具与内心恶魔转译成环境叙事。\n必须保留：深蓝烟雾；白黑冷调\n视觉风格：水彩式数字晕染与概括形体结合，烟雾边缘柔软但轮廓仍可读。；白与深蓝黑形成低彩度对照，局部冷灰用于分层。；人物居中、头部向上膨胀，顶部重量压住下方稳定姿态。；柔光包住人物，烟雾内部以深浅层次制造隐约体积。；半透明水彩叠染、细颗粒和轻微纸面雾感。\n画幅比例：2:3\n避免出现：可爱卡通表情；硬朗金属写实；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/5178caa4b9d4585ad3eb21327b1e776d.png"
+    }
+  ]
+}

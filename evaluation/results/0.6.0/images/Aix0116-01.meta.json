@@ -1,0 +1,24 @@
+{
+  "created": 1790653720,
+  "usage": {
+    "input_tokens": 202,
+    "output_tokens": 1584,
+    "total_tokens": 1786,
+    "input_tokens_details": {
+      "text_tokens": 202,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在清晨空房中，一个人物以清晰轮廓面对向上烟雾头发，保持淡蓝留白，表现实体面孔与抽象思绪。\n必须保留：淡蓝留白；柔和上升流体\n视觉风格：柔边数字绘画与细线轮廓结合，烟发呈流体而非写实头发。；淡蓝、灰白和黑色构成低饱和单色关系。；侧脸置于下方，烟发沿垂直方向升腾并形成轻盈负空间。；均匀冷光，烟雾边缘用渐变而非强烈高光。；细腻雾化、少量颗粒和纸面留白。\n画幅比例：2:3\n避免出现：高饱和霓虹；硬朗机械质感；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/7c71a740256b645c02b7b86df314f696.png"
+    }
+  ]
+}

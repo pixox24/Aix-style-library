@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个几何山坡场景保留红坡、绿树与坐姿与斜坡与垂直树的视觉张力，避免文字和多余装饰。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+  "image_sha256": "141f87a5247a24bbaa10f383eab5bdeaef815f8ac04f4d71cd4fb2e405673991",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.2
+  }
+}

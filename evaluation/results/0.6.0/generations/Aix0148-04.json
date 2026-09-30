@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：屋顶天线作为孤立日常物件置于深蓝城市屋顶的构图中，使用屋顶与远城灯火制造隐喻。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+  "image_sha256": "0ad6de84765690064161599ac9c3064a2a3a365984e8e9dbdce1326ebb6f58f2",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 89.9
+  }
+}

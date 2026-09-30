@@ -1,0 +1,24 @@
+{
+  "created": 1790657655,
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 1584,
+    "total_tokens": 1773,
+    "input_tokens_details": {
+      "text_tokens": 189,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：单人椅被红室与蓝窗光重新组织成异常视觉核心，背景保持简洁并表达瘫坐身体与躁动环境。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/5504e487f6619396be246a724567e1ab.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790664349,
+  "usage": {
+    "input_tokens": 194,
+    "output_tokens": 1584,
+    "total_tokens": 1778,
+    "input_tokens_details": {
+      "text_tokens": 194,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：路边反光牌作为孤立日常物件置于深蓝郊外公路的构图中，使用一点透视夜路制造隐喻。\n必须保留：深蓝冷调；单一消失点\n视觉风格：氛围数字绘画与简化道路几何结合，远景保持清晰方向。；深蓝和蓝黑占主导，白蓝车灯作为少量远方焦点。；道路边线收束到单一消失点，形成持续向前的纵深。；低照度冷光，远灯微亮但不制造赛博霓虹。；细腻颗粒、湿润路面暗反光和轻微雾气。\n画幅比例：2:3\n避免出现：多色城市霓虹；交通文字标牌；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/a608e946a5da1a594c74d1aff25e9f70.png"
+    }
+  ]
+}

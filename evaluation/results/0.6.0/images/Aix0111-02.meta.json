@@ -1,0 +1,24 @@
+{
+  "created": 1790652576,
+  "usage": {
+    "input_tokens": 219,
+    "output_tokens": 1584,
+    "total_tokens": 1803,
+    "input_tokens_details": {
+      "text_tokens": 219,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与头部展开的几何群与悬浮球体形成强烈的方向或尺度关系，留出负空间，延续红蓝焦点。\n必须保留：米白侧脸；红蓝焦点\n视觉风格：墨线与不透明平涂结合，实体轮廓柔和而展开边缘锐利不规则。；米白与深黑构成骨架，鲜红和亮蓝作为少量高饱和锚点。；紧凑侧面特写向左上对角线展开，黑色负空间承接几何群。；平静均匀的面部光与内部高对比色块并置。；纸张颗粒、干刷边缘和少量泼洒状流体纹理。\n画幅比例：2:3\n避免出现：写实身体细节与惊悚效果；柔和糖果色背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/08f57abd3bcf9f0c952d3ff6ee9d6b96.png"
+    }
+  ]
+}

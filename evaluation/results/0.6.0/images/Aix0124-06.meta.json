@@ -1,0 +1,24 @@
+{
+  "created": 1790655874,
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 1584,
+    "total_tokens": 1780,
+    "input_tokens_details": {
+      "text_tokens": 196,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个橙色荒原场景保留巨面与垂直黑柱与黑柱切割的视觉张力，避免文字和多余装饰。\n必须保留：蓝紫巨物；黑柱切割\n视觉风格：硬边矢量色块结合漫画式线条，建筑柱保持纯黑剪影。；蓝紫冷色面孔对橙米暖天空，黑柱作为强骨架。；垂直切割与顶部微小人物构成巨物/小人的极端尺度关系。；平面光配局部柔和渐变，避免写实皮肤和建筑反光。；低密度印刷噪点与干净色面并存。\n画幅比例：2:3\n避免出现：真实五官特写；均匀小物件铺满画面；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/6fcfa88b3480c678bd2ad82af7a14d10.png"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0144",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0144.md",
+  "samples": [
+    {
+      "case_id": "Aix0144-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在无名街巷中，一个人物以清晰轮廓面对黑白伞影与排线雨幕，保持黑白高对比，表现孤独侦行与未知案件。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，黑白高对比与斜向雨线完整，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-01.json"
+    },
+    {
+      "case_id": "Aix0144-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与黑白伞影与排线雨幕形成强烈的方向或尺度关系，留出负空间，延续斜向雨线。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美呈现木刻排线与黑白高对比，斜向雨线动势强烈，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-02.json"
+    },
+    {
+      "case_id": "Aix0144-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑色雨伞被黑白伞影与排线雨幕重新组织成异常视觉核心，背景保持简洁并表达孤独侦行与未知案件。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "画面下方地面出现明显真实湿润反射，违背不模拟真实反射的风格要求。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-03.json"
+    },
+    {
+      "case_id": "Aix0144-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：路边信号灯作为孤立日常物件置于无名街巷的构图中，使用黑白伞影与排线雨幕制造隐喻。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，木刻排线与黑白高对比强烈，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-04.json"
+    },
+    {
+      "case_id": "Aix0144-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以黑白伞影与排线雨幕作为主结构，采用黑白高对比的构图秩序，把孤独侦行与未知案件转译成环境叙事。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白高对比与斜向雨线完美呈现，木刻排线风格纯粹，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-05.json"
+    },
+    {
+      "case_id": "Aix0144-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个无名街巷场景保留黑白伞影与排线雨幕与斜向雨线的视觉张力，避免文字和多余装饰。\n必须保留：黑白高对比；斜向雨线\n视觉风格：墨水线条、木刻排线和硬朗剪影结合，边缘可有手工毛刺。；纯黑与米白二色为主，灰阶只用于排线层次。；伞面、人物和雨线形成斜向动势，背景保持简化。；硬朗平光与局部白色雨面，不模拟真实湿润反射。；密集排线、纸张纤维和墨点喷溅。\n画幅比例：2:3\n避免出现：彩色霓虹；摄影级雨滴；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0144-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0144-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

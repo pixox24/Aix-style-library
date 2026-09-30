@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：在黑色空房中，一个人物以清晰轮廓面对垂直白束与居中的抽象形体，保持黑白二色，表现孤立与未解问题。\n必须保留：黑白二色；垂直留白\n视觉风格：极简硬边图形，中心形体只保留必要轮廓，不追求写实材质。；黑白二色形成最高明度对比，避免额外颜色。；垂直光束切出长条负空间，抽象中心形体位于中心偏下。；单一顶光，光束边缘清晰并保留大片黑暗。；平滑黑面与极少颗粒，突出空旷。\n画幅比例：2:3\n避免出现：真实痛苦或伤害；复杂道具背景；乱码文字与伪文字",
+  "image_sha256": "1026e8a1b7f298d542c54535a8da1a2983abab66e33547cbddd1c1c12273273c",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 35.4
+  }
+}

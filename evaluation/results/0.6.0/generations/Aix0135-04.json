@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：黑色毛毯作为孤立日常物件置于紫蓝角落房间的构图中，使用巨型多眼阴影制造隐喻。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+  "image_sha256": "ebeb84cc8aa35955e7fd3145041e08fc49ef7c1da4b8b66399c91f86035ab27a",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.3
+  }
+}

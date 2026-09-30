@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0145",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0145.md",
+  "samples": [
+    {
+      "case_id": "Aix0145-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深夜街角酒吧中，一个人物以清晰轮廓面对红霓虹与青蓝雨幕，保持青蓝红互补，表现城市喧闹与个人等待。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，青蓝红互补与湿地反射突出，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-01.json"
+    },
+    {
+      "case_id": "Aix0145-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与红霓虹与青蓝雨幕形成强烈的方向或尺度关系，留出负空间，延续湿地反射。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青蓝红互补与湿地反射完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-02.json"
+    },
+    {
+      "case_id": "Aix0145-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：玻璃杯被红霓虹与青蓝雨幕重新组织成异常视觉核心，背景保持简洁并表达城市喧闹与个人等待。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-03.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "玻璃杯过于写实违背非摄影要求；前景台面纹理似地面致空间错乱；远处招牌疑似乱码。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-03.json"
+    },
+    {
+      "case_id": "Aix0145-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧霓虹灯箱作为孤立日常物件置于深夜街角酒吧的构图中，使用红霓虹与青蓝雨幕制造隐喻。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青蓝红互补与湿地反射完美呈现，无乱码及结构瑕疵，完全符合风格与内容要求。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-04.json"
+    },
+    {
+      "case_id": "Aix0145-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以红霓虹与青蓝雨幕作为主结构，采用青蓝红互补的构图秩序，把城市喧闹与个人等待转译成环境叙事。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青蓝红互补强烈，湿地反射清晰，人物等待姿态自然，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-05.json"
+    },
+    {
+      "case_id": "Aix0145-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深夜街角酒吧场景保留红霓虹与青蓝雨幕与湿地反射的视觉张力，避免文字和多余装饰。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0145-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青蓝红互补与湿地反射完美呈现，无乱码文字及结构瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0145-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790658345,
+  "usage": {
+    "input_tokens": 210,
+    "output_tokens": 1584,
+    "total_tokens": 1794,
+    "input_tokens_details": {
+      "text_tokens": 210,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在紫蓝角落房间中，一个人物以清晰轮廓面对巨型多眼阴影，保持紫蓝黑底，表现微小个体与被监视恐惧。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/ca211f8793199486e343b439686f7bc4.png"
+    }
+  ]
+}

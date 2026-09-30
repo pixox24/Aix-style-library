@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0125",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0125.md",
+  "samples": [
+    {
+      "case_id": "Aix0125-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在安静水族馆中，一个人物以清晰轮廓面对透明水箱与气泡，保持蓝色清透，表现身体自由与思想困住。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-01.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "容器边缘呈现均匀强亮线，略违背“少量边缘高光”及玻璃质感要求。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-01.json"
+    },
+    {
+      "case_id": "Aix0125-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与透明水箱与气泡形成强烈的方向或尺度关系，留出负空间，延续容器边界。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-02.json"
+    },
+    {
+      "case_id": "Aix0125-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：玻璃鱼缸被透明水箱与气泡重新组织成异常视觉核心，背景保持简洁并表达身体自由与思想困住。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-03.json"
+    },
+    {
+      "case_id": "Aix0125-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：蓝色雨靴作为孤立日常物件置于安静水族馆的构图中，使用透明水箱与气泡制造隐喻。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美契合风格与内容要求，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-04.json"
+    },
+    {
+      "case_id": "Aix0125-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以透明水箱与气泡作为主结构，采用蓝色清透的构图秩序，把身体自由与思想困住转译成环境叙事。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-05.json"
+    },
+    {
+      "case_id": "Aix0125-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个安静水族馆场景保留透明水箱与气泡与容器边界的视觉张力，避免文字和多余装饰。\n必须保留：蓝色清透；容器边界\n视觉风格：平滑数字绘画与简化人物结合，透明边缘清澈而不写实炫光。；蓝色水体与白色衣物形成清冷低饱和关系。；透明容器置于人物肩颈上方，内部气泡提供向上的节奏。；均匀柔光，玻璃只用少量边缘高光说明透明关系。；水面微波、气泡和干净渐变，避免复杂纹理。\n画幅比例：2:3\n避免出现：玻璃摄影级反射；浑浊脏水；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0125-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，无瑕疵，元素完整保留。",
+      "generation_ref": "results/0.6.0/generations/Aix0125-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

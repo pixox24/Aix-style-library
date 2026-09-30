@@ -1,0 +1,24 @@
+{
+  "created": 1790667136,
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 1584,
+    "total_tokens": 1782,
+    "input_tokens_details": {
+      "text_tokens": 198,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以垂直白束与居中的抽象形体作为主结构，采用黑白二色的构图秩序，把孤立与未解问题转译成环境叙事。\n必须保留：黑白二色；垂直留白\n视觉风格：极简硬边图形，中心形体只保留必要轮廓，不追求写实材质。；黑白二色形成最高明度对比，避免额外颜色。；垂直光束切出长条负空间，抽象中心形体位于中心偏下。；单一顶光，光束边缘清晰并保留大片黑暗。；平滑黑面与极少颗粒，突出空旷。\n画幅比例：2:3\n避免出现：真实痛苦或伤害；复杂道具背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/812320b8f63bcdfa5997c081ac54d9ee.png"
+    }
+  ]
+}

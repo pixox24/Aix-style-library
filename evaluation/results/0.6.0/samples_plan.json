@@ -1,0 +1,3904 @@
+{
+  "samples": [
+    {
+      "style_id": "Aix0111",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黑色展厅中，一个人物以清晰轮廓面对头部展开的几何群与悬浮球体，保持米白侧脸，表现外在平静与内在能量。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-01.txt",
+      "image_file": "images/Aix0111-01.png"
+    },
+    {
+      "style_id": "Aix0111",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与头部展开的几何群与悬浮球体形成强烈的方向或尺度关系，留出负空间，延续红蓝焦点。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-02.txt",
+      "image_file": "images/Aix0111-02.png"
+    },
+    {
+      "style_id": "Aix0111",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "陶瓷面具被头部展开的几何群与悬浮球体重新组织成异常视觉核心，背景保持简洁并表达外在平静与内在能量。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-03.txt",
+      "image_file": "images/Aix0111-03.png"
+    },
+    {
+      "style_id": "Aix0111",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧收音机作为孤立日常物件置于黑色展厅的构图中，使用头部展开的几何群与悬浮球体制造隐喻。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-04.txt",
+      "image_file": "images/Aix0111-04.png"
+    },
+    {
+      "style_id": "Aix0111",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以头部展开的几何群与悬浮球体作为主结构，采用米白侧脸的构图秩序，把外在平静与内在能量转译成环境叙事。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-05.txt",
+      "image_file": "images/Aix0111-05.png"
+    },
+    {
+      "style_id": "Aix0111",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黑色展厅场景保留头部展开的几何群与悬浮球体与红蓝焦点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "米白侧脸",
+        "红蓝焦点"
+      ],
+      "prompt_file": "prompts/Aix0111-06.txt",
+      "image_file": "images/Aix0111-06.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空白舞台中，一个人物以清晰轮廓面对多首烟雾头部，保持深蓝烟雾，表现社会面具与内心恶魔。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-01.txt",
+      "image_file": "images/Aix0112-01.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与多首烟雾头部形成强烈的方向或尺度关系，留出负空间，延续白黑冷调。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-02.txt",
+      "image_file": "images/Aix0112-02.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "白色花瓶被多首烟雾头部重新组织成异常视觉核心，背景保持简洁并表达社会面具与内心恶魔。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-03.txt",
+      "image_file": "images/Aix0112-03.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "折叠屏风作为孤立日常物件置于空白舞台的构图中，使用多首烟雾头部制造隐喻。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-04.txt",
+      "image_file": "images/Aix0112-04.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以多首烟雾头部作为主结构，采用深蓝烟雾的构图秩序，把社会面具与内心恶魔转译成环境叙事。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-05.txt",
+      "image_file": "images/Aix0112-05.png"
+    },
+    {
+      "style_id": "Aix0112",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空白舞台场景保留多首烟雾头部与白黑冷调的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝烟雾",
+        "白黑冷调"
+      ],
+      "prompt_file": "prompts/Aix0112-06.txt",
+      "image_file": "images/Aix0112-06.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空旷几何房间中，一个人物以清晰轮廓面对黑白无限几何，保持黑白单色，表现理性秩序与无解循环。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-01.txt",
+      "image_file": "images/Aix0113-01.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑白无限几何形成强烈的方向或尺度关系，留出负空间，延续完整回环。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-02.txt",
+      "image_file": "images/Aix0113-02.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "怀表被黑白无限几何重新组织成异常视觉核心，背景保持简洁并表达理性秩序与无解循环。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-03.txt",
+      "image_file": "images/Aix0113-03.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "环形台灯作为孤立日常物件置于空旷几何房间的构图中，使用黑白无限几何制造隐喻。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-04.txt",
+      "image_file": "images/Aix0113-04.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑白无限几何作为主结构，采用黑白单色的构图秩序，把理性秩序与无解循环转译成环境叙事。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-05.txt",
+      "image_file": "images/Aix0113-05.png"
+    },
+    {
+      "style_id": "Aix0113",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空旷几何房间场景保留黑白无限几何与完整回环的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白单色",
+        "完整回环"
+      ],
+      "prompt_file": "prompts/Aix0113-06.txt",
+      "image_file": "images/Aix0113-06.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在无窗地下室中，一个人物以清晰轮廓面对黑发烟雾与红月，保持深蓝黑底，表现遮蔽面孔与窥视恐惧。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-01.txt",
+      "image_file": "images/Aix0114-01.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑发烟雾与红月形成强烈的方向或尺度关系，留出负空间，延续单一红点。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-02.txt",
+      "image_file": "images/Aix0114-02.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧面具被黑发烟雾与红月重新组织成异常视觉核心，背景保持简洁并表达遮蔽面孔与窥视恐惧。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-03.txt",
+      "image_file": "images/Aix0114-03.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "红色指示灯作为孤立日常物件置于无窗地下室的构图中，使用黑发烟雾与红月制造隐喻。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-04.txt",
+      "image_file": "images/Aix0114-04.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑发烟雾与红月作为主结构，采用深蓝黑底的构图秩序，把遮蔽面孔与窥视恐惧转译成环境叙事。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-05.txt",
+      "image_file": "images/Aix0114-05.png"
+    },
+    {
+      "style_id": "Aix0114",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个无窗地下室场景保留黑发烟雾与红月与单一红点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝黑底",
+        "单一红点"
+      ],
+      "prompt_file": "prompts/Aix0114-06.txt",
+      "image_file": "images/Aix0114-06.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深绿摄影棚中，一个人物以清晰轮廓面对横向金绿流体，保持金绿横带，表现静止身份与流动遮挡。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-01.txt",
+      "image_file": "images/Aix0115-01.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与横向金绿流体形成强烈的方向或尺度关系，留出负空间，延续侧脸轮廓。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-02.txt",
+      "image_file": "images/Aix0115-02.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑胶唱片被横向金绿流体重新组织成异常视觉核心，背景保持简洁并表达静止身份与流动遮挡。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-03.txt",
+      "image_file": "images/Aix0115-03.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "绿色玻璃瓶作为孤立日常物件置于深绿摄影棚的构图中，使用横向金绿流体制造隐喻。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-04.txt",
+      "image_file": "images/Aix0115-04.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以横向金绿流体作为主结构，采用金绿横带的构图秩序，把静止身份与流动遮挡转译成环境叙事。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-05.txt",
+      "image_file": "images/Aix0115-05.png"
+    },
+    {
+      "style_id": "Aix0115",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深绿摄影棚场景保留横向金绿流体与侧脸轮廓的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "金绿横带",
+        "侧脸轮廓"
+      ],
+      "prompt_file": "prompts/Aix0115-06.txt",
+      "image_file": "images/Aix0115-06.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在清晨空房中，一个人物以清晰轮廓面对向上烟雾头发，保持淡蓝留白，表现实体面孔与抽象思绪。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-01.txt",
+      "image_file": "images/Aix0116-01.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与向上烟雾头发形成强烈的方向或尺度关系，留出负空间，延续柔和上升流体。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-02.txt",
+      "image_file": "images/Aix0116-02.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "蓝色台灯被向上烟雾头发重新组织成异常视觉核心，背景保持简洁并表达实体面孔与抽象思绪。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-03.txt",
+      "image_file": "images/Aix0116-03.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "透明风铃作为孤立日常物件置于清晨空房的构图中，使用向上烟雾头发制造隐喻。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-04.txt",
+      "image_file": "images/Aix0116-04.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以向上烟雾头发作为主结构，采用淡蓝留白的构图秩序，把实体面孔与抽象思绪转译成环境叙事。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-05.txt",
+      "image_file": "images/Aix0116-05.png"
+    },
+    {
+      "style_id": "Aix0116",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个清晨空房场景保留向上烟雾头发与柔和上升流体的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "淡蓝留白",
+        "柔和上升流体"
+      ],
+      "prompt_file": "prompts/Aix0116-06.txt",
+      "image_file": "images/Aix0116-06.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深蓝演讲台中，一个人物以清晰轮廓面对蓝黄能量柱，保持深蓝剪影，表现沉稳外壳与灵感爆发。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-01.txt",
+      "image_file": "images/Aix0117-01.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与蓝黄能量柱形成强烈的方向或尺度关系，留出负空间，延续蓝黄垂直柱。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-02.txt",
+      "image_file": "images/Aix0117-02.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "电池被蓝黄能量柱重新组织成异常视觉核心，背景保持简洁并表达沉稳外壳与灵感爆发。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-03.txt",
+      "image_file": "images/Aix0117-03.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "台式麦克风作为孤立日常物件置于深蓝演讲台的构图中，使用蓝黄能量柱制造隐喻。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-04.txt",
+      "image_file": "images/Aix0117-04.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以蓝黄能量柱作为主结构，采用深蓝剪影的构图秩序，把沉稳外壳与灵感爆发转译成环境叙事。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-05.txt",
+      "image_file": "images/Aix0117-05.png"
+    },
+    {
+      "style_id": "Aix0117",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深蓝演讲台场景保留蓝黄能量柱与蓝黄垂直柱的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝剪影",
+        "蓝黄垂直柱"
+      ],
+      "prompt_file": "prompts/Aix0117-06.txt",
+      "image_file": "images/Aix0117-06.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在灰白空房中，一个人物以清晰轮廓面对黑球与几何碎片，保持黑灰低彩，表现防御姿态与自我崩解。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-01.txt",
+      "image_file": "images/Aix0118-01.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑球与几何碎片形成强烈的方向或尺度关系，留出负空间，延续大块几何碎裂。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-02.txt",
+      "image_file": "images/Aix0118-02.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色唱片被黑球与几何碎片重新组织成异常视觉核心，背景保持简洁并表达防御姿态与自我崩解。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-03.txt",
+      "image_file": "images/Aix0118-03.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "破裂花盆作为孤立日常物件置于灰白空房的构图中，使用黑球与几何碎片制造隐喻。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-04.txt",
+      "image_file": "images/Aix0118-04.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑球与几何碎片作为主结构，采用黑灰低彩的构图秩序，把防御姿态与自我崩解转译成环境叙事。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-05.txt",
+      "image_file": "images/Aix0118-05.png"
+    },
+    {
+      "style_id": "Aix0118",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个灰白空房场景保留黑球与几何碎片与大块几何碎裂的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑灰低彩",
+        "大块几何碎裂"
+      ],
+      "prompt_file": "prompts/Aix0118-06.txt",
+      "image_file": "images/Aix0118-06.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在灰绿书房中，一个人物以清晰轮廓面对黑白旋涡与藏眼，保持黑白旋涡，表现沉思姿态与内在混沌。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-01.txt",
+      "image_file": "images/Aix0119-01.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑白旋涡与藏眼形成强烈的方向或尺度关系，留出负空间，延续灰绿压低饱和。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-02.txt",
+      "image_file": "images/Aix0119-02.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧指南针被黑白旋涡与藏眼重新组织成异常视觉核心，背景保持简洁并表达沉思姿态与内在混沌。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-03.txt",
+      "image_file": "images/Aix0119-03.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色茶杯作为孤立日常物件置于灰绿书房的构图中，使用黑白旋涡与藏眼制造隐喻。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-04.txt",
+      "image_file": "images/Aix0119-04.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑白旋涡与藏眼作为主结构，采用黑白旋涡的构图秩序，把沉思姿态与内在混沌转译成环境叙事。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-05.txt",
+      "image_file": "images/Aix0119-05.png"
+    },
+    {
+      "style_id": "Aix0119",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个灰绿书房场景保留黑白旋涡与藏眼与灰绿压低饱和的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白旋涡",
+        "灰绿压低饱和"
+      ],
+      "prompt_file": "prompts/Aix0119-06.txt",
+      "image_file": "images/Aix0119-06.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空旷灰色车站中，一个人物以清晰轮廓面对烟雾黑球离首，保持全灰度，表现肉身稳定与意识脱离。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-01.txt",
+      "image_file": "images/Aix0120-01.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与烟雾黑球离首形成强烈的方向或尺度关系，留出负空间，延续垂直升腾。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-02.txt",
+      "image_file": "images/Aix0120-02.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "灰色气球被烟雾黑球离首重新组织成异常视觉核心，背景保持简洁并表达肉身稳定与意识脱离。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-03.txt",
+      "image_file": "images/Aix0120-03.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧帽子作为孤立日常物件置于空旷灰色车站的构图中，使用烟雾黑球离首制造隐喻。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-04.txt",
+      "image_file": "images/Aix0120-04.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以烟雾黑球离首作为主结构，采用全灰度的构图秩序，把肉身稳定与意识脱离转译成环境叙事。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-05.txt",
+      "image_file": "images/Aix0120-05.png"
+    },
+    {
+      "style_id": "Aix0120",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空旷灰色车站场景保留烟雾黑球离首与垂直升腾的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "全灰度",
+        "垂直升腾"
+      ],
+      "prompt_file": "prompts/Aix0120-06.txt",
+      "image_file": "images/Aix0120-06.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空旷小剧场中，一个人物以清晰轮廓面对巨大三角光束，保持黑黄二色，表现微小个体与庇护之光。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-01.txt",
+      "image_file": "images/Aix0121-01.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与巨大三角光束形成强烈的方向或尺度关系，留出负空间，延续巨大三角光形。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-02.txt",
+      "image_file": "images/Aix0121-02.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "小号被巨大三角光束重新组织成异常视觉核心，背景保持简洁并表达微小个体与庇护之光。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-03.txt",
+      "image_file": "images/Aix0121-03.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "折叠椅作为孤立日常物件置于空旷小剧场的构图中，使用巨大三角光束制造隐喻。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-04.txt",
+      "image_file": "images/Aix0121-04.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以巨大三角光束作为主结构，采用黑黄二色的构图秩序，把微小个体与庇护之光转译成环境叙事。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-05.txt",
+      "image_file": "images/Aix0121-05.png"
+    },
+    {
+      "style_id": "Aix0121",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空旷小剧场场景保留巨大三角光束与巨大三角光形的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑黄二色",
+        "巨大三角光形"
+      ],
+      "prompt_file": "prompts/Aix0121-06.txt",
+      "image_file": "images/Aix0121-06.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在海边观景台中，一个人物以清晰轮廓面对头顶倒置风暴，保持蓝绿海天，表现静止身体与狂暴思绪。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-01.txt",
+      "image_file": "images/Aix0122-01.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与头顶倒置风暴形成强烈的方向或尺度关系，留出负空间，延续倒置白色风暴。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-02.txt",
+      "image_file": "images/Aix0122-02.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "玻璃漏斗被头顶倒置风暴重新组织成异常视觉核心，背景保持简洁并表达静止身体与狂暴思绪。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-03.txt",
+      "image_file": "images/Aix0122-03.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "蓝色雨衣作为孤立日常物件置于海边观景台的构图中，使用头顶倒置风暴制造隐喻。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-04.txt",
+      "image_file": "images/Aix0122-04.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以头顶倒置风暴作为主结构，采用蓝绿海天的构图秩序，把静止身体与狂暴思绪转译成环境叙事。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-05.txt",
+      "image_file": "images/Aix0122-05.png"
+    },
+    {
+      "style_id": "Aix0122",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个海边观景台场景保留头顶倒置风暴与倒置白色风暴的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝绿海天",
+        "倒置白色风暴"
+      ],
+      "prompt_file": "prompts/Aix0122-06.txt",
+      "image_file": "images/Aix0122-06.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空白展厅中，一个人物以清晰轮廓面对捧持黑洞与同心圆，保持灰黑白，表现拥抱虚无与隐藏自我。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-01.txt",
+      "image_file": "images/Aix0123-01.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与捧持黑洞与同心圆形成强烈的方向或尺度关系，留出负空间，延续圆形中心。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-02.txt",
+      "image_file": "images/Aix0123-02.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色石球被捧持黑洞与同心圆重新组织成异常视觉核心，背景保持简洁并表达拥抱虚无与隐藏自我。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-03.txt",
+      "image_file": "images/Aix0123-03.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "无字相框作为孤立日常物件置于空白展厅的构图中，使用捧持黑洞与同心圆制造隐喻。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-04.txt",
+      "image_file": "images/Aix0123-04.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以捧持黑洞与同心圆作为主结构，采用灰黑白的构图秩序，把拥抱虚无与隐藏自我转译成环境叙事。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-05.txt",
+      "image_file": "images/Aix0123-05.png"
+    },
+    {
+      "style_id": "Aix0123",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空白展厅场景保留捧持黑洞与同心圆与圆形中心的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "灰黑白",
+        "圆形中心"
+      ],
+      "prompt_file": "prompts/Aix0123-06.txt",
+      "image_file": "images/Aix0123-06.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在橙色荒原中，一个人物以清晰轮廓面对巨面与垂直黑柱，保持蓝紫巨物，表现微小自我与巨大观察者。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-01.txt",
+      "image_file": "images/Aix0124-01.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与巨面与垂直黑柱形成强烈的方向或尺度关系，留出负空间，延续黑柱切割。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-02.txt",
+      "image_file": "images/Aix0124-02.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色纪念碑被巨面与垂直黑柱重新组织成异常视觉核心，背景保持简洁并表达微小自我与巨大观察者。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-03.txt",
+      "image_file": "images/Aix0124-03.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "观景塔作为孤立日常物件置于橙色荒原的构图中，使用巨面与垂直黑柱制造隐喻。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-04.txt",
+      "image_file": "images/Aix0124-04.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以巨面与垂直黑柱作为主结构，采用蓝紫巨物的构图秩序，把微小自我与巨大观察者转译成环境叙事。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-05.txt",
+      "image_file": "images/Aix0124-05.png"
+    },
+    {
+      "style_id": "Aix0124",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个橙色荒原场景保留巨面与垂直黑柱与黑柱切割的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝紫巨物",
+        "黑柱切割"
+      ],
+      "prompt_file": "prompts/Aix0124-06.txt",
+      "image_file": "images/Aix0124-06.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在安静水族馆中，一个人物以清晰轮廓面对透明水箱与气泡，保持蓝色清透，表现身体自由与思想困住。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-01.txt",
+      "image_file": "images/Aix0125-01.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与透明水箱与气泡形成强烈的方向或尺度关系，留出负空间，延续容器边界。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-02.txt",
+      "image_file": "images/Aix0125-02.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "玻璃鱼缸被透明水箱与气泡重新组织成异常视觉核心，背景保持简洁并表达身体自由与思想困住。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-03.txt",
+      "image_file": "images/Aix0125-03.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "蓝色雨靴作为孤立日常物件置于安静水族馆的构图中，使用透明水箱与气泡制造隐喻。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-04.txt",
+      "image_file": "images/Aix0125-04.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以透明水箱与气泡作为主结构，采用蓝色清透的构图秩序，把身体自由与思想困住转译成环境叙事。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-05.txt",
+      "image_file": "images/Aix0125-05.png"
+    },
+    {
+      "style_id": "Aix0125",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个安静水族馆场景保留透明水箱与气泡与容器边界的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝色清透",
+        "容器边界"
+      ],
+      "prompt_file": "prompts/Aix0125-06.txt",
+      "image_file": "images/Aix0125-06.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深夜工作室中，一个人物以清晰轮廓面对深红室内与孤灯，保持深红底色，表现专注动作与压抑环境。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-01.txt",
+      "image_file": "images/Aix0126-01.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与深红室内与孤灯形成强烈的方向或尺度关系，留出负空间，延续单一暖光。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-02.txt",
+      "image_file": "images/Aix0126-02.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "钢笔被深红室内与孤灯重新组织成异常视觉核心，背景保持简洁并表达专注动作与压抑环境。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-03.txt",
+      "image_file": "images/Aix0126-03.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧台灯作为孤立日常物件置于深夜工作室的构图中，使用深红室内与孤灯制造隐喻。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-04.txt",
+      "image_file": "images/Aix0126-04.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以深红室内与孤灯作为主结构，采用深红底色的构图秩序，把专注动作与压抑环境转译成环境叙事。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-05.txt",
+      "image_file": "images/Aix0126-05.png"
+    },
+    {
+      "style_id": "Aix0126",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深夜工作室场景保留深红室内与孤灯与单一暖光的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深红底色",
+        "单一暖光"
+      ],
+      "prompt_file": "prompts/Aix0126-06.txt",
+      "image_file": "images/Aix0126-06.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在蓝绿色实验室中，一个人物以清晰轮廓面对墨滴通向彩色漩涡，保持黑色上升路径，表现沉重混乱与精神转化。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-01.txt",
+      "image_file": "images/Aix0127-01.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与墨滴通向彩色漩涡形成强烈的方向或尺度关系，留出负空间，延续红黄蓝终点。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-02.txt",
+      "image_file": "images/Aix0127-02.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "墨水瓶被墨滴通向彩色漩涡重新组织成异常视觉核心，背景保持简洁并表达沉重混乱与精神转化。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-03.txt",
+      "image_file": "images/Aix0127-03.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "彩色陀螺作为孤立日常物件置于蓝绿色实验室的构图中，使用墨滴通向彩色漩涡制造隐喻。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-04.txt",
+      "image_file": "images/Aix0127-04.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以墨滴通向彩色漩涡作为主结构，采用黑色上升路径的构图秩序，把沉重混乱与精神转化转译成环境叙事。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-05.txt",
+      "image_file": "images/Aix0127-05.png"
+    },
+    {
+      "style_id": "Aix0127",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个蓝绿色实验室场景保留墨滴通向彩色漩涡与红黄蓝终点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑色上升路径",
+        "红黄蓝终点"
+      ],
+      "prompt_file": "prompts/Aix0127-06.txt",
+      "image_file": "images/Aix0127-06.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在无出口楼梯间中，一个人物以清晰轮廓面对楼梯与重复面孔，保持蓝黑白，表现孤立个体与群体凝视。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-01.txt",
+      "image_file": "images/Aix0128-01.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与楼梯与重复面孔形成强烈的方向或尺度关系，留出负空间，延续重复面孔节奏。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-02.txt",
+      "image_file": "images/Aix0128-02.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧相框被楼梯与重复面孔重新组织成异常视觉核心，背景保持简洁并表达孤立个体与群体凝视。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-03.txt",
+      "image_file": "images/Aix0128-03.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "楼梯扶手作为孤立日常物件置于无出口楼梯间的构图中，使用楼梯与重复面孔制造隐喻。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-04.txt",
+      "image_file": "images/Aix0128-04.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以楼梯与重复面孔作为主结构，采用蓝黑白的构图秩序，把孤立个体与群体凝视转译成环境叙事。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-05.txt",
+      "image_file": "images/Aix0128-05.png"
+    },
+    {
+      "style_id": "Aix0128",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个无出口楼梯间场景保留楼梯与重复面孔与重复面孔节奏的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝黑白",
+        "重复面孔节奏"
+      ],
+      "prompt_file": "prompts/Aix0128-06.txt",
+      "image_file": "images/Aix0128-06.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在暗色温室中，一个人物以清晰轮廓面对黑玫瑰与白色包扎，保持黑白主调，表现死亡象征与生命飞出。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-01.txt",
+      "image_file": "images/Aix0129-01.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑玫瑰与白色包扎形成强烈的方向或尺度关系，留出负空间，延续蝴蝶轻盈动势。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-02.txt",
+      "image_file": "images/Aix0129-02.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色花瓶被黑玫瑰与白色包扎重新组织成异常视觉核心，背景保持简洁并表达死亡象征与生命飞出。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-03.txt",
+      "image_file": "images/Aix0129-03.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "白色缎带作为孤立日常物件置于暗色温室的构图中，使用黑玫瑰与白色包扎制造隐喻。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-04.txt",
+      "image_file": "images/Aix0129-04.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑玫瑰与白色包扎作为主结构，采用黑白主调的构图秩序，把死亡象征与生命飞出转译成环境叙事。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-05.txt",
+      "image_file": "images/Aix0129-05.png"
+    },
+    {
+      "style_id": "Aix0129",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个暗色温室场景保留黑玫瑰与白色包扎与蝴蝶轻盈动势的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白主调",
+        "蝴蝶轻盈动势"
+      ],
+      "prompt_file": "prompts/Aix0129-06.txt",
+      "image_file": "images/Aix0129-06.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在米色空旷庭院中，一个人物以清晰轮廓面对头顶天空裂缝，保持米色留白，表现静定与暴烈觉醒。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-01.txt",
+      "image_file": "images/Aix0130-01.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与头顶天空裂缝形成强烈的方向或尺度关系，留出负空间，延续细长裂缝。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-02.txt",
+      "image_file": "images/Aix0130-02.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "陶碗被头顶天空裂缝重新组织成异常视觉核心，背景保持简洁并表达静定与暴烈觉醒。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-03.txt",
+      "image_file": "images/Aix0130-03.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "裂纹石板作为孤立日常物件置于米色空旷庭院的构图中，使用头顶天空裂缝制造隐喻。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-04.txt",
+      "image_file": "images/Aix0130-04.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以头顶天空裂缝作为主结构，采用米色留白的构图秩序，把静定与暴烈觉醒转译成环境叙事。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-05.txt",
+      "image_file": "images/Aix0130-05.png"
+    },
+    {
+      "style_id": "Aix0130",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个米色空旷庭院场景保留头顶天空裂缝与细长裂缝的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "米色留白",
+        "细长裂缝"
+      ],
+      "prompt_file": "prompts/Aix0130-06.txt",
+      "image_file": "images/Aix0130-06.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在蓝色工业走廊中，一个人物以清晰轮廓面对屏幕头部与火焰，保持蓝红黄高饱和，表现冷机器与热烈燃烧。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-01.txt",
+      "image_file": "images/Aix0131-01.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与屏幕头部与火焰形成强烈的方向或尺度关系，留出负空间，延续方屏与火焰。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-02.txt",
+      "image_file": "images/Aix0131-02.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧电视被屏幕头部与火焰重新组织成异常视觉核心，背景保持简洁并表达冷机器与热烈燃烧。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-03.txt",
+      "image_file": "images/Aix0131-03.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "发光盒子作为孤立日常物件置于蓝色工业走廊的构图中，使用屏幕头部与火焰制造隐喻。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-04.txt",
+      "image_file": "images/Aix0131-04.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以屏幕头部与火焰作为主结构，采用蓝红黄高饱和的构图秩序，把冷机器与热烈燃烧转译成环境叙事。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-05.txt",
+      "image_file": "images/Aix0131-05.png"
+    },
+    {
+      "style_id": "Aix0131",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个蓝色工业走廊场景保留屏幕头部与火焰与方屏与火焰的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝红黄高饱和",
+        "方屏与火焰"
+      ],
+      "prompt_file": "prompts/Aix0131-06.txt",
+      "image_file": "images/Aix0131-06.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在狭小出租屋中，一个人物以清晰轮廓面对红室与蓝窗光，保持红蓝冲突，表现瘫坐身体与躁动环境。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-01.txt",
+      "image_file": "images/Aix0132-01.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红室与蓝窗光形成强烈的方向或尺度关系，留出负空间，延续封闭室内。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-02.txt",
+      "image_file": "images/Aix0132-02.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "单人椅被红室与蓝窗光重新组织成异常视觉核心，背景保持简洁并表达瘫坐身体与躁动环境。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-03.txt",
+      "image_file": "images/Aix0132-03.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "窗帘作为孤立日常物件置于狭小出租屋的构图中，使用红室与蓝窗光制造隐喻。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-04.txt",
+      "image_file": "images/Aix0132-04.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红室与蓝窗光作为主结构，采用红蓝冲突的构图秩序，把瘫坐身体与躁动环境转译成环境叙事。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-05.txt",
+      "image_file": "images/Aix0132-05.png"
+    },
+    {
+      "style_id": "Aix0132",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个狭小出租屋场景保留红室与蓝窗光与封闭室内的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "红蓝冲突",
+        "封闭室内"
+      ],
+      "prompt_file": "prompts/Aix0132-06.txt",
+      "image_file": "images/Aix0132-06.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空白蓝色机房中，一个人物以清晰轮廓面对方块头部向上解体，保持蓝白黑，表现实体身体与数字消散。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-01.txt",
+      "image_file": "images/Aix0133-01.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与方块头部向上解体形成强烈的方向或尺度关系，留出负空间，延续由密到疏的方块。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-02.txt",
+      "image_file": "images/Aix0133-02.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "像素收音机被方块头部向上解体重新组织成异常视觉核心，背景保持简洁并表达实体身体与数字消散。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-03.txt",
+      "image_file": "images/Aix0133-03.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "方形积木作为孤立日常物件置于空白蓝色机房的构图中，使用方块头部向上解体制造隐喻。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-04.txt",
+      "image_file": "images/Aix0133-04.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以方块头部向上解体作为主结构，采用蓝白黑的构图秩序，把实体身体与数字消散转译成环境叙事。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-05.txt",
+      "image_file": "images/Aix0133-05.png"
+    },
+    {
+      "style_id": "Aix0133",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空白蓝色机房场景保留方块头部向上解体与由密到疏的方块的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝白黑",
+        "由密到疏的方块"
+      ],
+      "prompt_file": "prompts/Aix0133-06.txt",
+      "image_file": "images/Aix0133-06.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在安静室内水池中，一个人物以清晰轮廓面对水面切过头部，保持蓝白水波，表现陆地身体与水下意识。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-01.txt",
+      "image_file": "images/Aix0134-01.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与水面切过头部形成强烈的方向或尺度关系，留出负空间，延续水平切线。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-02.txt",
+      "image_file": "images/Aix0134-02.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "玻璃水盆被水面切过头部重新组织成异常视觉核心，背景保持简洁并表达陆地身体与水下意识。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-03.txt",
+      "image_file": "images/Aix0134-03.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "白色浮标半没入安静室内水池，水平水线清晰切过浮标上缘，波纹向四周扩散形成静态节奏。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-04.txt",
+      "image_file": "images/Aix0134-04.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以水面切过头部作为主结构，采用蓝白水波的构图秩序，把陆地身体与水下意识转译成环境叙事。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-05.txt",
+      "image_file": "images/Aix0134-05.png"
+    },
+    {
+      "style_id": "Aix0134",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个安静室内水池场景保留水面切过头部与水平切线的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝白水波",
+        "水平切线"
+      ],
+      "prompt_file": "prompts/Aix0134-06.txt",
+      "image_file": "images/Aix0134-06.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在紫蓝角落房间中，一个人物以清晰轮廓面对巨型多眼阴影，保持紫蓝黑底，表现微小个体与被监视恐惧。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-01.txt",
+      "image_file": "images/Aix0135-01.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与巨型多眼阴影形成强烈的方向或尺度关系，留出负空间，延续少量黄眼焦点。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-02.txt",
+      "image_file": "images/Aix0135-02.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黄色夜灯被巨型多眼阴影重新组织成异常视觉核心，背景保持简洁并表达微小个体与被监视恐惧。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-03.txt",
+      "image_file": "images/Aix0135-03.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色毛毯作为孤立日常物件置于紫蓝角落房间的构图中，使用巨型多眼阴影制造隐喻。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-04.txt",
+      "image_file": "images/Aix0135-04.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以巨型多眼阴影作为主结构，采用紫蓝黑底的构图秩序，把微小个体与被监视恐惧转译成环境叙事。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-05.txt",
+      "image_file": "images/Aix0135-05.png"
+    },
+    {
+      "style_id": "Aix0135",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个紫蓝角落房间场景保留巨型多眼阴影与少量黄眼焦点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "紫蓝黑底",
+        "少量黄眼焦点"
+      ],
+      "prompt_file": "prompts/Aix0135-06.txt",
+      "image_file": "images/Aix0135-06.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黄蓝渐变空房中，一个人物以清晰轮廓面对放射状半透明手臂，保持黄蓝渐变，表现外在冷静与内在泛滥。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-01.txt",
+      "image_file": "images/Aix0136-01.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与放射状半透明手臂形成强烈的方向或尺度关系，留出负空间，延续左上放射。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-02.txt",
+      "image_file": "images/Aix0136-02.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "手套被放射状半透明手臂重新组织成异常视觉核心，背景保持简洁并表达外在冷静与内在泛滥。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-03.txt",
+      "image_file": "images/Aix0136-03.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "树枝作为孤立日常物件置于黄蓝渐变空房的构图中，使用放射状半透明手臂制造隐喻。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-04.txt",
+      "image_file": "images/Aix0136-04.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以放射状半透明手臂作为主结构，采用黄蓝渐变的构图秩序，把外在冷静与内在泛滥转译成环境叙事。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-05.txt",
+      "image_file": "images/Aix0136-05.png"
+    },
+    {
+      "style_id": "Aix0136",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黄蓝渐变空房场景保留放射状半透明手臂与左上放射的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黄蓝渐变",
+        "左上放射"
+      ],
+      "prompt_file": "prompts/Aix0136-06.txt",
+      "image_file": "images/Aix0136-06.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黑色档案室中，一个人物以清晰轮廓面对青色光束与悬浮碎片，保持青色光柱，表现记忆展示与无声审讯。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-01.txt",
+      "image_file": "images/Aix0137-01.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与青色光束与悬浮碎片形成强烈的方向或尺度关系，留出负空间，延续无字碎片。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-02.txt",
+      "image_file": "images/Aix0137-02.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "空白相片被青色光束与悬浮碎片重新组织成异常视觉核心，背景保持简洁并表达记忆展示与无声审讯。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-03.txt",
+      "image_file": "images/Aix0137-03.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "透明卡片作为孤立日常物件置于黑色档案室的构图中，使用青色光束与悬浮碎片制造隐喻。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-04.txt",
+      "image_file": "images/Aix0137-04.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以青色光束与悬浮碎片作为主结构，采用青色光柱的构图秩序，把记忆展示与无声审讯转译成环境叙事。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-05.txt",
+      "image_file": "images/Aix0137-05.png"
+    },
+    {
+      "style_id": "Aix0137",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黑色档案室场景保留青色光束与悬浮碎片与无字碎片的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青色光柱",
+        "无字碎片"
+      ],
+      "prompt_file": "prompts/Aix0137-06.txt",
+      "image_file": "images/Aix0137-06.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在夜间窗边中，一个人物以清晰轮廓面对绿色对角光束，保持黑绿对比，表现窥视与孤独。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-01.txt",
+      "image_file": "images/Aix0138-01.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与绿色对角光束形成强烈的方向或尺度关系，留出负空间，延续强对角线。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-02.txt",
+      "image_file": "images/Aix0138-02.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "百叶窗被绿色对角光束重新组织成异常视觉核心，背景保持简洁并表达窥视与孤独。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-03.txt",
+      "image_file": "images/Aix0138-03.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "绿玻璃作为孤立日常物件置于夜间窗边的构图中，使用绿色对角光束制造隐喻。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-04.txt",
+      "image_file": "images/Aix0138-04.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以绿色对角光束作为主结构，采用黑绿对比的构图秩序，把窥视与孤独转译成环境叙事。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-05.txt",
+      "image_file": "images/Aix0138-05.png"
+    },
+    {
+      "style_id": "Aix0138",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个夜间窗边场景保留绿色对角光束与强对角线的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑绿对比",
+        "强对角线"
+      ],
+      "prompt_file": "prompts/Aix0138-06.txt",
+      "image_file": "images/Aix0138-06.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空旷黄色广场中，一个人物以清晰轮廓面对举手与放射长影，保持黄黑主调，表现个体抗拒光明。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-01.txt",
+      "image_file": "images/Aix0139-01.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与举手与放射长影形成强烈的方向或尺度关系，留出负空间，延续放射长影。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-02.txt",
+      "image_file": "images/Aix0139-02.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "手电筒被举手与放射长影重新组织成异常视觉核心，背景保持简洁并表达个体抗拒光明。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-03.txt",
+      "image_file": "images/Aix0139-03.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "遮光板作为孤立日常物件置于空旷黄色广场的构图中，使用举手与放射长影制造隐喻。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-04.txt",
+      "image_file": "images/Aix0139-04.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以举手与放射长影作为主结构，采用黄黑主调的构图秩序，把个体抗拒光明转译成环境叙事。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-05.txt",
+      "image_file": "images/Aix0139-05.png"
+    },
+    {
+      "style_id": "Aix0139",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空旷黄色广场场景保留举手与放射长影与放射长影的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黄黑主调",
+        "放射长影"
+      ],
+      "prompt_file": "prompts/Aix0139-06.txt",
+      "image_file": "images/Aix0139-06.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深蓝走廊中，一个人物以清晰轮廓面对门缝与条纹光，保持深蓝橙光，表现童年外表与门后秘密。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-01.txt",
+      "image_file": "images/Aix0140-01.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与门缝与条纹光形成强烈的方向或尺度关系，留出负空间，延续框中框。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-02.txt",
+      "image_file": "images/Aix0140-02.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧门锁被门缝与条纹光重新组织成异常视觉核心，背景保持简洁并表达童年外表与门后秘密。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-03.txt",
+      "image_file": "images/Aix0140-03.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "折叠百叶作为孤立日常物件置于深蓝走廊的构图中，使用门缝与条纹光制造隐喻。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-04.txt",
+      "image_file": "images/Aix0140-04.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以门缝与条纹光作为主结构，采用深蓝橙光的构图秩序，把童年外表与门后秘密转译成环境叙事。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-05.txt",
+      "image_file": "images/Aix0140-05.png"
+    },
+    {
+      "style_id": "Aix0140",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深蓝走廊场景保留门缝与条纹光与框中框的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝橙光",
+        "框中框"
+      ],
+      "prompt_file": "prompts/Aix0140-06.txt",
+      "image_file": "images/Aix0140-06.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在无边紫色大厅中，一个人物以清晰轮廓面对巨眼背景与微小人影，保持紫黑白，表现个体与全景监视。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-01.txt",
+      "image_file": "images/Aix0141-01.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与巨眼背景与微小人影形成强烈的方向或尺度关系，留出负空间，延续巨物与微小比例。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-02.txt",
+      "image_file": "images/Aix0141-02.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "紫色镜片被巨眼背景与微小人影重新组织成异常视觉核心，背景保持简洁并表达个体与全景监视。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-03.txt",
+      "image_file": "images/Aix0141-03.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "圆形天窗作为孤立日常物件置于无边紫色大厅的构图中，使用巨眼背景与微小人影制造隐喻。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-04.txt",
+      "image_file": "images/Aix0141-04.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以巨眼背景与微小人影作为主结构，采用紫黑白的构图秩序，把个体与全景监视转译成环境叙事。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-05.txt",
+      "image_file": "images/Aix0141-05.png"
+    },
+    {
+      "style_id": "Aix0141",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个无边紫色大厅场景保留巨眼背景与微小人影与巨物与微小比例的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "紫黑白",
+        "巨物与微小比例"
+      ],
+      "prompt_file": "prompts/Aix0141-06.txt",
+      "image_file": "images/Aix0141-06.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在夜间庭院入口中，一个人物以清晰轮廓面对发光门与双人剪影，保持蓝紫暗部，表现相逢与即将告别。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-01.txt",
+      "image_file": "images/Aix0142-01.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与发光门与双人剪影形成强烈的方向或尺度关系，留出负空间，延续黄门逆光。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-02.txt",
+      "image_file": "images/Aix0142-02.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "门钥匙被发光门与双人剪影重新组织成异常视觉核心，背景保持简洁并表达相逢与即将告别。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-03.txt",
+      "image_file": "images/Aix0142-03.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "盆栽作为孤立日常物件置于夜间庭院入口的构图中，使用发光门与双人剪影制造隐喻。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-04.txt",
+      "image_file": "images/Aix0142-04.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以发光门与双人剪影作为主结构，采用蓝紫暗部的构图秩序，把相逢与即将告别转译成环境叙事。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-05.txt",
+      "image_file": "images/Aix0142-05.png"
+    },
+    {
+      "style_id": "Aix0142",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个夜间庭院入口场景保留发光门与双人剪影与黄门逆光的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝紫暗部",
+        "黄门逆光"
+      ],
+      "prompt_file": "prompts/Aix0142-06.txt",
+      "image_file": "images/Aix0142-06.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深蓝小剧场中，一个人物以清晰轮廓面对圆形青色聚光，保持深蓝青光，表现舞台中心与孤独。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-01.txt",
+      "image_file": "images/Aix0143-01.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与圆形青色聚光形成强烈的方向或尺度关系，留出负空间，延续圆形切割。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-02.txt",
+      "image_file": "images/Aix0143-02.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "一支清晰可辨的立式麦克风位于圆形青色聚光中心，被聚光组织成唯一的视觉核心，背景保持简洁并表达舞台中心与孤独。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-03.txt",
+      "image_file": "images/Aix0143-03.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "空椅子作为孤立日常物件置于深蓝小剧场的构图中，使用圆形青色聚光制造隐喻。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-04.txt",
+      "image_file": "images/Aix0143-04.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以圆形青色聚光作为主结构，采用深蓝青光的构图秩序，把舞台中心与孤独转译成环境叙事。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-05.txt",
+      "image_file": "images/Aix0143-05.png"
+    },
+    {
+      "style_id": "Aix0143",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深蓝小剧场场景保留圆形青色聚光与圆形切割的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝青光",
+        "圆形切割"
+      ],
+      "prompt_file": "prompts/Aix0143-06.txt",
+      "image_file": "images/Aix0143-06.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在无名街巷中，一个人物以清晰轮廓面对黑白伞影与排线雨幕，保持黑白高对比，表现孤独侦行与未知案件。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-01.txt",
+      "image_file": "images/Aix0144-01.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑白伞影与排线雨幕形成强烈的方向或尺度关系，留出负空间，延续斜向雨线。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-02.txt",
+      "image_file": "images/Aix0144-02.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑色雨伞被黑白伞影与排线雨幕重新组织成异常视觉核心，背景保持简洁并表达孤独侦行与未知案件。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-03.txt",
+      "image_file": "images/Aix0144-03.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "路边信号灯作为孤立日常物件置于无名街巷的构图中，使用黑白伞影与排线雨幕制造隐喻。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-04.txt",
+      "image_file": "images/Aix0144-04.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑白伞影与排线雨幕作为主结构，采用黑白高对比的构图秩序，把孤独侦行与未知案件转译成环境叙事。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-05.txt",
+      "image_file": "images/Aix0144-05.png"
+    },
+    {
+      "style_id": "Aix0144",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个无名街巷场景保留黑白伞影与排线雨幕与斜向雨线的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白高对比",
+        "斜向雨线"
+      ],
+      "prompt_file": "prompts/Aix0144-06.txt",
+      "image_file": "images/Aix0144-06.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深夜街角酒吧中，一个人物以清晰轮廓面对红霓虹与青蓝雨幕，保持青蓝红互补，表现城市喧闹与个人等待。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-01.txt",
+      "image_file": "images/Aix0145-01.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红霓虹与青蓝雨幕形成强烈的方向或尺度关系，留出负空间，延续湿地反射。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-02.txt",
+      "image_file": "images/Aix0145-02.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "玻璃杯被红霓虹与青蓝雨幕重新组织成异常视觉核心，背景保持简洁并表达城市喧闹与个人等待。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-03.txt",
+      "image_file": "images/Aix0145-03.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧霓虹灯箱作为孤立日常物件置于深夜街角酒吧的构图中，使用红霓虹与青蓝雨幕制造隐喻。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-04.txt",
+      "image_file": "images/Aix0145-04.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红霓虹与青蓝雨幕作为主结构，采用青蓝红互补的构图秩序，把城市喧闹与个人等待转译成环境叙事。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-05.txt",
+      "image_file": "images/Aix0145-05.png"
+    },
+    {
+      "style_id": "Aix0145",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深夜街角酒吧场景保留红霓虹与青蓝雨幕与湿地反射的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青蓝红互补",
+        "湿地反射"
+      ],
+      "prompt_file": "prompts/Aix0145-06.txt",
+      "image_file": "images/Aix0145-06.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黑色空房中，一个人物以清晰轮廓面对垂直白束与居中的抽象形体，保持黑白二色，表现孤立与未解问题。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-01.txt",
+      "image_file": "images/Aix0146-01.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与垂直白束和居中的抽象形体形成强烈方向或尺度关系，留出负空间，延续垂直留白。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-02.txt",
+      "image_file": "images/Aix0146-02.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "白色吊灯被垂直白束与悬挂形体重新组织成异常视觉核心，背景保持简洁并表达孤立与未解审讯。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-03.txt",
+      "image_file": "images/Aix0146-03.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "悬空衣架作为孤立日常物件置于黑色空房的构图中，使用垂直白束与悬挂形体制造隐喻。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-04.txt",
+      "image_file": "images/Aix0146-04.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以垂直白束与居中的抽象形体作为主结构，采用黑白二色的构图秩序，把孤立与未解问题转译成环境叙事。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-05.txt",
+      "image_file": "images/Aix0146-05.png"
+    },
+    {
+      "style_id": "Aix0146",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黑色空房场景保留垂直白束与居中的抽象形体和垂直留白的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白二色",
+        "垂直留白"
+      ],
+      "prompt_file": "prompts/Aix0146-06.txt",
+      "image_file": "images/Aix0146-06.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在无灯屋顶中，一个人物以清晰轮廓面对风衣剪影与抽象徽记，保持黑白灰，表现隐秘身份与守护责任。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-01.txt",
+      "image_file": "images/Aix0147-01.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与风衣剪影与抽象徽记形成强烈的方向或尺度关系，留出负空间，延续帽檐侧光。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-02.txt",
+      "image_file": "images/Aix0147-02.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "宽檐帽被风衣剪影与抽象徽记重新组织成异常视觉核心，背景保持简洁并表达隐秘身份与守护责任。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-03.txt",
+      "image_file": "images/Aix0147-03.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧徽章作为孤立日常物件置于无灯屋顶的构图中，使用风衣剪影与抽象徽记制造隐喻。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-04.txt",
+      "image_file": "images/Aix0147-04.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以风衣剪影与抽象徽记作为主结构，采用黑白灰的构图秩序，把隐秘身份与守护责任转译成环境叙事。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-05.txt",
+      "image_file": "images/Aix0147-05.png"
+    },
+    {
+      "style_id": "Aix0147",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个无灯屋顶场景保留风衣剪影与抽象徽记与帽檐侧光的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白灰",
+        "帽檐侧光"
+      ],
+      "prompt_file": "prompts/Aix0147-06.txt",
+      "image_file": "images/Aix0147-06.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深蓝城市屋顶中，一个人物以清晰轮廓面对屋顶与远城灯火，保持深蓝留白，表现个体守望与城市疏离。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-01.txt",
+      "image_file": "images/Aix0148-01.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与屋顶与远城灯火形成强烈的方向或尺度关系，留出负空间，延续少量暖黄窗灯。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-02.txt",
+      "image_file": "images/Aix0148-02.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "望远镜被屋顶与远城灯火重新组织成异常视觉核心，背景保持简洁并表达个体守望与城市疏离。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-03.txt",
+      "image_file": "images/Aix0148-03.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "屋顶天线作为孤立日常物件置于深蓝城市屋顶的构图中，使用屋顶与远城灯火制造隐喻。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-04.txt",
+      "image_file": "images/Aix0148-04.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以屋顶与远城灯火作为主结构，采用深蓝留白的构图秩序，把个体守望与城市疏离转译成环境叙事。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-05.txt",
+      "image_file": "images/Aix0148-05.png"
+    },
+    {
+      "style_id": "Aix0148",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深蓝城市屋顶场景保留屋顶与远城灯火与少量暖黄窗灯的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝留白",
+        "少量暖黄窗灯"
+      ],
+      "prompt_file": "prompts/Aix0148-06.txt",
+      "image_file": "images/Aix0148-06.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在高楼雨街中，一个人物以清晰轮廓面对巨大雨伞与青橙城市，保持青绿锈橙，表现开放天空与垂直压迫。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-01.txt",
+      "image_file": "images/Aix0149-01.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与巨大雨伞与青橙城市形成强烈的方向或尺度关系，留出负空间，延续伞的对角线。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-02.txt",
+      "image_file": "images/Aix0149-02.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "黑伞被巨大雨伞与青橙城市重新组织成异常视觉核心，背景保持简洁并表达开放天空与垂直压迫。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-03.txt",
+      "image_file": "images/Aix0149-03.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧眼镜作为孤立日常物件置于高楼雨街的构图中，使用巨大雨伞与青橙城市制造隐喻。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-04.txt",
+      "image_file": "images/Aix0149-04.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以巨大雨伞与青橙城市作为主结构，采用青绿锈橙的构图秩序，把开放天空与垂直压迫转译成环境叙事。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-05.txt",
+      "image_file": "images/Aix0149-05.png"
+    },
+    {
+      "style_id": "Aix0149",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个高楼雨街场景保留巨大雨伞与青橙城市与伞的对角线的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青绿锈橙",
+        "伞的对角线"
+      ],
+      "prompt_file": "prompts/Aix0149-06.txt",
+      "image_file": "images/Aix0149-06.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黄昏公园中，一个人物以清晰轮廓面对红地与青色长影，保持红青互补，表现童年游戏与时间流逝。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-01.txt",
+      "image_file": "images/Aix0150-01.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红地与青色长影形成强烈的方向或尺度关系，留出负空间，延续统一长影方向。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-02.txt",
+      "image_file": "images/Aix0150-02.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "风筝被红地与青色长影重新组织成异常视觉核心，背景保持简洁并表达童年游戏与时间流逝。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-03.txt",
+      "image_file": "images/Aix0150-03.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "树下球作为孤立日常物件置于黄昏公园的构图中，使用红地与青色长影制造隐喻。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-04.txt",
+      "image_file": "images/Aix0150-04.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红地与青色长影作为主结构，采用红青互补的构图秩序，把童年游戏与时间流逝转译成环境叙事。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-05.txt",
+      "image_file": "images/Aix0150-05.png"
+    },
+    {
+      "style_id": "Aix0150",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黄昏公园场景保留红地与青色长影与统一长影方向的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "红青互补",
+        "统一长影方向"
+      ],
+      "prompt_file": "prompts/Aix0150-06.txt",
+      "image_file": "images/Aix0150-06.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在青绿水边小镇中，一个人物以清晰轮廓面对房屋与红灯倒影，保持青绿与一点红，表现静水与孤独旅人。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-01.txt",
+      "image_file": "images/Aix0151-01.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与房屋与红灯倒影形成强烈的方向或尺度关系，留出负空间，延续水平对称。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-02.txt",
+      "image_file": "images/Aix0151-02.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "红灯笼被房屋与红灯倒影重新组织成异常视觉核心，背景保持简洁并表达静水与孤独旅人。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-03.txt",
+      "image_file": "images/Aix0151-03.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "木船作为孤立日常物件置于青绿水边小镇的构图中，使用房屋与红灯倒影制造隐喻。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-04.txt",
+      "image_file": "images/Aix0151-04.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以房屋与红灯倒影作为主结构，采用青绿与一点红的构图秩序，把静水与孤独旅人转译成环境叙事。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-05.txt",
+      "image_file": "images/Aix0151-05.png"
+    },
+    {
+      "style_id": "Aix0151",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个青绿水边小镇场景保留房屋与红灯倒影与水平对称的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青绿与一点红",
+        "水平对称"
+      ],
+      "prompt_file": "prompts/Aix0151-06.txt",
+      "image_file": "images/Aix0151-06.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在青绿色公路边中，一个人物以清晰轮廓面对车辆、红日与电线，保持青绿红紫，表现旅行愿望与停滞时刻。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-01.txt",
+      "image_file": "images/Aix0152-01.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与车辆、红日与电线形成强烈的方向或尺度关系，留出负空间，延续横线与圆日。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-02.txt",
+      "image_file": "images/Aix0152-02.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "紫色小车被车辆、红日与电线重新组织成异常视觉核心，背景保持简洁并表达旅行愿望与停滞时刻。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-03.txt",
+      "image_file": "images/Aix0152-03.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "路边电话亭作为孤立日常物件置于青绿色公路边的构图中，使用车辆、红日与电线制造隐喻。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-04.txt",
+      "image_file": "images/Aix0152-04.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以车辆、红日与电线作为主结构，采用青绿红紫的构图秩序，把旅行愿望与停滞时刻转译成环境叙事。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-05.txt",
+      "image_file": "images/Aix0152-05.png"
+    },
+    {
+      "style_id": "Aix0152",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个青绿色公路边场景保留车辆、红日与电线与横线与圆日的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青绿红紫",
+        "横线与圆日"
+      ],
+      "prompt_file": "prompts/Aix0152-06.txt",
+      "image_file": "images/Aix0152-06.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在青色十字路口中，一个人物以清晰轮廓面对高角度与红色信号，保持青红对比，表现个体等待与城市规则。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-01.txt",
+      "image_file": "images/Aix0153-01.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与高角度与红色信号形成强烈的方向或尺度关系，留出负空间，延续高角度几何。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-02.txt",
+      "image_file": "images/Aix0153-02.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "路灯被高角度与红色信号重新组织成异常视觉核心，背景保持简洁并表达个体等待与城市规则。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-03.txt",
+      "image_file": "images/Aix0153-03.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "红色信号牌作为孤立日常物件置于青色十字路口的构图中，使用高角度与红色信号制造隐喻。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-04.txt",
+      "image_file": "images/Aix0153-04.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以高角度与红色信号作为主结构，采用青红对比的构图秩序，把个体等待与城市规则转译成环境叙事。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-05.txt",
+      "image_file": "images/Aix0153-05.png"
+    },
+    {
+      "style_id": "Aix0153",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个青色十字路口场景保留高角度与红色信号与高角度几何的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "青红对比",
+        "高角度几何"
+      ],
+      "prompt_file": "prompts/Aix0153-06.txt",
+      "image_file": "images/Aix0153-06.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在灰黑高楼街口中，一个人物以清晰轮廓面对红日与城市分镜，保持红黑灰，表现城市秩序与末日焦虑。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-01.txt",
+      "image_file": "images/Aix0154-01.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红日与城市分镜形成强烈的方向或尺度关系，留出负空间，延续分镜切割。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-02.txt",
+      "image_file": "images/Aix0154-02.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧路牌被红日与城市分镜重新组织成异常视觉核心，背景保持简洁并表达城市秩序与末日焦虑。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-03.txt",
+      "image_file": "images/Aix0154-03.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "窗框作为孤立日常物件置于灰黑高楼街口的构图中，使用红日与城市分镜制造隐喻。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-04.txt",
+      "image_file": "images/Aix0154-04.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红日与城市分镜作为主结构，采用红黑灰的构图秩序，把城市秩序与末日焦虑转译成环境叙事。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-05.txt",
+      "image_file": "images/Aix0154-05.png"
+    },
+    {
+      "style_id": "Aix0154",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个灰黑高楼街口场景保留红日与城市分镜与分镜切割的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "红黑灰",
+        "分镜切割"
+      ],
+      "prompt_file": "prompts/Aix0154-06.txt",
+      "image_file": "images/Aix0154-06.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在几何山坡中，一个人物以清晰轮廓面对红坡、绿树与坐姿，保持红绿互补，表现静止观察与自然尺度。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-01.txt",
+      "image_file": "images/Aix0155-01.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红坡、绿树与坐姿形成强烈的方向或尺度关系，留出负空间，延续斜坡与垂直树。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-02.txt",
+      "image_file": "images/Aix0155-02.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "红色台阶被红坡、绿树与坐姿重新组织成异常视觉核心，背景保持简洁并表达静止观察与自然尺度。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-03.txt",
+      "image_file": "images/Aix0155-03.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "折叠椅作为孤立日常物件置于几何山坡的构图中，使用红坡、绿树与坐姿制造隐喻。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-04.txt",
+      "image_file": "images/Aix0155-04.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红坡、绿树与坐姿作为主结构，采用红绿互补的构图秩序，把静止观察与自然尺度转译成环境叙事。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-05.txt",
+      "image_file": "images/Aix0155-05.png"
+    },
+    {
+      "style_id": "Aix0155",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个几何山坡场景保留红坡、绿树与坐姿与斜坡与垂直树的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "红绿互补",
+        "斜坡与垂直树"
+      ],
+      "prompt_file": "prompts/Aix0155-06.txt",
+      "image_file": "images/Aix0155-06.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在双色空旷街道中，一个人物以清晰轮廓面对蓝橙分界与伞影，保持蓝橙二分，表现行走者跨越两个世界。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-01.txt",
+      "image_file": "images/Aix0156-01.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与蓝橙分界与伞影形成强烈的方向或尺度关系，留出负空间，延续黑色完整剪影。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-02.txt",
+      "image_file": "images/Aix0156-02.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "雨伞被蓝橙分界与伞影重新组织成异常视觉核心，背景保持简洁并表达行走者跨越两个世界。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-03.txt",
+      "image_file": "images/Aix0156-03.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "行李箱作为孤立日常物件置于双色空旷街道的构图中，使用蓝橙分界与伞影制造隐喻。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-04.txt",
+      "image_file": "images/Aix0156-04.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以蓝橙分界与伞影作为主结构，采用蓝橙二分的构图秩序，把行走者跨越两个世界转译成环境叙事。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-05.txt",
+      "image_file": "images/Aix0156-05.png"
+    },
+    {
+      "style_id": "Aix0156",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个双色空旷街道场景保留蓝橙分界与伞影与黑色完整剪影的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "蓝橙二分",
+        "黑色完整剪影"
+      ],
+      "prompt_file": "prompts/Aix0156-06.txt",
+      "image_file": "images/Aix0156-06.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深蓝郊外公路中，一个人物以清晰轮廓面对一点透视夜路，保持深蓝冷调，表现孤独驾驶与远方希望。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-01.txt",
+      "image_file": "images/Aix0157-01.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与一点透视夜路形成强烈的方向或尺度关系，留出负空间，延续单一消失点。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-02.txt",
+      "image_file": "images/Aix0157-02.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "车灯被一点透视夜路重新组织成异常视觉核心，背景保持简洁并表达孤独驾驶与远方希望。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-03.txt",
+      "image_file": "images/Aix0157-03.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "路边反光牌作为孤立日常物件置于深蓝郊外公路的构图中，使用一点透视夜路制造隐喻。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-04.txt",
+      "image_file": "images/Aix0157-04.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以一点透视夜路作为主结构，采用深蓝冷调的构图秩序，把孤独驾驶与远方希望转译成环境叙事。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-05.txt",
+      "image_file": "images/Aix0157-05.png"
+    },
+    {
+      "style_id": "Aix0157",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深蓝郊外公路场景保留一点透视夜路与单一消失点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深蓝冷调",
+        "单一消失点"
+      ],
+      "prompt_file": "prompts/Aix0157-06.txt",
+      "image_file": "images/Aix0157-06.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在深青晚间房间中，一个人物以清晰轮廓面对红烟与静坐人物，保持深青红烟，表现记忆升腾与时间流逝。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-01.txt",
+      "image_file": "images/Aix0158-01.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与红烟与静坐人物形成强烈的方向或尺度关系，留出负空间，延续低重心到上升线。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-02.txt",
+      "image_file": "images/Aix0158-02.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "旧烟斗被红烟与静坐人物重新组织成异常视觉核心，背景保持简洁并表达记忆升腾与时间流逝。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-03.txt",
+      "image_file": "images/Aix0158-03.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "木椅作为孤立日常物件置于深青晚间房间的构图中，使用红烟与静坐人物制造隐喻。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-04.txt",
+      "image_file": "images/Aix0158-04.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以红烟与静坐人物作为主结构，采用深青红烟的构图秩序，把记忆升腾与时间流逝转译成环境叙事。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-05.txt",
+      "image_file": "images/Aix0158-05.png"
+    },
+    {
+      "style_id": "Aix0158",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个深青晚间房间场景保留红烟与静坐人物与低重心到上升线的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深青红烟",
+        "低重心到上升线"
+      ],
+      "prompt_file": "prompts/Aix0158-06.txt",
+      "image_file": "images/Aix0158-06.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在空旷站台中，一个人物以清晰轮廓面对深绿门框与两人，保持深绿留白，表现相遇瞬间与都市距离。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-01.txt",
+      "image_file": "images/Aix0159-01.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与深绿门框与两人形成强烈的方向或尺度关系，留出负空间，延续矩形框中框。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-02.txt",
+      "image_file": "images/Aix0159-02.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "地铁门被深绿门框与两人重新组织成异常视觉核心，背景保持简洁并表达相遇瞬间与都市距离。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-03.txt",
+      "image_file": "images/Aix0159-03.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "手提包作为孤立日常物件置于空旷站台的构图中，使用深绿门框与两人制造隐喻。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-04.txt",
+      "image_file": "images/Aix0159-04.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以深绿门框与两人作为主结构，采用深绿留白的构图秩序，把相遇瞬间与都市距离转译成环境叙事。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-05.txt",
+      "image_file": "images/Aix0159-05.png"
+    },
+    {
+      "style_id": "Aix0159",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个空旷站台场景保留深绿门框与两人与矩形框中框的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "深绿留白",
+        "矩形框中框"
+      ],
+      "prompt_file": "prompts/Aix0159-06.txt",
+      "image_file": "images/Aix0159-06.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "01",
+      "category": "人物",
+      "reuse": false,
+      "description": "在黑色电影街区中，一个人物以清晰轮廓面对黑白高楼与红色天空，保持黑白骨架，表现城市压迫与个人逃离。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-01.txt",
+      "image_file": "images/Aix0160-01.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "02",
+      "category": "人物",
+      "reuse": false,
+      "description": "侧身或背影人物与黑白高楼与红色天空形成强烈的方向或尺度关系，留出负空间，延续单一红色焦点。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-02.txt",
+      "image_file": "images/Aix0160-02.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "03",
+      "category": "物体",
+      "reuse": false,
+      "description": "红色路灯被黑白高楼与红色天空重新组织成异常视觉核心，背景保持简洁并表达城市压迫与个人逃离。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-03.txt",
+      "image_file": "images/Aix0160-03.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "04",
+      "category": "物体",
+      "reuse": false,
+      "description": "高楼窗格作为孤立日常物件置于黑色电影街区的构图中，使用黑白高楼与红色天空制造隐喻。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-04.txt",
+      "image_file": "images/Aix0160-04.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "05",
+      "category": "场景",
+      "reuse": false,
+      "description": "远景以黑白高楼与红色天空作为主结构，采用黑白骨架的构图秩序，把城市压迫与个人逃离转译成环境叙事。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-05.txt",
+      "image_file": "images/Aix0160-05.png"
+    },
+    {
+      "style_id": "Aix0160",
+      "case": "06",
+      "category": "场景",
+      "reuse": false,
+      "description": "一个黑色电影街区场景保留黑白高楼与红色天空与单一红色焦点的视觉张力，避免文字和多余装饰。",
+      "must_preserve": [
+        "黑白骨架",
+        "单一红色焦点"
+      ],
+      "prompt_file": "prompts/Aix0160-06.txt",
+      "image_file": "images/Aix0160-06.png"
+    }
+  ]
+}

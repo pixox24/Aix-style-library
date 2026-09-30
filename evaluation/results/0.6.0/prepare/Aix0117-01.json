@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0117",
+    "style_name": "蓝黄喷思",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0117/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：在深蓝演讲台中，一个人物以清晰轮廓面对蓝黄能量柱，保持深蓝剪影，表现沉稳外壳与灵感爆发。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0117",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "14114cfebbfc3b18049d75ef8343e68c96cdcd2a5656f4c60a8a9b2c2af0b53f"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0137",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0137.md",
+  "samples": [
+    {
+      "case_id": "Aix0137-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在黑色档案室中，一个人物以清晰轮廓面对青色光束与悬浮碎片，保持青色光柱，表现记忆展示与无声审讯。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，青色光柱与无字碎片表现准确，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-01.json"
+    },
+    {
+      "case_id": "Aix0137-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与青色光束与悬浮碎片形成强烈的方向或尺度关系，留出负空间，延续无字碎片。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，青色光柱与无字碎片表现准确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-02.json"
+    },
+    {
+      "case_id": "Aix0137-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：空白相片被青色光束与悬浮碎片重新组织成异常视觉核心，背景保持简洁并表达记忆展示与无声审讯。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "画面完美契合风格定义，青色光柱、无字照片碎片、中心人物等元素均准确呈现，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-03.json"
+    },
+    {
+      "case_id": "Aix0137-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：透明卡片作为孤立日常物件置于黑色档案室的构图中，使用青色光束与悬浮碎片制造隐喻。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合所有核心特征与必须保留元素，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-04.json"
+    },
+    {
+      "case_id": "Aix0137-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以青色光束与悬浮碎片作为主结构，采用青色光柱的构图秩序，把记忆展示与无声审讯转译成环境叙事。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合风格特征，光柱、碎片及人物构图均无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-05.json"
+    },
+    {
+      "case_id": "Aix0137-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个黑色档案室场景保留青色光束与悬浮碎片与无字碎片的视觉张力，避免文字和多余装饰。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0137-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合风格定义，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0137-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

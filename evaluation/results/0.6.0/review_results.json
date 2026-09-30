@@ -1,0 +1,2102 @@
+{
+  "Aix0150-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与统一长影方向完美呈现，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:38:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-02": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "左上深色手臂手指结构畸形，存在解剖错误，其余风格与内容特征符合。",
+    "reviewed_at": "2026-09-29T15:39:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青绿与红灯笼对比鲜明，水平对称完美，旅人尺度锚点清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现深蓝冷调与一点透视，反光牌与湿润路面细节到位，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，金绿横带与侧脸轮廓完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，内容完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-06": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "风格特征符合，但人物手部存在明显解剖结构错误，手指融合变形，予以扣分。",
+    "reviewed_at": "2026-09-29T15:39:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，色彩与构图完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:17+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "三色关系明确，重复面孔节奏与纵深感完美，质感达标，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合风格定义，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:29+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0150-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与统一长影完美呈现，色块与颗粒质感符合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0150-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与统一长影特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:36+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征与内容要求均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，色彩、构图与质感均符合要求，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:42+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，笔触、色彩、构图均符合要求，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "深青红烟冷暖对比准确，低重心与上升线构图完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:48+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容均完美符合要求，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:53+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-03": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "画面下方地面出现明显真实湿润反射，违背不模拟真实反射的风格要求。",
+    "reviewed_at": "2026-09-29T15:39:55+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-04": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "人物呈蓝色而非风格定义的黑色，削弱了冷色层次对比度；其余特征符合。",
+    "reviewed_at": "2026-09-29T15:39:57+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，内容完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:39:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:00+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，冷暖对比与条纹光表现极佳，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:01+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0150-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与统一长影完美呈现，色块极简风格稳定，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黑白几何与无限回环特征，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现漫画硬边与黑绿红褐配色，对角光束与背影人物构图精准，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:06+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黄光三角风格，黑黄对比强烈，折叠椅与三角光束均准确无误。",
+    "reviewed_at": "2026-09-29T15:40:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现蓝橙二分与黑色剪影，斜向分界与平涂纹理均符合标准，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:11+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容均完美符合要求，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:15+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:15+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:16+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现灰雾离首风格，全灰度与垂直升腾特征稳定，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，水彩晕染、多首烟雾及冷调特征清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，元素完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，元素完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:30+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合极简黑白与垂直光束特征，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红黑灰配色与分镜切割完美呈现，硬边剪影与颗粒质感符合风格，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-02": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "背部肩胛下方有明显黑色斑块瑕疵，属结构或画面脏点，其余特征符合。",
+    "reviewed_at": "2026-09-29T15:40:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与封闭空间表现完美，厚涂风格一致，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:40+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现青橙对比与蚀刻排线，伞对角线与建筑垂直线冲突明显，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:43+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:45+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:49+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现深蓝冷调与一点透视，湿润路面反光与远灯焦点契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:51+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与封闭空间表现完美，厚涂质感强烈，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:56+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:40:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，内容完整，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:01+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容要求完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:05+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-04": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "蝴蝶形态略显生硬，缺乏轻盈动势，部分结构不够清晰。",
+    "reviewed_at": "2026-09-29T15:41:07+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-06": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "头部未形成矩形负形，手部偏写实，与极简平涂要求略有偏差。",
+    "reviewed_at": "2026-09-29T15:41:11+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，青色光柱与无字碎片表现准确，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-05": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "海面浪花带较宽略超细波描述，其余核心特征与必须元素均完美保留。",
+    "reviewed_at": "2026-09-29T15:41:17+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:17+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青蓝红互补强烈，湿地反射清晰，人物等待姿态自然，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，无瑕疵，元素完整保留。",
+    "reviewed_at": "2026-09-29T15:41:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，结构无误，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-05": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "屏幕右下角存在疑似乱码/伪文字痕迹，扣除风格分。",
+    "reviewed_at": "2026-09-29T15:41:28+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "画面符合全灰度与垂直升腾要求，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:29+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白主调与蝴蝶动势完美呈现，光影柔和，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，内容元素完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:34+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:34+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黄黑二色与巨大三角光形特征，无多余元素与瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:36+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与封闭空间表现完美，厚涂质感佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:39+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求均完美呈现，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:40+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:43+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完整，冷暖对比明确，门框套叠与剪影人物符合设定，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:45+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:46+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，木刻排线与黑白高对比强烈，内容元素完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:48+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，米白侧脸与红蓝焦点保留完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:51+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:52+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黑白回环风格，结构完整，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红绿互补与斜坡构图完美，扁平矢量风格一致，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，三色克制，方块由密到疏消散，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:41:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青红对比与高角度几何特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合极简黑白风格，垂直光束与抽象形体清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青红对比与高角度几何特征完美呈现，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:12+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，紫黑白配色与巨物微小比例准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "厚涂笔触、深红背景与单一暖光完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "厚涂笔触与深红底色表现完美，单一暖光聚焦，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:27+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，黄黑主调与放射长影表现完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:32+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑黄对比强烈，三角光形与人物剪影完美契合风格要求，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-04": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "整体符合风格与内容要求，但人物面部出现写实细节，轻微打破极简平面剪影特征。",
+    "reviewed_at": "2026-09-29T15:42:42+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-05": {
+    "style_score": 5,
+    "content_score": 4,
+    "note": "风格特征完美契合，但手部手指结构略显僵硬融合，存在轻微解剖瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0150-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与长影特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:52+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红黑灰配色与分镜切割完美呈现，无乱码及结构瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:57+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-03": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "布带与蝴蝶边缘锐利，光效对比强略似舞台光；花瓶过暗，视觉核心略偏。",
+    "reviewed_at": "2026-09-29T15:42:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-03": {
+    "style_score": 5,
+    "content_score": 4,
+    "note": "主体玻璃漏斗呈现为高脚杯形态，属轻微偏差；风格特征稳定且无瑕疵。",
+    "reviewed_at": "2026-09-29T15:42:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "水彩晕染与深蓝冷调完美契合，多首面具结构清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:02+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，比例张力足，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:06+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黑黄二色与巨大三角光形，硬边平涂风格纯粹，主体清晰无瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "画面完美契合蓝夜冷调与一点透视，湿润路面反光自然，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现黑白骨架与红色天空，压迫感与颗粒质感极佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容要求完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，几何边缘干净，灰黑白分层明确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:19+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心视觉特征稳定，高饱和色彩与硬边几何表现完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:24+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合巨面切柱风格，蓝紫巨面、黑柱切割及观景塔等元素完整，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，金绿横带与侧脸轮廓完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:30+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "画面完美契合风格定义，青色光柱、无字照片碎片、中心人物等元素均准确呈现，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "厚涂笔触与深红背景、单一暖光完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:40+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红黑灰配色与分镜切割完美呈现，窗框与城市隐喻表达准确，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现深蓝冷调与一点透视，湿润反光与雾气氛围到位，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:43+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现三色关系与重复面孔包围节奏，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:48+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-02": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "站立人物手部结构模糊简化，存在轻微解剖瑕疵，整体风格与内容要求符合。",
+    "reviewed_at": "2026-09-29T15:43:50+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-04": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "手部边缘不够干净；未呈现孤立的无字相框物件。",
+    "reviewed_at": "2026-09-29T15:43:53+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红黑灰配色与分镜切割完美呈现，剪影清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，比例夸张，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:55+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，黄蓝渐变与左上放射动势准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:57+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白回环特征完美，几何精确，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:43:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:02+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合极简黑白与垂直光束特征，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0150-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红青互补与统一长影完美呈现，无乱码及结构瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:07+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，深绿留白与框中框结构完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:07+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "蓝橙二分明确，黑色剪影完整，纹理与平涂风格契合，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，紫蓝黑底与黄眼焦点准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:12+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，青红对比与高角度几何表现完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与厚涂质感完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青蓝红互补与湿地反射完美呈现，无乱码及结构瑕疵，完全符合风格与内容要求。",
+    "reviewed_at": "2026-09-29T15:44:17+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容均完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:20+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:24+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，黑白高对比与斜向雨线完整，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "全灰度与垂直升腾路径完美呈现，边缘融化与颗粒质感符合风格，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:28+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，无可见瑕疵，元素完整。",
+    "reviewed_at": "2026-09-29T15:44:30+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-04": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "背景右侧海报存在乱码符号瑕疵，其余风格与内容特征均符合。",
+    "reviewed_at": "2026-09-29T15:44:33+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合水彩感与蓝白主色调，水平切线与波纹扩散特征清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-04": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "红绿互补与斜坡构图达标，但人物手部结构及折叠椅腿部透视略显生硬。",
+    "reviewed_at": "2026-09-29T15:44:38+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合所有核心特征与必须保留元素，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:38+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现木刻排线与黑白高对比，斜向雨线动势强烈，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:43+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:44+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，黑绿红褐配色与对角光束准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:48+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:50+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:56+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青橙互补色与排线质感完美，伞对角线构图准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:44:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合黑黄二色与巨大三角光形，硬边平涂风格纯粹，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "全灰度与垂直升腾路径完美呈现，边缘融化与雾化质感符合风格，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，内容要求全部保留，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合极简黑白与垂直光束特征，衣架结构正确，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，色彩平衡，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白高对比与斜向雨线完美呈现，木刻排线风格纯粹，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:20+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，蓝紫巨面、黑柱切割及顶部微小人物尺度对比均精准呈现，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:20+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，三色关系与包围式节奏完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:27+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合极简黑白与垂直光束特征，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:32+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合风格特征，光柱、碎片及人物构图均无瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:32+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-04": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "收音机刻度盘存在伪文字/乱码瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，色彩平衡，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青蓝红互补与湿地反射完美呈现，无乱码文字及结构瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，米白侧脸与红蓝焦点保留完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:42+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容要求均完美符合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:49+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，冷暖对比明确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:53+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，色彩层次准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:45:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，黑色上升路径与红黄蓝终点保留完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:00+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-01": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "栏杆结构松散微歪，地面反光过强似水面；云体高光边缘略锐利，颗粒感偏弱。",
+    "reviewed_at": "2026-09-29T15:46:03+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0127-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，元素完整，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:06+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-02": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "缺失头部遮挡形成的矩形负形特征，其余风格与内容符合。",
+    "reviewed_at": "2026-09-29T15:46:10+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，对称、色彩、质感均完美呈现，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:11+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，黄黑紫高对比与放射长影表现完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:11+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:16+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，冷暖对比与条纹光切割到位，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:16+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红绿互补与斜坡垂直树特征完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:20+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，蓝紫巨面与黑柱切割对比强烈，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-06": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "画面出现明显的红色水面反射，违反了无复杂反射的风格要求。",
+    "reviewed_at": "2026-09-29T15:46:27+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:28+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "画面完美契合风格与内容要求，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:33+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，必须保留元素完整，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:33+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青橙色彩对比强烈，伞对角线与建筑垂直线构图准确，排线质感佳，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:38+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，青蓝红互补与湿地反射突出，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "笔触厚重，漩涡清晰且含藏眼，灰绿低饱和，姿态与光影均完美契合要求，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:44+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现蓝橙二分与黑色剪影，纸张纹理质感极佳，无任何可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与封闭空间表现完美，厚涂笔触到位，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:49+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-03": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "玻璃杯过于写实违背非摄影要求；前景台面纹理似地面致空间错乱；远处招牌疑似乱码。",
+    "reviewed_at": "2026-09-29T15:46:51+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合所有核心特征与必须保留元素，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，框中框结构清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:55+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，青红对比与高角度几何清晰，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:46:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，内容元素完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:00+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0123-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完整，灰黑白极简平涂与颗粒感表现良好，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:01+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，三色关系与包围节奏准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白灰层次分明，几何回环结构完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:07+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，青绿与红灯笼对比鲜明，水平对称完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-05": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "手部与纸面接触处结构模糊，存在解剖错误。",
+    "reviewed_at": "2026-09-29T15:47:09+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0146-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白二色与垂直光束构图完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:12+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青橙色调与对角线构图完美呈现，排线质感佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:16+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合深蓝冷调与一点透视，湿润路面反光细腻，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:17+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0126-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "厚涂笔触与深红背景表现完美，单一暖光聚焦桌面，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，黄蓝渐变与左上放射动势准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:20+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-04": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "水面反射过于清晰摄影化，缺乏柔颗粒与旧画布质感。",
+    "reviewed_at": "2026-09-29T15:47:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0144-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:29+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合双色平涂、纸张噪点及黑色剪影特征，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:31+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，烟发流体与淡蓝留白表现完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:33+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0141-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合紫黑白配色与巨物微小比例，线稿色块结合良好，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0136-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，渐变与放射动势准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:36+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，水彩晕染与多首面具表现极佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:38+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白主调明确，黑玫瑰、白布带与蝴蝶动势完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:42+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合黑白骨架与单一红色焦点，压迫感与颗粒质感极佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:43+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0149-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青橙色调对比强烈，伞对角线构图准确，排线与雨滴质感完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:46+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，红绿互补与几何色块表现完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:50+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，蓝白黑三色克制，方块由密到疏向上分解，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:52+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无瑕疵，完美呈现屋顶守望风格。",
+    "reviewed_at": "2026-09-29T15:47:52+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0157-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "深蓝冷调与一点透视完美呈现，湿润反光与雾气氛围到位，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:55+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白灰与帽檐侧光完美呈现，漫画块面与低角度构图高度契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:58+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合风格要求，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:47:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，水彩感与蓝白主色调表现良好，水平切线与玻璃水盆元素完整保留，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:02+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-05": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "球体未位于视觉中心且自身碎裂感偏弱，但整体黑灰低彩、喷绘颗粒及交叉手势等核心特征保留良好。",
+    "reviewed_at": "2026-09-29T15:48:05+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0155-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红绿互补与斜坡构图完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:06+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0131-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:08+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，冷暖对比明确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:10+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0135-03": {
+    "style_score": 5,
+    "content_score": 4,
+    "note": "风格特征完美，但缺失生成要求中的黄色夜灯元素。",
+    "reviewed_at": "2026-09-29T15:48:12+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现水彩感与蓝白主色调，水平切线与波纹扩散结构准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:13+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:15+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，元素完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:16+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，色彩与构图元素均准确保留，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:18+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0152-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:19+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0148-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:22+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0129-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白主调与黑玫绷带动势完美呈现，光影柔和，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，深青红烟冷暖对比强烈，低重心与上升线张力十足，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:28+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:29+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0120-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，全灰度与垂直升腾特征明显，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:33+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0154-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红黑灰配色与分镜切割完美呈现，漫画色块与颗粒质感符合风格，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:39+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-06": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "质感偏写实3D，植物缺乏纸剪影特征，色块不够干净，但内容要素完整。",
+    "reviewed_at": "2026-09-29T15:48:40+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，内容完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:44+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0137-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，青色光柱与无字碎片表现准确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白灰层次分明，回环与托举结构完整对称，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:49+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与必须保留元素均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:48:59+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，侧光、黑白灰及抽象徽记均无瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:05+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，无乱码及结构瑕疵，元素完整。",
+    "reviewed_at": "2026-09-29T15:49:10+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-03": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "侧光未清晰勾勒手部，其余核心特征及必须保留元素（深青红烟、低重心上升线）均完整。",
+    "reviewed_at": "2026-09-29T15:49:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0132-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "红蓝冲突与封闭空间表现完美，厚涂笔触与光影对撞极具张力，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青红对比与高角度几何完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:19+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0142-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，冷暖对比明确，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0117-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无乱码、结构错误或元素缺失。",
+    "reviewed_at": "2026-09-29T15:49:24+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0124-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征稳定，蓝紫巨面与黑柱切割完美呈现，尺度对比强烈，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:27+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:30+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0128-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现蓝黑白三色与重复面孔包围节奏，颗粒质感佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:32+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-05": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "环境偏灰黑，灰绿特征弱；人物手部结构模糊，存在轻微解剖瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:34+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "水彩晕染与冷调特征完美，多首烟雾与人物结构准确，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:35+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美契合，核心元素完整无瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:38+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:39+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "油画笔触、灰绿环境、黑白旋涡藏眼及手托下巴姿态均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:41+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0160-06": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "地面存在写实反射违背要求，且旧海报颗粒质感偏弱。",
+    "reviewed_at": "2026-09-29T15:49:44+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0151-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:45+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:45+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0121-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合黑黄二色与巨大三角光形，硬边平涂风格稳定，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:48+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0159-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，内容完整，无明显瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:49+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0133-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "蓝白黑三色克制，方块由密到疏向上消散，硬边平涂干净，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "深青红烟对比与低重心构图完美呈现，厚涂质感佳，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:49:54+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美符合双色二分、黑色剪影及纸张纹理特征，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:00+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0130-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，构图与配色精准，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:00+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0153-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青红对比与高角度几何构图完美，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:04+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0114-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:05+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0111-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美呈现，侧脸、几何群与红蓝焦点均准确无误，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:10+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美契合风格特征，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:11+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0113-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "黑白单色与硬边几何回环特征完美呈现，结构严谨，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:14+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0138-01": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征与内容要求完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:15+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0112-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:19+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0156-06": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "画面加入了写实光影过渡（脚下长投影），违背了平面一致无写实光影的核心特征。",
+    "reviewed_at": "2026-09-29T15:50:21+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0118-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:25+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0147-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:26+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0115-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完美呈现，横带切过侧脸，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:30+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0116-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征完美，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:32+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容完美契合，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:34+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0158-05": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "深青红烟对比明确，坐姿低重心与烟雾上升线完美呈现，厚涂质感佳，无瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0125-01": {
+    "style_score": 4,
+    "content_score": 5,
+    "note": "容器边缘呈现均匀强亮线，略违背“少量边缘高光”及玻璃质感要求。",
+    "reviewed_at": "2026-09-29T15:50:37+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0145-02": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "青蓝红互补与湿地反射完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:39+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0139-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "核心特征完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:42+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0140-06": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "完美呈现深蓝橙光与框中框，条纹光等距切割，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:44+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0119-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格与内容特征完美呈现，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:50:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0122-06": {
+    "style_score": 4,
+    "content_score": 4,
+    "note": "色调构图符合。栏杆略生硬；风暴上宽下窄，若倒置指形态则有偏差；海面颗粒感不足。",
+    "reviewed_at": "2026-09-29T15:51:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0134-04": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "画面完美呈现水彩质感与蓝白主色调，水线清晰切过浮标，波纹自然，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:54:47+0800",
+    "model": "qwen3.7-plus"
+  },
+  "Aix0143-03": {
+    "style_score": 5,
+    "content_score": 5,
+    "note": "风格特征稳定，主体完整，无可见瑕疵。",
+    "reviewed_at": "2026-09-29T15:54:57+0800",
+    "model": "qwen3.7-plus"
+  }
+}

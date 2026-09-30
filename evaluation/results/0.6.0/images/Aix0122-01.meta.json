@@ -1,0 +1,24 @@
+{
+  "created": 1790655143,
+  "usage": {
+    "input_tokens": 203,
+    "output_tokens": 1584,
+    "total_tokens": 1787,
+    "input_tokens_details": {
+      "text_tokens": 203,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在海边观景台中，一个人物以清晰轮廓面对头顶倒置风暴，保持蓝绿海天，表现静止身体与狂暴思绪。\n必须保留：蓝绿海天；倒置白色风暴\n视觉风格：写实与超现实数字绘画混合，云体边缘柔软、人物轮廓简化。；蓝绿环境、白色云体和黑色人物形成冷色层次。；人物位于下方，风暴垂直连接天空，形成天地贯通的长轴。；海天漫射光与云体高亮并置，避免多彩霓虹。；云雾软纹理、海面细波与轻微颗粒空气感。\n画幅比例：2:3\n避免出现：灾难电影式爆炸；过度写实人物细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/8e98a4a456ad957d7dd205fbb2d48576.png"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0155",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0155.md",
+  "samples": [
+    {
+      "case_id": "Aix0155-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在几何山坡中，一个人物以清晰轮廓面对红坡、绿树与坐姿，保持红绿互补，表现静止观察与自然尺度。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，红绿互补与几何色块表现完美，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-01.json"
+    },
+    {
+      "case_id": "Aix0155-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与红坡、绿树与坐姿形成强烈的方向或尺度关系，留出负空间，延续斜坡与垂直树。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红绿互补与斜坡垂直树特征完美，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-02.json"
+    },
+    {
+      "case_id": "Aix0155-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：红色台阶被红坡、绿树与坐姿重新组织成异常视觉核心，背景保持简洁并表达静止观察与自然尺度。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红绿互补与斜坡构图完美，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-03.json"
+    },
+    {
+      "case_id": "Aix0155-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：折叠椅作为孤立日常物件置于几何山坡的构图中，使用红坡、绿树与坐姿制造隐喻。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-04.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "红绿互补与斜坡构图达标，但人物手部结构及折叠椅腿部透视略显生硬。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-04.json"
+    },
+    {
+      "case_id": "Aix0155-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以红坡、绿树与坐姿作为主结构，采用红绿互补的构图秩序，把静止观察与自然尺度转译成环境叙事。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红绿互补与斜坡构图完美，扁平矢量风格一致，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-05.json"
+    },
+    {
+      "case_id": "Aix0155-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个几何山坡场景保留红坡、绿树与坐姿与斜坡与垂直树的视觉张力，避免文字和多余装饰。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0155-06.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "风格特征符合，但人物手部存在明显解剖结构错误，手指融合变形，予以扣分。",
+      "generation_ref": "results/0.6.0/generations/Aix0155-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

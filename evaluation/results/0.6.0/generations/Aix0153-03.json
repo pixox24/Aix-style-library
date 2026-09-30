@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：路灯被高角度与红色信号重新组织成异常视觉核心，背景保持简洁并表达个体等待与城市规则。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+  "image_sha256": "d3849221ace399f22a553200d4db552178484d833b2e3849b5561ded6f5e35ec",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：门钥匙被发光门与双人剪影重新组织成异常视觉核心，背景保持简洁并表达相逢与即将告别。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+  "image_sha256": "a43cac114c491a0be423c9873bc217b2dc33ebb3d2e836383204bb86ffb6a59f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 41.2
+  }
+}

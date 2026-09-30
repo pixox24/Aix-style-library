@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：在无出口楼梯间中，一个人物以清晰轮廓面对楼梯与重复面孔，保持蓝黑白，表现孤立个体与群体凝视。\n必须保留：蓝黑白；重复面孔节奏\n视觉风格：清晰漫画线条结合平涂块面，重复面孔只需概括表情结构。；冷蓝背景、黑衣和白脸形成有限三色关系。；楼梯提供纵深，重复面孔围成包围式节奏，主体保持单一焦点。；均匀冷光，不用戏剧性写实阴影破坏漫画平面。；纸面颗粒、线稿抖动和少量套印偏移。\n画幅比例：2:3\n避免出现：每张脸都写实细描；欢快糖果色；乱码文字与伪文字",
+  "image_sha256": "20a8c773fcfec9f78f35fce0ad62d1d6d9709e8dab5cfbccfc55a33c9ecbd6be",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 37.6
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790663795,
+  "usage": {
+    "input_tokens": 201,
+    "output_tokens": 1584,
+    "total_tokens": 1785,
+    "input_tokens_details": {
+      "text_tokens": 201,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与红坡、绿树与坐姿形成强烈的方向或尺度关系，留出负空间，延续斜坡与垂直树。\n必须保留：红绿互补；斜坡与垂直树\n视觉风格：扁平矢量色块，轮廓几何化但人物姿态清楚。；红与绿形成强互补，黑或深青用于细节和轮廓。；斜坡提供强对角线，树和人物作为垂直锚点打破斜向压力。；均匀日落平光，依靠色块分割而非阴影塑形。；平滑色面配细微印刷噪点。\n画幅比例：2:3\n避免出现：写实自然光；过多装饰纹理；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/ab4487c59733922214196ac9f69f2c8f.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与方块头部向上解体形成强烈的方向或尺度关系，留出负空间，延续由密到疏的方块。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+  "image_sha256": "fa8dca7690be0b439d521f200a18fd27fd55169fff431706f9b5a6399f5d7f5d",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 67.1
+  }
+}

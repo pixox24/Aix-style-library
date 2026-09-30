@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0113",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0113.md",
+  "samples": [
+    {
+      "case_id": "Aix0113-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在空旷几何房间中，一个人物以清晰轮廓面对黑白无限几何，保持黑白单色，表现理性秩序与无解循环。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白单色与硬边几何回环特征完美呈现，结构严谨，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-01.json"
+    },
+    {
+      "case_id": "Aix0113-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与黑白无限几何形成强烈的方向或尺度关系，留出负空间，延续完整回环。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白回环特征完美，几何精确，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-02.json"
+    },
+    {
+      "case_id": "Aix0113-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：怀表被黑白无限几何重新组织成异常视觉核心，背景保持简洁并表达理性秩序与无解循环。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合黑白几何与无限回环特征，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-03.json"
+    },
+    {
+      "case_id": "Aix0113-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：环形台灯作为孤立日常物件置于空旷几何房间的构图中，使用黑白无限几何制造隐喻。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "完美符合黑白回环风格，结构完整，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-04.json"
+    },
+    {
+      "case_id": "Aix0113-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以黑白无限几何作为主结构，采用黑白单色的构图秩序，把理性秩序与无解循环转译成环境叙事。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白灰层次分明，几何回环结构完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-05.json"
+    },
+    {
+      "case_id": "Aix0113-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个空旷几何房间场景保留黑白无限几何与完整回环的视觉张力，避免文字和多余装饰。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0113-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "黑白灰层次分明，回环与托举结构完整对称，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0113-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

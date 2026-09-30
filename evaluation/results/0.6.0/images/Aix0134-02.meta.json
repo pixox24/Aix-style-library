@@ -1,0 +1,24 @@
+{
+  "created": 1790658124,
+  "usage": {
+    "input_tokens": 185,
+    "output_tokens": 1584,
+    "total_tokens": 1769,
+    "input_tokens_details": {
+      "text_tokens": 185,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与水面切过头部形成强烈的方向或尺度关系，留出负空间，延续水平切线。\n必须保留：蓝白水波；水平切线\n视觉风格：水彩感数字绘画，流线柔软，人物与水面边界清楚。；蓝色和白色为主，加入极少灰青建立水下深度。；水平水面切过人物头部，波纹向四周扩散形成静态节奏。；柔和顶光穿过水面，不使用强烈水下电影光。；半透明水纹、细颗粒和纸面晕染。\n画幅比例：2:3\n避免出现：浑浊恐怖水底；装饰性可读文字；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/edc4cbcc450e41e0da2b1f33c96be7d1.png"
+    }
+  ]
+}

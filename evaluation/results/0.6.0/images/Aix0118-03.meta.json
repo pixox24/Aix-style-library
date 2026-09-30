@@ -1,0 +1,24 @@
+{
+  "created": 1790654304,
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 1584,
+    "total_tokens": 1773,
+    "input_tokens_details": {
+      "text_tokens": 189,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色唱片被黑球与几何碎片重新组织成异常视觉核心，背景保持简洁并表达防御姿态与自我崩解。\n必须保留：黑灰低彩；大块几何碎裂\n视觉风格：粗颗粒喷绘与硬边几何结合，保持手部结构清晰。；灰白背景、黑色主体和少量中灰形成低彩度冲突。；交叉手势构成前景屏障，球体位于视觉中心并向外碎裂。；平光环境中以黑白明度强调球体重量。；喷墨颗粒、粗糙边缘与少量纸张噪点。\n画幅比例：2:3\n避免出现：过度写实解剖；明亮糖果色；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/92a99b34ac9ffc60479f5171fa45c8b3.png"
+    }
+  ]
+}

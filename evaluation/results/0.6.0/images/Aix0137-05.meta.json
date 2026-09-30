@@ -1,0 +1,24 @@
+{
+  "created": 1790658942,
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 1584,
+    "total_tokens": 1781,
+    "input_tokens_details": {
+      "text_tokens": 197,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：远景以青色光束与悬浮碎片作为主结构，采用青色光柱的构图秩序，把记忆展示与无声审讯转译成环境叙事。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/931ba8637314a474ba8e293a8fa33e5b.png"
+    }
+  ]
+}

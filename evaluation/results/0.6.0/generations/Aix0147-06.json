@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个无灯屋顶场景保留风衣剪影与抽象徽记与帽檐侧光的视觉张力，避免文字和多余装饰。\n必须保留：黑白灰；帽檐侧光\n视觉风格：粗线条漫画渲染与概括明暗结合，避免复制具体超级英雄标志。；黑白灰为主，徽记可用少量冷白或灰蓝作焦点。；低角度人物占据画面中心，背景留黑制造未知空间。；单一侧光勾出帽檐和肩线，不加入炫目的城市光效。；墨线、块面阴影和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：现成品牌标志；写实肌肉细节；乱码文字与伪文字",
+  "image_sha256": "85812303130418d9d090468badd7bc647e424315b909ab17f5b04910614a1d7e",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 32.9
+  }
+}

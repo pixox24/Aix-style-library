@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个青绿水边小镇场景保留房屋与红灯倒影与水平对称的视觉张力，避免文字和多余装饰。\n必须保留：青绿与一点红；水平对称\n视觉风格：细腻数字绘画与概括建筑结合，水面反射柔和但不摄影化。；青绿色环境配少量红色灯笼作为唯一暖色焦点。；水平水线建立上下对称，人物位于岸边作为尺度锚点。；低照度夜光与灯笼暖光并置，整体保持安静。；水面细波、柔颗粒和轻微旧画布质感。\n画幅比例：2:3\n避免出现：可读招牌文字；喧闹街景；乱码文字与伪文字",
+  "image_sha256": "16ed037007b344f4b94727e22efd71ff8f1144430a3ccf5f9c2d1ab5faeb5957",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 56.6
+  }
+}

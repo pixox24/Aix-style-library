@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：圆形天窗作为孤立日常物件置于无边紫色大厅的构图中，使用巨眼背景与微小人影制造隐喻。\n必须保留：紫黑白；巨物与微小比例\n视觉风格：线稿与平面色块结合，巨眼边缘清晰、人物保持剪影化。；紫色背景为主，黑色主体与白色高光建立凝视焦点。；巨眼作为背景圆形结构，人物位于下方形成极端比例。；平面光与局部白色高光，不使用真实湿润眼球。；少量印刷颗粒、线稿纹理和干净色面。\n画幅比例：2:3\n避免出现：写实眼球细节；温暖多彩背景；乱码文字与伪文字",
+  "image_sha256": "555772417d05e9c840e0d90b2758abbdd70605c2e17c2e41b5324bd0d942b8f3",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.8
+  }
+}

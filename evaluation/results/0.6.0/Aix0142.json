@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0142",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0142.md",
+  "samples": [
+    {
+      "case_id": "Aix0142-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在夜间庭院入口中，一个人物以清晰轮廓面对发光门与双人剪影，保持蓝紫暗部，表现相逢与即将告别。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，冷暖对比明确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-01.json"
+    },
+    {
+      "case_id": "Aix0142-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与发光门与双人剪影形成强烈的方向或尺度关系，留出负空间，延续黄门逆光。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，冷暖对比明确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-02.json"
+    },
+    {
+      "case_id": "Aix0142-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：门钥匙被发光门与双人剪影重新组织成异常视觉核心，背景保持简洁并表达相逢与即将告别。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-03.json"
+    },
+    {
+      "case_id": "Aix0142-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：盆栽作为孤立日常物件置于夜间庭院入口的构图中，使用发光门与双人剪影制造隐喻。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，冷暖对比明确，门框套叠与剪影人物符合设定，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-04.json"
+    },
+    {
+      "case_id": "Aix0142-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以发光门与双人剪影作为主结构，采用蓝紫暗部的构图秩序，把相逢与即将告别转译成环境叙事。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，冷暖对比明确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-05.json"
+    },
+    {
+      "case_id": "Aix0142-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个夜间庭院入口场景保留发光门与双人剪影与黄门逆光的视觉张力，避免文字和多余装饰。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0142-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "质感偏写实3D，植物缺乏纸剪影特征，色块不够干净，但内容要素完整。",
+      "generation_ref": "results/0.6.0/generations/Aix0142-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

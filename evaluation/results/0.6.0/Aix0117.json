@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0117",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0117.md",
+  "samples": [
+    {
+      "case_id": "Aix0117-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深蓝演讲台中，一个人物以清晰轮廓面对蓝黄能量柱，保持深蓝剪影，表现沉稳外壳与灵感爆发。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美符合要求，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-01.json"
+    },
+    {
+      "case_id": "Aix0117-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与蓝黄能量柱形成强烈的方向或尺度关系，留出负空间，延续蓝黄垂直柱。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-02.json"
+    },
+    {
+      "case_id": "Aix0117-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：电池被蓝黄能量柱重新组织成异常视觉核心，背景保持简洁并表达沉稳外壳与灵感爆发。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-03.json"
+    },
+    {
+      "case_id": "Aix0117-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：台式麦克风作为孤立日常物件置于深蓝演讲台的构图中，使用蓝黄能量柱制造隐喻。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，内容元素完整无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-04.json"
+    },
+    {
+      "case_id": "Aix0117-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以蓝黄能量柱作为主结构，采用深蓝剪影的构图秩序，把沉稳外壳与灵感爆发转译成环境叙事。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无可见瑕疵，元素完整。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-05.json"
+    },
+    {
+      "case_id": "Aix0117-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深蓝演讲台场景保留蓝黄能量柱与蓝黄垂直柱的视觉张力，避免文字和多余装饰。\n必须保留：深蓝剪影；蓝黄垂直柱\n视觉风格：现代矢量平涂，能量形体采用清晰火焰状几何边缘。；深蓝底与亮蓝、亮黄形成有限的互补高对比。；人物垂直轴与能量柱重合，顶部爆发打破静态平衡。；无复杂光影，亮色块自身承担视觉发光感。；干净色面配少量颗粒，不使用真实火焰烟尘。\n画幅比例：2:3\n避免出现：写实火焰材质；多色霓虹渐变；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0117-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美呈现，无乱码、结构错误或元素缺失。",
+      "generation_ref": "results/0.6.0/generations/Aix0117-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

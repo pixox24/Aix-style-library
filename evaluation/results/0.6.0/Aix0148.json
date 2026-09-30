@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0148",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0148.md",
+  "samples": [
+    {
+      "case_id": "Aix0148-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深蓝城市屋顶中，一个人物以清晰轮廓面对屋顶与远城灯火，保持深蓝留白，表现个体守望与城市疏离。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-01.json"
+    },
+    {
+      "case_id": "Aix0148-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与屋顶与远城灯火形成强烈的方向或尺度关系，留出负空间，延续少量暖黄窗灯。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-02.json"
+    },
+    {
+      "case_id": "Aix0148-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：望远镜被屋顶与远城灯火重新组织成异常视觉核心，背景保持简洁并表达个体守望与城市疏离。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-03.json"
+    },
+    {
+      "case_id": "Aix0148-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：屋顶天线作为孤立日常物件置于深蓝城市屋顶的构图中，使用屋顶与远城灯火制造隐喻。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-04.json"
+    },
+    {
+      "case_id": "Aix0148-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以屋顶与远城灯火作为主结构，采用深蓝留白的构图秩序，把个体守望与城市疏离转译成环境叙事。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，元素完整无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-05.json"
+    },
+    {
+      "case_id": "Aix0148-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深蓝城市屋顶场景保留屋顶与远城灯火与少量暖黄窗灯的视觉张力，避免文字和多余装饰。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0148-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，无瑕疵，完美呈现屋顶守望风格。",
+      "generation_ref": "results/0.6.0/generations/Aix0148-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

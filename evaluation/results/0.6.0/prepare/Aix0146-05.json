@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0146",
+    "style_name": "白束悬问",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0146/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：远景以垂直白束与居中的抽象形体作为主结构，采用黑白二色的构图秩序，把孤立与未解问题转译成环境叙事。\n必须保留：黑白二色；垂直留白\n视觉风格：极简硬边图形，中心形体只保留必要轮廓，不追求写实材质。；黑白二色形成最高明度对比，避免额外颜色。；垂直光束切出长条负空间，抽象中心形体位于中心偏下。；单一顶光，光束边缘清晰并保留大片黑暗。；平滑黑面与极少颗粒，突出空旷。\n画幅比例：2:3\n避免出现：真实痛苦或伤害；复杂道具背景；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0146",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "b384d84f06ac04075a7590f7f26b5ee6d9f8a3476bb31b37b344413549a0d017"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

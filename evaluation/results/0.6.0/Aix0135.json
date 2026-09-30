@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0135",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0135.md",
+  "samples": [
+    {
+      "case_id": "Aix0135-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在紫蓝角落房间中，一个人物以清晰轮廓面对巨型多眼阴影，保持紫蓝黑底，表现微小个体与被监视恐惧。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-01.json"
+    },
+    {
+      "case_id": "Aix0135-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与巨型多眼阴影形成强烈的方向或尺度关系，留出负空间，延续少量黄眼焦点。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-02.json"
+    },
+    {
+      "case_id": "Aix0135-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黄色夜灯被巨型多眼阴影重新组织成异常视觉核心，背景保持简洁并表达微小个体与被监视恐惧。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-03.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格特征完美，但缺失生成要求中的黄色夜灯元素。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-03.json"
+    },
+    {
+      "case_id": "Aix0135-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑色毛毯作为孤立日常物件置于紫蓝角落房间的构图中，使用巨型多眼阴影制造隐喻。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-04.json"
+    },
+    {
+      "case_id": "Aix0135-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以巨型多眼阴影作为主结构，采用紫蓝黑底的构图秩序，把微小个体与被监视恐惧转译成环境叙事。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，紫蓝黑底与黄眼焦点准确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-05.json"
+    },
+    {
+      "case_id": "Aix0135-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个紫蓝角落房间场景保留巨型多眼阴影与少量黄眼焦点的视觉张力，避免文字和多余装饰。\n必须保留：紫蓝黑底；少量黄眼焦点\n视觉风格：扁平数字插画，阴影轮廓大而简洁，眼点保持图形化。；紫蓝地面与黑色巨影为主，黄色眼点作为有限焦点。；小人物置于角落，巨影占据背景并形成包围弧线。；低照度平光，黄色眼点只做图形亮点，不做写实发光。；干净色块、轻微纸张噪点和少量边缘粗糙。\n画幅比例：2:3\n避免出现：可爱怪物表情；眼睛数量过度写实；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0135-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，色彩与构图完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0135-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790663158,
+  "usage": {
+    "input_tokens": 183,
+    "output_tokens": 1584,
+    "total_tokens": 1767,
+    "input_tokens_details": {
+      "text_tokens": 183,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与高角度与红色信号形成强烈的方向或尺度关系，留出负空间，延续高角度几何。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/0d93d22a1da36dd1acc6c0a9a17779fd.png"
+    }
+  ]
+}

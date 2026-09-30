@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与垂直白束和居中的抽象形体形成强烈方向或尺度关系，留出负空间，延续垂直留白。\n必须保留：黑白二色；垂直留白\n视觉风格：极简硬边图形，中心形体只保留必要轮廓，不追求写实材质。；黑白二色形成最高明度对比，避免额外颜色。；垂直光束切出长条负空间，抽象中心形体位于中心偏下。；单一顶光，光束边缘清晰并保留大片黑暗。；平滑黑面与极少颗粒，突出空旷。\n画幅比例：2:3\n避免出现：真实痛苦或伤害；复杂道具背景；乱码文字与伪文字",
+  "image_sha256": "d8598e54c6c5dd23b99030e30f336665423b9afadaf2df452366f22902d9f93f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 32.6
+  }
+}

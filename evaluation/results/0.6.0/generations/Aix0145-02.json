@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与红霓虹与青蓝雨幕形成强烈的方向或尺度关系，留出负空间，延续湿地反射。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+  "image_sha256": "541a91a232416be8dddcc572b612e6baa368dcc2e953aa0a7ec8e6bede78a6e4",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 34.5
+  }
+}

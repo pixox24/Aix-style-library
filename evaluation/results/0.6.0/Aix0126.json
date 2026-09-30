@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0126",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0126.md",
+  "samples": [
+    {
+      "case_id": "Aix0126-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深夜工作室中，一个人物以清晰轮廓面对深红室内与孤灯，保持深红底色，表现专注动作与压抑环境。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与深红底色表现完美，单一暖光聚焦，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-01.json"
+    },
+    {
+      "case_id": "Aix0126-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与深红室内与孤灯形成强烈的方向或尺度关系，留出负空间，延续单一暖光。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与深红背景、单一暖光完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-02.json"
+    },
+    {
+      "case_id": "Aix0126-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：钢笔被深红室内与孤灯重新组织成异常视觉核心，背景保持简洁并表达专注动作与压抑环境。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触、深红背景与单一暖光完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-03.json"
+    },
+    {
+      "case_id": "Aix0126-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧台灯作为孤立日常物件置于深夜工作室的构图中，使用深红室内与孤灯制造隐喻。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "厚涂笔触与深红背景表现完美，单一暖光聚焦桌面，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-04.json"
+    },
+    {
+      "case_id": "Aix0126-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以深红室内与孤灯作为主结构，采用深红底色的构图秩序，把专注动作与压抑环境转译成环境叙事。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-05.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "手部与纸面接触处结构模糊，存在解剖错误。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-05.json"
+    },
+    {
+      "case_id": "Aix0126-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深夜工作室场景保留深红室内与孤灯与单一暖光的视觉张力，避免文字和多余装饰。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0126-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0126-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

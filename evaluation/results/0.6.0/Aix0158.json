@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0158",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0158.md",
+  "samples": [
+    {
+      "case_id": "Aix0158-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深青晚间房间中，一个人物以清晰轮廓面对红烟与静坐人物，保持深青红烟，表现记忆升腾与时间流逝。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "深青红烟冷暖对比准确，低重心与上升线构图完美，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-01.json"
+    },
+    {
+      "case_id": "Aix0158-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与红烟与静坐人物形成强烈的方向或尺度关系，留出负空间，延续低重心到上升线。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-02.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "站立人物手部结构模糊简化，存在轻微解剖瑕疵，整体风格与内容要求符合。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-02.json"
+    },
+    {
+      "case_id": "Aix0158-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧烟斗被红烟与静坐人物重新组织成异常视觉核心，背景保持简洁并表达记忆升腾与时间流逝。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-03.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "侧光未清晰勾勒手部，其余核心特征及必须保留元素（深青红烟、低重心上升线）均完整。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-03.json"
+    },
+    {
+      "case_id": "Aix0158-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：木椅作为孤立日常物件置于深青晚间房间的构图中，使用红烟与静坐人物制造隐喻。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "深青红烟对比与低重心构图完美呈现，厚涂质感佳，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-04.json"
+    },
+    {
+      "case_id": "Aix0158-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以红烟与静坐人物作为主结构，采用深青红烟的构图秩序，把记忆升腾与时间流逝转译成环境叙事。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "深青红烟对比明确，坐姿低重心与烟雾上升线完美呈现，厚涂质感佳，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-05.json"
+    },
+    {
+      "case_id": "Aix0158-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深青晚间房间场景保留红烟与静坐人物与低重心到上升线的视觉张力，避免文字和多余装饰。\n必须保留：深青红烟；低重心到上升线\n视觉风格：柔和数字厚涂与简化人物结合，烟雾流动但不写实燃烧。；深青环境与红色烟雾形成冷暖单焦点关系。；坐姿低重心与烟雾向上升腾形成时间方向。；柔和侧光勾出手和烟雾，背景保持安静暗部。；烟雾柔边、轻颗粒和旧画布质感。\n画幅比例：2:3\n避免出现：真实香烟品牌；疾病或伤口描写；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0158-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，深青红烟冷暖对比强烈，低重心与上升线张力十足，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0158-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

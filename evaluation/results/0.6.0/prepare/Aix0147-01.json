@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0147",
+    "style_name": "暗夜守徽",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0147/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：在无灯屋顶中，一个人物以清晰轮廓面对风衣剪影与抽象徽记，保持黑白灰，表现隐秘身份与守护责任。\n必须保留：黑白灰；帽檐侧光\n视觉风格：粗线条漫画渲染与概括明暗结合，避免复制具体超级英雄标志。；黑白灰为主，徽记可用少量冷白或灰蓝作焦点。；低角度人物占据画面中心，背景留黑制造未知空间。；单一侧光勾出帽檐和肩线，不加入炫目的城市光效。；墨线、块面阴影和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：现成品牌标志；写实肌肉细节；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0147",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "29deb5e4c4739b7fbb6f7625a3a51f51489e99f4b7568eaf62821aead5b24dde"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

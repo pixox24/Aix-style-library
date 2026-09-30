@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0132",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0132.md",
+  "samples": [
+    {
+      "case_id": "Aix0132-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在狭小出租屋中，一个人物以清晰轮廓面对红室与蓝窗光，保持红蓝冲突，表现瘫坐身体与躁动环境。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与厚涂质感完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-01.json"
+    },
+    {
+      "case_id": "Aix0132-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与红室与蓝窗光形成强烈的方向或尺度关系，留出负空间，延续封闭室内。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与封闭空间表现完美，厚涂笔触到位，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-02.json"
+    },
+    {
+      "case_id": "Aix0132-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：单人椅被红室与蓝窗光重新组织成异常视觉核心，背景保持简洁并表达瘫坐身体与躁动环境。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与封闭空间表现完美，厚涂质感强烈，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-03.json"
+    },
+    {
+      "case_id": "Aix0132-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：窗帘作为孤立日常物件置于狭小出租屋的构图中，使用红室与蓝窗光制造隐喻。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与封闭空间表现完美，厚涂风格一致，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-04.json"
+    },
+    {
+      "case_id": "Aix0132-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以红室与蓝窗光作为主结构，采用红蓝冲突的构图秩序，把瘫坐身体与躁动环境转译成环境叙事。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与封闭空间表现完美，厚涂笔触与光影对撞极具张力，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-05.json"
+    },
+    {
+      "case_id": "Aix0132-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个狭小出租屋场景保留红室与蓝窗光与封闭室内的视觉张力，避免文字和多余装饰。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0132-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红蓝冲突与封闭空间表现完美，厚涂质感佳，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0132-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

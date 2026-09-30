@@ -1,0 +1,37 @@
+{
+  "created": 1790661748,
+  "usage": {
+    "completion_tokens": 1584,
+    "completion_tokens_details": {
+      "image_tokens": 1584,
+      "reasoning_tokens": 0,
+      "text_tokens": 0
+    },
+    "estimated": true,
+    "input_tokens": 108,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 0,
+      "text_tokens": 108
+    },
+    "output_tokens": 1584,
+    "output_tokens_details": {
+      "image_tokens": 1584,
+      "reasoning_tokens": 0,
+      "text_tokens": 0
+    },
+    "prompt_tokens": 108,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 0,
+      "text_tokens": 108
+    },
+    "total_tokens": 1692
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个无灯屋顶场景保留风衣剪影与抽象徽记与帽檐侧光的视觉张力，避免文字和多余装饰。\n必须保留：黑白灰；帽檐侧光\n视觉风格：粗线条漫画渲染与概括明暗结合，避免复制具体超级英雄标志。；黑白灰为主，徽记可用少量冷白或灰蓝作焦点。；低角度人物占据画面中心，背景留黑制造未知空间。；单一侧光勾出帽檐和肩线，不加入炫目的城市光效。；墨线、块面阴影和轻微纸张颗粒。\n画幅比例：2:3\n避免出现：现成品牌标志；写实肌肉细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/f0c0e94e9eb6f79104712a6da75b7d4a.png"
+    }
+  ]
+}

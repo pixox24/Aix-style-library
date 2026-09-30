@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以放射状半透明手臂作为主结构，采用黄蓝渐变的构图秩序，把外在冷静与内在泛滥转译成环境叙事。\n必须保留：黄蓝渐变；左上放射\n视觉风格：硬边人物与软边幽灵手臂并置，保持现代社论插画的概括度。；亮黄至蓝紫的渐变与深蓝人物形成强互补关系。；主体位于下方，手臂沿对角线向左上扩散，形成放射动势。；背景使用平滑渐变，手臂以半透明叠层表达非实体感。；旧印刷颗粒、衣物粗糙面和柔化手臂边缘。\n画幅比例：2:3\n避免出现：写实断肢效果；均匀彩虹背景；乱码文字与伪文字",
+  "image_sha256": "8d9e28efb08d6f314114c4c5f7baceaf9d1ea04ec3ca96d82bc8c114ead323f3",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.0
+  }
+}

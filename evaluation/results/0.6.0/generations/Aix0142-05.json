@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以发光门与双人剪影作为主结构，采用蓝紫暗部的构图秩序，把相逢与即将告别转译成环境叙事。\n必须保留：蓝紫暗部；黄门逆光\n视觉风格：简化叙事插画与清晰剪影结合，植物只做前景节奏。；蓝紫暗部与暖黄门光形成明确冷暖焦点。；门框套门框，人物位于光口中央并以剪影保留未知感。；门内单一暖光，环境保持低照度平面层次。；轻颗粒、植物纸剪影和干净色块。\n画幅比例：2:3\n避免出现：可读对话文字；复杂室内透视；乱码文字与伪文字",
+  "image_sha256": "b86a30fffaeb743c8e884f6458802eae0418c2d28608c7f49cdcf1e8e323b72b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 71.0
+  }
+}

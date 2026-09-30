@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：在空旷灰色车站中，一个人物以清晰轮廓面对烟雾黑球离首，保持全灰度，表现肉身稳定与意识脱离。\n必须保留：全灰度；垂直升腾\n视觉风格：柔和数字绘画，形体边缘轻微融化但人物姿态仍清楚。；黑白灰单色阶，依靠明度而非色相变化建立层次。；下方实体与上方脱离形体形成连续的垂直升腾路径。；低对比漫射光，亮部只用于托住烟雾边缘。；细腻雾化、柔颗粒和少量铅灰画布纹理。\n画幅比例：2:3\n避免出现：鲜艳彩色焦点；硬边信息图风；乱码文字与伪文字",
+  "image_sha256": "3a6a84296750da956867eac3badb28bbec608a26e35c2da771cfe0c85def5997",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 44.0
+  }
+}

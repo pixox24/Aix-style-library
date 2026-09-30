@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0121",
+    "style_name": "黄光三角",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0121/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：侧身或背影人物与巨大三角光束形成强烈的方向或尺度关系，留出负空间，延续巨大三角光形。\n必须保留：黑黄二色；巨大三角光形\n视觉风格：硬边矢量平涂，轮廓简洁，避免写实毛发和复杂背景。；深黑与亮黄形成近乎二色的极端对比。；小尺度主体位于光束底部，三角形形成从上向下的压迫与庇护。；单一大面积光形，无体积光细节和多光源。；纯净色面，可加入极轻的印刷颗粒保持平面感。\n画幅比例：2:3\n避免出现：丰富渐变光效；写实舞台设备；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0121",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "f61eb03604bf579a440e4853d22af1c38548d2812d37b9411f4a11f7f51822b8"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0153",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0153.md",
+  "samples": [
+    {
+      "case_id": "Aix0153-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在青色十字路口中，一个人物以清晰轮廓面对高角度与红色信号，保持青红对比，表现个体等待与城市规则。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青红对比与高角度几何完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-01.json"
+    },
+    {
+      "case_id": "Aix0153-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与高角度与红色信号形成强烈的方向或尺度关系，留出负空间，延续高角度几何。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青红对比与高角度几何特征完美呈现，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-02.json"
+    },
+    {
+      "case_id": "Aix0153-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：路灯被高角度与红色信号重新组织成异常视觉核心，背景保持简洁并表达个体等待与城市规则。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，青红对比与高角度几何表现完美，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-03.json"
+    },
+    {
+      "case_id": "Aix0153-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：红色信号牌作为孤立日常物件置于青色十字路口的构图中，使用高角度与红色信号制造隐喻。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青红对比与高角度几何构图完美，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-04.json"
+    },
+    {
+      "case_id": "Aix0153-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以高角度与红色信号作为主结构，采用青红对比的构图秩序，把个体等待与城市规则转译成环境叙事。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "青红对比与高角度几何特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-05.json"
+    },
+    {
+      "case_id": "Aix0153-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个青色十字路口场景保留高角度与红色信号与高角度几何的视觉张力，避免文字和多余装饰。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0153-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，青红对比与高角度几何清晰，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0153-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0114",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0114.md",
+  "samples": [
+    {
+      "case_id": "Aix0114-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在无窗地下室中，一个人物以清晰轮廓面对黑发烟雾与红月，保持深蓝黑底，表现遮蔽面孔与窥视恐惧。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-01.json"
+    },
+    {
+      "case_id": "Aix0114-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与黑发烟雾与红月形成强烈的方向或尺度关系，留出负空间，延续单一红点。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-02.json"
+    },
+    {
+      "case_id": "Aix0114-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧面具被黑发烟雾与红月重新组织成异常视觉核心，背景保持简洁并表达遮蔽面孔与窥视恐惧。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容高度契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-03.json"
+    },
+    {
+      "case_id": "Aix0114-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：红色指示灯作为孤立日常物件置于无窗地下室的构图中，使用黑发烟雾与红月制造隐喻。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-04.json"
+    },
+    {
+      "case_id": "Aix0114-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以黑发烟雾与红月作为主结构，采用深蓝黑底的构图秩序，把遮蔽面孔与窥视恐惧转译成环境叙事。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-05.png",
+      "style_score": 5,
+      "content_score": 4,
+      "notes": "风格特征完美契合，但手部手指结构略显僵硬融合，存在轻微解剖瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-05.json"
+    },
+    {
+      "case_id": "Aix0114-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个无窗地下室场景保留黑发烟雾与红月与单一红点的视觉张力，避免文字和多余装饰。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "image_path": "results/0.6.0/images/Aix0114-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容特征完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0114-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

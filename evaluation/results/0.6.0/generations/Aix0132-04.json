@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：窗帘作为孤立日常物件置于狭小出租屋的构图中，使用红室与蓝窗光制造隐喻。\n必须保留：红蓝冲突；封闭室内\n视觉风格：表现主义数字厚涂，形体略扭曲但动作和空间关系可读。；红色主调与蓝色窗口阴影互相挤压，黑色作为结构线。；低矮坐姿被墙面和窗框包围，形成封闭矩形空间。；窗外冷光与室内红光对撞，避免多余光源。；粗刷痕、干裂边缘和厚重颗粒增强心理重量。\n画幅比例：2:3\n避免出现：平滑商业插画；明亮欢快色彩；乱码文字与伪文字",
+  "image_sha256": "f25b60dcb921899da1b00ba109e596eefa72593ee7db6212b1a13481477f96cb",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 47.4
+  }
+}

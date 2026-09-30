@@ -1,0 +1,37 @@
+{
+  "created": 1790653009,
+  "usage": {
+    "completion_tokens": 1584,
+    "completion_tokens_details": {
+      "image_tokens": 1584,
+      "reasoning_tokens": 0,
+      "text_tokens": 0
+    },
+    "estimated": true,
+    "input_tokens": 110,
+    "input_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 0,
+      "text_tokens": 110
+    },
+    "output_tokens": 1584,
+    "output_tokens_details": {
+      "image_tokens": 1584,
+      "reasoning_tokens": 0,
+      "text_tokens": 0
+    },
+    "prompt_tokens": 110,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "image_tokens": 0,
+      "text_tokens": 110
+    },
+    "total_tokens": 1694
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个空白舞台场景保留多首烟雾头部与白黑冷调的视觉张力，避免文字和多余装饰。\n必须保留：深蓝烟雾；白黑冷调\n视觉风格：水彩式数字晕染与概括形体结合，烟雾边缘柔软但轮廓仍可读。；白与深蓝黑形成低彩度对照，局部冷灰用于分层。；人物居中、头部向上膨胀，顶部重量压住下方稳定姿态。；柔光包住人物，烟雾内部以深浅层次制造隐约体积。；半透明水彩叠染、细颗粒和轻微纸面雾感。\n画幅比例：2:3\n避免出现：可爱卡通表情；硬朗金属写实；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/9057ca530c5985ba7bca2c4e20aa703b.png"
+    }
+  ]
+}

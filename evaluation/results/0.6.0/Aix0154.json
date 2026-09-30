@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0154",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0154.md",
+  "samples": [
+    {
+      "case_id": "Aix0154-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在灰黑高楼街口中，一个人物以清晰轮廓面对红日与城市分镜，保持红黑灰，表现城市秩序与末日焦虑。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑灰配色与分镜切割完美呈现，漫画色块与颗粒质感符合风格，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-01.json"
+    },
+    {
+      "case_id": "Aix0154-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与红日与城市分镜形成强烈的方向或尺度关系，留出负空间，延续分镜切割。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑灰配色与分镜切割完美呈现，剪影清晰，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-02.json"
+    },
+    {
+      "case_id": "Aix0154-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：旧路牌被红日与城市分镜重新组织成异常视觉核心，背景保持简洁并表达城市秩序与末日焦虑。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容完美契合，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-03.json"
+    },
+    {
+      "case_id": "Aix0154-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：窗框作为孤立日常物件置于灰黑高楼街口的构图中，使用红日与城市分镜制造隐喻。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑灰配色与分镜切割完美呈现，窗框与城市隐喻表达准确，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-04.json"
+    },
+    {
+      "case_id": "Aix0154-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以红日与城市分镜作为主结构，采用红黑灰的构图秩序，把城市秩序与末日焦虑转译成环境叙事。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑灰配色与分镜切割完美呈现，硬边剪影与颗粒质感符合风格，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-05.json"
+    },
+    {
+      "case_id": "Aix0154-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个灰黑高楼街口场景保留红日与城市分镜与分镜切割的视觉张力，避免文字和多余装饰。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0154-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "红黑灰配色与分镜切割完美呈现，无乱码及结构瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0154-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

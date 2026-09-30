@@ -1,0 +1,24 @@
+{
+  "created": 1790663988,
+  "usage": {
+    "input_tokens": 201,
+    "output_tokens": 1584,
+    "total_tokens": 1785,
+    "input_tokens_details": {
+      "text_tokens": 201,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在双色空旷街道中，一个人物以清晰轮廓面对蓝橙分界与伞影，保持蓝橙二分，表现行走者跨越两个世界。\n必须保留：蓝橙二分；黑色完整剪影\n视觉风格：极简平涂配轻微纹理，伞和人物保持完整黑色轮廓。；左侧冷蓝与右侧暖橙形成明确的二分色场。；垂直或斜向分界线切开画面，行走者横跨边界成为唯一动势。；两侧光照保持平面一致，不加入写实光影过渡。；细颗粒、纸张噪点和轻微套印错位。\n画幅比例：2:3\n避免出现：渐变混色背景；复杂道路细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/439371a4999a453c7fc8cb9690ee0bbc.png"
+    }
+  ]
+}

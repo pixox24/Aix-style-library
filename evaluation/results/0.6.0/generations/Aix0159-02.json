@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与深绿门框与两人形成强烈的方向或尺度关系，留出负空间，延续矩形框中框。\n必须保留：深绿留白；矩形框中框\n视觉风格：复古矢量平涂，人物形体简化，门框结构清楚而不复制现成标识。；深绿大面积底色配有限暖色人物和米白边框。；门框形成稳定矩形，双人物在同一框内形成微妙距离。；均匀站台平光，强调图形关系而非写实灯光。；轻微套印颗粒、旧纸纹理和简洁海报边缘。\n画幅比例：2:3\n避免出现：真实城市标牌文字；拥挤人群；乱码文字与伪文字",
+  "image_sha256": "5fe646f0b70422cb7e5bc415660528b21090a8b7ab892e12015f85971bb1140b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 33.3
+  }
+}

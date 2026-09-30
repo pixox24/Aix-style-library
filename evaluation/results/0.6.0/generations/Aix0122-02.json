@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与头顶倒置风暴形成强烈的方向或尺度关系，留出负空间，延续倒置白色风暴。\n必须保留：蓝绿海天；倒置白色风暴\n视觉风格：写实与超现实数字绘画混合，云体边缘柔软、人物轮廓简化。；蓝绿环境、白色云体和黑色人物形成冷色层次。；人物位于下方，风暴垂直连接天空，形成天地贯通的长轴。；海天漫射光与云体高亮并置，避免多彩霓虹。；云雾软纹理、海面细波与轻微颗粒空气感。\n画幅比例：2:3\n避免出现：灾难电影式爆炸；过度写实人物细节；乱码文字与伪文字",
+  "image_sha256": "08d628be2afb9d324df9875ce7322e7f33d1d6e8bbb554c31a0f5997d27a8c8f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 33.1
+  }
+}

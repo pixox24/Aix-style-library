@@ -1,0 +1,24 @@
+{
+  "created": 1790653301,
+  "usage": {
+    "input_tokens": 204,
+    "output_tokens": 1584,
+    "total_tokens": 1788,
+    "input_tokens_details": {
+      "text_tokens": 204,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：侧身或背影人物与黑发烟雾与红月形成强烈的方向或尺度关系，留出负空间，延续单一红点。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/d8d1b7baa1863a1b11f046123a1c15f2.png"
+    }
+  ]
+}

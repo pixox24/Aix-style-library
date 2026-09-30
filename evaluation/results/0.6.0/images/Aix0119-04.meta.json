@@ -1,0 +1,24 @@
+{
+  "created": 1790654557,
+  "usage": {
+    "input_tokens": 214,
+    "output_tokens": 1584,
+    "total_tokens": 1798,
+    "input_tokens_details": {
+      "text_tokens": 214,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：黑色茶杯作为孤立日常物件置于灰绿书房的构图中，使用黑白旋涡与藏眼制造隐喻。\n必须保留：黑白旋涡；灰绿压低饱和\n视觉风格：数字油画笔触与概括轮廓结合，漩涡方向清晰而非随机涂抹。；灰绿环境压低饱和度，黑白漩涡作为局部高对比核心。；手托下巴的静态姿态与向内卷入的圆形动势形成反差。；柔和侧光只照出漩涡层次，不制造戏剧性写实反光。；厚重油画刷痕、粗颗粒和局部干笔擦痕。\n画幅比例：2:3\n避免出现：平滑商业矢量；艳丽多色背景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/16f0563b6767a8a97dfc6bcce66d4de2.png"
+    }
+  ]
+}

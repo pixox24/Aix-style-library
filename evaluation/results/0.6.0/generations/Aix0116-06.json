@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个清晨空房场景保留向上烟雾头发与柔和上升流体的视觉张力，避免文字和多余装饰。\n必须保留：淡蓝留白；柔和上升流体\n视觉风格：柔边数字绘画与细线轮廓结合，烟发呈流体而非写实头发。；淡蓝、灰白和黑色构成低饱和单色关系。；侧脸置于下方，烟发沿垂直方向升腾并形成轻盈负空间。；均匀冷光，烟雾边缘用渐变而非强烈高光。；细腻雾化、少量颗粒和纸面留白。\n画幅比例：2:3\n避免出现：高饱和霓虹；硬朗机械质感；乱码文字与伪文字",
+  "image_sha256": "26cf6aafe845b7a7d5678e206ff7d176157e6d7c7ca042cd50b2d6b5ecd4cbd0",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 49.9
+  }
+}

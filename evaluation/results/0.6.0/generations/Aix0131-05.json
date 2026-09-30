@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以屏幕头部与火焰作为主结构，采用蓝红黄高饱和的构图秩序，把冷机器与热烈燃烧转译成环境叙事。\n必须保留：蓝红黄高饱和；方屏与火焰\n视觉风格：波普式硬边数字插画，屏幕和火焰用概括几何形而非写实材质。；冷蓝背景对红衣与白黄火焰，形成三组高饱和焦点。；方形屏幕的稳定几何与火焰向上动势形成冷暖结构冲突。；屏幕自发亮但不使用复杂反射，火焰以色块表达热度。；干净色面加轻微印刷颗粒，避免金属塑料质感。\n画幅比例：2:3\n避免出现：真实电子产品广告；烟雾遮满主体；乱码文字与伪文字",
+  "image_sha256": "4e565b67433c74bdbbd8e2a2cee98d92a954a4c2c4bf1435d62d62b8f288f430",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 36.7
+  }
+}

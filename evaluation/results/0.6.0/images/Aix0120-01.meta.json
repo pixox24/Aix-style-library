@@ -1,0 +1,24 @@
+{
+  "created": 1790654678,
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 1584,
+    "total_tokens": 1782,
+    "input_tokens_details": {
+      "text_tokens": 198,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在空旷灰色车站中，一个人物以清晰轮廓面对烟雾黑球离首，保持全灰度，表现肉身稳定与意识脱离。\n必须保留：全灰度；垂直升腾\n视觉风格：柔和数字绘画，形体边缘轻微融化但人物姿态仍清楚。；黑白灰单色阶，依靠明度而非色相变化建立层次。；下方实体与上方脱离形体形成连续的垂直升腾路径。；低对比漫射光，亮部只用于托住烟雾边缘。；细腻雾化、柔颗粒和少量铅灰画布纹理。\n画幅比例：2:3\n避免出现：鲜艳彩色焦点；硬边信息图风；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/1a2b2799e938dbc07263c940c3d2450f.png"
+    }
+  ]
+}

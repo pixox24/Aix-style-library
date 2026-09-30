@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：红色指示灯作为孤立日常物件置于无窗地下室的构图中，使用黑发烟雾与红月制造隐喻。\n必须保留：深蓝黑底；单一红点\n视觉风格：暗色数字厚涂结合粗颗粒，人物边缘清晰、烟雾边缘松散。；深蓝黑占主导，仅用一枚高饱和红色焦点打破暗面。；面部遮挡与中央小焦点形成压缩式垂直构图。；低照度漫射光，红色符号像唯一微光但不产生写实霓虹。；胶片噪点、烟雾擦痕与深色画布颗粒。\n画幅比例：2:3\n避免出现：明亮商业灯光；可读标语和装饰字；血腥伤口",
+  "image_sha256": "fb2be185302dd47a1b362fff1b40f3e1ff9257ee10af67b515a94dd76fd08c62",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 56.5
+  }
+}

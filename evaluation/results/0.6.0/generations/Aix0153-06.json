@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个青色十字路口场景保留高角度与红色信号与高角度几何的视觉张力，避免文字和多余装饰。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+  "image_sha256": "337fa2eef7a21f35fa9f15f7d50f79ec400512c8258711be95690112618e73f5",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 45.6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：钢笔被深红室内与孤灯重新组织成异常视觉核心，背景保持简洁并表达专注动作与压抑环境。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+  "image_sha256": "977d8913f19cb566bbb3b3841955cdf7a5f82830b20f60e9bcceb8002639fce8",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 44.4
+  }
+}

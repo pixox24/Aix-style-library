@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：红色路灯被黑白高楼与红色天空重新组织成异常视觉核心，背景保持简洁并表达城市压迫与个人逃离。\n必须保留：黑白骨架；单一红色焦点\n视觉风格：硬边矢量与漫画阴影结合，建筑和人物以强剪影概括。；黑白为骨架，红色只承担天空或关键焦点。；垂直高楼压迫画面，行人以小尺度位于底部形成孤独比例。；平面强光与黑色块面，不使用复杂霓虹或写实反射。；轻微印刷颗粒、粗线边缘和旧海报质感。\n画幅比例：2:3\n避免出现：复制现成电影标志；多色霓虹；乱码文字与伪文字",
+  "image_sha256": "7fe0a0d7460bdc85f538b011e8344400bd34920ad1f3ab8b5b6c1c591dcbef57",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 38.2
+  }
+}

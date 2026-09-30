@@ -1,0 +1,44 @@
+{
+  "api_version": "1.0",
+  "operation": "prepare",
+  "status": "ok",
+  "code": "OK",
+  "message": "命令成功。",
+  "data": {
+    "stage": "prepared",
+    "style_id": "Aix0129",
+    "style_name": "黑玫绷带",
+    "style_version": "1.0.0",
+    "thumbnail_path": "styles/Aix0129/thumbnail.webp",
+    "target": "generic-text-v1",
+    "mode": "generate",
+    "strength": "balanced",
+    "final_prompt": "画面内容：黑色花瓶被黑玫瑰与白色包扎重新组织成异常视觉核心，背景保持简洁并表达死亡象征与生命飞出。\n必须保留：黑白主调；蝴蝶轻盈动势\n视觉风格：细腻数字厚涂，花瓣、布带和翅膀边缘柔和但主体层次清楚。；黑色与白色构成主关系，只用极少冷灰或暗红调节。；人物被花丛包围，白色布带和蝴蝶形成向外的轻盈动势。；暗背景中以柔和侧光托出白布与翅膀，不使用强烈舞台光。；丝绒暗面、花瓣细节和轻微胶片颗粒。\n画幅比例：2:3\n避免出现：鲜艳花园色；血腥伤口细节；乱码文字与伪文字",
+    "negative_prompt": null,
+    "requested_parameters": {
+      "aspect_ratio": "2:3"
+    },
+    "tool_parameters": {},
+    "applied_feature_ids": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05"
+    ],
+    "omitted_features": [],
+    "omitted_avoid": [],
+    "provenance": {
+      "style_id": "Aix0129",
+      "style_version": "1.0.0",
+      "library_version": "0.6.0",
+      "content_hash": "dcbe6806387a6833eaccdeb1e18a3cc80de4d7ac78c717b713df49c97fae6138"
+    }
+  },
+  "warnings": [],
+  "meta": {
+    "library_version": "0.6.0",
+    "execution_mode": "script",
+    "elapsed_ms": 1
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0133",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0133.md",
+  "samples": [
+    {
+      "case_id": "Aix0133-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在空白蓝色机房中，一个人物以清晰轮廓面对方块头部向上解体，保持蓝白黑，表现实体身体与数字消散。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征与内容要求均完美呈现，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-01.json"
+    },
+    {
+      "case_id": "Aix0133-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与方块头部向上解体形成强烈的方向或尺度关系，留出负空间，延续由密到疏的方块。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-02.json"
+    },
+    {
+      "case_id": "Aix0133-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：像素收音机被方块头部向上解体重新组织成异常视觉核心，背景保持简洁并表达实体身体与数字消散。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-03.json"
+    },
+    {
+      "case_id": "Aix0133-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：方形积木作为孤立日常物件置于空白蓝色机房的构图中，使用方块头部向上解体制造隐喻。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，三色克制，方块由密到疏消散，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-04.json"
+    },
+    {
+      "case_id": "Aix0133-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以方块头部向上解体作为主结构，采用蓝白黑的构图秩序，把实体身体与数字消散转译成环境叙事。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "蓝白黑三色克制，方块由密到疏向上消散，硬边平涂干净，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-05.json"
+    },
+    {
+      "case_id": "Aix0133-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个空白蓝色机房场景保留方块头部向上解体与由密到疏的方块的视觉张力，避免文字和多余装饰。\n必须保留：蓝白黑；由密到疏的方块\n视觉风格：硬边几何平涂，像素块大小有节奏而非随机噪点。；冷蓝背景、白色留光和黑色衣物构成克制三色关系。；实体人物向上分解，方块路径从密到疏，形成明确消散方向。；均匀平光，靠色块边界和密度变化建立层次。；干净数字表面，局部加入低强度屏幕颗粒。\n画幅比例：2:3\n避免出现：液体写实变形；复杂摄影背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0133-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，蓝白黑三色克制，方块由密到疏向上分解，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0133-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

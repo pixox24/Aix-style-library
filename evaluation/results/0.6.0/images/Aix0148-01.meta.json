@@ -1,0 +1,24 @@
+{
+  "created": 1790661756,
+  "usage": {
+    "input_tokens": 197,
+    "output_tokens": 1584,
+    "total_tokens": 1781,
+    "input_tokens_details": {
+      "text_tokens": 197,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在深蓝城市屋顶中，一个人物以清晰轮廓面对屋顶与远城灯火，保持深蓝留白，表现个体守望与城市疏离。\n必须保留：深蓝留白；少量暖黄窗灯\n视觉风格：扁平叙事插画，建筑简化成层叠剪影和几何窗格。；深蓝与蓝黑为环境，暖黄窗灯作为少量节奏点。；屋顶横线承托人物，远景城市向下展开并保留大面积天空。；夜间平光，窗灯只做小色块，不模拟真实城市光污染。；轻微颗粒、干净色面和少量窗格纹理。\n画幅比例：2:3\n避免出现：写实城市摄影；密集车辆细节；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/439490338a2bca74f7ebc30a1fb5607b.png"
+    }
+  ]
+}

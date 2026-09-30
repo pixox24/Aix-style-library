@@ -1,0 +1,24 @@
+{
+  "created": 1790660452,
+  "usage": {
+    "input_tokens": 189,
+    "output_tokens": 1584,
+    "total_tokens": 1773,
+    "input_tokens_details": {
+      "text_tokens": 189,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：空椅子作为孤立日常物件置于深蓝小剧场的构图中，使用圆形青色聚光制造隐喻。\n必须保留：深蓝青光；圆形切割\n视觉风格：矢量几何平涂，圆形光场边缘利落，主体概括清楚。；深蓝底、青色光场和白灰主体形成低彩度冷调。；圆形光场切割矩形空间，人物位于中心但显得微小。；单一聚光，无多余光源或复杂舞台设备。；平滑色面配轻微颗粒，保持图标般清洁。\n画幅比例：2:3\n避免出现：戏剧性烟雾堆积；复杂舞台布景；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/b4fe12f3169f3c18a88f02ef0604ac83.png"
+    }
+  ]
+}

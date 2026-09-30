@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以绿色对角光束作为主结构，采用黑绿对比的构图秩序，把窥视与孤独转译成环境叙事。\n必须保留：黑绿对比；强对角线\n视觉风格：漫画式硬边线条与平涂色块，构图像一格被截取的电影分镜。；黑色背景、亮绿光线和少量红褐服色形成三点配色。；对角光束切开矩形窗景，人物被放在光与暗的边界。；单一斜向光源，亮部锐利，不加入复杂摄影光晕。；细线稿、轻颗粒和局部纸张纹理。\n画幅比例：2:3\n避免出现：大量对白文字；柔焦浪漫摄影；乱码文字与伪文字",
+  "image_sha256": "327118e5244a7658e73be0ba807297da8d250c260270afaf67fd3a4d010c8da4",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 58.9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：悬空衣架作为孤立日常物件置于黑色空房的构图中，使用垂直白束与悬挂形体制造隐喻。\n必须保留：黑白二色；垂直留白\n视觉风格：极简硬边图形，中心形体只保留必要轮廓，不追求写实材质。；黑白二色形成最高明度对比，避免额外颜色。；垂直光束切出长条负空间，抽象中心形体位于中心偏下。；单一顶光，光束边缘清晰并保留大片黑暗。；平滑黑面与极少颗粒，突出空旷。\n画幅比例：2:3\n避免出现：真实痛苦或伤害；复杂道具背景；乱码文字与伪文字",
+  "image_sha256": "549ff8bf0261531d573743cfa23e9512ee560b0ebaa66ce681d56b1c1f1b367b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 30.8
+  }
+}

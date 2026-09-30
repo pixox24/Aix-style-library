@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：在黑色档案室中，一个人物以清晰轮廓面对青色光束与悬浮碎片，保持青色光柱，表现记忆展示与无声审讯。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+  "image_sha256": "c2b27e547e2a7d702ed0075c36cf6aca72d917299e869eca683f323fdf4c85c7",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 35.9
+  }
+}

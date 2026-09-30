@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0115",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0115.md",
+  "samples": [
+    {
+      "case_id": "Aix0115-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在深绿摄影棚中，一个人物以清晰轮廓面对横向金绿流体，保持金绿横带，表现静止身份与流动遮挡。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，必须保留元素完整，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-01.json"
+    },
+    {
+      "case_id": "Aix0115-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与横向金绿流体形成强烈的方向或尺度关系，留出负空间，延续侧脸轮廓。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-02.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完整，色彩、构图与质感均符合要求，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-02.json"
+    },
+    {
+      "case_id": "Aix0115-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑胶唱片被横向金绿流体重新组织成异常视觉核心，背景保持简洁并表达静止身份与流动遮挡。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征稳定，内容完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-03.json"
+    },
+    {
+      "case_id": "Aix0115-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：绿色玻璃瓶作为孤立日常物件置于深绿摄影棚的构图中，使用横向金绿流体制造隐喻。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-04.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，金绿横带与侧脸轮廓完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-04.json"
+    },
+    {
+      "case_id": "Aix0115-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以横向金绿流体作为主结构，采用金绿横带的构图秩序，把静止身份与流动遮挡转译成环境叙事。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征完美呈现，横带切过侧脸，无瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-05.json"
+    },
+    {
+      "case_id": "Aix0115-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个深绿摄影棚场景保留横向金绿流体与侧脸轮廓的视觉张力，避免文字和多余装饰。\n必须保留：金绿横带；侧脸轮廓\n视觉风格：流畅曲线与硬边平涂并置，流体边缘简洁有控制。；深绿与黑构成冷暗底色，金黄和酸绿只作为横向高光。；横向带状结构切过垂直侧脸，形成明确的方向冲突。；平面光为主，流体内部仅有少量明度变化。；丝带表面平滑，背景带细微印刷颗粒以避免塑料感。\n画幅比例：2:3\n避免出现：多层写实液体；暖色杂乱背景；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0115-06.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "核心特征稳定，金绿横带与侧脸轮廓完整，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0115-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

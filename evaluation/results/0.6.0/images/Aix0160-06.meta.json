@@ -1,0 +1,24 @@
+{
+  "created": 1790665544,
+  "usage": {
+    "input_tokens": 196,
+    "output_tokens": 1584,
+    "total_tokens": 1780,
+    "input_tokens_details": {
+      "text_tokens": 196,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：一个黑色电影街区场景保留黑白高楼与红色天空与单一红色焦点的视觉张力，避免文字和多余装饰。\n必须保留：黑白骨架；单一红色焦点\n视觉风格：硬边矢量与漫画阴影结合，建筑和人物以强剪影概括。；黑白为骨架，红色只承担天空或关键焦点。；垂直高楼压迫画面，行人以小尺度位于底部形成孤独比例。；平面强光与黑色块面，不使用复杂霓虹或写实反射。；轻微印刷颗粒、粗线边缘和旧海报质感。\n画幅比例：2:3\n避免出现：复制现成电影标志；多色霓虹；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/058ecd762fc9c73716405cc1f01fb11b.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：旧路牌被红日与城市分镜重新组织成异常视觉核心，背景保持简洁并表达城市秩序与末日焦虑。\n必须保留：红黑灰；分镜切割\n视觉风格：硬边漫画色块，建筑和人物采用清晰剪影，不堆积写实细节。；灰黑基底上只保留红色天空或太阳作为视觉主色。；分镜框或建筑切面形成多段视线，侧脸作为局部叙事锚点。；平面暮光，无复杂云层和摄影渐变。；粗糙纸面、套印颗粒和少量墨线。\n画幅比例：2:3\n避免出现：完整对白气泡；多彩卡通装饰；乱码文字与伪文字",
+  "image_sha256": "c870927629a817857f3af247ba9e56e585d13a2d800c40df0ed5c78ba5d78b76",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 140.9
+  }
+}

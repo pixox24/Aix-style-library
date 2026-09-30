@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与黑白无限几何形成强烈的方向或尺度关系，留出负空间，延续完整回环。\n必须保留：黑白单色；完整回环\n视觉风格：硬边几何与精确曲线构成清晰符号，避免照片式材质。；纯黑、纯白与中性灰三层分明，不引入额外彩色。；中心托举结构与环形内部负空间形成稳定对称和视觉闭环。；均匀平光，依靠明度和遮挡关系表现几何层次。；干净数字表面，边缘锐利，局部保留细微印刷颗粒。\n画幅比例：2:3\n避免出现：复杂多彩渐变；真实金属反光；乱码文字与伪文字",
+  "image_sha256": "58c23b140d2956e810da67e9d899c55a4973c6988a58adfa00edf4ec84990f41",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 35.0
+  }
+}

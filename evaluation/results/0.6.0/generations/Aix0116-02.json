@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：侧身或背影人物与向上烟雾头发形成强烈的方向或尺度关系，留出负空间，延续柔和上升流体。\n必须保留：淡蓝留白；柔和上升流体\n视觉风格：柔边数字绘画与细线轮廓结合，烟发呈流体而非写实头发。；淡蓝、灰白和黑色构成低饱和单色关系。；侧脸置于下方，烟发沿垂直方向升腾并形成轻盈负空间。；均匀冷光，烟雾边缘用渐变而非强烈高光。；细腻雾化、少量颗粒和纸面留白。\n画幅比例：2:3\n避免出现：高饱和霓虹；硬朗机械质感；乱码文字与伪文字",
+  "image_sha256": "1439d613c3393b58c20a6bfaa766ce4d8d3bf2b61d4d3053e65aa4d169575c8b",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 27.7
+  }
+}

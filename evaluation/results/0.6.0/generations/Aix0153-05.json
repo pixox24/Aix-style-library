@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：远景以高角度与红色信号作为主结构，采用青红对比的构图秩序，把个体等待与城市规则转译成环境叙事。\n必须保留：青红对比；高角度几何\n视觉风格：扁平插画与简化透视结合，路灯和人物边缘清晰。；青色环境与红色信号形成单一互补焦点，黑色用于人物。；高角度视线把人物压缩成小尺度，信号灯位于明确的几何节点。；均匀平光，避免真实夜景炫光。；干净色块和轻微纸面颗粒。\n画幅比例：2:3\n避免出现：真实交通标志文字；复杂车流；乱码文字与伪文字",
+  "image_sha256": "e6f660b6267da63bab95fa52412d7b2c0820d9f6a1c7dabfee6ea4de5775427f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 39.0
+  }
+}

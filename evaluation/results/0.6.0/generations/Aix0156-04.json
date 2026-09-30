@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：行李箱作为孤立日常物件置于双色空旷街道的构图中，使用蓝橙分界与伞影制造隐喻。\n必须保留：蓝橙二分；黑色完整剪影\n视觉风格：极简平涂配轻微纹理，伞和人物保持完整黑色轮廓。；左侧冷蓝与右侧暖橙形成明确的二分色场。；垂直或斜向分界线切开画面，行走者横跨边界成为唯一动势。；两侧光照保持平面一致，不加入写实光影过渡。；细颗粒、纸张噪点和轻微套印错位。\n画幅比例：2:3\n避免出现：渐变混色背景；复杂道路细节；乱码文字与伪文字",
+  "image_sha256": "89be1bf8ef08a145b767211fa74eb827575a512724d56b23c16d6e67b45c432f",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 40.0
+  }
+}

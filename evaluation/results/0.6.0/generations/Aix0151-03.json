@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：红灯笼被房屋与红灯倒影重新组织成异常视觉核心，背景保持简洁并表达静水与孤独旅人。\n必须保留：青绿与一点红；水平对称\n视觉风格：细腻数字绘画与概括建筑结合，水面反射柔和但不摄影化。；青绿色环境配少量红色灯笼作为唯一暖色焦点。；水平水线建立上下对称，人物位于岸边作为尺度锚点。；低照度夜光与灯笼暖光并置，整体保持安静。；水面细波、柔颗粒和轻微旧画布质感。\n画幅比例：2:3\n避免出现：可读招牌文字；喧闹街景；乱码文字与伪文字",
+  "image_sha256": "bba64526ed0a9416bb610117cf5a99cb3ad49ceacf248cb5626abcfed6b73b85",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 34.1
+  }
+}

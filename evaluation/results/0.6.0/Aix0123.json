@@ -1,0 +1,74 @@
+{
+  "style_id": "Aix0123",
+  "style_version": "1.0.0",
+  "tested_tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "tested_at": "2026-09-29",
+  "reviewer": "Aix automated vision review (qwen3.7-plus, single reviewer)",
+  "review_mode": "self_blind",
+  "evidence_type": "image_model",
+  "rights_record": "rights/Aix0123.md",
+  "samples": [
+    {
+      "case_id": "Aix0123-01",
+      "subject_category": "人物",
+      "prompt": "画面内容：在空白展厅中，一个人物以清晰轮廓面对捧持黑洞与同心圆，保持灰黑白，表现拥抱虚无与隐藏自我。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-01.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格与内容均完美符合要求，无明显瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-01.json"
+    },
+    {
+      "case_id": "Aix0123-02",
+      "subject_category": "人物",
+      "prompt": "画面内容：侧身或背影人物与捧持黑洞与同心圆形成强烈的方向或尺度关系，留出负空间，延续圆形中心。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-02.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "缺失头部遮挡形成的矩形负形特征，其余风格与内容符合。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-02.json"
+    },
+    {
+      "case_id": "Aix0123-03",
+      "subject_category": "物体",
+      "prompt": "画面内容：黑色石球被捧持黑洞与同心圆重新组织成异常视觉核心，背景保持简洁并表达拥抱虚无与隐藏自我。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-03.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完美呈现，几何边缘干净，灰黑白分层明确，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-03.json"
+    },
+    {
+      "case_id": "Aix0123-04",
+      "subject_category": "物体",
+      "prompt": "画面内容：无字相框作为孤立日常物件置于空白展厅的构图中，使用捧持黑洞与同心圆制造隐喻。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-04.png",
+      "style_score": 4,
+      "content_score": 4,
+      "notes": "手部边缘不够干净；未呈现孤立的无字相框物件。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-04.json"
+    },
+    {
+      "case_id": "Aix0123-05",
+      "subject_category": "场景",
+      "prompt": "画面内容：远景以捧持黑洞与同心圆作为主结构，采用灰黑白的构图秩序，把拥抱虚无与隐藏自我转译成环境叙事。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-05.png",
+      "style_score": 5,
+      "content_score": 5,
+      "notes": "风格特征完整，灰黑白极简平涂与颗粒感表现良好，无可见瑕疵。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-05.json"
+    },
+    {
+      "case_id": "Aix0123-06",
+      "subject_category": "场景",
+      "prompt": "画面内容：一个空白展厅场景保留捧持黑洞与同心圆与圆形中心的视觉张力，避免文字和多余装饰。\n必须保留：灰黑白；圆形中心\n视觉风格：极简平涂与轻颗粒结合，几何边缘必须干净。；灰、黑、白三色分层，中心黑洞拥有最高对比。；双手围绕圆形核心，头部遮挡形成第二个矩形负形。；均匀平光，依靠圆形层级与黑白关系塑造空间。；细微纸面颗粒和套印感，不加入写实材质。\n画幅比例：2:3\n避免出现：复杂多色背景；写实人物表情；乱码文字与伪文字",
+      "image_path": "results/0.6.0/images/Aix0123-06.png",
+      "style_score": 4,
+      "content_score": 5,
+      "notes": "头部未形成矩形负形，手部偏写实，与极简平涂要求略有偏差。",
+      "generation_ref": "results/0.6.0/generations/Aix0123-06.json"
+    }
+  ],
+  "versatility_score": 5,
+  "limitations": "自动化单评审：由视觉模型按打乱顺序对真实生成样张逐张评分，非独立人工复核；覆盖每风格 6 张（人物/物体/场景各 2），不等于正式 v1.0 的全库视觉验收结论。"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "style_id": "Aix0111",
+    "case": "01",
+    "reason": "change2pro returned HTTP 400 upstream_text_reply for the original wording; the equivalent non-injurious visual intent was retained.",
+    "old_description": "在黑色展厅中，一个人物以清晰轮廓面对头部碎片与悬浮球体，保持米白侧脸，表现外在平静与内在爆发。",
+    "new_description": "在黑色展厅中，一个人物以清晰轮廓面对头部展开的几何群与悬浮球体，保持米白侧脸，表现外在平静与内在能量。",
+    "old_prompt_sha256": "c906bb142596d6013219a7e9c15597b1bccc999e85a878f28883ea06c0db882c",
+    "new_prompt_sha256": "ae728a25b217f19ae1cb3ca7e4a7c9035076491c520f2b9f1eae01badf838cbb"
+  },
+  {
+    "style_id": "Aix0146",
+    "case": "01",
+    "reason": "change2pro returned HTTP 400 twice for the original wording; replaced potentially sensitive hanging/interrogation wording with an abstract center-form equivalent while preserving the black-white beam and negative-space concept.",
+    "old_description": "在黑色空房中，一个人物以清晰轮廓面对垂直白束与悬挂形体，保持黑白二色，表现孤立与未解审讯。",
+    "new_description": "在黑色空房中，一个人物以清晰轮廓面对垂直白束与居中的抽象形体，保持黑白二色，表现孤立与未解问题。",
+    "old_prompt_sha256": "2238fe642cfd28f4740c999ad6058a7bcefc07a7b160360d59f2bcc04c0d60f2",
+    "new_prompt_sha256": "5432d94998274e31177819ec58605ea892448c62b4fd6b9600097f9162f09569"
+  },
+  {
+    "style_id": "Aix0146",
+    "case": "02",
+    "reason": "change2pro returned HTTP 400 twice for the original wording; replaced potentially sensitive hanging/interrogation wording with an abstract center-form equivalent while preserving the black-white beam and negative-space concept.",
+    "old_description": "侧身或背影人物与垂直白束与悬挂形体形成强烈的方向或尺度关系，留出负空间，延续垂直留白。",
+    "new_description": "侧身或背影人物与垂直白束和居中的抽象形体形成强烈方向或尺度关系，留出负空间，延续垂直留白。",
+    "old_prompt_sha256": "6bd5627c9c38ca9b08af487daa72424431e0f386baab99a8a9ccfa622c4715f9",
+    "new_prompt_sha256": "96edda189ba0d67cb253a8ead344aa297940cb56a92b7712f9fa351012af7ac7"
+  },
+  {
+    "style_id": "Aix0146",
+    "case": "05",
+    "reason": "change2pro returned HTTP 400 twice for the original wording; replaced potentially sensitive hanging/interrogation wording with an abstract center-form equivalent while preserving the black-white beam and negative-space concept.",
+    "old_description": "远景以垂直白束与悬挂形体作为主结构，采用黑白二色的构图秩序，把孤立与未解审讯转译成环境叙事。",
+    "new_description": "远景以垂直白束与居中的抽象形体作为主结构，采用黑白二色的构图秩序，把孤立与未解问题转译成环境叙事。",
+    "old_prompt_sha256": "27664fa959025149939487586b7f86fab9659cbb4d370ca027abf4084043211f",
+    "new_prompt_sha256": "71845d52812953c03e2a98e9485ac28b5b9eaa843d6113fca67709410d537d2e"
+  },
+  {
+    "style_id": "Aix0146",
+    "case": "06",
+    "reason": "change2pro returned HTTP 400 twice for the original wording; replaced potentially sensitive hanging/interrogation wording with an abstract center-form equivalent while preserving the black-white beam and negative-space concept.",
+    "old_description": "一个黑色空房场景保留垂直白束与悬挂形体与垂直留白的视觉张力，避免文字和多余装饰。",
+    "new_description": "一个黑色空房场景保留垂直白束与居中的抽象形体和垂直留白的视觉张力，避免文字和多余装饰。",
+    "old_prompt_sha256": "60c9338630df25890aa81ec25daa188b1e18038d0749b1e5cf5431ee3ed43b98",
+    "new_prompt_sha256": "2556f2b657bf0318db5a4f29dac3c7fd03da115763dc1f7e4b505d3897c87f64"
+  }
+]

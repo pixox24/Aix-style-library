@@ -1,0 +1,13 @@
+{
+  "status": "generated",
+  "tool": "gpt-image-2 via change2pro OpenAI-compatible Images API",
+  "prompt": "画面内容：一个黑色档案室场景保留青色光束与悬浮碎片与无字碎片的视觉张力，避免文字和多余装饰。\n必须保留：青色光柱；无字碎片\n视觉风格：概念海报式硬边图形，漂浮物简化为无文字的照片形块。；黑蓝暗底配青色光柱和白灰碎片，色彩克制。；人物位于光束中心，碎片围绕形成纵向证据场。；单一体积光束配柔和光晕，避免多色霓虹。；轻颗粒、半透明边缘和少量纸片阴影。\n画幅比例：2:3\n避免出现：可读照片文字；杂乱拼贴排版；乱码文字与伪文字",
+  "image_sha256": "91f087adb250629ca01396078560c195b594ca636df90126b1f956bf74669268",
+  "parameters": {
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "n": 1,
+    "endpoint": "/v1/images/generations",
+    "seconds": 31.3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "created": 1790656170,
+  "usage": {
+    "input_tokens": 200,
+    "output_tokens": 1584,
+    "total_tokens": 1784,
+    "input_tokens_details": {
+      "text_tokens": 200,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在深夜工作室中，一个人物以清晰轮廓面对深红室内与孤灯，保持深红底色，表现专注动作与压抑环境。\n必须保留：深红底色；单一暖光\n视觉风格：粗犷手绘数字厚涂，人物和家具用概括笔触，不追求摄影写实。；深红背景、黑褐暗部和暖黄色光源形成强烈局部对比。；台灯光圈集中在桌面，四周暗部包围单一动作中心。；单一暖光源切出手和纸面，避免多色光污染。；粗刷痕、厚薄交错和轻微颗粒保留手工感。\n画幅比例：2:3\n避免出现：洁白商业室内；多光源炫技；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/e18a1c4e7985b1f4d54ce9fba89d9bf9.png"
+    }
+  ]
+}

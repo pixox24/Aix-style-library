@@ -1,0 +1,24 @@
+{
+  "created": 1790660912,
+  "usage": {
+    "input_tokens": 198,
+    "output_tokens": 1584,
+    "total_tokens": 1782,
+    "input_tokens_details": {
+      "text_tokens": 198,
+      "image_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1584,
+      "reasoning_tokens": 0
+    }
+  },
+  "data": [
+    {
+      "revised_prompt": "画面内容：在深夜街角酒吧中，一个人物以清晰轮廓面对红霓虹与青蓝雨幕，保持青蓝红互补，表现城市喧闹与个人等待。\n必须保留：青蓝红互补；湿地反射\n视觉风格：数字绘画结合简化硬边，保留湿地反光但不走摄影写实。；冷青蓝环境与单一暖红霓虹形成互补焦点。；街道透视把视线引向红色吧台或窗口，人物置于等待位置。；红色招牌提供唯一暖光，冷色雨幕包围主体。；湿润反射、细雨颗粒和柔和刷痕。\n画幅比例：2:3\n避免出现：过多招牌文字；均匀彩色霓虹；乱码文字与伪文字",
+      "url": "https://pub-7a07c360b3a5426f8956ca54629e5f7a.r2.dev/gateway/65415e3efa26626507485043f10c5747.png"
+    }
+  ]
+}
