@@ -10,6 +10,8 @@
 
 **0.6.0 Preview** · **160 个风格** · **960 张样例** · **5 类视觉语言**
 
+**授权：CLI 与协议采用 MIT；风格数据采用 CC BY 4.0；图片以各风格授权记录为准。** 详见 [授权边界](skill/aix-style-library/LICENSE.md) 与 [各风格权利记录](evaluation/rights/)。代码许可不自动覆盖图片资源。
+
 [开始使用](#quick-start) · [浏览风格](#gallery) · [样例证据](#examples) · [可靠性](#reliability) · [维护文档](#docs)
 
 </div>
